@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.token
+*.secret
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.tmp/
+tmp/

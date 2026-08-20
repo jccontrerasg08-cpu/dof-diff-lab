@@ -1,0 +1,38 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796617&fecha=18/08/2026",
+      "code": "5796617",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "3adb83e7007be46131ac345f5710f0272105cc5748a11afc3ea17504b14b32bd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 39- 45-58 hectáreas del ejido \"Tomás Aznar Barbachano\", municipio de Calakmul, estado de Campeche, a favor de Tren Maya, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 39- 45-58 hectáreas del ejido \"Tomás Aznar Barbachano\", municipio de Calakmul, estado de Campeche, a favor de Tren Maya, S.A. de C.V."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=18",
+    "name": "DOF official index",
+    "publication_date": "2026-08-18"
+  }
+}

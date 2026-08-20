@@ -1,0 +1,123 @@
+name: Monitor diario del DOF
+
+on:
+  workflow_dispatch:
+    inputs:
+      publication_date:
+        description: Fecha de publicación a recuperar, con formato AAAA-MM-DD.
+        required: false
+        type: string
+  schedule:
+    - cron: "17 16 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dof-monitor-publication
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    outputs:
+      publication_date: ${{ steps.context.outputs.publication_date }}
+    steps:
+      - name: Recuperar repositorio
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Determinar fecha de publicación
+        id: context
+        shell: bash
+        env:
+          PUBLICATION_DATE: ${{ inputs.publication_date }}
+        run: |
+          publication_date="${PUBLICATION_DATE:-$(date -u +%F)}"
+          if ! [[ "$publication_date" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] || ! date -u -d "$publication_date" +%F >/dev/null; then
+            echo "La fecha debe tener formato ISO AAAA-MM-DD y ser válida." >&2
+            exit 2
+          fi
+          printf 'publication_date=%s\n' "$publication_date" >> "$GITHUB_OUTPUT"
+
+      - name: Capturar y catalogar el DOF
+        run: |
+          python3 -m dof_diff_lab.monitor \
+            --date "${{ steps.context.outputs.publication_date }}" \
+            --root .
+
+      - name: Conservar derivados verificados de la corrida
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: dof-monitor-${{ steps.context.outputs.publication_date }}-${{ github.run_id }}
+          path: |
+            data/normalized/
+            data/manifests/
+            data/diffs/
+            data/state/
+            site/
+          if-no-files-found: error
+          retention-days: 30
+
+  publish:
+    needs: capture
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Recuperar repositorio
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Recuperar derivados verificados
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        with:
+          name: dof-monitor-${{ needs.capture.outputs.publication_date }}-${{ github.run_id }}
+          path: .
+
+      - name: Publicar artefactos versionados cuando cambien
+        shell: bash
+        run: |
+          if git diff --quiet -- data site; then
+            echo "El catálogo normalizado no cambió; no se crea un commit."
+            exit 0
+          fi
+          git config user.name "dof-monitor[bot]"
+          git config user.email "dof-monitor[bot]@users.noreply.github.com"
+          git add data site
+          git commit -m "data: monitor DOF ${{ needs.capture.outputs.publication_date }}"
+          git push
+
+  deploy:
+    needs: [capture, publish]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Recuperar derivados verificados
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        with:
+          name: dof-monitor-${{ needs.capture.outputs.publication_date }}-${{ github.run_id }}
+          path: .
+
+      - name: Configurar publicación estática
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
+        with:
+          enablement: true
+
+      - name: Subir sitio estático
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
+        with:
+          path: site
+
+      - name: Desplegar sitio en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e

@@ -1,0 +1,29 @@
+name: Check
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065
+        with:
+          python-version: "3.12"
+      - name: Detectar credenciales rastreadas
+        run: |
+          if git grep -nE '(ghp_[A-Za-z0-9]{36}|github_pat_[A-Za-z0-9_]{20,}|AKIA[0-9A-Z]{16}|-----BEGIN [A-Z ]*PRIVATE KEY-----)' -- ':!tests/**' ':!.github/**'; then
+            echo "Se detectó una credencial potencialmente rastreada." >&2
+            exit 1
+          fi
+      - run: sudo apt-get update && sudo apt-get install --yes poppler-utils ocrmypdf tesseract-ocr-spa
+      - run: |
+          python3 tests/check_cli.py
+          python3 tests/check_monitor.py
+          python3 tests/check_monitor_workflow.py
+          python3 tests/check_public_readiness.py
