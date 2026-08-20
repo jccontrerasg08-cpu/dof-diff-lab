@@ -1,6 +1,6 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-08-19T08:19:57+00:00",
+  "generated_at": "2026-08-20T00:12:40+00:00",
   "insights": {
     "by_document_type": {
       "decreto": 1
@@ -23,7 +23,7 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=18",
     "raw_retained": false,
-    "raw_sha256": "26b04571eba4ea37a18d7cb51f699e3c3d7365322ae8a0dbc356f08bef316d57",
+    "raw_sha256": "1971c6fca22e5a647168a8d68bad1061669cf7b0fb8d9784e75b83374529b5cb",
     "raw_size": 49354
   },
   "status": "no_change"
