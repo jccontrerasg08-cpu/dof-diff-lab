@@ -27,7 +27,7 @@ jobs:
       publication_date: ${{ steps.context.outputs.publication_date }}
     steps:
       - name: Recuperar repositorio
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Determinar fecha de publicación
         id: context
@@ -49,7 +49,7 @@ jobs:
             --root .
 
       - name: Conservar derivados verificados de la corrida
-        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
         with:
           name: dof-monitor-${{ steps.context.outputs.publication_date }}-${{ github.run_id }}
           path: |
@@ -69,10 +69,10 @@ jobs:
       contents: write
     steps:
       - name: Recuperar repositorio
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Recuperar derivados verificados
-        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c
         with:
           name: dof-monitor-${{ needs.capture.outputs.publication_date }}-${{ github.run_id }}
           path: .
@@ -103,21 +103,21 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Recuperar derivados verificados
-        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c
         with:
           name: dof-monitor-${{ needs.capture.outputs.publication_date }}-${{ github.run_id }}
           path: .
 
       - name: Configurar publicación estática
-        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d
         with:
           enablement: true
 
       - name: Subir sitio estático
-        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9
         with:
           path: site
 
       - name: Desplegar sitio en GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128

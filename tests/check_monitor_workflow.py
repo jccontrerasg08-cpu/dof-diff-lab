@@ -38,6 +38,16 @@ def main() -> None:
     assert refs and all(re.fullmatch(r"[0-9a-f]{40}", ref) for ref in refs), refs
 
     check_text = CHECK_WORKFLOW.read_text(encoding="utf-8")
+    for action_commit in (
+        "3d3c42e5aac5ba805825da76410c181273ba90b1",
+        "5fda3b95a4ea91299a34e894583c3862153e4b97",
+        "043fb46d1a93c77aae656e7c1c64a875d1fc6a0a",
+        "3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c",
+        "45bfe0192ca1faeb007ade9deae92b16b8254a0d",
+        "fc324d3547104276b827a68afc52ff2a11cc49c9",
+        "cd2ce8fcbc39b97be8ca5fce6e763baed58fa128",
+    ):
+        assert action_commit in text or action_commit in check_text, action_commit
     for command in (
         "python3 tests/check_cli.py",
         "python3 tests/check_monitor.py",
