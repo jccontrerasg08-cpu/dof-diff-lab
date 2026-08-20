@@ -1,0 +1,586 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796697&fecha=20/08/2026",
+      "code": "5796697",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "7a67ecaa4d38162bb9cbb9040da463757ab1d99051c8dec877998ab4b016dd83",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 326,930.902 m² (trescientos veintiséis mil novecientos treinta punto novecientos dos metros cuadrados), correspondientes a 112 (ciento doce) inmuebles de propiedad privada, en los municipios de Querétaro en el estado de Querétaro; Apaseo el Grande, Celaya, Villagrán, Santa Cruz de Juventino Rosas, Salamanca e Irapuato en el estado de Guanajuato.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 326,930.902 m² (trescientos veintiséis mil novecientos treinta punto novecientos dos metros cuadrados), correspondientes a 112 (ciento doce) inmuebles de propiedad privada, en los municipios de Querétaro en el estado de Querétaro; Apaseo el Grande, Celaya, Villagrán, Santa Cruz de Juventino Rosas, Salamanca e Irapuato en el estado de Guanajuato."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796699&fecha=20/08/2026",
+      "code": "5796699",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "d938233f48f4a3e6c16dc9ef23342b5a1298df721cb44616b408a143c023310e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Ministerio Internacional Jerusalén, A.R., denominada Ministerio Jerusalén Casa de Oración La Piedad.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Ministerio Internacional Jerusalén, A.R., denominada Ministerio Jerusalén Casa de Oración La Piedad."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796700&fecha=20/08/2026",
+      "code": "5796700",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "01fff78c1f5ebb835dd5eef838d8b7845d268b657b1051f8caebd24c1a5ea7e2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Juan Carlos Morales Estrada y firmantes de la agrupación denominada Comunidad Cristiana Pan de Vida Ensenada.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Juan Carlos Morales Estrada y firmantes de la agrupación denominada Comunidad Cristiana Pan de Vida Ensenada."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796701&fecha=20/08/2026",
+      "code": "5796701",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "a9f79cb59f70b5f74a55a53fe0d76f89751f22828532b59731491d9f887d6462",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó Mariano Geovanni Martínez y firmantes de la agrupación denominada Iglesia La Voz de Dios en las Calles.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó Mariano Geovanni Martínez y firmantes de la agrupación denominada Iglesia La Voz de Dios en las Calles."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796703&fecha=20/08/2026",
+      "code": "5796703",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "c1880d5ea429d7b02df4fd2f6e887b5d4feb3e66ebfcc5081a38794cf064d1f6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo Secretarial Núm. 199/2026 por el que se crea el Sector Naval de Paredón con sede en Paredón, Estado de Chiapas y se establece la organización de las sedes de Mandos Superiores en Jefe Operacionales, Mandos Superiores y Mandos Subordinados de Fuerzas, Regiones, Zonas y Sectores Navales de la Armada de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo Secretarial Núm. 199/2026 por el que se crea el Sector Naval de Paredón con sede en Paredón, Estado de Chiapas y se establece la organización de las sedes de Mandos Superiores en Jefe Operacionales, Mandos Superiores y Mandos Subordinados de Fuerzas, Regiones, Zonas y Sectores Navales de la Armada de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796705&fecha=20/08/2026",
+      "code": "5796705",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "a3ca67d24af2adf5a9740b4837a89e2110dbf8ddc5cbe1d1e272a444b993c378",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Específico de Coordinación en relación al Programa denominado Senderos Seguros, que celebran la Secretaría de Bienestar, la Secretaría de Infraestructura, Comunicaciones y Transportes, el Estado de México y los municipios de Chalco, Chicoloapan, Chimalhuacán, Ecatepec de Morelos, Ixtapaluca, La Paz, Nezahualcóyotl, Texcoco, Tlalnepantla de Baz y Valle de Chalco Solidaridad.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Específico de Coordinación en relación al Programa denominado Senderos Seguros, que celebran la Secretaría de Bienestar, la Secretaría de Infraestructura, Comunicaciones y Transportes, el Estado de México y los municipios de Chalco, Chicoloapan, Chimalhuacán, Ecatepec de Morelos, Ixtapaluca, La Paz, Nezahualcóyotl, Texcoco, Tlalnepantla de Baz y Valle de Chalco Solidaridad.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Segundo Convenio Específico de Coordinación en relación al Programa denominado Senderos Seguros, que celebran la Secretaría de Bienestar, la Secretaría de Infraestructura, Comunicaciones y Transportes, el Estado de México y los municipios de Chalco, Chicoloapan, Chimalhuacán, Ecatepec de Morelos, Ixtapaluca, La Paz, Nezahualcóyotl, Texcoco, Tlalnepantla de Baz y Valle de Chalco Solidaridad."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796707&fecha=20/08/2026",
+      "code": "5796707",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "20a65926dc3dfab679e516928442b7f859dbddfeaa9a12bb140bb0084bb13160",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Transmareli, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Transmareli, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796708&fecha=20/08/2026",
+      "code": "5796708",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "48e64192a690fdf402e66a91c85a854417f7630b78480d3deb632743fcfc3451",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, así como a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, el cumplimiento a la sentencia definitiva de diez de marzo de dos mil veinticinco, dictada en el juicio contencioso administrativo 16636/24-17- 05-4, promovido por el C. Rodrigo Vidal Aguilar, en representación legal de la empresa Industrias Danjur, S.A. de C.V., en la cual la Quinta Sala Regional Metropolitana del Tribunal Federal de Justicia Administrativa declaró la nulidad lisa y llana de la resolución de diecisiete de junio de dos mil veinticuatro, dictada por el titular del Área de Responsabilidades del entonces Órgano Interno de Control Específico en Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), en el procedimiento administrativo de sanción número PA/0002/2023."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796710&fecha=20/08/2026",
+      "code": "5796710",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "5ed92fa0d09455ddcdbc1b91960e5bc4b956fc1727959b58941d03860fefaf7c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Jalisco."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796711&fecha=20/08/2026",
+      "code": "5796711",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "508638f508e41ff5b33d9799ed5f58afb34109770fe90b910d48469c1b276611",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796712&fecha=20/08/2026",
+      "code": "5796712",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "d6778b36e1fae3a125e730280e2d8e79447f3ce7beedc30c0eb42bd69db8e1ee",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Michoacán de Ocampo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796713&fecha=20/08/2026",
+      "code": "5796713",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "5fea45c50869d528c94a568cbcd3ea71b472a79907a246a66e8731c8fbcb452d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso referente a la venta de la Farmacopea de los Estados Unidos Mexicanos 14.0, en sus versiones electrónica e impresa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso referente a la venta de la Farmacopea de los Estados Unidos Mexicanos 14.0, en sus versiones electrónica e impresa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796715&fecha=20/08/2026",
+      "code": "5796715",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "e238b0fff878a0bdce5fdbe87c48f524aa91373dc031567e8c3852df836ff2cc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Mexicali, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Mexicali, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796716&fecha=20/08/2026",
+      "code": "5796716",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "237353ca0e2848f53ae804bb165588862c1644b56581cfc07092ba41529805aa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de San Quintín, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de San Quintín, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796717&fecha=20/08/2026",
+      "code": "5796717",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "179e09710bd4a0e99b254bf6e08bafb70b05de2674cb8a79f7905685a68c1b81",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Tijuana, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Baja California, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Tijuana, Baja California, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796718&fecha=20/08/2026",
+      "code": "5796718",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "15c4f13b7495ec0daabeedf7bafe2c1d8c37c352ded8e30bfabc4635da8ece53",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Palenque, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Palenque, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796720&fecha=20/08/2026",
+      "code": "5796720",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "1f6db795c2819d3034b8840276b916f5a188302bb1180854bbdc90eddcd8e483",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 271/2025, así como los Votos Particular de la señora Ministra María Estela Ríos González y Concurrente del señor Ministro Irving Espinosa Betanzo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 271/2025, así como los Votos Particular de la señora Ministra María Estela Ríos González y Concurrente del señor Ministro Irving Espinosa Betanzo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796722&fecha=20/08/2026",
+      "code": "5796722",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "5d0367c246202eb5cdfcc29029b180bbf5e4a5631a042ff4529048ebfd45b0e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796723&fecha=20/08/2026",
+      "code": "5796723",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a5b3d36e09d1305ee6b725195cf87f50d3c3cd2122a668e23bfa163abee3e7a5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796724&fecha=20/08/2026",
+      "code": "5796724",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "6afbd374cb3e2ad37f4fe3a048909d3e5c97f9f25f5c460c340b448bb96f320f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796727&fecha=20/08/2026",
+      "code": "5796727",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "5954014f3deafe0dc7497b76be829acc2c09f8ab102e8fbf36828e4eb143e65f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que, en atención a la solicitud formulada por el Instituto Estatal Electoral y de Participación Ciudadana de Sonora, se modifica el tiempo asignado en radio y televisión a dicho Instituto correspondiente al tercer trimestre de dos mil veintiséis, determinado en el similar INE/CG239/2026, en virtud de la difusión de la consulta previa, libre, informada y culturalmente adecuada a los pueblos y comunidades indígenas del Estado de Sonora.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que, en atención a la solicitud formulada por el Instituto Estatal Electoral y de Participación Ciudadana de Sonora, se modifica el tiempo asignado en radio y televisión a dicho Instituto correspondiente al tercer trimestre de dos mil veintiséis, determinado en el similar INE/CG239/2026, en virtud de la difusión de la consulta previa, libre, informada y culturalmente adecuada a los pueblos y comunidades indígenas del Estado de Sonora."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=20",
+    "name": "DOF official index",
+    "publication_date": "2026-08-20"
+  }
+}

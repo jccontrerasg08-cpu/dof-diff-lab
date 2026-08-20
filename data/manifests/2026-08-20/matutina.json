@@ -1,0 +1,47 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-08-20T16:53:13+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 2,
+      "aviso": 4,
+      "circular": 2,
+      "convenio": 7,
+      "decreto": 1,
+      "otro": 4,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE LAS MUJERES": 4,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DE SALUD": 4,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 4,
+      "other": 16
+    }
+  },
+  "normalized_path": "data/normalized/2026-08-20/matutina.json",
+  "normalized_sha256": "a52e64e051e5843c043b00dcb15d68251ac0cf3394e64b6a8453a8feddde1a4c",
+  "note_count": 21,
+  "parser_version": "1.0",
+  "publication_date": "2026-08-20",
+  "schema_version": "1.0",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=20",
+    "raw_retained": false,
+    "raw_sha256": "7aaaeb4ca39159c66b33129c0b9ceb169660e61969ae44754c5b81a094580ce2",
+    "raw_size": 86895
+  },
+  "status": "changed"
+}
