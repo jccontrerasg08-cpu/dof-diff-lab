@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-08-21T16:53:42+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 6,
+      "circular": 1,
+      "convenio": 3,
+      "decreto": 1,
+      "otro": 4
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CONSEJO DE SALUBRIDAD GENERAL": 2,
+      "CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION": 1,
+      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE SALUD": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 3,
+      "other": 14
+    }
+  },
+  "normalized_path": "data/normalized/2026-08-21/matutina.json",
+  "normalized_sha256": "e924cd3eb78fc1ca55c32a5e3a6018d953dad689e5253d7a218096586e65324e",
+  "note_count": 18,
+  "parser_version": "1.0",
+  "publication_date": "2026-08-21",
+  "schema_version": "1.0",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=21",
+    "raw_retained": false,
+    "raw_sha256": "e35c669565762c6ec79e70bbd810d6b6ed735a775c6f31f8e89613fb3fef78a6",
+    "raw_size": 81380
+  },
+  "status": "changed"
+}

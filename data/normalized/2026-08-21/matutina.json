@@ -1,0 +1,497 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796817&fecha=21/08/2026",
+      "code": "5796817",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "ea9e4d426f24844f2128630637916150e100637cd3a1fbf7b12b743b5e7fded2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 326,930.902 m² (trescientos veintiséis mil novecientos treinta punto novecientos dos metros cuadrados), correspondientes a 112 (ciento doce) inmuebles de propiedad privada, en los municipios de Querétaro en el estado de Querétaro; Apaseo el Grande, Celaya, Villagrán, Santa Cruz de Juventino Rosas, Salamanca e Irapuato en el estado de Guanajuato (Segunda publicación).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 326,930.902 m² (trescientos veintiséis mil novecientos treinta punto novecientos dos metros cuadrados), correspondientes a 112 (ciento doce) inmuebles de propiedad privada, en los municipios de Querétaro en el estado de Querétaro; Apaseo el Grande, Celaya, Villagrán, Santa Cruz de Juventino Rosas, Salamanca e Irapuato en el estado de Guanajuato (Segunda publicación)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796819&fecha=21/08/2026",
+      "code": "5796819",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "0c96b9e994cc6e59f5d45bb22da54fccfa8709f50c1495630f3270082f648589",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José del Carmen González González y firmantes de la agrupación denominada Centro Cristiano Puerta del Cielo Macuspana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José del Carmen González González y firmantes de la agrupación denominada Centro Cristiano Puerta del Cielo Macuspana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796820&fecha=21/08/2026",
+      "code": "5796820",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "966b22481cb585ed478b87a6ed0b80d959e6cccc79c0b8d48630acdc23ca0de9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Rasiel Pineda Hernández y firmantes de la agrupación denominada Iglesia Apostólica Jesucristo El Verdadero Dios.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Rasiel Pineda Hernández y firmantes de la agrupación denominada Iglesia Apostólica Jesucristo El Verdadero Dios."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796821&fecha=21/08/2026",
+      "code": "5796821",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "3300ff47e634ad2e0a928c04dba7316deb91b66afb5e5974aad44c034c36b2d9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Placido Murillo Llamas y firmantes de la agrupación denominada Iglesia de Dios en Cristo Jesús de Tecate.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Placido Murillo Llamas y firmantes de la agrupación denominada Iglesia de Dios en Cristo Jesús de Tecate."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796823&fecha=21/08/2026",
+      "code": "5796823",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "960f6b9782df75e84890a987d01d0261cc0d7f90539fd631e36d93f522dccf32",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que el Juzgado Octavo de Distrito en Materia Administrativa en la Ciudad de México, dentro del incidente de suspensión deducido del juicio de amparo indirecto número 1591/2026, promovido por la empresa Intman, S.A. de C.V., por conducto de su representante legal, el ciudadano John Lorenzo Días Salas, mediante acuerdo de treinta y uno de julio de dos mil veintiséis, concedió la suspensión provisional del acto reclamado, para el efecto de que el Titular del Área de Responsabilidades del Órgano Interno de Control en la Secretaría de la Defensa Nacional, cancele el registro de la quejosa en el Padrón de Proveedores y Contratistas Sancionados, hasta en tanto se resuelve de fondo el referido juicio de amparo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que el Juzgado Octavo de Distrito en Materia Administrativa en la Ciudad de México, dentro del incidente de suspensión deducido del juicio de amparo indirecto número 1591/2026, promovido por la empresa Intman, S.A. de C.V., por conducto de su representante legal, el ciudadano John Lorenzo Días Salas, mediante acuerdo de treinta y uno de julio de dos mil veintiséis, concedió la suspensión provisional del acto reclamado, para el efecto de que el Titular del Área de Responsabilidades del Órgano Interno de Control en la Secretaría de la Defensa Nacional, cancele el registro de la quejosa en el Padrón de Proveedores y Contratistas Sancionados, hasta en tanto se resuelve de fondo el referido juicio de amparo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796825&fecha=21/08/2026",
+      "code": "5796825",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "338d36a3be5f666b1b3b5d49bc73005523cdcd70d4084a340e6aef21141db9fa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "sanitarias",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Acuerdo por el que se determinan los aditivos y coadyuvantes en alimentos, bebidas y suplementos alimenticios, su uso y disposiciones sanitarias."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796826&fecha=21/08/2026",
+      "code": "5796826",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "d7b8dba655bc41ce05cfb319725491a4d9c89931a30da5b1a271af2b0df789b0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Acuerdo por el que se emiten los Lineamientos para la obtención del Folio de Registro en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Nota Aclaratoria al Acuerdo por el que se emiten los Lineamientos para la obtención del Folio de Registro en el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796828&fecha=21/08/2026",
+      "code": "5796828",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "470c084f22090002201a1bc07a35f3cc22dcfa649d0c15274ede34b627a10ec1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se dan a conocer las direcciones electrónicas en las que se podrá consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se dan a conocer las direcciones electrónicas en las que se podrá consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796830&fecha=21/08/2026",
+      "code": "5796830",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "5588bfe054241e51b7c93db2ab4812a858da768eb12952bc0c15e60b736bd763",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia Tapachula, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia Tapachula, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796831&fecha=21/08/2026",
+      "code": "5796831",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "0ae77b642f0b35791a0a00b90c2ac909539b86c5aa66a0430c10c71fb6e3da39",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Tuxtla, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Tuxtla, Chiapas, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796832&fecha=21/08/2026",
+      "code": "5796832",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "bc1353667423293b69f84c1628463a3694311fc4b20c111cabd766a931dee31b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Coahuila de Zaragoza, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Acuña, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Coahuila de Zaragoza, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Acuña, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796834&fecha=21/08/2026",
+      "code": "5796834",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "CONSEJO DE SALUBRIDAD GENERAL",
+      "record_sha256": "1fbeb207d5258ecaba85f69fc0f0f7fa9981063c4a93e3bed3a37ef761937ff4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las ligas electrónicas para consulta de los Protocolos Nacionales de Atención Médica que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las ligas electrónicas para consulta de los Protocolos Nacionales de Atención Médica que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796835&fecha=21/08/2026",
+      "code": "5796835",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "CONSEJO DE SALUBRIDAD GENERAL",
+      "record_sha256": "24f83abd47fa9edc73f9f6ed688203b7cba33ab20e5221405bed261105bb2c99",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Aviso por el que se emite el Manual del Modelo de Certificación y Estandarización de Buenas Prácticas en Atención de Servicios de Salud para Unidades de Diagnóstico y Tratamiento."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796837&fecha=21/08/2026",
+      "code": "5796837",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION",
+      "record_sha256": "a352d8564b4eac70184abbb52433c1edd6dc58494c7fc114ec9215cffe5566ed",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se da a conocer la reforma del Reglamento de la Asamblea Consultiva del Consejo Nacional para Prevenir la Discriminación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer la reforma del Reglamento de la Asamblea Consultiva del Consejo Nacional para Prevenir la Discriminación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796839&fecha=21/08/2026",
+      "code": "5796839",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "d45b29af88d600308a74afd2085f5f8d4b4ddaca17b2b041db805ffceb23e1ca",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo ACDO.AS2.HCT.290626/177.P.DPES, mediante el cual se autoriza como inhábiles los días 23 y 24 de febrero de 2026, en los esquemas de prestación indirecta del servicio de cuidado infantil de los Órganos de Operación Administrativa Desconcentrada que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo ACDO.AS2.HCT.290626/177.P.DPES, mediante el cual se autoriza como inhábiles los días 23 y 24 de febrero de 2026, en los esquemas de prestación indirecta del servicio de cuidado infantil de los Órganos de Operación Administrativa Desconcentrada que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796841&fecha=21/08/2026",
+      "code": "5796841",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3505798a28aa9d678c6229b118566703053598eeda890008c6f961daba4171d8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796842&fecha=21/08/2026",
+      "code": "5796842",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "43139f4402d41d9baebd0a668ee5d75b9709102bf9162e13be7e22555f63a44a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796843&fecha=21/08/2026",
+      "code": "5796843",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "426de63afe6d6cded72f573bc2328a2de5e9cba68300b8fdff88c734731163e3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=21",
+    "name": "DOF official index",
+    "publication_date": "2026-08-21"
+  }
+}
