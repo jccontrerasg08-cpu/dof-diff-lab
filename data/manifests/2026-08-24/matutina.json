@@ -1,0 +1,48 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-08-24T16:57:27+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 3,
+      "circular": 1,
+      "convenio": 5,
+      "otro": 4,
+      "resolucion": 1,
+      "sentencia": 2
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CONSEJO DE SALUBRIDAD GENERAL": 1,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 2,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE SALUD": 2,
+      "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL SUPERIOR AGRARIO": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 3,
+      "other": 15
+    }
+  },
+  "normalized_path": "data/normalized/2026-08-24/matutina.json",
+  "normalized_sha256": "0e48b315f22fa9741d52b4ff97f29f1d0054ad7e0fb46058a784a2e7b7644271",
+  "note_count": 19,
+  "parser_version": "1.0",
+  "publication_date": "2026-08-24",
+  "schema_version": "1.0",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=24",
+    "raw_retained": false,
+    "raw_sha256": "6322d1d9ca45be42e447fc3ab91676348753301d86e119e3f1f1e80d70e92fad",
+    "raw_size": 83178
+  },
+  "status": "changed"
+}

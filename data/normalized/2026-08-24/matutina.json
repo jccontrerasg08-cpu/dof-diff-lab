@@ -1,0 +1,532 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796937&fecha=24/08/2026",
+      "code": "5796937",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "10a38ff9a3fe344aa83dfd17c139fe2fce2e7d382cdf43a4a7da510db0952863",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José Manuel Arias Zapata y firmantes de la agrupación denominada Casa de Oración Sembradores de Fe Sanidad para las Naciones.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José Manuel Arias Zapata y firmantes de la agrupación denominada Casa de Oración Sembradores de Fe Sanidad para las Naciones."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796938&fecha=24/08/2026",
+      "code": "5796938",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "52810766fd59e74d8d69fb53060b34b2587be97ef24bfdfa85fe8fdda39f6262",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Luis Domínguez Noriega y firmantes de la agrupación denominada Ministerios Torre Fuerte.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Luis Domínguez Noriega y firmantes de la agrupación denominada Ministerios Torre Fuerte."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796939&fecha=24/08/2026",
+      "code": "5796939",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "7ad5d1d7074ac24b9b5c96ec6287f11cb6e15d81ec89951e0693c767aab8a1c2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Ignacio Vázquez Padilla y firmantes de la agrupación denominada Torre Fuerte Proverbios 18:10.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Ignacio Vázquez Padilla y firmantes de la agrupación denominada Torre Fuerte Proverbios 18:10."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796941&fecha=24/08/2026",
+      "code": "5796941",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "53b1d82ea11adc6d75f311f5e18ebe236e57f732381695d60b1854831b2a8acc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la persona moral denominada Limpieza Géminis, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la persona moral denominada Limpieza Géminis, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796943&fecha=24/08/2026",
+      "code": "5796943",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "fdd20e1f934904750b900c25c253b8414f22d39d6d43dc5a44d848280b0e5cc2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Nayarit."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796944&fecha=24/08/2026",
+      "code": "5796944",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "3a37aa025848abb4d49c9a5de04bb75fb4f98bfdf153536697b383c14389fd38",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Nuevo León."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796946&fecha=24/08/2026",
+      "code": "5796946",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "6183b7141bd80002a911de43fab883a52c6ac62e56bb09b43d2d2e0cdd52a1b6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Coahuila de Zaragoza, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Torreón, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Coahuila de Zaragoza, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Torreón, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796947&fecha=24/08/2026",
+      "code": "5796947",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "dc5ff7b21435e7c3632c1a0e36e3cbc655bdac1f4df1dcd12ffebd87b57db72d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Colima, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Colima, Colima, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Colima, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Colima, Colima, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796948&fecha=24/08/2026",
+      "code": "5796948",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "56ec3cb4ee25c44e4cb222a745c5785707ca9ea30dd5abbae2be312fcb06d514",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guerrero, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia para Mujeres de Chilpancingo, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guerrero, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia para Mujeres de Chilpancingo, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796950&fecha=24/08/2026",
+      "code": "5796950",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "CONSEJO DE SALUBRIDAD GENERAL",
+      "record_sha256": "2394e8372b777e4bef548de898a04d2e30a98f94a264e2d33b1dfedc9fb36466",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Acuerdo por el que se establece la obligatoriedad de la implementación de los Protocolos Nacionales de Atención Médica relacionados con el Síndrome cardio- renal-metabólico en las instituciones públicas que prestan servicios de salud."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796952&fecha=24/08/2026",
+      "code": "5796952",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA",
+      "record_sha256": "b43ea0da89b7c85f68030b2f8789ba602c2117072f789cca0306629beb7c246e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establece la segunda etapa de acciones de simplificación para trámites que se realizan ante el Sistema Nacional para el Desarrollo Integral de la Familia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establece la segunda etapa de acciones de simplificación para trámites que se realizan ante el Sistema Nacional para el Desarrollo Integral de la Familia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796954&fecha=24/08/2026",
+      "code": "5796954",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "c144bc321dc6c063543ae2c072f9f29f54fe890ee0caf8476f07f60eaa058394",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 284/2024, así como el Voto Concurrente del señor Ministro Arístides Rodrigo Guerrero García.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 284/2024, así como el Voto Concurrente del señor Ministro Arístides Rodrigo Guerrero García."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796956&fecha=24/08/2026",
+      "code": "5796956",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "7e5b43fcc8bedaa96e2e59cd229cc49f2c664c67e3a9fd017f3dc4520d5fa24d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796957&fecha=24/08/2026",
+      "code": "5796957",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0a0b0096188dbdf3838ffb752f58e0f1c535727effb3175d26a31467902e4846",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796958&fecha=24/08/2026",
+      "code": "5796958",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "8fac8722564e859c96e455dcb877fec2cb56f7717c086af0610085270ffd4df2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796960&fecha=24/08/2026",
+      "code": "5796960",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "3f196b75192e070604c0c26732170807ec74464d05f968dd638109ef277a8a16",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Índice nacional de precios al consumidor."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796962&fecha=24/08/2026",
+      "code": "5796962",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "9fed4fb4cabfb0ea41aaa608632a4a45b6f3d3b8a62f8b0230667478eb919230",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el cual se da respuesta a la consulta planteada por el Partido Acción Nacional.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el cual se da respuesta a la consulta planteada por el Partido Acción Nacional."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796963&fecha=24/08/2026",
+      "code": "5796963",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "4669e39cfe088057d18cd137e1e06dab5f11a0f816e4fdcf57f073c55183d1d0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos de la Agrupación Política Nacional denominada Movimiento por el Rescate de México, realizadas en el ejercicio de su libertad de autoorganización.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos de la Agrupación Política Nacional denominada Movimiento por el Rescate de México, realizadas en el ejercicio de su libertad de autoorganización."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796965&fecha=24/08/2026",
+      "code": "5796965",
+      "issuer_primary": "TRIBUNAL SUPERIOR AGRARIO",
+      "issuer_secondary": null,
+      "record_sha256": "9e23f14bea4875070ea06fa42d613165aa8b1e46a45477b17379fa9f19fbb367",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada en el juicio agrario 382/1997, relativo a la solicitud de dotación de tierras del poblado denominado La Chicayota Km 1116, Municipio de San Ignacio, Sin.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada en el juicio agrario 382/1997, relativo a la solicitud de dotación de tierras del poblado denominado La Chicayota Km 1116, Municipio de San Ignacio, Sin."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=24",
+    "name": "DOF official index",
+    "publication_date": "2026-08-24"
+  }
+}
