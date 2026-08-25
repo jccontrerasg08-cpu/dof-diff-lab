@@ -1,0 +1,753 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797017&fecha=25/08/2026",
+      "code": "5797017",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "d044e21568e0daac49b31f976ca1583418b35d1fee883ae3f4e1138002b103f5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Aner García García y firmantes de la agrupación denominada Tabernáculo de Avivamiento para Las Naciones en Fuego.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Aner García García y firmantes de la agrupación denominada Tabernáculo de Avivamiento para Las Naciones en Fuego."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797018&fecha=25/08/2026",
+      "code": "5797018",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "069c8748bf66448840271ebbeefd9c5cb6e810ac07c9ebc5297ff49928bc95ca",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Domingo Velasco Cruz y firmantes de la agrupación denominada Iglesia Cristiana Adonaí Palenque.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Domingo Velasco Cruz y firmantes de la agrupación denominada Iglesia Cristiana Adonaí Palenque."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797019&fecha=25/08/2026",
+      "code": "5797019",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "4e483b89c48fb2d5b9bb3f303a05afb6badbe87a1bfcfba60de2649725cdfb4b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Pascual López Arcos y firmantes de la agrupación denominada Casa de Dios Centro de Avivamiento Unitaria.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Pascual López Arcos y firmantes de la agrupación denominada Casa de Dios Centro de Avivamiento Unitaria."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797021&fecha=25/08/2026",
+      "code": "5797021",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "d740af2192c41630e260702624c54a2b5654c760bfd52804ca30ae1ccf86eb59",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer el cambio de domicilio de la Oficina de Representación de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado de Guanajuato."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797023&fecha=25/08/2026",
+      "code": "5797023",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "9f4d5b977b6ecf6a3553e965f5b747af9788a1f582edc402a215e2ec8a0e921f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797025&fecha=25/08/2026",
+      "code": "5797025",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "5089765e1cef853e724a7e2085a52e86e58527d48ec6b724d5a31b3a282a9433",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Querétaro."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797026&fecha=25/08/2026",
+      "code": "5797026",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "48f77e661d88bf719fa5bd4b6498d95aa9cbf31193053838d655053684b2a517",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Quintana Roo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797027&fecha=25/08/2026",
+      "code": "5797027",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "6ddda7f264eac39ed58cbbd276c2337045856348c38d0787a57a2a26db65f61f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de San Luis Potosí."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797028&fecha=25/08/2026",
+      "code": "5797028",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "5445d0b0069994d7d8ce08c8884deec35a9d9e17bb3c75c0c7da70c5a60763e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Sonora."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797029&fecha=25/08/2026",
+      "code": "5797029",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "b41db98d803f443cbca6deca984d95fdb986e27cdca72f40e628e5fecdcead04",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Tabasco."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797031&fecha=25/08/2026",
+      "code": "5797031",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "19390a720c30c02efe11ce829363a106eba983033cc0905f874b20295b11368b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Primer Convenio Modificatorio al Convenio de Coordinación para la instalación del Consejo de Desarrollo Metropolitano del Valle de México, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Primer Convenio Modificatorio al Convenio de Coordinación para la instalación del Consejo de Desarrollo Metropolitano del Valle de México, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Primer Convenio Modificatorio al Convenio de Coordinación para la instalación del Consejo de Desarrollo Metropolitano del Valle de México, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797032&fecha=25/08/2026",
+      "code": "5797032",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "5c22c9f3525b0a81e8e4f3fb32e2758bcdb9d004aacbb259a3b4006ee4db15ee",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Declaratoria de Modificación de la Zona Metropolitana del Valle de México, que suscriben la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Declaratoria de Modificación de la Zona Metropolitana del Valle de México, que suscriben la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Declaratoria de Modificación de la Zona Metropolitana del Valle de México, que suscriben la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Ciudad de México y los estados de México, Hidalgo y Morelos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797034&fecha=25/08/2026",
+      "code": "5797034",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CULTURA",
+      "record_sha256": "8ae4843bd9a52cc01898b4036da8626770a69f25e5b3333788c2e6f6c1326f9f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Acuerdo por el que se modifican las Reglas de Operación del Programa \"Apoyos a la Cultura\" para el ejercicio fiscal 2026, emitidas mediante diverso Acuerdo publicado el 2 de enero de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797036&fecha=25/08/2026",
+      "code": "5797036",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "06140b649d0dede29ff394bb603993f36b1ededdd8b3486b991fa1b84ea7608d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Nuevo León, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Monterrey, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Nuevo León, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Monterrey, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797037&fecha=25/08/2026",
+      "code": "5797037",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "f0ce06cd0f509a691fea017c7829327dde35ee299b05f87fdd678be0c218a0d3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Oaxaca, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Oaxaca, Oaxaca, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Oaxaca, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Oaxaca, Oaxaca, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797038&fecha=25/08/2026",
+      "code": "5797038",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "78384f2c588b6b91b19454ff800e95fed96248a79af2a9b9025ac693bd289007",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Oaxaca, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Juchitán de Zaragoza, Oaxaca, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Oaxaca, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Juchitán de Zaragoza, Oaxaca, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797040&fecha=25/08/2026",
+      "code": "5797040",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "5da91a05318cee5832319f03ee308b1bf7841297e17ff6587cc8634c1a331be6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 39/2025.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 39/2025."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797042&fecha=25/08/2026",
+      "code": "5797042",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "782e3194757684eefcc83b128496dd7637bb88b0fd0f5970d6a09ac5bb6ec2fd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "datos personales",
+          "name": "topic",
+          "rule_id": "topic.data_protection",
+          "rule_version": "1.0",
+          "value": "data_protection"
+        }
+      ],
+      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial que reforma el similar que establece las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797044&fecha=25/08/2026",
+      "code": "5797044",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "5276d724ba2c6a8835e9b8f4ae345957d64fad5328068679fb02daaaf9aaf7d4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797045&fecha=25/08/2026",
+      "code": "5797045",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4e76a26cdfef23f7e578447280254d3af2379402c15ca7b03d00fadb1810181a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797046&fecha=25/08/2026",
+      "code": "5797046",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a75f45fcab2fa6a6a8a8b97f8f5798ca6b5b51831a936cd3345e438e2df73893",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797047&fecha=25/08/2026",
+      "code": "5797047",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a1e36274c7a0b08debb1620b47a68ec64183f867d24f7d269eaa1b86443c15a8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797048&fecha=25/08/2026",
+      "code": "5797048",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "eb5e88aa3d50c734ccffc877d88085b209454973ad76527fe57624c15fbfc7e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797049&fecha=25/08/2026",
+      "code": "5797049",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4fdbb8fa11942f74cdcb51409f4d10aab9eb9c710ba2ef64d1e45e31817b5ef0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797050&fecha=25/08/2026",
+      "code": "5797050",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "633769e032e0339e2a264f4d1a923d42494aed9f044b36a8b127b937d6427169",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Valor de la unidad de inversión."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797053&fecha=25/08/2026",
+      "code": "5797053",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "4ef0d35163c3c7838e9e75d917184eed36cd1cca81c88e6774336e0170234d35",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Índice nacional de precios al consumidor."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=25",
+    "name": "DOF official index",
+    "publication_date": "2026-08-25"
+  }
+}

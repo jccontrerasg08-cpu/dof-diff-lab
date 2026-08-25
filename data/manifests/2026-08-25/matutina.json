@@ -1,0 +1,49 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-08-25T16:58:14+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 4,
+      "convenio": 8,
+      "otro": 10,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 7,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE CULTURA": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SALUD": 5,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "data_protection": 1,
+      "environment": 1,
+      "financial": 1,
+      "fiscal": 1,
+      "health": 5,
+      "other": 17
+    }
+  },
+  "normalized_path": "data/normalized/2026-08-25/matutina.json",
+  "normalized_sha256": "36fbf83881cc306f75200752e7bf2b93ca750dd6940a1ba72132bd86426d5fa4",
+  "note_count": 26,
+  "parser_version": "1.0",
+  "publication_date": "2026-08-25",
+  "schema_version": "1.0",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=25",
+    "raw_retained": false,
+    "raw_sha256": "87cb0e1bf147071d8f236733e1ddf5c54d0557e2eb070de62b59f7515f4902a4",
+    "raw_size": 93099
+  },
+  "status": "changed"
+}
