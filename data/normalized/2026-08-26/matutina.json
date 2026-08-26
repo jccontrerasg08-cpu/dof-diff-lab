@@ -1,0 +1,659 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797177&fecha=26/08/2026",
+      "code": "5797177",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "29888e8d51b1bedc583422d5ede66e75839e48a98aeaa91c44eae0779c811fae",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Estado de Jalisco, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios de la Secretaría del Sistema de Asistencia Social de dicha entidad federativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Estado de Jalisco, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios de la Secretaría del Sistema de Asistencia Social de dicha entidad federativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797178&fecha=26/08/2026",
+      "code": "5797178",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "b12f9525897bf3c87aa76803e081118ecbf02a673b60e34b64c91cb3271b8a2e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Jardiel Orlando Martínez Mazariegos y firmantes de la agrupación denominada Ministerio Internacional Ríos de Vida Sobrenatural.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Jardiel Orlando Martínez Mazariegos y firmantes de la agrupación denominada Ministerio Internacional Ríos de Vida Sobrenatural."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797179&fecha=26/08/2026",
+      "code": "5797179",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "5715a50d33525f6479844390eefea342930710ab52df01b6d5f7e6c6e7e29053",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Manuel Cruz López y firmantes de la agrupación denominada Iglesia de Dios Defensores de la Verdad.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Manuel Cruz López y firmantes de la agrupación denominada Iglesia de Dios Defensores de la Verdad."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797180&fecha=26/08/2026",
+      "code": "5797180",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "ab24534bdb86d97751981bbef11a7928bf01c1e48b54734a0338c3d6955ac527",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Irma Del Carmen Martínez Salas y firmantes de la agrupación denominada Iglesia de Dios Encuentro con la Vida.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Irma Del Carmen Martínez Salas y firmantes de la agrupación denominada Iglesia de Dios Encuentro con la Vida."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797181&fecha=26/08/2026",
+      "code": "5797181",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "27821f915bbfc5d8ae0b86429968e0deea6ba84ddf9dcd23b1e08b197ef7c05d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Francisco Feria Jiménez y firmantes de la agrupación denominada Centro Cristiano Adonaí a las Naciones.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Francisco Feria Jiménez y firmantes de la agrupación denominada Centro Cristiano Adonaí a las Naciones."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797183&fecha=26/08/2026",
+      "code": "5797183",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "5b7389e31f1d2a5791a2bcbadcbbce9b7dc1bbf6c534f47ee9dd27a5853d07d6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos Generales para el Servicio Profesional de Carrera de las Personas Integrantes de las Instituciones de Seguridad Pública.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos Generales para el Servicio Profesional de Carrera de las Personas Integrantes de las Instituciones de Seguridad Pública.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Lineamientos Generales para el Servicio Profesional de Carrera de las Personas Integrantes de las Instituciones de Seguridad Pública."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797184&fecha=26/08/2026",
+      "code": "5797184",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "a1b16e91a7c15886e35cb686fc9f3cba0cc92b41b6566f615e63a2e4678b2f28",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos Generales del Régimen Disciplinario de las Personas Integrantes de las Instituciones de Seguridad Pública.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos Generales del Régimen Disciplinario de las Personas Integrantes de las Instituciones de Seguridad Pública.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Lineamientos Generales del Régimen Disciplinario de las Personas Integrantes de las Instituciones de Seguridad Pública."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797186&fecha=26/08/2026",
+      "code": "5797186",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "a6327ed18aec03cdd30646b53eba51c88bf3fd3a7f02024b06c27c8b7cb79a4e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Listado de entidades federativas que incumplieron con la obligación prevista en el artículo 6o. de la Ley de Coordinación Fiscal.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Listado de entidades federativas que incumplieron con la obligación prevista en el artículo 6o. de la Ley de Coordinación Fiscal."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797188&fecha=26/08/2026",
+      "code": "5797188",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "0a8fc57f35fdd8e815c04e5cd60c10fd1a5d18db2eda1cc8b2a20e1bb728ff4d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Suplemento del Programa Nacional de Infraestructura de la Calidad 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Suplemento del Programa Nacional de Infraestructura de la Calidad 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Suplemento del Programa Nacional de Infraestructura de la Calidad 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797190&fecha=26/08/2026",
+      "code": "5797190",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "cf96ea85961ff8592fbe40a76bdf3776d1b1f0b2ca1a411f3572c9aa55120600",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas, y sus municipios, así como demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Galmar Proyectos Integrales, S. de R.L. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas, y sus municipios, así como demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Galmar Proyectos Integrales, S. de R.L. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797192&fecha=26/08/2026",
+      "code": "5797192",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "abe4dee26065365a40239d153aaeef08c280d6caf176cc95c87cf4230374d71d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Tamaulipas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797193&fecha=26/08/2026",
+      "code": "5797193",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "4451b85eb27a91b8863a4252e7197e48c457dd07796633ec3bdb1105dfcf49c9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de transferencia de recursos presupuestarios federales con el carácter de subsidios, para realizar acciones en materia de prevención, atención y control de la salud mental y adicciones, que celebran la Secretaría de Salud y el Estado de Tlaxcala."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797195&fecha=26/08/2026",
+      "code": "5797195",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "5d170d17efd39c28ee5e88bcd51cf0d739f22fea9b7b12f742778e17cef088d4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Plátano Chiapas\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Plátano Chiapas\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Plátano Chiapas\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797197&fecha=26/08/2026",
+      "code": "5797197",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "230ea0c51866a5acbbe2030b4ec90dad3d665f397d1b32de957d3f31a135fe83",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General del Pleno del Órgano de Administración Judicial por el que se regulan la emisión, administración, renovación, revocación, reconocimiento y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial por el que se regulan la emisión, administración, renovación, revocación, reconocimiento y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797198&fecha=26/08/2026",
+      "code": "5797198",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "7910148dfa81b83f35331a4e4d0568c48890f982c2b89aa23ad1e7718a33fc7b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los Modelos de Interconexión Digital del Poder Judicial de la Federación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los Modelos de Interconexión Digital del Poder Judicial de la Federación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797200&fecha=26/08/2026",
+      "code": "5797200",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "499bb800664e5aaae00297b81408465fe426a3e3646c3c0219e713fc96d8c88a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797201&fecha=26/08/2026",
+      "code": "5797201",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "ab6939499fbe67da54029dc9638f23e530be7facd792f5fa2be809d8a523a47d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797202&fecha=26/08/2026",
+      "code": "5797202",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0892a0f6d15789df7c95987f724ccc1b5ff2e94c63fca5a2e6c19a54bb66d00c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797204&fecha=26/08/2026",
+      "code": "5797204",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "23aec3ba3459cfc80f2c6778866ef4e0616c088c2973e230a3ae5a5f80c3c181",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto de la Resolución INE/CG478/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba ejercer la facultad de atracción para determinar fechas homologadas por bloques para la conclusión del periodo de precampañas, así como para recabar apoyo de la ciudadanía de las personas aspirantes a candidaturas independientes, en los Procesos Electorales Locales concurrentes con el Proceso Electoral Federal 2026-2027.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto de la Resolución INE/CG478/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba ejercer la facultad de atracción para determinar fechas homologadas por bloques para la conclusión del periodo de precampañas, así como para recabar apoyo de la ciudadanía de las personas aspirantes a candidaturas independientes, en los Procesos Electorales Locales concurrentes con el Proceso Electoral Federal 2026-2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto de la Resolución INE/CG478/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba ejercer la facultad de atracción para determinar fechas homologadas por bloques para la conclusión del periodo de precampañas, así como para recabar apoyo de la ciudadanía de las personas aspirantes a candidaturas independientes, en los Procesos Electorales Locales concurrentes con el Proceso Electoral Federal 2026-2027."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797207&fecha=26/08/2026",
+      "code": "5797207",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "883e98fa820d30c7e1ff8754be8773707c3eea9d0a53eaed0038d12e8d69f5e7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/77/2026, denominado \"Adscripciones y suplencias de personas Magistradas, en diversas Salas Regionales del Tribunal\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/77/2026, denominado \"Adscripciones y suplencias de personas Magistradas, en diversas Salas Regionales del Tribunal\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/77/2026, denominado \"Adscripciones y suplencias de personas Magistradas, en diversas Salas Regionales del Tribunal\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797208&fecha=26/08/2026",
+      "code": "5797208",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "8ae60b141fd67f3e368280e40fa260b45aefd7970c3cfb1c43e13bda0bd4cdc3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/75/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/75/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/75/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797209&fecha=26/08/2026",
+      "code": "5797209",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "1089fbf1c40ca7f3aa17531c7c60ca44e0db5fd09cda848aae4c225d1b38151b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/76/2026, denominado \"Se deja sin efectos el Acuerdo G/JGA/67/2026, por el que se determinó la suplencia de persona Magistrada, en la Tercera Ponencia de la Décimo Segunda Sala Regional en la Ciudad de México\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/76/2026, denominado \"Se deja sin efectos el Acuerdo G/JGA/67/2026, por el que se determinó la suplencia de persona Magistrada, en la Tercera Ponencia de la Décimo Segunda Sala Regional en la Ciudad de México\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/76/2026, denominado \"Se deja sin efectos el Acuerdo G/JGA/67/2026, por el que se determinó la suplencia de persona Magistrada, en la Tercera Ponencia de la Décimo Segunda Sala Regional en la Ciudad de México\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797210&fecha=26/08/2026",
+      "code": "5797210",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "5dd2c58714fc993d40a53d3e577110a18a570a6d1b00e28aaa8c7eb8f6953914",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/78/2026, denominado \"Suplencia de persona Magistrada, en la Segunda Ponencia de la Primera Sala Regional en Nuevo León\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/78/2026, denominado \"Suplencia de persona Magistrada, en la Segunda Ponencia de la Primera Sala Regional en Nuevo León\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/78/2026, denominado \"Suplencia de persona Magistrada, en la Segunda Ponencia de la Primera Sala Regional en Nuevo León\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797211&fecha=26/08/2026",
+      "code": "5797211",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "156c1c44035a76bb13d3abdded7670358a7fd7cc98818b3949c6d29ea55222dc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo SS/17/2026, denominado \"Designación de integrante de la Comisión para la Igualdad de Género del Tribunal Federal de Justicia Administrativa\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo SS/17/2026, denominado \"Designación de integrante de la Comisión para la Igualdad de Género del Tribunal Federal de Justicia Administrativa\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo SS/17/2026, denominado \"Designación de integrante de la Comisión para la Igualdad de Género del Tribunal Federal de Justicia Administrativa\"."
+    }
+  ],
+  "schema_version": "1.0",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=26",
+    "name": "DOF official index",
+    "publication_date": "2026-08-26"
+  }
+}
