@@ -8,30 +8,6 @@ from urllib.request import Request, urlopen
 
 OFFICIAL_HOSTS = {"dof.gob.mx", "www.dof.gob.mx", "sidof.segob.gob.mx"}
 
-SOURCE_REGISTRY: dict[str, dict[str, object]] = {
-    "sidof": {
-        "authority": "primary",
-        "priority": 10,
-        "base_url": "https://sidof.segob.gob.mx/dof/sidof",
-        "format": "json",
-        "capabilities": ["daily_notes", "note_detail", "editions"],
-    },
-    "dof_index": {
-        "authority": "primary",
-        "priority": 20,
-        "base_url": "https://dof.gob.mx",
-        "format": "html",
-        "capabilities": ["daily_index", "note_links"],
-    },
-    "tavily": {
-        "authority": "discovery_only",
-        "priority": 100,
-        "base_url": "https://api.tavily.com",
-        "format": "json",
-        "capabilities": ["search", "map", "extract"],
-    },
-}
-
 
 def sidof_notes_url(publication_date: date) -> str:
     return f"https://sidof.segob.gob.mx/dof/sidof/notas/{publication_date:%d-%m-%Y}"
