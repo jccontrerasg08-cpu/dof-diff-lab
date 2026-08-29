@@ -142,7 +142,7 @@ def main() -> None:
         assert not (workspace / "data" / "raw").exists()
 
         catalog = json.loads(normalized_path.read_text(encoding="utf-8"))
-        assert catalog["schema_version"] == "1.0"
+        assert catalog["schema_version"] == "1.1"
         assert catalog["source"]["publication_date"] == "2026-08-18"
         assert catalog["source"]["edition"] == "matutina"
         assert [note["code"] for note in catalog["notes"]] == ["5796484", "5796505"]
