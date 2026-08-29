@@ -15,25 +15,54 @@ def main() -> None:
     assert OFFICIAL_HOSTS == {"dof.gob.mx", "www.dof.gob.mx", "sidof.segob.gob.mx"}
     assert sidof_notes_url(date(2026, 8, 29)).endswith("/notas/29-08-2026")
 
-    empty = normalize_sidof_payload({"Notas": []}, date(2026, 8, 29))
+    empty = normalize_sidof_payload(
+        {"messageCode": 200, "response": "OK", "NotasMatutinas": [], "NotasVespertinas": [], "NotasExtraordinarias": []},
+        date(2026, 8, 29),
+    )
     assert empty == []
 
     payload = {
-        "Notas": [
+        "messageCode": 200,
+        "response": "OK",
+        "NotasMatutinas": [
             {
                 "codNota": 5796484,
                 "titulo": "Acuerdo por el que se modifica el Código Fiscal de la Federación.",
-                "organismo": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-                "codEdicion": "MAT",
+                "codSeccion": "PRIMERA",
+                "nombreCodOrgaUno": "PODER EJECUTIVO",
+                "codOrgaDos": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
             }
-        ]
+        ],
+        "NotasVespertinas": [
+            {
+                "codNota": 5796999,
+                "titulo": "Aviso vespertino de prueba.",
+                "codSeccion": "UNICA",
+                "nombreCodOrgaUno": "PODER EJECUTIVO",
+                "codOrgaDos": "SECRETARIA DE ECONOMIA",
+            }
+        ],
+        "NotasExtraordinarias": [
+            {
+                "codNota": 5797000,
+                "codSeccion": "UNICA",
+                "nombreCodOrgaUno": "PODER EJECUTIVO",
+                "codOrgaDos": "SECRETARIA DE GOBERNACION",
+            }
+        ],
     }
     notes = normalize_sidof_payload(payload, date(2026, 8, 18))
-    assert len(notes) == 1
-    assert notes[0]["code"] == "5796484"
-    assert notes[0]["edition"] == "matutina"
-    assert notes[0]["canonical_url"].startswith("https://sidof.segob.gob.mx/")
-    assert notes[0]["source_id"] == "sidof"
+    assert len(notes) == 3
+    by_code = {note["code"]: note for note in notes}
+    assert by_code["5796484"]["edition"] == "matutina"
+    assert by_code["5796999"]["edition"] == "vespertina"
+    assert by_code["5797000"]["edition"] == "extraordinaria"
+    assert by_code["5796484"]["issuer_primary"] == "PODER EJECUTIVO"
+    assert by_code["5796484"]["issuer_secondary"] == "SECRETARIA DE HACIENDA Y CREDITO PUBLICO"
+    assert by_code["5796484"]["section"] == "PRIMERA"
+    assert by_code["5797000"]["title"] == "Nota DOF 5797000"
+    assert by_code["5796484"]["canonical_url"].startswith("https://sidof.segob.gob.mx/")
+    assert all(note["source_id"] == "sidof" for note in notes)
 
 
 if __name__ == "__main__":
