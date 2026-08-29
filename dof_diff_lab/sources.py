@@ -36,8 +36,16 @@ def sidof_notes_url(publication_date: date) -> str:
     return f"https://sidof.segob.gob.mx/dof/sidof/notas/{publication_date:%d-%m-%Y}"
 
 
-def sidof_note_url(code: str) -> str:
+def sidof_note_api_url(code: str) -> str:
     return f"https://sidof.segob.gob.mx/dof/sidof/notas/nota/{code}"
+
+
+def sidof_note_public_url(code: str, *, has_html: bool, has_image: bool) -> str:
+    if has_html:
+        return f"https://sidof.segob.gob.mx/notas/{code}"
+    if has_image:
+        return f"https://sidof.segob.gob.mx/notas/imagenes/{code}"
+    return f"https://sidof.segob.gob.mx/notas/{code}"
 
 
 def _edition_name(value: object) -> str:
@@ -57,6 +65,23 @@ def _first(mapping: dict[str, object], *keys: str) -> object | None:
         if value not in (None, ""):
             return value
     return None
+
+
+def _flag(value: object) -> bool:
+    if isinstance(value, bool):
+        return value
+    if isinstance(value, (int, float)):
+        return value != 0
+    return str(value or "").strip().casefold() in {"s", "si", "sí", "true", "1", "y", "yes"}
+
+
+def _optional_int(value: object) -> int | None:
+    if value in (None, ""):
+        return None
+    try:
+        return int(str(value).strip())
+    except (TypeError, ValueError):
+        return None
 
 
 def _iter_daily_notes(payload: object) -> list[tuple[str, dict[str, object]]]:
@@ -109,10 +134,15 @@ def normalize_sidof_payload(payload: object, publication_date: date) -> list[dic
             "emisor",
         )
         section = _first(raw, "codSeccion", "seccion", "section")
+        has_html = _flag(_first(raw, "existeHtml", "has_html"))
+        has_document = _flag(_first(raw, "existeDoc", "has_document"))
+        has_image = _flag(_first(raw, "existeImagen", "has_image"))
+        journal_code = _first(raw, "codDiario", "journal_code")
         notes.append({
             "code": code,
             "title": title,
-            "canonical_url": sidof_note_url(code),
+            "canonical_url": sidof_note_public_url(code, has_html=has_html, has_image=has_image),
+            "source_api_url": sidof_note_api_url(code),
             "publication_date": publication_date.isoformat(),
             "edition": edition,
             "section": str(section).strip() if section else None,
@@ -120,6 +150,12 @@ def normalize_sidof_payload(payload: object, publication_date: date) -> list[dic
             "issuer_secondary": str(issuer_secondary).strip() if issuer_secondary else None,
             "source_id": "sidof",
             "title_available": title_value not in (None, ""),
+            "has_html": has_html,
+            "has_document": has_document,
+            "has_image": has_image,
+            "page_start": _optional_int(_first(raw, "pagina", "page_start")),
+            "page_end": _optional_int(_first(raw, "paginaHasta", "page_end")),
+            "journal_code": str(journal_code).strip() if journal_code not in (None, "") else None,
         })
     return sorted(notes, key=lambda item: (str(item["edition"]), str(item["code"])))
 
