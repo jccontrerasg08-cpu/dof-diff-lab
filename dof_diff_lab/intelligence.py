@@ -32,15 +32,24 @@ from .sources import fetch_sidof_notes, sidof_notes_url
 
 def _canonical_sidof_note(note: dict[str, object]) -> dict[str, object]:
     title = str(note["title"])
+    title_available = bool(note.get("title_available", True))
     value = {
         "code": str(note.get("code") or ""),
         "canonical_url": str(note["canonical_url"]),
+        "source_api_url": note.get("source_api_url"),
         "title": title,
+        "title_available": title_available,
         "section": note.get("section"),
         "issuer_primary": note.get("issuer_primary"),
         "issuer_secondary": note.get("issuer_secondary"),
         "source_id": "sidof",
-        "tags": derive_tags(title),
+        "has_html": bool(note.get("has_html", False)),
+        "has_document": bool(note.get("has_document", False)),
+        "has_image": bool(note.get("has_image", False)),
+        "page_start": note.get("page_start"),
+        "page_end": note.get("page_end"),
+        "journal_code": note.get("journal_code"),
+        "tags": derive_tags(title) if title_available else [],
     }
     value["record_sha256"] = sha256_bytes(canonical_bytes(value))
     return value
