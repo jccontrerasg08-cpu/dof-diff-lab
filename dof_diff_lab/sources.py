@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from datetime import date
 import json
+import time
 from typing import Callable
 from urllib.request import Request, urlopen
 
@@ -160,7 +161,14 @@ def normalize_sidof_payload(payload: object, publication_date: date) -> list[dic
     return sorted(notes, key=lambda item: (str(item["edition"]), str(item["code"])))
 
 
-def fetch_json(url: str, opener: Callable[..., object] = urlopen) -> object:
+def fetch_json(
+    url: str,
+    attempts: int = 3,
+    opener: Callable[..., object] = urlopen,
+    sleeper: Callable[[float], None] = time.sleep,
+) -> object:
+    if attempts < 1:
+        raise ValueError("attempts debe ser al menos 1")
     request = Request(
         url,
         headers={
@@ -168,12 +176,19 @@ def fetch_json(url: str, opener: Callable[..., object] = urlopen) -> object:
             "Accept": "application/json",
         },
     )
-    with opener(request, timeout=30) as response:
-        status = getattr(response, "status", 200)
-        if status != 200:
-            raise ValueError(f"SIDOF respondió HTTP {status}")
-        body = response.read()
-    return json.loads(body.decode("utf-8"))
+    last_error: OSError | None = None
+    for attempt in range(attempts):
+        try:
+            with opener(request, timeout=30) as response:
+                status = getattr(response, "status", 200)
+                if status != 200:
+                    raise ValueError(f"SIDOF respondió HTTP {status}")
+                return json.loads(response.read().decode("utf-8"))
+        except OSError as error:
+            last_error = error
+            if attempt + 1 < attempts:
+                sleeper(float(2**attempt))
+    raise OSError(f"No se pudo consultar SIDOF: {last_error}") from last_error
 
 
 def fetch_sidof_notes(publication_date: date, fetcher: Callable[[str], object] = fetch_json) -> list[dict[str, object]]:
