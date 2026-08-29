@@ -78,6 +78,37 @@ def main() -> None:
     with tempfile.TemporaryDirectory() as directory:
         root = Path(directory)
         result = sync_date(
+            date(2026, 8, 18),
+            root,
+            sidof_fetch=lambda _date: (_ for _ in ()).throw(OSError("temporary outage")),
+            dof_fetch=lambda _url: SourceResponse(200, "text/html", HTML),
+        )
+        assert result["source_id"] == "dof_index"
+        assert "temporary outage" in str(result["sidof_error"])
+
+    dof_called = False
+
+    def unexpected_dof(_url: str) -> SourceResponse:
+        nonlocal dof_called
+        dof_called = True
+        return SourceResponse(200, "text/html", HTML)
+
+    try:
+        sync_date(
+            date(2026, 8, 18),
+            Path("."),
+            sidof_fetch=lambda _date: (_ for _ in ()).throw(RuntimeError("programming bug")),
+            dof_fetch=unexpected_dof,
+        )
+    except RuntimeError as error:
+        assert str(error) == "programming bug"
+    else:
+        raise AssertionError("Programming errors from SIDOF normalization must propagate")
+    assert dof_called is False
+
+    with tempfile.TemporaryDirectory() as directory:
+        root = Path(directory)
+        result = sync_date(
             date(2026, 8, 29),
             root,
             sidof_fetch=lambda _date: [],
