@@ -10,6 +10,7 @@ from typing import Callable
 from .corpus import build_corpus, search_corpus
 from .discovery import tavily_search
 from .monitor import (
+    SCHEMA_VERSION,
     MonitorResult,
     ParseError,
     SourceResponse,
@@ -70,7 +71,7 @@ def _write_sidof_date(publication_date: date, root: Path, notes: list[dict[str, 
         normalized_path = root / "data" / "normalized" / date_key / f"{edition}.json"
         previous = load_catalog(normalized_path)
         catalog = {
-            "schema_version": "1.1",
+            "schema_version": SCHEMA_VERSION,
             "source": {
                 "name": "SIDOF open data",
                 "source_id": "sidof",
@@ -85,7 +86,7 @@ def _write_sidof_date(publication_date: date, root: Path, notes: list[dict[str, 
         changed_any = changed_any or changed
         write_json(normalized_path, catalog)
         manifest = {
-            "schema_version": "1.1",
+            "schema_version": SCHEMA_VERSION,
             "parser_version": "sidof-1.1",
             "status": "changed" if changed else "no_change",
             "generated_at": utc_now(),
@@ -128,7 +129,7 @@ def _write_confirmed_no_edition(publication_date: date, root: Path, dof_response
     edition = "matutina"
     normalized_path = root / "data" / "normalized" / date_key / f"{edition}.json"
     catalog = {
-        "schema_version": "1.1",
+        "schema_version": SCHEMA_VERSION,
         "source": {
             "name": "SIDOF + DOF cross-check",
             "source_id": "sidof+dof_index",
@@ -141,7 +142,7 @@ def _write_confirmed_no_edition(publication_date: date, root: Path, dof_response
     }
     write_json(normalized_path, catalog)
     manifest = {
-        "schema_version": "1.1",
+        "schema_version": SCHEMA_VERSION,
         "parser_version": "hybrid-1.1",
         "status": "no_edition",
         "generated_at": utc_now(),
@@ -191,10 +192,10 @@ def sync_date(
     sidof_fetch: Callable[[date], list[dict[str, object]]] = fetch_sidof_notes,
     dof_fetch: Callable[[str], SourceResponse] = fetch_official_index,
 ) -> dict[str, object]:
-    sidof_error: Exception | None = None
+    sidof_error: OSError | ValueError | None = None
     try:
         notes = sidof_fetch(publication_date)
-    except Exception as error:
+    except (OSError, ValueError) as error:
         sidof_error = error
         notes = []
 
