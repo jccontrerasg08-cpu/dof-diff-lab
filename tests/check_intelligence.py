@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from dof_diff_lab.intelligence import sync_date
-from dof_diff_lab.monitor import SourceResponse
+from dof_diff_lab.monitor import ParseError, SourceResponse
 
 HTML = b"""
 <html><body>
@@ -17,6 +17,8 @@ HTML = b"""
 <a href='https://dof.gob.mx/nota_detalle.php?codigo=5796484&fecha=18/08/2026'>Acuerdo de comercio exterior.</a>
 </body></html>
 """
+
+GENERIC_SHELL = b"<html><body><p>Diario Oficial de la Federacion</p></body></html>"
 
 
 def main() -> None:
@@ -53,6 +55,31 @@ def main() -> None:
         )
         assert result["source_id"] == "dof_index"
         assert result["status"] == "changed"
+
+    with tempfile.TemporaryDirectory() as directory:
+        root = Path(directory)
+        result = sync_date(
+            date(2026, 8, 29),
+            root,
+            sidof_fetch=lambda _date: [],
+            dof_fetch=lambda _url: SourceResponse(200, "text/html", GENERIC_SHELL),
+        )
+        assert result["status"] == "no_edition"
+        assert result["source_id"] == "sidof+dof_index"
+        assert (root / "data" / "normalized" / "2026-08-29" / "matutina.json").is_file()
+
+    with tempfile.TemporaryDirectory() as directory:
+        try:
+            sync_date(
+                date(2026, 8, 31),
+                Path(directory),
+                sidof_fetch=lambda _date: [],
+                dof_fetch=lambda _url: SourceResponse(200, "text/html", GENERIC_SHELL),
+            )
+        except ParseError:
+            pass
+        else:
+            raise AssertionError("An empty SIDOF response must not hide a malformed weekday DOF response")
 
 
 if __name__ == "__main__":
