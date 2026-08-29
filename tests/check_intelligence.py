@@ -30,20 +30,39 @@ def main() -> None:
             sidof_fetch=lambda _date: [{
                 "code": "5796484",
                 "title": "Acuerdo de comercio exterior.",
-                "canonical_url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5796484",
+                "canonical_url": "https://sidof.segob.gob.mx/notas/5796484",
+                "source_api_url": "https://sidof.segob.gob.mx/dof/sidof/notas/nota/5796484",
                 "publication_date": "2026-08-18",
                 "edition": "matutina",
-                "issuer_primary": None,
+                "section": "PRIMERA",
+                "issuer_primary": "PODER EJECUTIVO",
                 "issuer_secondary": "SECRETARIA DE ECONOMIA",
                 "source_id": "sidof",
+                "title_available": True,
+                "has_html": True,
+                "has_document": True,
+                "has_image": True,
+                "page_start": 2,
+                "page_end": 5,
+                "journal_code": "300001",
             }],
         )
         assert result["source_id"] == "sidof"
         path = root / "data" / "normalized" / "2026-08-18" / "matutina.json"
         assert path.is_file()
         payload = json.loads(path.read_text(encoding="utf-8"))
-        assert payload["notes"][0]["code"] == "5796484"
-        assert payload["notes"][0]["tags"]
+        note = payload["notes"][0]
+        assert note["code"] == "5796484"
+        assert note["tags"]
+        assert note["canonical_url"] == "https://sidof.segob.gob.mx/notas/5796484"
+        assert note["source_api_url"].endswith("/notas/nota/5796484")
+        assert note["title_available"] is True
+        assert note["has_html"] is True
+        assert note["has_document"] is True
+        assert note["has_image"] is True
+        assert note["page_start"] == 2
+        assert note["page_end"] == 5
+        assert note["journal_code"] == "300001"
 
     with tempfile.TemporaryDirectory() as directory:
         root = Path(directory)
