@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 import dof_diff_lab.monitor as monitor
-from dof_diff_lab.monitor import SourceResponse, run_monitor
+from dof_diff_lab.monitor import ParseError, SourceResponse, run_monitor
 
 
 BASE_INDEX = """
@@ -42,6 +42,19 @@ EMPTY_INDEX = """
 <p>Fecha: 19/08/2026 - Edición Matutina</p>
 <p>Sin publicaciones para la edición consultada.</p>
 </body></html>
+"""
+
+WEEKEND_INDEX = """
+<!doctype html>
+<html><head><title>Diario Oficial de la Federación</title></head>
+<body>
+<div id="contenido">No existen publicaciones para la fecha seleccionada.</div>
+</body></html>
+"""
+
+MALFORMED_INDEX = """
+<!doctype html>
+<html><body><p>Portal temporal sin índice ni mensaje de no publicación.</p></body></html>
 """
 
 
@@ -79,19 +92,33 @@ def test_fetch_retries_timeout() -> None:
             raise TimeoutError("simulated timeout")
         return Response()
 
-    response = monitor.fetch_official_index(
+    result = monitor.fetch_official_index(
         "https://dof.gob.mx/example",
         attempts=2,
         opener=opener,
         sleeper=lambda _seconds: None,
     )
-    assert response.status == 200
-    assert response.body == b"<html></html>"
+    assert result.status == 200
+    assert result.body == b"<html></html>"
     assert attempts == ["30", "30"]
+
+
+def test_weekend_page_is_no_edition() -> None:
+    assert monitor.parse_official_index(response(WEEKEND_INDEX).body, "https://dof.gob.mx/example") == []
+
+
+def test_malformed_page_still_fails() -> None:
+    try:
+        monitor.parse_official_index(response(MALFORMED_INDEX).body, "https://dof.gob.mx/example")
+    except ParseError:
+        return
+    raise AssertionError("A malformed portal response must not be treated as no_edition")
 
 
 def main() -> None:
     test_fetch_retries_timeout()
+    test_weekend_page_is_no_edition()
+    test_malformed_page_still_fails()
     with tempfile.TemporaryDirectory() as directory:
         workspace = Path(directory)
         publication_date = date(2026, 8, 18)
@@ -115,7 +142,7 @@ def main() -> None:
         assert not (workspace / "data" / "raw").exists()
 
         catalog = json.loads(normalized_path.read_text(encoding="utf-8"))
-        assert catalog["schema_version"] == "1.0"
+        assert catalog["schema_version"] == "1.1"
         assert catalog["source"]["publication_date"] == "2026-08-18"
         assert catalog["source"]["edition"] == "matutina"
         assert [note["code"] for note in catalog["notes"]] == ["5796484", "5796505"]
@@ -175,6 +202,14 @@ def main() -> None:
         )
         assert empty_manifest["status"] == "no_edition"
         assert "Sin publicaciones" in (workspace / "data" / "diffs" / "2026-08-19.md").read_text(encoding="utf-8")
+
+        weekend = run_monitor(
+            publication_date=date(2026, 8, 29),
+            root=workspace,
+            fetch=lambda _url: response(WEEKEND_INDEX),
+        )
+        assert weekend.status == "no_edition"
+        assert weekend.note_count == 0
 
 
 if __name__ == "__main__":

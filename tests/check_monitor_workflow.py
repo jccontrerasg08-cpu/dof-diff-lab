@@ -1,7 +1,6 @@
 from pathlib import Path
 import re
 
-
 ROOT = Path(__file__).resolve().parents[1]
 WORKFLOW = ROOT / ".github" / "workflows" / "dof-monitor.yml"
 CHECK_WORKFLOW = ROOT / ".github" / "workflows" / "check.yml"
@@ -23,7 +22,9 @@ def main() -> None:
         "PUBLICATION_DATE:",
         "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
         'date -u -d "$publication_date"',
-        "python3 -m dof_diff_lab.monitor",
+        "python3 -m dof_diff_lab.intelligence sync",
+        "python3 -m dof_diff_lab.intelligence build",
+        ".tmp/dof-corpus.sqlite3",
         "git diff --quiet -- data site",
         "git commit -m",
         "if-no-files-found: error",
@@ -53,6 +54,10 @@ def main() -> None:
         "python3 tests/check_monitor.py",
         "python3 tests/check_monitor_workflow.py",
         "python3 tests/check_public_readiness.py",
+        "python3 tests/check_sources.py",
+        "python3 tests/check_corpus.py",
+        "python3 tests/check_discovery.py",
+        "python3 tests/check_intelligence.py",
     ):
         assert command in check_text, command
 

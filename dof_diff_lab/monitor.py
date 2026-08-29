@@ -15,17 +15,14 @@ from urllib.parse import parse_qs, urljoin, urlsplit
 from urllib.request import Request, urlopen
 import unicodedata
 
-
-SCHEMA_VERSION = "1.0"
-PARSER_VERSION = "1.0"
+SCHEMA_VERSION = "1.1"
+PARSER_VERSION = "1.1"
 RULE_VERSION = "1.0"
 EDITION = "matutina"
 
 
 @dataclass(frozen=True)
 class SourceResponse:
-    """A single read-only response from the official DOF index."""
-
     status: int
     content_type: str
     body: bytes
@@ -33,8 +30,6 @@ class SourceResponse:
 
 @dataclass(frozen=True)
 class MonitorResult:
-    """The deterministic outcome of one daily monitor run."""
-
     status: str
     note_count: int
     index_url: str
@@ -42,16 +37,14 @@ class MonitorResult:
 
 
 class SourceError(ValueError):
-    """Raised when the official source cannot be used as a trustworthy capture."""
+    pass
 
 
 class ParseError(ValueError):
-    """Raised when a source response cannot be normalized safely."""
+    pass
 
 
 def build_index_url(publication_date: date) -> str:
-    """Return the observed official URL pattern for a matutina DOF index."""
-
     return (
         "https://dof.gob.mx/index_113.php?"
         f"year={publication_date:%Y}&month={publication_date:%m}&day={publication_date:%d}"
@@ -59,39 +52,27 @@ def build_index_url(publication_date: date) -> str:
 
 
 def utc_now() -> str:
-    """Return an ISO-8601 timestamp with an explicit UTC offset."""
-
     return datetime.now(timezone.utc).isoformat(timespec="seconds")
 
 
 def canonical_bytes(value: object) -> bytes:
-    """Serialize JSON deterministically for hashing and version control."""
-
     return (json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
 
 
 def sha256_bytes(value: bytes) -> str:
-    """Return a hexadecimal SHA-256 digest."""
-
     return sha256(value).hexdigest()
 
 
 def normalized_text(value: str) -> str:
-    """Normalize display text without erasing the original source field."""
-
     return " ".join(value.split())
 
 
 def folded_text(value: str) -> str:
-    """Fold accents and case for deterministic, explainable rule matching."""
-
     decomposed = unicodedata.normalize("NFD", value)
-    return "".join(character for character in decomposed if unicodedata.category(character) != "Mn").lower()
+    return "".join(c for c in decomposed if unicodedata.category(c) != "Mn").lower()
 
 
 class OfficialIndexParser(HTMLParser):
-    """Extract note links and nearby editorial context from an official index page."""
-
     def __init__(self, base_url: str) -> None:
         super().__init__(convert_charrefs=True)
         self.base_url = base_url
@@ -100,6 +81,7 @@ class OfficialIndexParser(HTMLParser):
         self.issuer_primary: str | None = None
         self.issuer_secondary: str | None = None
         self.observed_edition = False
+        self.visible_text: list[str] = []
         self._anchor_href: str | None = None
         self._anchor_parts: list[str] = []
 
@@ -112,10 +94,13 @@ class OfficialIndexParser(HTMLParser):
             self._anchor_parts = []
 
     def handle_data(self, data: str) -> None:
+        value = normalized_text(data)
+        if value:
+            self.visible_text.append(value)
         if self._anchor_href is not None:
             self._anchor_parts.append(data)
             return
-        self._update_context(normalized_text(data))
+        self._update_context(value)
 
     def handle_endtag(self, tag: str) -> None:
         if tag != "a" or self._anchor_href is None:
@@ -157,9 +142,20 @@ class OfficialIndexParser(HTMLParser):
             self.issuer_secondary = value
 
 
-def tag(name: str, value: str, evidence: str, rule_id: str, confidence: str = "rule_match") -> dict[str, str]:
-    """Create one self-explaining derived tag."""
+def looks_like_no_edition(text: str) -> bool:
+    folded = folded_text(normalized_text(text))
+    markers = (
+        "sin publicaciones",
+        "no existen publicaciones",
+        "no existe publicacion",
+        "no hay publicaciones",
+        "sin edicion",
+        "no existe edicion",
+    )
+    return any(marker in folded for marker in markers)
 
+
+def tag(name: str, value: str, evidence: str, rule_id: str, confidence: str = "rule_match") -> dict[str, str]:
     return {
         "name": name,
         "value": value,
@@ -171,8 +167,6 @@ def tag(name: str, value: str, evidence: str, rule_id: str, confidence: str = "r
 
 
 def first_match(text: str, expressions: tuple[str, ...]) -> str | None:
-    """Return the first exact source fragment that activates a deterministic rule."""
-
     for expression in expressions:
         match = re.search(expression, text, flags=re.IGNORECASE)
         if match:
@@ -181,11 +175,8 @@ def first_match(text: str, expressions: tuple[str, ...]) -> str | None:
 
 
 def derive_tags(title: str) -> list[dict[str, str]]:
-    """Create conservative document, signal and topic tags from a source title."""
-
     folded = folded_text(title)
     tags: list[dict[str, str]] = []
-
     document_types = (
         ("acuerdo", (r"^acuerdo\b",)),
         ("decreto", (r"^decreto\b",)),
@@ -240,17 +231,11 @@ def derive_tags(title: str) -> list[dict[str, str]]:
 
 
 def note_key(note: dict[str, object]) -> str:
-    """Return a stable monitor identity, preferring the official note code."""
-
     code = note.get("code")
-    if isinstance(code, str) and code:
-        return code
-    return str(note["canonical_url"])
+    return str(code) if isinstance(code, str) and code else str(note["canonical_url"])
 
 
 def build_note(raw_note: dict[str, object]) -> dict[str, object]:
-    """Build a canonical note with only source fields and explainable derivations."""
-
     title = str(raw_note["title"])
     note = {
         "code": raw_note.get("code"),
@@ -266,8 +251,6 @@ def build_note(raw_note: dict[str, object]) -> dict[str, object]:
 
 
 def parse_official_index(body: bytes, index_url: str) -> list[dict[str, object]]:
-    """Normalize visible note links from an official index HTML response."""
-
     text = body.decode("utf-8", errors="replace")
     parser = OfficialIndexParser(index_url)
     parser.feed(text)
@@ -280,13 +263,13 @@ def parse_official_index(body: bytes, index_url: str) -> list[dict[str, object]]
             raise ParseError(f"El índice contiene una nota duplicada: {key}")
         records[key] = note
     if not records and not parser.observed_edition:
+        if looks_like_no_edition(" ".join(parser.visible_text)):
+            return []
         raise ParseError("El índice oficial no contiene fecha y edición reconocibles.")
     return [records[key] for key in sorted(records)]
 
 
 def load_catalog(path: Path) -> dict[str, object] | None:
-    """Load a prior canonical catalog when it exists."""
-
     if not path.is_file():
         return None
     value = json.loads(path.read_text(encoding="utf-8"))
@@ -296,25 +279,17 @@ def load_catalog(path: Path) -> dict[str, object] | None:
 
 
 def diff_catalogs(previous: dict[str, object] | None, current: dict[str, object]) -> dict[str, list[dict[str, object]]]:
-    """Compare canonical notes by stable identity and record hash."""
-
     previous_notes = previous.get("notes", []) if previous else []
     previous_by_key = {note_key(note): note for note in previous_notes if isinstance(note, dict)}
     current_by_key = {note_key(note): note for note in current["notes"] if isinstance(note, dict)}
     return {
-        "added": [current_by_key[key] for key in sorted(current_by_key.keys() - previous_by_key.keys())],
-        "removed": [previous_by_key[key] for key in sorted(previous_by_key.keys() - current_by_key.keys())],
-        "modified": [
-            current_by_key[key]
-            for key in sorted(current_by_key.keys() & previous_by_key.keys())
-            if current_by_key[key].get("record_sha256") != previous_by_key[key].get("record_sha256")
-        ],
+        "added": [current_by_key[k] for k in sorted(current_by_key.keys() - previous_by_key.keys())],
+        "removed": [previous_by_key[k] for k in sorted(previous_by_key.keys() - current_by_key.keys())],
+        "modified": [current_by_key[k] for k in sorted(current_by_key.keys() & previous_by_key.keys()) if current_by_key[k].get("record_sha256") != previous_by_key[k].get("record_sha256")],
     }
 
 
 def render_diff(publication_date: date, changes: dict[str, list[dict[str, object]]]) -> str:
-    """Render a compact human-readable diff without legal conclusions."""
-
     sections = [f"# Monitor DOF — {publication_date.isoformat()}\n"]
     labels = (("added", "Altas"), ("removed", "Bajas"), ("modified", "Modificaciones"))
     if not any(changes.values()):
@@ -328,8 +303,6 @@ def render_diff(publication_date: date, changes: dict[str, list[dict[str, object
 
 
 def build_insights(notes: list[dict[str, object]]) -> dict[str, dict[str, int]]:
-    """Count only deterministic labels; these are operational insights, not advice."""
-
     by_document_type: dict[str, int] = {}
     by_topic: dict[str, int] = {}
     by_issuer: dict[str, int] = {}
@@ -341,85 +314,47 @@ def build_insights(notes: list[dict[str, object]]) -> dict[str, dict[str, int]]:
                 by_document_type[item["value"]] = by_document_type.get(item["value"], 0) + 1
             if item["name"] == "topic":
                 by_topic[item["value"]] = by_topic.get(item["value"], 0) + 1
-    return {
-        "by_document_type": dict(sorted(by_document_type.items())),
-        "by_topic": dict(sorted(by_topic.items())),
-        "by_issuer": dict(sorted(by_issuer.items())),
-    }
+    return {"by_document_type": dict(sorted(by_document_type.items())), "by_topic": dict(sorted(by_topic.items())), "by_issuer": dict(sorted(by_issuer.items()))}
 
 
 def write_json(path: Path, value: object) -> None:
-    """Write deterministic JSON after creating the parent directory."""
-
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(canonical_bytes(value))
 
 
 def render_site(manifest: dict[str, object], notes: list[dict[str, object]]) -> str:
-    """Render a public, source-linked index without republishing source HTML."""
-
     insights = manifest["insights"]
-    document_types = "".join(
-        f"<li>{escape(name)}: {count}</li>" for name, count in insights["by_document_type"].items()
-    )
+    document_types = "".join(f"<li>{escape(name)}: {count}</li>" for name, count in insights["by_document_type"].items())
     topics = "".join(f"<li>{escape(name)}: {count}</li>" for name, count in insights["by_topic"].items())
     evidence_items: list[str] = []
     for note in notes:
         tags = "".join(
-            "<li>"
-            f"{escape(str(item['name']))}: {escape(str(item['value']))}. "
-            f"Regla: {escape(str(item['rule_id']))} ({escape(str(item['rule_version']))}). "
-            f"Evidencia: {escape(str(item['evidence']))}. "
-            "Coincidencia de regla; no probabilidad ni conclusión jurídica."
-            "</li>"
+            "<li>" + f"{escape(str(item['name']))}: {escape(str(item['value']))}. Regla: {escape(str(item['rule_id']))} ({escape(str(item['rule_version']))}). Evidencia: {escape(str(item['evidence']))}. Coincidencia de regla; no probabilidad ni conclusión jurídica.</li>"
             for item in note["tags"]
         )
-        evidence_items.append(
-            "<article><h3>"
-            f"<a href=\"{escape(str(note['canonical_url']))}\">{escape(str(note['code'] or 'sin código'))}</a> "
-            f"{escape(str(note['title']))}</h3><ul>{tags}</ul></article>"
-        )
-    return "".join(
-        (
-            "<!doctype html><html lang=\"es\"><meta charset=\"utf-8\">",
-            "<meta name=\"robots\" content=\"noindex,nofollow\">",
-            "<title>Monitor diario del DOF</title>",
-            "<main><h1>Monitor diario del DOF</h1>",
-            "<p><strong>No afiliación:</strong> este proyecto no está afiliado, patrocinado ni respaldado por el Diario Oficial de la Federación.</p>",
-            "<p><strong>Fuente primaria:</strong> prevalece la publicación oficial enlazada. Este catálogo derivado no sustituye la fuente oficial ni constituye asesoría jurídica.</p>",
-            f"<p>Estado: <strong>{escape(str(manifest['status']))}</strong></p>",
-            f"<p>Fecha de publicación: {escape(str(manifest['publication_date']))}</p>",
-            f"<p>Notas: {manifest['note_count']}</p>",
-            "<h2>Tipos documentales</h2><ul>", document_types, "</ul>",
-            "<h2>Temas detectados por reglas</h2><ul>", topics, "</ul>",
-            "<h2>Coincidencias de reglas y evidencia</h2>",
-            "<p>Las etiquetas describen coincidencias deterministas en títulos y metadatos; no determinan vigencia, alcance ni efecto jurídico.</p>",
-            "".join(evidence_items),
-            "</main>",
-        )
-    )
+        evidence_items.append(f"<article><h3><a href=\"{escape(str(note['canonical_url']))}\">{escape(str(note['code'] or 'sin código'))}</a> {escape(str(note['title']))}</h3><ul>{tags}</ul></article>")
+    return "".join((
+        "<!doctype html><html lang=\"es\"><meta charset=\"utf-8\">",
+        "<meta name=\"robots\" content=\"noindex,nofollow\"><title>Monitor diario del DOF</title>",
+        "<main><h1>Monitor diario del DOF</h1>",
+        "<p><strong>No afiliación:</strong> este proyecto no está afiliado, patrocinado ni respaldado por el Diario Oficial de la Federación.</p>",
+        "<p><strong>Fuente primaria:</strong> prevalece la publicación oficial enlazada. Este catálogo derivado no sustituye la fuente oficial ni constituye asesoría jurídica.</p>",
+        f"<p>Estado: <strong>{escape(str(manifest['status']))}</strong></p><p>Fecha de publicación: {escape(str(manifest['publication_date']))}</p><p>Notas: {manifest['note_count']}</p>",
+        "<h2>Tipos documentales</h2><ul>", document_types, "</ul><h2>Temas detectados por reglas</h2><ul>", topics,
+        "</ul><h2>Coincidencias de reglas y evidencia</h2><p>Las etiquetas describen coincidencias deterministas en títulos y metadatos; no determinan vigencia, alcance ni efecto jurídico.</p>",
+        "".join(evidence_items), "</main>"
+    ))
 
 
-def fetch_official_index(
-    url: str,
-    attempts: int = 3,
-    opener: Callable[..., object] = urlopen,
-    sleeper: Callable[[float], None] = time.sleep,
-) -> SourceResponse:
-    """Fetch one official index with bounded retries for transient network failures."""
-
+def fetch_official_index(url: str, attempts: int = 3, opener: Callable[..., object] = urlopen, sleeper: Callable[[float], None] = time.sleep) -> SourceResponse:
     if attempts < 1:
         raise ValueError("attempts debe ser al menos 1.")
-    request = Request(url, headers={"User-Agent": "dof-diff-lab-monitor/1.0 (+https://github.com/jccontrerasg08-cpu/dof-diff-lab)"})
+    request = Request(url, headers={"User-Agent": "dof-diff-lab-monitor/1.1 (+https://github.com/jccontrerasg08-cpu/dof-diff-lab)"})
     last_error: OSError | None = None
     for attempt in range(attempts):
         try:
             with opener(request, timeout=30) as response:
-                return SourceResponse(
-                    status=response.status,
-                    content_type=response.headers.get_content_type(),
-                    body=response.read(),
-                )
+                return SourceResponse(status=response.status, content_type=response.headers.get_content_type(), body=response.read())
         except OSError as error:
             last_error = error
             if attempt + 1 < attempts:
@@ -427,13 +362,7 @@ def fetch_official_index(
     raise SourceError(f"No se pudo consultar el índice oficial del DOF: {last_error}") from last_error
 
 
-def run_monitor(
-    publication_date: date,
-    root: Path,
-    fetch: Callable[[str], SourceResponse] = fetch_official_index,
-) -> MonitorResult:
-    """Capture, normalize and compare one official DOF edition deterministically."""
-
+def run_monitor(publication_date: date, root: Path, fetch: Callable[[str], SourceResponse] = fetch_official_index) -> MonitorResult:
     index_url = build_index_url(publication_date)
     response = fetch(index_url)
     if response.status != 200:
@@ -445,25 +374,11 @@ def run_monitor(
     date_key = publication_date.isoformat()
     normalized_path = root / "data" / "normalized" / date_key / "matutina.json"
     previous = load_catalog(normalized_path)
-    catalog = {
-        "schema_version": SCHEMA_VERSION,
-        "source": {
-            "name": "DOF official index",
-            "index_url": index_url,
-            "publication_date": date_key,
-            "edition": EDITION,
-        },
-        "notes": notes,
-    }
+    catalog = {"schema_version": SCHEMA_VERSION, "source": {"name": "DOF official index", "index_url": index_url, "publication_date": date_key, "edition": EDITION}, "notes": notes}
     changes = diff_catalogs(previous, catalog)
-    if not notes:
-        status = "no_edition"
-    else:
-        status = "changed" if any(changes.values()) else "no_change"
+    status = "no_edition" if not notes else ("changed" if any(changes.values()) else "no_change")
     normalized_sha256 = sha256_bytes(canonical_bytes(catalog))
-
     write_json(normalized_path, catalog)
-
     insights = build_insights(notes)
     manifest = {
         "schema_version": SCHEMA_VERSION,
@@ -473,14 +388,7 @@ def run_monitor(
         "publication_date": date_key,
         "edition": EDITION,
         "note_count": len(notes),
-        "source": {
-            "index_url": index_url,
-            "http_status": response.status,
-            "content_type": response.content_type,
-            "raw_sha256": raw_sha256,
-            "raw_retained": False,
-            "raw_size": len(response.body),
-        },
+        "source": {"index_url": index_url, "http_status": response.status, "content_type": response.content_type, "raw_sha256": raw_sha256, "raw_retained": False, "raw_size": len(response.body)},
         "normalized_path": str(normalized_path.relative_to(root)),
         "normalized_sha256": normalized_sha256,
         "insights": insights,
@@ -489,25 +397,10 @@ def run_monitor(
     write_json(manifest_path, manifest)
     diff_path = root / "data" / "diffs" / f"{date_key}.md"
     diff_path.parent.mkdir(parents=True, exist_ok=True)
-    diff_text = (
-        f"# Monitor DOF — {publication_date.isoformat()}\n\n"
-        "Sin publicaciones en el índice oficial para esta edición.\n"
-        if status == "no_edition"
-        else render_diff(publication_date, changes)
-    )
+    diff_text = f"# Monitor DOF — {date_key}\n\nSin publicaciones en el índice oficial para esta edición.\n" if status == "no_edition" else render_diff(publication_date, changes)
     diff_path.write_text(diff_text, encoding="utf-8")
     state_path = root / "data" / "state" / "latest.json"
-    write_json(
-        state_path,
-        {
-            "status": status,
-            "publication_date": date_key,
-            "edition": EDITION,
-            "normalized_sha256": normalized_sha256,
-            "manifest_path": str(manifest_path.relative_to(root)),
-            "updated_at": manifest["generated_at"],
-        },
-    )
+    write_json(state_path, {"status": status, "publication_date": date_key, "edition": EDITION, "normalized_sha256": normalized_sha256, "manifest_path": str(manifest_path.relative_to(root)), "updated_at": manifest["generated_at"]})
     site_path = root / "site" / "index.html"
     site_path.parent.mkdir(parents=True, exist_ok=True)
     site_path.write_text(render_site(manifest, notes), encoding="utf-8")
@@ -516,8 +409,6 @@ def run_monitor(
 
 
 def parse_args() -> argparse.Namespace:
-    """Parse the monitor command without coupling it to the comparison CLI."""
-
     parser = argparse.ArgumentParser(description="Captura y cataloga una edición oficial del DOF.")
     parser.add_argument("--date", type=date.fromisoformat, default=datetime.now(timezone.utc).date())
     parser.add_argument("--root", type=Path, default=Path("."))
@@ -525,25 +416,13 @@ def parse_args() -> argparse.Namespace:
 
 
 def main() -> int:
-    """Run the monitor from a scheduled workflow or manually."""
-
     args = parse_args()
     try:
         result = run_monitor(args.date, args.root.resolve())
     except (OSError, ValueError) as error:
         print(f"error: {error}")
         return 2
-    print(
-        json.dumps(
-            {
-                "status": result.status,
-                "note_count": result.note_count,
-                "index_url": result.index_url,
-                "normalized_sha256": result.normalized_sha256,
-            },
-            ensure_ascii=False,
-        )
-    )
+    print(json.dumps({"status": result.status, "note_count": result.note_count, "index_url": result.index_url, "normalized_sha256": result.normalized_sha256}, ensure_ascii=False))
     return 0
 
 
