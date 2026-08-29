@@ -1,1 +1,1 @@
-"""Local, traceable document comparison for DOF Diff Lab."""
+"""Traceable DOF ingestion, corpus search, and official-source discovery."""
