@@ -42,11 +42,17 @@ jobs:
           fi
           printf 'publication_date=%s\n' "$publication_date" >> "$GITHUB_OUTPUT"
 
-      - name: Capturar y catalogar el DOF
+      - name: Sincronizar SIDOF con respaldo DOF
         run: |
-          python3 -m dof_diff_lab.monitor \
+          python3 -m dof_diff_lab.intelligence sync \
             --date "${{ steps.context.outputs.publication_date }}" \
             --root .
+
+      - name: Construir corpus local consultable
+        run: |
+          python3 -m dof_diff_lab.intelligence build \
+            --root . \
+            --database .tmp/dof-corpus.sqlite3
 
       - name: Conservar derivados verificados de la corrida
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
@@ -58,6 +64,7 @@ jobs:
             data/diffs/
             data/state/
             site/
+            .tmp/dof-corpus.sqlite3
           if-no-files-found: error
           retention-days: 30
 
