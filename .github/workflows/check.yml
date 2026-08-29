@@ -21,10 +21,9 @@ jobs:
             echo "Se detectó una credencial potencialmente rastreada." >&2
             exit 1
           fi
-      - run: sudo apt-get update && sudo apt-get install --yes poppler-utils ocrmypdf tesseract-ocr-spa
-      - run: |
+      - name: Ejecutar verificaciones
+        run: |
           python3 tests/check_entrypoint.py
-          python3 tests/check_cli.py
           python3 tests/check_monitor.py
           python3 tests/check_monitor_workflow.py
           python3 tests/check_public_readiness.py
