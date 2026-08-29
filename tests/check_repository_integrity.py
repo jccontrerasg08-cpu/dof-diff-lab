@@ -2,12 +2,15 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import sys
 from urllib.parse import urlsplit
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
 
 from dof_diff_lab.monitor import canonical_bytes, note_key, sha256_bytes
 from dof_diff_lab.sources import OFFICIAL_HOSTS
 
-ROOT = Path(__file__).resolve().parents[1]
 SUPPORTED_SCHEMAS = {"1.0", "1.1"}
 
 
