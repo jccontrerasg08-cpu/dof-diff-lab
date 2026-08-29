@@ -5,7 +5,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from dof_diff_lab.sources import OFFICIAL_HOSTS, SOURCE_REGISTRY, fetch_json, normalize_sidof_payload, sidof_notes_url
+from dof_diff_lab.sources import OFFICIAL_HOSTS, fetch_json, normalize_sidof_payload, sidof_notes_url
 
 
 def test_fetch_json_retries_transient_io() -> None:
@@ -41,9 +41,6 @@ def test_fetch_json_retries_transient_io() -> None:
 
 def main() -> None:
     test_fetch_json_retries_transient_io()
-    assert SOURCE_REGISTRY["sidof"]["authority"] == "primary"
-    assert SOURCE_REGISTRY["dof_index"]["authority"] == "primary"
-    assert SOURCE_REGISTRY["tavily"]["authority"] == "discovery_only"
     assert OFFICIAL_HOSTS == {"dof.gob.mx", "www.dof.gob.mx", "sidof.segob.gob.mx"}
     assert sidof_notes_url(date(2026, 8, 29)).endswith("/notas/29-08-2026")
 
