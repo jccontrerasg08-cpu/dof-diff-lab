@@ -61,6 +61,7 @@ def main() -> None:
         "python3 tests/check_corpus.py",
         "python3 tests/check_discovery.py",
         "python3 tests/check_intelligence.py",
+        "python3 tests/check_repository_integrity.py",
     ):
         assert command in check_text, command
     for legacy_dependency in ("apt-get", "ocrmypdf", "tesseract", "pdftotext", "pdfunite"):
