@@ -29,6 +29,12 @@ def main() -> None:
                 "codNota": 5796484,
                 "titulo": "Acuerdo por el que se modifica el Código Fiscal de la Federación.",
                 "codSeccion": "PRIMERA",
+                "codDiario": 300001,
+                "pagina": 2,
+                "paginaHasta": 5,
+                "existeHtml": "S",
+                "existeDoc": "S",
+                "existeImagen": "S",
                 "nombreCodOrgaUno": "PODER EJECUTIVO",
                 "codOrgaDos": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
             }
@@ -38,6 +44,8 @@ def main() -> None:
                 "codNota": 5796999,
                 "titulo": "Aviso vespertino de prueba.",
                 "codSeccion": "UNICA",
+                "existeHtml": "N",
+                "existeImagen": "S",
                 "nombreCodOrgaUno": "PODER EJECUTIVO",
                 "codOrgaDos": "SECRETARIA DE ECONOMIA",
             }
@@ -46,6 +54,8 @@ def main() -> None:
             {
                 "codNota": 5797000,
                 "codSeccion": "UNICA",
+                "existeHtml": "N",
+                "existeImagen": "N",
                 "nombreCodOrgaUno": "PODER EJECUTIVO",
                 "codOrgaDos": "SECRETARIA DE GOBERNACION",
             }
@@ -61,7 +71,16 @@ def main() -> None:
     assert by_code["5796484"]["issuer_secondary"] == "SECRETARIA DE HACIENDA Y CREDITO PUBLICO"
     assert by_code["5796484"]["section"] == "PRIMERA"
     assert by_code["5797000"]["title"] == "Nota DOF 5797000"
-    assert by_code["5796484"]["canonical_url"].startswith("https://sidof.segob.gob.mx/")
+    assert by_code["5797000"]["title_available"] is False
+    assert by_code["5796484"]["canonical_url"] == "https://sidof.segob.gob.mx/notas/5796484"
+    assert by_code["5796999"]["canonical_url"] == "https://sidof.segob.gob.mx/notas/imagenes/5796999"
+    assert by_code["5796484"]["source_api_url"].endswith("/notas/nota/5796484")
+    assert by_code["5796484"]["has_html"] is True
+    assert by_code["5796484"]["has_document"] is True
+    assert by_code["5796484"]["has_image"] is True
+    assert by_code["5796484"]["page_start"] == 2
+    assert by_code["5796484"]["page_end"] == 5
+    assert by_code["5796484"]["journal_code"] == "300001"
     assert all(note["source_id"] == "sidof" for note in notes)
 
 
