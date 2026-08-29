@@ -18,7 +18,7 @@ def main() -> None:
             "source": {"publication_date": "2026-08-18", "edition": "matutina"},
             "notes": [{
                 "code": "5796484",
-                "title": "Acuerdo que modifica disposiciones de comercio exterior y aranceles",
+                "title": "Acuerdo que modifica la Regla 3.1.8 de comercio exterior y aranceles",
                 "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5796484",
                 "issuer_primary": "PODER EJECUTIVO",
                 "issuer_secondary": "SECRETARIA DE ECONOMIA",
@@ -37,7 +37,11 @@ def main() -> None:
         assert results[0]["issuer"] == "SECRETARIA DE ECONOMIA"
         assert results[0]["publication_date"] == "2026-08-18"
         assert results[0]["canonical_url"].startswith("https://dof.gob.mx/")
+        punctuated = search_corpus(db, "Regla 3.1.8: comercio exterior", limit=5)
+        assert len(punctuated) == 1
+        assert punctuated[0]["code"] == "5796484"
         assert search_corpus(db, "salud", limit=5) == []
+        assert search_corpus(db, "!!!", limit=5) == []
 
 
 if __name__ == "__main__":
