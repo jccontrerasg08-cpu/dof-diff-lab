@@ -1,79 +1,64 @@
 # DOF Intelligence Lab
 
-**DOF Intelligence Lab** is a daily, traceable monitor and searchable corpus for Mexico's Diario Oficial de la Federación (DOF). It prefers structured SIDOF open-data responses, falls back to the official DOF HTML index, preserves deterministic hashes and provenance, and can optionally use Tavily to discover official URLs when site structure changes.
+**DOF Intelligence Lab** is a traceable monitor and searchable corpus for Mexico's Diario Oficial de la Federación (DOF). It prefers structured SIDOF open data, falls back to the official DOF HTML index, preserves deterministic provenance, and can optionally use Tavily only to discover official URLs.
 
-> **No afiliación y uso responsable.** Este proyecto no está afiliado, patrocinado ni respaldado por el DOF ni por una autoridad pública. La **fuente primaria** siempre es la publicación oficial enlazada en `dof.gob.mx` o `sidof.segob.gob.mx`. El corpus, las etiquetas, hashes, diffs y cualquier salida de IA son derivados técnicos: no certifican autenticidad jurídica, no determinan vigencia ni efectos regulatorios y **no sustituye** la consulta de la fuente oficial ni asesoría profesional.
+> **No afiliación y uso responsable.** Este proyecto no está afiliado, patrocinado ni respaldado por el DOF ni por una autoridad pública. La fuente primaria siempre es la publicación oficial enlazada en `dof.gob.mx` o `sidof.segob.gob.mx`. Los catálogos, etiquetas, hashes y diffs son derivados técnicos: no determinan vigencia ni efectos jurídicos y no sustituyen la consulta oficial ni asesoría profesional.
 
-## Architecture
+## How it works
 
-The scheduled path is intentionally hybrid rather than “LLM first”:
+1. Query SIDOF daily JSON and normalize matutina, vespertina and extraordinaria notes.
+2. Preserve official metadata, human-facing URLs, API provenance, availability flags and record hashes.
+3. If SIDOF is unavailable or empty, cross-check the official DOF HTML index.
+4. Write deterministic normalized JSON, manifests, diffs and a static inspection page.
+5. Rebuild a local SQLite FTS5 corpus for lexical search.
+6. Optionally use Tavily Search for official-domain URL discovery. Tavily never becomes the publication source of truth.
 
-1. `SIDOF` structured JSON is queried first for daily notes and editions.
-2. If SIDOF is empty or unavailable, the monitor checks the official `dof.gob.mx` index as a fallback/cross-check.
-3. Canonical records are normalized, tagged with deterministic rules and hashed.
-4. A local SQLite FTS5 corpus can be rebuilt from all normalized records and searched without any external service.
-5. Tavily is optional discovery-only infrastructure. It is restricted to official DOF/SIDOF domains and never becomes a source of legal truth.
+The runtime is Python-standard-library only. There is no browser automation, OCR stack, vector database or mandatory external SDK.
 
-A legitimate day without a publication is `no_edition` and exits successfully. Network failures, unexpected HTTP/MIME responses and malformed pages remain hard failures so “source broke” is never silently converted to “nothing happened”.
-
-## Versioned artifacts
-
-| Artifact | Contents | Purpose |
-|---|---|---|
-| `data/normalized/YYYY-MM-DD/<edition>.json` | note code, official URL, title, issuer, deterministic tags and record hash | reproducible corpus input |
-| `data/manifests/YYYY-MM-DD/<edition>.json` | source id, timestamp, parser/schema version and normalized hash | provenance and diagnostics |
-| `data/diffs/YYYY-MM-DD[-edition].md` | additions, removals and metadata changes | human review |
-| `data/state/latest.json` | latest source, date, status and editions | operational state |
-| `site/index.html` | current source-linked summary | public inspection |
-| `.tmp/dof-corpus.sqlite3` | generated SQLite/FTS corpus | local search; not committed |
-
-## Daily sync
+## Commands
 
 ```text
-python3 -m dof_diff_lab.intelligence sync --date 2026-08-29 --root .
+python3 -m dof_diff_lab sync --date 2026-08-29 --root .
+python3 -m dof_diff_lab build --root . --database .tmp/dof-corpus.sqlite3
+python3 -m dof_diff_lab search "comercio exterior" --database .tmp/dof-corpus.sqlite3
 ```
 
-The command uses SIDOF first and the legacy official DOF index as fallback. It requires no API key.
+For optional discovery:
 
-The lower-level deterministic HTML monitor remains available for diagnostics:
+```text
+export TAVILY_API_KEY="..."
+python3 -m dof_diff_lab discover "DOF comercio exterior cambios recientes"
+```
+
+The lower-level fallback parser is also available for diagnostics:
 
 ```text
 python3 -m dof_diff_lab.monitor --date 2026-08-29 --root .
 ```
 
-## Build and search the corpus
+## Artifacts
 
-```text
-python3 -m dof_diff_lab.intelligence build --root . --database .tmp/dof-corpus.sqlite3
-python3 -m dof_diff_lab.intelligence search "comercio exterior" --database .tmp/dof-corpus.sqlite3
-python3 -m dof_diff_lab.intelligence search "SECRETARIA DE ECONOMIA" --database .tmp/dof-corpus.sqlite3 --limit 20
-```
+| Artifact | Purpose |
+|---|---|
+| `data/normalized/YYYY-MM-DD/<edition>.json` | canonical records for comparison and corpus ingestion |
+| `data/manifests/YYYY-MM-DD/<edition>.json` | provenance, parser/schema information and hashes |
+| `data/diffs/YYYY-MM-DD[-edition].md` | human-readable deterministic changes |
+| `data/state/latest.json` | latest operational state |
+| `site/index.html` | source-linked static inspection view |
+| `.tmp/dof-corpus.sqlite3` | generated search database; artifact only, not committed |
 
-Search results retain the publication date, edition, note code, issuer and official canonical URL so they can be cited or passed into a downstream RAG/LLM layer without losing provenance.
+A legitimate day with no publication is `no_edition`. Unexpected HTTP/MIME responses and malformed weekday pages remain errors so source failures are not confused with absence of news.
 
-## Optional Tavily discovery
+## Automation
 
-Set `TAVILY_API_KEY` only if you want web discovery. It is not required by scheduled runs.
+GitHub Actions checks the Mexican publication date at **16:17, 22:17 and 03:17 UTC**. The 03:17 UTC run resolves the date in `America/Mexico_City`, avoiding an accidental next-day query while giving vespertina/extraordinaria editions another capture window.
 
-```text
-export TAVILY_API_KEY="..."
-python3 -m dof_diff_lab.intelligence discover "DOF comercio exterior cambios recientes"
-```
-
-Discovery requests include only the allowlisted official hosts `dof.gob.mx`, `www.dof.gob.mx` and `sidof.segob.gob.mx`. Returned URLs are validated again before being exposed. Tavily results are marked conceptually as `discovery_only`; the project still requires an official source adapter to ingest authoritative content.
-
-## Deterministic labels
-
-The built-in labels remain explainable rule matches, not model probabilities or legal conclusions. Examples include document type (`acuerdo`, `decreto`, `resolucion`, `norma`), textual signals (`possible_modification`, `possible_repeal`, `contains_deadline`) and discovery topics (`fiscal`, `trade`, `labor`, `health`, `environment`). Every stored tag contains rule id/version and evidence.
-
-## GitHub automation
-
-The scheduled workflow runs daily at **16:17 UTC** and also supports manual ISO-date recovery. The capture job performs the hybrid sync, builds a SQLite corpus artifact, uploads verified outputs, and only then allows the publisher to commit changed `data/` and `site/` files. The corpus database stays an Actions artifact rather than a binary tracked in git.
+The workflow syncs official sources, builds the corpus artifact, uploads verified derivatives, commits only changed `data/` and `site/` outputs, and deploys the static site. Actions are pinned by commit SHA and jobs use minimum required permissions.
 
 ## Development checks
 
 ```text
-python3 tests/check_cli.py
+python3 tests/check_entrypoint.py
 python3 tests/check_monitor.py
 python3 tests/check_monitor_workflow.py
 python3 tests/check_public_readiness.py
@@ -83,11 +68,11 @@ python3 tests/check_discovery.py
 python3 tests/check_intelligence.py
 ```
 
-No test needs a network connection or secret. See [`docs/superpowers/specs/2026-08-29-dof-intelligence-corpus-design.md`](docs/superpowers/specs/2026-08-29-dof-intelligence-corpus-design.md) for the current design and [`SECURITY.md`](SECURITY.md) for responsible reporting.
+Tests are network-free and need no secrets. See [`docs/monitor-architecture.md`](docs/monitor-architecture.md) for the current design and [`SECURITY.md`](SECURITY.md) for responsible reporting.
 
-## Sources and provenance
+## Design boundaries
 
-SIDOF publishes open-data WebServices for diarios, documentos, indicadores and notas. The current adapter targets the public unauthenticated SIDOF JSON surface under `https://sidof.segob.gob.mx/dof/sidof/` and retains `dof.gob.mx` as an independent official fallback. When citing a result, use the official canonical URL, publication date, note code and repository manifest/commit where applicable.
+The current system deliberately stays mostly deterministic. SQLite FTS5 is sufficient for the existing normalized corpus and exact legal terminology. A vector/LLM layer should only be added if evaluation demonstrates retrieval value that lexical and metadata search cannot provide. Tavily remains discovery-only, and AI-generated legal conclusions are outside this repository's trust boundary.
 
 ## License
 
