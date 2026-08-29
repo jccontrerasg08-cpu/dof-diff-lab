@@ -50,7 +50,7 @@ def main() -> None:
     ):
         assert action_commit in text or action_commit in check_text, action_commit
     for command in (
-        "python3 tests/check_cli.py",
+        "python3 tests/check_entrypoint.py",
         "python3 tests/check_monitor.py",
         "python3 tests/check_monitor_workflow.py",
         "python3 tests/check_public_readiness.py",
@@ -60,6 +60,8 @@ def main() -> None:
         "python3 tests/check_intelligence.py",
     ):
         assert command in check_text, command
+    for legacy_dependency in ("apt-get", "ocrmypdf", "tesseract", "pdftotext", "pdfunite"):
+        assert legacy_dependency not in check_text, legacy_dependency
 
 
 if __name__ == "__main__":
