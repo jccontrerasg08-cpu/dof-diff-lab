@@ -31,3 +31,4 @@ jobs:
           python3 tests/check_corpus.py
           python3 tests/check_discovery.py
           python3 tests/check_intelligence.py
+          python3 tests/check_repository_integrity.py
