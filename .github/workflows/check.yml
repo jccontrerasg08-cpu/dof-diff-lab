@@ -27,3 +27,7 @@ jobs:
           python3 tests/check_monitor.py
           python3 tests/check_monitor_workflow.py
           python3 tests/check_public_readiness.py
+          python3 tests/check_sources.py
+          python3 tests/check_corpus.py
+          python3 tests/check_discovery.py
+          python3 tests/check_intelligence.py
