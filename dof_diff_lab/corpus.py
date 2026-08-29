@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import re
 import sqlite3
 
 SCHEMA = """
@@ -35,6 +36,13 @@ def _tag_value(note: dict[str, object], name: str) -> str:
         if isinstance(item, dict) and item.get("name") == name and item.get("value"):
             values.append(str(item["value"]))
     return " ".join(values)
+
+
+def _fts_query(query: str) -> str | None:
+    tokens = re.findall(r"\w+", query, flags=re.UNICODE)
+    if not tokens:
+        return None
+    return " ".join(f'"{token.replace(chr(34), chr(34) * 2)}"' for token in tokens)
 
 
 def build_corpus(normalized_root: Path, database_path: Path) -> int:
@@ -73,7 +81,8 @@ def build_corpus(normalized_root: Path, database_path: Path) -> int:
 
 
 def search_corpus(database_path: Path, query: str, limit: int = 10) -> list[dict[str, str]]:
-    if not query.strip() or limit < 1:
+    match_query = _fts_query(query)
+    if match_query is None or limit < 1:
         return []
     with sqlite3.connect(database_path) as connection:
         connection.row_factory = sqlite3.Row
@@ -84,6 +93,6 @@ def search_corpus(database_path: Path, query: str, limit: int = 10) -> list[dict
                WHERE notes_fts MATCH ?
                ORDER BY score ASC, n.publication_date DESC
                LIMIT ?""",
-            (query, limit),
+            (match_query, limit),
         ).fetchall()
     return [{key: str(row[key] if row[key] is not None else "") for key in row.keys()} for row in rows]
