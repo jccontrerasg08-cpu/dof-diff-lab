@@ -5,10 +5,42 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from dof_diff_lab.sources import OFFICIAL_HOSTS, SOURCE_REGISTRY, normalize_sidof_payload, sidof_notes_url
+from dof_diff_lab.sources import OFFICIAL_HOSTS, SOURCE_REGISTRY, fetch_json, normalize_sidof_payload, sidof_notes_url
+
+
+def test_fetch_json_retries_transient_io() -> None:
+    class Response:
+        status = 200
+
+        def __enter__(self) -> "Response":
+            return self
+
+        def __exit__(self, *_args: object) -> None:
+            return None
+
+        def read(self) -> bytes:
+            return b'{"response":"OK","NotasMatutinas":[]}'
+
+    attempts: list[int] = []
+
+    def opener(_request: object, timeout: int) -> Response:
+        attempts.append(timeout)
+        if len(attempts) == 1:
+            raise TimeoutError("temporary SIDOF timeout")
+        return Response()
+
+    payload = fetch_json(
+        "https://sidof.segob.gob.mx/dof/sidof/notas/29-08-2026",
+        attempts=2,
+        opener=opener,
+        sleeper=lambda _seconds: None,
+    )
+    assert isinstance(payload, dict)
+    assert attempts == [30, 30]
 
 
 def main() -> None:
+    test_fetch_json_retries_transient_io()
     assert SOURCE_REGISTRY["sidof"]["authority"] == "primary"
     assert SOURCE_REGISTRY["dof_index"]["authority"] == "primary"
     assert SOURCE_REGISTRY["tavily"]["authority"] == "discovery_only"
