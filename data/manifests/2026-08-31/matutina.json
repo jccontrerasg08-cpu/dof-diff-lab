@@ -1,0 +1,47 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-08-31T09:41:49+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 8,
+      "circular": 1,
+      "otro": 9
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "COMISION FEDERAL DE ELECTRICIDAD": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 4,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE SALUD": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA": 3
+    },
+    "by_topic": {
+      "data_protection": 1,
+      "energy": 1,
+      "environment": 1,
+      "financial": 1,
+      "health": 2,
+      "other": 11,
+      "public_procurement": 1,
+      "trade": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-08-31/matutina.json",
+  "normalized_sha256": "81e804ec75ea60c1ffbfc28341ba5e25b8e68f86ac47ad07fc258fb67333ee1a",
+  "note_count": 18,
+  "parser_version": "1.1",
+  "publication_date": "2026-08-31",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=08&day=31",
+    "raw_retained": false,
+    "raw_sha256": "c8e1cb9c04129d6b9bbdccf427d2987e50050bca2b42b7c7e3fb94c5427b3c13",
+    "raw_size": 81561
+  },
+  "status": "changed"
+}
