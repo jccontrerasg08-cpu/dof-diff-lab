@@ -1,0 +1,47 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-01T08:36:58+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 1,
+      "circular": 1,
+      "convenio": 5,
+      "otro": 6,
+      "resolucion": 2,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE LAS MUJERES": 2,
+      "SECRETARIA DE SALUD": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 3,
+      "labor": 1,
+      "other": 11
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-01/matutina.json",
+  "normalized_sha256": "a2b2e43ae1c96f690a9a950c60cc5e39109c67a62a0523cdfd2aad68d5d20e2d",
+  "note_count": 16,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-01",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=01",
+    "raw_retained": false,
+    "raw_sha256": "f82131a538739a1a74882f84c15df07c1eef51b24ba4fadaec03ec339ae79dc3",
+    "raw_size": 74985
+  },
+  "status": "changed"
+}
