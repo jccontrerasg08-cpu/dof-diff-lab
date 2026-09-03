@@ -1,0 +1,675 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797797&fecha=03/09/2026",
+      "code": "5797797",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "eb5b9fe4a151d88815e58475cede9cae9da8048fab49e6f34dc1db639147e0f3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 11-37-19 hectáreas del ejido \"San Luis Huamantla\", municipio de Huamantla, estado de Tlaxcala, a favor del Instituto Nacional del Suelo Sustentable.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 11-37-19 hectáreas del ejido \"San Luis Huamantla\", municipio de Huamantla, estado de Tlaxcala, a favor del Instituto Nacional del Suelo Sustentable."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797799&fecha=03/09/2026",
+      "code": "5797799",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "79a2ad4576726007fe5f76e4c6b922b98ce50b2abfd29d7df0c883a0e521ec4d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Raúl Eduardo Nelli García y firmantes de la agrupación denominada Iglesia Alumbra México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Raúl Eduardo Nelli García y firmantes de la agrupación denominada Iglesia Alumbra México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797800&fecha=03/09/2026",
+      "code": "5797800",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "a82d74b15c93965a781e60fe656c3e8a30f2a0e7ff49604de14f0c0d4f604780",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Roberto Ubaldo Jiménez Chávez y firmantes de la agrupación denominada Iglesia de Cristo Fuente de la Esperanza en San Francisco de Campeche México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Roberto Ubaldo Jiménez Chávez y firmantes de la agrupación denominada Iglesia de Cristo Fuente de la Esperanza en San Francisco de Campeche México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797801&fecha=03/09/2026",
+      "code": "5797801",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "69f4d57562aeaf395e731c8d01a7bc717a7e4bc629588a5a2352678b9ba92d9a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Juan Manuel Mena Martínez y firmantes de la agrupación denominada Centro de Restauración El Kairos de Cristo te Llama.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Juan Manuel Mena Martínez y firmantes de la agrupación denominada Centro de Restauración El Kairos de Cristo te Llama."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797803&fecha=03/09/2026",
+      "code": "5797803",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "0ddd011ceec8e7f29b7bbb72d80c5d9388161f2b725b2f503a2e63127877eb8f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Ensenada, que otorga la Secretaría de Marina en favor de la Administración del Sistema Portuario Nacional Ensenada, S.A. de C.V.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Ensenada, que otorga la Secretaría de Marina en favor de la Administración del Sistema Portuario Nacional Ensenada, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Ensenada, que otorga la Secretaría de Marina en favor de la Administración del Sistema Portuario Nacional Ensenada, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797805&fecha=03/09/2026",
+      "code": "5797805",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "e0ea1c4787daa53440cc87e764bf0f9f34ef213edcd831953108d5ebbbd0e07b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Secretaría de Agricultura y Desarrollo Rural, el inmueble federal denominado \"DDR y CADER FRESNILLO\", con Registro Federal Inmobiliario 32-5568-0 y superficie de 3,339.211 metros cuadrados, ubicado en calle República de Costa Rica número 106, Colonia las Américas, Código Postal 99030, Municipio de Fresnillo, Estado de Zacatecas.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Secretaría de Agricultura y Desarrollo Rural, el inmueble federal denominado \"DDR y CADER FRESNILLO\", con Registro Federal Inmobiliario 32-5568-0 y superficie de 3,339.211 metros cuadrados, ubicado en calle República de Costa Rica número 106, Colonia las Américas, Código Postal 99030, Municipio de Fresnillo, Estado de Zacatecas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797806&fecha=03/09/2026",
+      "code": "5797806",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "186b191025b93ec56324f4db44a1c8fe34216813cc7f7d26c19d8e9142f42054",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Secretaría de Agricultura y Desarrollo Rural, el inmueble federal denominado \"Representación Estatal de Agricultura en Zacatecas\", con Registro Federal Inmobiliario 32-5567-1 y superficie de 6,800.492 metros cuadrados, que proviene de un inmueble de mayor extensión, ubicado en Avenida Secretaría de la Defensa Nacional número 88, Colonia Guadalupe Centro, Código Postal 98600, Municipio de Guadalupe, Estado de Zacatecas.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Secretaría de Agricultura y Desarrollo Rural, el inmueble federal denominado \"Representación Estatal de Agricultura en Zacatecas\", con Registro Federal Inmobiliario 32-5567-1 y superficie de 6,800.492 metros cuadrados, que proviene de un inmueble de mayor extensión, ubicado en Avenida Secretaría de la Defensa Nacional número 88, Colonia Guadalupe Centro, Código Postal 98600, Municipio de Guadalupe, Estado de Zacatecas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797807&fecha=03/09/2026",
+      "code": "5797807",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "f4de440056a0d842c93807f046258f2e81788412eb7bbf591d3e27e315cb3709",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina al Instituto Nacional de Estudios Históricos de las Revoluciones de México, el inmueble federal denominado \"Centro Cultural SHCP\", con Registro Federal Inmobiliario 9-6597-3 y superficie de 512.00 metros cuadrados, ubicado en Calle República de Guatemala número 80, Colonia Centro, Código Postal 06020, alcaldía Cuauhtémoc, Ciudad de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina al Instituto Nacional de Estudios Históricos de las Revoluciones de México, el inmueble federal denominado \"Centro Cultural SHCP\", con Registro Federal Inmobiliario 9-6597-3 y superficie de 512.00 metros cuadrados, ubicado en Calle República de Guatemala número 80, Colonia Centro, Código Postal 06020, alcaldía Cuauhtémoc, Ciudad de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797809&fecha=03/09/2026",
+      "code": "5797809",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "943cceefabd9284242c72d355700833c0c41c8b28c2d56dc4ecc063e8480e9c0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de aceros laminados en caliente originarias de la República Popular China y la República Socialista de Vietnam, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de aceros laminados en caliente originarias de la República Popular China y la República Socialista de Vietnam, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797811&fecha=03/09/2026",
+      "code": "5797811",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "f602dc79fde41c318646f72743cd99c03aae76efc1579718dd7880f8182c06e2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Manual de Organización General de la Secretaría Anticorrupción y Buen Gobierno.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Manual de Organización General de la Secretaría Anticorrupción y Buen Gobierno.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Manual de Organización General de la Secretaría Anticorrupción y Buen Gobierno."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797812&fecha=03/09/2026",
+      "code": "5797812",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "37dabd331304ad5dfdbb8b6a19243d29cf2282c9e0bc270cf68097cba0041300",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, así como a las entidades federativas y sus municipios, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física Roy González Padilla.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, así como a las entidades federativas y sus municipios, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física Roy González Padilla."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797814&fecha=03/09/2026",
+      "code": "5797814",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "aaf541ced5d69a722a1e9c80129e2a60fcd5c4b2ff192b83675d367fa574e30f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Durango.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Durango."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797815&fecha=03/09/2026",
+      "code": "5797815",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "cb45658d52156eb2e5091f308496bd1f4499d1bb6c3a502c6e336f76d5c8e922",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Guerrero.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Guerrero."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797816&fecha=03/09/2026",
+      "code": "5797816",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "11181250671e7a34c0c87148886107cbbded8e13f5770c5d822e7b58ab022be4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el Acuerdo delegatorio para suscribir instrumentos jurídicos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el Acuerdo delegatorio para suscribir instrumentos jurídicos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797818&fecha=03/09/2026",
+      "code": "5797818",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "45bcaded76b8f06aad10b79cb7e293ee7b7158dd1bfe02c91ed11e9930960f1e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Quintana Roo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797819&fecha=03/09/2026",
+      "code": "5797819",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "ae17de2b8c50f2dc11bbbd3a08cb818d3970118ecb383e93c69e73ac1b5c4aa7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de San Luis Potosí."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797820&fecha=03/09/2026",
+      "code": "5797820",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "23b995843acba6978bfd2cd19c7de509d9d36e5d1df253b634c15ef1ae9d2e1d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Centros de Conciliación, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Baja California, publicado en el Diario Oficial de la Federación el 06 de agosto de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Centros de Conciliación, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Baja California, publicado en el Diario Oficial de la Federación el 06 de agosto de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Centros de Conciliación, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Baja California, publicado en el Diario Oficial de la Federación el 06 de agosto de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797821&fecha=03/09/2026",
+      "code": "5797821",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "a58cf856523426570683feb4aac0b5f92f236b574923727ac8690ff1735a98ad",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Campeche, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Campeche, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Campeche, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797823&fecha=03/09/2026",
+      "code": "5797823",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "c478aa35dd366b74e9d701e2fee59c297ff2d7ebcb0e5ecaa156906b8382fb7b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Centro de Justicia para las Mujeres de Matehuala, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Centro de Justicia para las Mujeres de Matehuala, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797824&fecha=03/09/2026",
+      "code": "5797824",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "e1b6a48a3f421ae245760e54f61ef7652ad2637fcbaa2ad3f58c0fc2663885ce",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Rioverde, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Rioverde, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797826&fecha=03/09/2026",
+      "code": "5797826",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "AGENCIA DE TRANSFORMACION DIGITAL Y TELECOMUNICACIONES",
+      "record_sha256": "2cf01b42c7079171df3c1453ddf7c229be8a033b3c50480021523911c32eb658",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos para la Implementación del Modelo Nacional de Atención Ciudadana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Lineamientos para la Implementación del Modelo Nacional de Atención Ciudadana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Lineamientos para la Implementación del Modelo Nacional de Atención Ciudadana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797829&fecha=03/09/2026",
+      "code": "5797829",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e43312a34977e2f3c67bc43fca5d8efac67d699596af6633deca14dcc5488c85",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797830&fecha=03/09/2026",
+      "code": "5797830",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "7508e7ecacd70a2660c88d2104ff7d0b435ebd368341208dea417cbfe1d4e780",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797831&fecha=03/09/2026",
+      "code": "5797831",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0723b1d823eeb80511eef58746b9119d6e410121b3f6db44cdbf307df9bdec82",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=03",
+    "name": "DOF official index",
+    "publication_date": "2026-09-03"
+  }
+}
