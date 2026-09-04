@@ -1,0 +1,50 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-04T07:57:11+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 2,
+      "convenio": 4,
+      "decreto": 1,
+      "norma": 2,
+      "otro": 10,
+      "resolucion": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 3,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
+      "SECRETARIA DE ECONOMIA": 2,
+      "SECRETARIA DE GOBERNACION": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 4,
+      "SECRETARIA DE LAS MUJERES": 2,
+      "SECRETARIA DE SALUD": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 2,
+      "TRIBUNAL SUPERIOR AGRARIO": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 2,
+      "other": 19,
+      "trade": 2
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-04/matutina.json",
+  "normalized_sha256": "81ab6c9a7356554869422c8536e06939a650d3dac1172e712721bf0054422337",
+  "note_count": 24,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-04",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=04",
+    "raw_retained": false,
+    "raw_sha256": "2d0738229c360a0ca254efb8fe61c90c85a249882f62a8f28cf4d3931aada1a5",
+    "raw_size": 87517
+  },
+  "status": "changed"
+}
