@@ -1,65 +1,11 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797937&fecha=04/09/2026",
-      "code": "5797937",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "15a0cebc1443bfadcc4eb16dd542c1713774b26ae3853701e80275a52907a299",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "decreto",
-          "name": "document_type",
-          "rule_id": "document_type.decreto",
-          "rule_version": "1.0",
-          "value": "decreto"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Decreto por el que se expide el Reglamento de la Ley de Infraestructura de la Calidad.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Decreto por el que se expide el Reglamento de la Ley de Infraestructura de la Calidad."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797939&fecha=04/09/2026",
-      "code": "5797939",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "19c530952192c5cf20ac45548d111752727f3b3f9eafb09927811c369908e9e1",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación que celebran la Secretaría de Gobernación y la Universidad Intercultural del Estado de México, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios de la UIEM.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y la Universidad Intercultural del Estado de México, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios de la UIEM."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797941&fecha=04/09/2026",
-      "code": "5797941",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798037&fecha=04/09/2026",
+      "code": "5798037",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "a7ba55e20e55503da7989565ff0a7c63407d8d10ece95ff8ca96c90e7be43f6d",
+      "record_sha256": "aba16da32f1cc9b9be01715a0fc558570616131f4aafc183e204648b95a22bb7",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -72,29 +18,75 @@
         },
         {
           "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "aduanas",
+          "evidence": "fiscal",
           "name": "topic",
-          "rule_id": "topic.trade",
+          "rule_id": "topic.fiscal",
           "rule_version": "1.0",
-          "value": "trade"
+          "value": "fiscal"
         }
       ],
-      "title": "Acuerdo que modifica el diverso por el que se determina la circunscripción territorial de las aduanas y las secciones aduaneras de las aduanas."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797943&fecha=04/09/2026",
-      "code": "5797943",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798038&fecha=04/09/2026",
+      "code": "5798038",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9d85fa771f8b3b86a86c93bbe978903be60e60efc4fc1ca5abcc3df303cb5fe1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798039&fecha=04/09/2026",
+      "code": "5798039",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "97223a8092a05f234367197877b2e623da4cfeff42d1cd2a728d9973750d7bb1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798041&fecha=04/09/2026",
+      "code": "5798041",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "7593b5eff4c4a2be641d40165b278807c3ff47650a1c987d0fafb1cfbf3fff4f",
+      "record_sha256": "4d1341b7a08139ac77840c701fb71d98b4192887d8642ac5432ed682aaa257a5",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -107,361 +99,21 @@
         },
         {
           "confidence": "low",
-          "evidence": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de perfiles y barras de aluminio originarias de la República Popular China, independientemente del país de procedencia.",
+          "evidence": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de perfiles huecos de aluminio originarias de los Estados Unidos de América y la República Popular China, independientemente del país de procedencia.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de perfiles y barras de aluminio originarias de la República Popular China, independientemente del país de procedencia."
+      "title": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de perfiles huecos de aluminio originarias de los Estados Unidos de América y la República Popular China, independientemente del país de procedencia."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797944&fecha=04/09/2026",
-      "code": "5797944",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "7cb1aeccc600a1524f01259c4841db537dc058ab90727a96271506d3999c5299",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "exportacion",
-          "name": "topic",
-          "rule_id": "topic.trade",
-          "rule_version": "1.0",
-          "value": "trade"
-        }
-      ],
-      "title": "Aviso por el que se comunican los montos disponibles del cupo de exportación de azúcar refinada, correspondientes al ciclo azucarero 2025-2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797946&fecha=04/09/2026",
-      "code": "5797946",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "946b80f8a8d9783fd75b2255a08f516416a36913e3a69c45a107d75b74277cf1",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "norma oficial mexicana",
-          "name": "document_type",
-          "rule_id": "document_type.norma",
-          "rule_version": "1.0",
-          "value": "norma"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-008-SICT2-2026, Amortiguadores de impacto en carreteras y vías urbanas.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-008-SICT2-2026, Amortiguadores de impacto en carreteras y vías urbanas."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797947&fecha=04/09/2026",
-      "code": "5797947",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "0c89aa700cd4673a33c9ca3b937da9497deeb3634382740ffa37244aac74dd60",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "norma oficial mexicana",
-          "name": "document_type",
-          "rule_id": "document_type.norma",
-          "rule_version": "1.0",
-          "value": "norma"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-005-SICT2-2026, Información de Emergencia para el Transporte de Substancias Materiales y Residuos Peligrosos (mercancías peligrosas).",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-005-SICT2-2026, Información de Emergencia para el Transporte de Substancias Materiales y Residuos Peligrosos (mercancías peligrosas)."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797948&fecha=04/09/2026",
-      "code": "5797948",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "ca1fc48fea2f30c78f8bb7b61d0ad23db43e5e1f77dc7aafe4b55d9c723fb51d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\".",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797949&fecha=04/09/2026",
-      "code": "5797949",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "9ac1b2e51c4e2128ba280a0e3e8346fdeaba24936b3496211acc77c494d588b6",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Lineamientos Generales para la asignación de horarios de aterrizaje y despegue en aeródromos civiles de servicio al público con potencial de saturación Nivel 2.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Lineamientos Generales para la asignación de horarios de aterrizaje y despegue en aeródromos civiles de servicio al público con potencial de saturación Nivel 2.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Lineamientos Generales para la asignación de horarios de aterrizaje y despegue en aeródromos civiles de servicio al público con potencial de saturación Nivel 2."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797951&fecha=04/09/2026",
-      "code": "5797951",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "309f07c2cd22c288c8c9fac514e6f82f6b34969c9695006328e274bb35c95a3b",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Hidalgo.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificatorio",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Hidalgo."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797952&fecha=04/09/2026",
-      "code": "5797952",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "f7aea3935eff27e319729c835d4f168dd9c4475969bf15bfe9d318025a6d6b1e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Jalisco.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificatorio",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Jalisco."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797954&fecha=04/09/2026",
-      "code": "5797954",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
-      "record_sha256": "efe75d679ef01fb5adaf9c00e9a0dc91ad860dea9f2f95ad40027c0edeaf6ae2",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de México, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de México, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de México, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797955&fecha=04/09/2026",
-      "code": "5797955",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
-      "record_sha256": "2b4f7832445da5a64a173f1407eca7f9440f17b93192bebe4e8500623bc23cd0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Michoacán de Ocampo, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Michoacán de Ocampo, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Nota Aclaratoria al Convenio de Coordinación para el otorgamiento del subsidio para la creación, fortalecimiento y/o mejora de los Tribunales Laborales, que celebran la Secretaría del Trabajo y Previsión Social y el Estado de Michoacán de Ocampo, publicado en el Diario Oficial de la Federación el 07 de agosto de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797957&fecha=04/09/2026",
-      "code": "5797957",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "record_sha256": "82b9e14def52f0a9b867aba5f0f9175df046276e81951d4db52734cf2d02b5f4",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Veracruz de Ignacio de la Llave y el Municipio de Minatitlán.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Veracruz de Ignacio de la Llave y el Municipio de Minatitlán."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797959&fecha=04/09/2026",
-      "code": "5797959",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
-      "record_sha256": "9a4d93d03e52ef8028c2a6aac30429d37c4fe7a8fbc96f7098dea645a20efe0f",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia de Rioverde, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de San Luis Potosí, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia de Rioverde, San Luis Potosí, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797960&fecha=04/09/2026",
-      "code": "5797960",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
-      "record_sha256": "06060c00dff58e86ea5b4658a73ebafdc68b34a579603b8aa97233d88e3ad2c9",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Sinaloa, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Culiacán, Sinaloa, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Sinaloa, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres de Culiacán, Sinaloa, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797962&fecha=04/09/2026",
-      "code": "5797962",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
-      "record_sha256": "104d3bcb79083dc61530e380e09744c743ad0059d8830ef97954b38fc53b1089",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798043&fecha=04/09/2026",
+      "code": "5798043",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "bdfa6129d9aad2499f055095f7a8415719b547e4dbdb11bd81946fa4285ffce6",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -474,227 +126,14 @@
         },
         {
           "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo por el que se modifica el diverso por el que se establecen los plazos de respuesta a diversos trámites ante el Instituto Mexicano de la Propiedad Industrial.",
+          "evidence": "adquisiciones",
           "name": "topic",
-          "rule_id": "topic.other",
+          "rule_id": "topic.public_procurement",
           "rule_version": "1.0",
-          "value": "other"
+          "value": "public_procurement"
         }
       ],
-      "title": "Acuerdo por el que se modifica el diverso por el que se establecen los plazos de respuesta a diversos trámites ante el Instituto Mexicano de la Propiedad Industrial."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797963&fecha=04/09/2026",
-      "code": "5797963",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
-      "record_sha256": "a7bc90b4d75922956b6306b353b19a88ffb5794cc0b77dd3447ac78f286fff7e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo por el que se modifica el diverso por el que se establecen lineamientos en materia de servicios electrónicos del Instituto Mexicano de la Propiedad Industrial.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo por el que se modifica el diverso por el que se establecen lineamientos en materia de servicios electrónicos del Instituto Mexicano de la Propiedad Industrial."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797964&fecha=04/09/2026",
-      "code": "5797964",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
-      "record_sha256": "78567e9f0b5d7d2b0dc85c18f1974673585fcaebbfe8caefd1837d2c91455652",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Quesillo de Pijijiapan, Chiapas\".",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Quesillo de Pijijiapan, Chiapas\".",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Publicación de datos relacionados con la Solicitud de Declaración de Protección a la Indicación Geográfica \"Quesillo de Pijijiapan, Chiapas\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797966&fecha=04/09/2026",
-      "code": "5797966",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "91688c95e3630e1d8f7f637fcb0d1a212efdb86a360d88ebb1c5d132caa8e8be",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797967&fecha=04/09/2026",
-      "code": "5797967",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "0c20cce5aedac807c76c0bf902ed9b015179134a1820f86829f96330da8cda47",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797968&fecha=04/09/2026",
-      "code": "5797968",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "40145295312e4a69cf84a44cc68f567cb59069022178cfc09a5a018bb46c6ac6",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797969&fecha=04/09/2026",
-      "code": "5797969",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "200c03d3ef3448b5abd192525251f150b3fc2aee2716b574836963e51afb99e5",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de agosto de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de agosto de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de agosto de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797971&fecha=04/09/2026",
-      "code": "5797971",
-      "issuer_primary": "TRIBUNAL SUPERIOR AGRARIO",
-      "issuer_secondary": null,
-      "record_sha256": "135e104e26a68c6d02f36dc3c50d011f763322560ec7e2c3ca791f6fc3f43def",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo General 16/2026 que emite el Honorable Pleno del Tribunal Superior Agrario, por el que se modifica el Acuerdo General 12/2025 relativo a los Lineamientos para la recepción, sustanciación y resolución de los asuntos de la competencia ordinaria y transitoria del Tribunal Superior Agrario.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo General 16/2026 que emite el Honorable Pleno del Tribunal Superior Agrario, por el que se modifica el Acuerdo General 12/2025 relativo a los Lineamientos para la recepción, sustanciación y resolución de los asuntos de la competencia ordinaria y transitoria del Tribunal Superior Agrario."
+      "title": "Acuerdo del Pleno del Órgano de Administración Judicial por el que se habilitan los días 5 y 6 de septiembre de 2026, para que el Comité de Adquisiciones, Arrendamientos y Servicios, la Coordinación de Administración Regional, la Coordinación de Seguridad del Poder Judicial de la Federación y demás áreas administrativas puedan realizar los procedimientos de contratación necesarios."
     }
   ],
   "schema_version": "1.1",

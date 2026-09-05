@@ -1,40 +1,25 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-09-04T19:00:22+00:00",
+  "generated_at": "2026-09-05T00:08:11+00:00",
   "insights": {
     "by_document_type": {
       "acuerdo": 4,
-      "aviso": 2,
-      "convenio": 4,
-      "decreto": 1,
-      "norma": 2,
-      "otro": 10,
       "resolucion": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 4,
-      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 3,
-      "PRESIDENCIA DE LA REPUBLICA": 1,
-      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
-      "SECRETARIA DE ECONOMIA": 2,
-      "SECRETARIA DE GOBERNACION": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 4,
-      "SECRETARIA DE LAS MUJERES": 2,
-      "SECRETARIA DE SALUD": 2,
-      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 2,
-      "TRIBUNAL SUPERIOR AGRARIO": 1
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 3
     },
     "by_topic": {
-      "financial": 1,
-      "health": 2,
-      "other": 19,
-      "trade": 2
+      "fiscal": 1,
+      "other": 3,
+      "public_procurement": 1
     }
   },
   "normalized_path": "data/normalized/2026-09-04/matutina.json",
-  "normalized_sha256": "81ab6c9a7356554869422c8536e06939a650d3dac1172e712721bf0054422337",
-  "note_count": 24,
+  "normalized_sha256": "22412518f65c5c0efcd9340fd05bacf40a3bb34baaef9ec270988b99dd83f565",
+  "note_count": 5,
   "parser_version": "1.1",
   "publication_date": "2026-09-04",
   "schema_version": "1.1",
@@ -43,8 +28,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=04",
     "raw_retained": false,
-    "raw_sha256": "8211f3442f2efb020d059506853ed902d6a5d1066556a0a72ea1dc6d4e37337c",
-    "raw_size": 87517
+    "raw_sha256": "d0b47e4612a3f998a30cc904cb194f8bce49a883edaf108db0c9c40657a7db7b",
+    "raw_size": 55082
   },
-  "status": "no_change"
+  "status": "changed"
 }
