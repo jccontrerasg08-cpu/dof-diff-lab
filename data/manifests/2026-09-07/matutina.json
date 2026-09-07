@@ -1,0 +1,50 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-07T08:15:21+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 1,
+      "aviso": 5,
+      "convenio": 5,
+      "norma": 1,
+      "otro": 6,
+      "resolucion": 1,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE LAS MUJERES": 2,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SALUD": 3,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION": 1
+    },
+    "by_topic": {
+      "energy": 2,
+      "financial": 1,
+      "health": 3,
+      "other": 14
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-07/matutina.json",
+  "normalized_sha256": "8d5bac74a32013008c1e13c6e74d9067f132867b213dcb39e1dd81286680bfe4",
+  "note_count": 20,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-07",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=07",
+    "raw_retained": false,
+    "raw_sha256": "7c7dd408722af1de5458ce5c9d0da17643d1f29c3735c43366d32fd223e03bb0",
+    "raw_size": 82908
+  },
+  "status": "changed"
+}
