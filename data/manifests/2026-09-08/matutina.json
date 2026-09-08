@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-08T08:02:50+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "convenio": 5,
+      "otro": 4,
+      "resolucion": 1,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "COMISION REGULADORA DE TELECOMUNICACIONES": 1,
+      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "financial": 1,
+      "health": 1,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-08/matutina.json",
+  "normalized_sha256": "b69fa2d40290bec0bb8158603acdf35ce8099b95c3b922e56e4ff5f54f9df54c",
+  "note_count": 15,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-08",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=08",
+    "raw_retained": false,
+    "raw_sha256": "6024ceece33fd62042b7b7aa42b181ab2c5b0ce6bb4cc5ed9686d4143cdb09d7",
+    "raw_size": 76122
+  },
+  "status": "changed"
+}
