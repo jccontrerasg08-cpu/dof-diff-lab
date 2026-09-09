@@ -1,0 +1,483 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798257&fecha=09/09/2026",
+      "code": "5798257",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "81c7c4055633fa36e173213a26a309a0a11e2fabd3dd4f469782269ef282ddb0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se modifica la Delimitación y Determinación del Recinto Portuario del Puerto de Guaymas, ubicado en el Municipio de Guaymas, Estado de Sonora.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se modifica la Delimitación y Determinación del Recinto Portuario del Puerto de Guaymas, ubicado en el Municipio de Guaymas, Estado de Sonora."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798259&fecha=09/09/2026",
+      "code": "5798259",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "a8e38a2424114ff2531bbf9a54820e44b07a059e9a4e9a1abfd4f3571187addb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio mediante el cual se modifica la autorización para organizarse, operar y funcionar como institución de seguros otorgada a Tláloc Seguros, S.A.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Oficio mediante el cual se modifica la autorización para organizarse, operar y funcionar como institución de seguros otorgada a Tláloc Seguros, S.A.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Oficio mediante el cual se modifica la autorización para organizarse, operar y funcionar como institución de seguros otorgada a Tláloc Seguros, S.A."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798261&fecha=09/09/2026",
+      "code": "5798261",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "f91e0525a4262e61f245a000c0d8ce6d7e471cc182ac7192e05d0a04fbaab9a5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Norma Oficial Mexicana NOM-157-SEMARNAT-2026, Que establece los elementos y procedimientos para instrumentar planes de manejo de residuos mineros.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Norma Oficial Mexicana NOM-157-SEMARNAT-2026, Que establece los elementos y procedimientos para instrumentar planes de manejo de residuos mineros."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798263&fecha=09/09/2026",
+      "code": "5798263",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "f1e737c1555c17d7e1e471c11a179c037c7987fc41eed6dd18593c3ff001cefd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de vidrio flotado de color originarias de la República Popular China, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de vidrio flotado de color originarias de la República Popular China, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798265&fecha=09/09/2026",
+      "code": "5798265",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "4d5e7e3fc324df221825d265d8395da55720e15f710247a522d9b9d26ae5cbe4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Links & Masters Corporation, S.A.P.I. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Links & Masters Corporation, S.A.P.I. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798266&fecha=09/09/2026",
+      "code": "5798266",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "0e78634855647a5c1458dd3a7c073ee86554490e8aa55b75a82bed3e7df53ebd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "electrica",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, a las demarcaciones territoriales de la Ciudad de México, así como a los entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Simec Servicios de Ingeniería, Mecánica, Eléctrica y Civil, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798268&fecha=09/09/2026",
+      "code": "5798268",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE EDUCACION PUBLICA",
+      "record_sha256": "a97c359cb1fc21b8f02cf763df784c8bab3ff99be9f301e13894aab7a4adfb58",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional de Educal, S.A. de C.V. 2026-2030.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional de Educal, S.A. de C.V. 2026-2030.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Programa Institucional de Educal, S.A. de C.V. 2026-2030."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798270&fecha=09/09/2026",
+      "code": "5798270",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "1a474ed96fafbb8ad9b88ee65721110e7d48fba9378b7c1bc641c1de36d91fb2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tlaxcala.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tlaxcala."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798271&fecha=09/09/2026",
+      "code": "5798271",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "c3f35d6874e4e965a638099b5c63ebe40d186c63c1d996ac9b87e973a60a1432",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Zacatecas.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Zacatecas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798273&fecha=09/09/2026",
+      "code": "5798273",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "29936c78167b8e047182804c93abdeccb3cd7172cff67f48353a59b7b84dc4c4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Veracruz de Ignacio de la Llave, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia para las Mujeres del Estado de Veracruz, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Veracruz de Ignacio de la Llave, que tiene por objeto el otorgamiento de subsidio para el Proyecto Fortalecimiento del Centro de Justicia para las Mujeres del Estado de Veracruz, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798275&fecha=09/09/2026",
+      "code": "5798275",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "1e9374317c7bc9c531229aa01d47abd8df2833f11a649bbf7bdd10ecfea98b95",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se modifica el diverso por el que se establecen las Reglas para la presentación de solicitudes ante el Instituto Mexicano de la Propiedad Industrial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se modifica el diverso por el que se establecen las Reglas para la presentación de solicitudes ante el Instituto Mexicano de la Propiedad Industrial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798277&fecha=09/09/2026",
+      "code": "5798277",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA RADIO",
+      "record_sha256": "13a6204033950cd1513937949a0d384d273ecf5f587ab23659481cfe704ea13a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer la liga electrónica que redirige al Estatuto Orgánico del Instituto Mexicano de la Radio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer la liga electrónica que redirige al Estatuto Orgánico del Instituto Mexicano de la Radio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798279&fecha=09/09/2026",
+      "code": "5798279",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "cf6c4a90fb666d7b7935493fc9dd36e81089ccf2930619a603c4d173973195e7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798280&fecha=09/09/2026",
+      "code": "5798280",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "95ea918ac1cceb44201eadf501f1e70dcbf5b2691af509f916161d29c3cd31db",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798281&fecha=09/09/2026",
+      "code": "5798281",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "ad15bd3ef1ef0a388416afba7b2187af4ba0081c555205d4aa635435a5fbb782",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798284&fecha=09/09/2026",
+      "code": "5798284",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "17512d06f555abb23e69219ed62c54742782c798c2af05d84a09023618ce3005",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-182/2026 y su acumulado, por medio del cual confirma la Resolución INE/CG347/2026, por razones diferentes, respecto de la denominación, el emblema y los colores del Partido Político Nacional Somos México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-182/2026 y su acumulado, por medio del cual confirma la Resolución INE/CG347/2026, por razones diferentes, respecto de la denominación, el emblema y los colores del Partido Político Nacional Somos México."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=09",
+    "name": "DOF official index",
+    "publication_date": "2026-09-09"
+  }
+}
