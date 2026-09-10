@@ -1,0 +1,49 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-10T08:06:27+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 2,
+      "aviso": 1,
+      "convenio": 6,
+      "otro": 7,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "INSTITUTO NACIONAL DE CIENCIAS PENALES": 1,
+      "ORGANISMOS AUTONOMOS": 1,
+      "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE EDUCACION PUBLICA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE LAS MUJERES": 2,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "financial": 1,
+      "fiscal": 1,
+      "health": 1,
+      "other": 14
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-10/matutina.json",
+  "normalized_sha256": "b92dedf5ed48de000464a8346b8fda588cbb25a806a45c4cd0ae405c554b02d9",
+  "note_count": 17,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-10",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=10",
+    "raw_retained": false,
+    "raw_sha256": "085a975ef6389059cc724c89c7036f0b72cfb424b1ad9b20f3769866c9a564f0",
+    "raw_size": 80048
+  },
+  "status": "changed"
+}
