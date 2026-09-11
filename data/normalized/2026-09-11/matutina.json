@@ -1,0 +1,505 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798657&fecha=11/09/2026",
+      "code": "5798657",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "6d69e9ca84d40a86bedb8824b947eab559c2395d0644cc31af99cb73bc7aa22e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en la Competencia Internacional \"Desafío Agulhas Negras\", que se llevará a cabo del 13 al 19 de septiembre de 2026, en la Academia Militar \"Agulhas Negras\", en Río de Janeiro, Brasil.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en la Competencia Internacional \"Desafío Agulhas Negras\", que se llevará a cabo del 13 al 19 de septiembre de 2026, en la Academia Militar \"Agulhas Negras\", en Río de Janeiro, Brasil."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798659&fecha=11/09/2026",
+      "code": "5798659",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "bb9bde87e3cbd3ed38ad447e6bf862e9919931187996f9cb0f178bf94e6d054e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Instituto Electoral del Estado de Querétaro, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP) entre los usuarios del IEEQ.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Instituto Electoral del Estado de Querétaro, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP) entre los usuarios del IEEQ."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798661&fecha=11/09/2026",
+      "code": "5798661",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9e09a05d69bb21a89ad2d64ce51b9032811788600174adf1849f40edca20c509",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Secretaría de Marina, el inmueble federal denominado \"Estación Oceanográfica\", con Registro Federal Inmobiliario 20-19466-3 y superficie de 12,357.00 metros cuadrados, el cual proviene de un inmueble de mayor extensión, ubicado en calle Progreso, número 203, colonia Centro, Código Postal 70690, Municipio de Salina Cruz, Estado de Oaxaca.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Secretaría de Marina, el inmueble federal denominado \"Estación Oceanográfica\", con Registro Federal Inmobiliario 20-19466-3 y superficie de 12,357.00 metros cuadrados, el cual proviene de un inmueble de mayor extensión, ubicado en calle Progreso, número 203, colonia Centro, Código Postal 70690, Municipio de Salina Cruz, Estado de Oaxaca."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798662&fecha=11/09/2026",
+      "code": "5798662",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "74b33fc3a02209b4409408f2e62a706bb60761fd787f48b89866dff315379c92",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular No. PRES/001/2026 por la que se actualiza la base de cálculo y se amplía la cobertura temporal de la Tabla 1 Coeficientes de Actualización contenida en la metodología de los servicios valuatorios regulados por el Instituto de Administración y Avalúos de Bienes Nacionales para estimar la actualización de valor de los activos: bienes inmuebles (urbanos, en transición y agropecuarios), y en la metodología de los servicios valuatorios regulados por el Instituto de Administración y Avalúos de Bienes Nacionales para estimar el valor referido de los activos: bienes inmuebles (urbanos, en transición y agropecuarios).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular No. PRES/001/2026 por la que se actualiza la base de cálculo y se amplía la cobertura temporal de la Tabla 1 Coeficientes de Actualización contenida en la metodología de los servicios valuatorios regulados por el Instituto de Administración y Avalúos de Bienes Nacionales para estimar la actualización de valor de los activos: bienes inmuebles (urbanos, en transición y agropecuarios), y en la metodología de los servicios valuatorios regulados por el Instituto de Administración y Avalúos de Bienes Nacionales para estimar el valor referido de los activos: bienes inmuebles (urbanos, en transición y agropecuarios)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798664&fecha=11/09/2026",
+      "code": "5798664",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "3775e150c7b9271085e6e4813528bae7a03bc610ccb707d0020bd0979e5e5444",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo mediante el cual se dan a conocer los trámites a cargo de la Secretaría de Medio Ambiente y Recursos Naturales habilitados en la Ventanilla Electrónica Ambiental en materia de impacto ambiental."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798665&fecha=11/09/2026",
+      "code": "5798665",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "250223ec960f7fdfc8265ee148482cd2f42df7b917f4f12234d356b91e0be582",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo mediante el cual se delega a la persona titular de la Unidad de Administración y Finanzas de la Procuraduría Federal de Protección al Ambiente, la facultad para determinar la separación de las personas servidoras públicas sujetas al Servicio Profesional de Carrera."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798667&fecha=11/09/2026",
+      "code": "5798667",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "fddde9deb14ebf34b918cb59129e5a17f007ddde5b4c8295259400a828b62b0f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "energia",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Acuerdo por el que se emiten las Disposiciones Reglamentarias para el Catálogo de Equipos y Aparatos, respecto de los cuales los sujetos obligados deben reportar su consumo de energía y formatos para la entrega de información."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798669&fecha=11/09/2026",
+      "code": "5798669",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "c9ad8336384237ec23802f8727b9144c61bd93489203bae5e312ae743cc26f54",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico en materia de transferencia de recursos federales con el carácter de subsidios, para fortalecer la ejecución y desarrollo del programa y proyectos federales de Protección contra Riesgos Sanitarios, así como de la Red Nacional de Laboratorios de Salud Pública, correspondiente al ejercicio fiscal 2026, que celebran la Secretaría de Salud y el Estado de Hidalgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798670&fecha=11/09/2026",
+      "code": "5798670",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "14cdd06a5efbc4cf863a161b5661c8f8ce202f07903b28ab4ad6275701ba8d52",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se informa la actualización de diversa normatividad interna del Instituto Nacional de Cardiología Ignacio Chávez.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se informa la actualización de diversa normatividad interna del Instituto Nacional de Cardiología Ignacio Chávez."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798672&fecha=11/09/2026",
+      "code": "5798672",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "49c383e79d034dc17e59cf29e7c5a6697efe38684231e21091dc28d8ff6c7efe",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de San Francisco, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de San Francisco, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798673&fecha=11/09/2026",
+      "code": "5798673",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "57785f6997f152442e75f72a523ae8bea7310ada6fb48eba94f39f018cdc0c80",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Ciudad del Carmen, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Ciudad del Carmen, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798674&fecha=11/09/2026",
+      "code": "5798674",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "41c81afc0d8f6eeaeb9112799bf184491b29ef98e3f9902d08b856b8f0856764",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Escárcega, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Campeche, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia de Escárcega, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798676&fecha=11/09/2026",
+      "code": "5798676",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "fbcf21ffc4f16eaff178e11b9cad310808d77a86735a48c226c7480cae063409",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 184/2024.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 184/2024."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798678&fecha=11/09/2026",
+      "code": "5798678",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "7dcd30576e3be038f52300cd433696f7986f45dcaa0a33a50b96b92d8abf2b24",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798679&fecha=11/09/2026",
+      "code": "5798679",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "fc391bf4b1617d73425c49a97c6ae92fdb5c0ec79a51c1992cee629fa952999c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798680&fecha=11/09/2026",
+      "code": "5798680",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "bf008198fd9c59af164a9eabfd649a2225faf3399049cc1b59742a5710956018",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798682&fecha=11/09/2026",
+      "code": "5798682",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "8204af3c9a3618c44e12e161db5dd631b7a8485f2d1896732635b06949fbd9fb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/84/2026, denominado \"Redistribución de expedientes radicados en las Salas Regionales en Chihuahua, Sonora, Oaxaca y Jalisco, para ser remitidos a las Salas Auxiliares correspondientes\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/84/2026, denominado \"Redistribución de expedientes radicados en las Salas Regionales en Chihuahua, Sonora, Oaxaca y Jalisco, para ser remitidos a las Salas Auxiliares correspondientes\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/84/2026, denominado \"Redistribución de expedientes radicados en las Salas Regionales en Chihuahua, Sonora, Oaxaca y Jalisco, para ser remitidos a las Salas Auxiliares correspondientes\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798683&fecha=11/09/2026",
+      "code": "5798683",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "d871fdb85d7a31cb8e94c4f08461ed68418a5b5920333a86b18e7d65f0b03388",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/83/2026, denominado \"Suplencia de persona Magistrada, en la Primera Ponencia de la Sala Regional en Guanajuato I\".",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo G/JGA/83/2026, denominado \"Suplencia de persona Magistrada, en la Primera Ponencia de la Sala Regional en Guanajuato I\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo G/JGA/83/2026, denominado \"Suplencia de persona Magistrada, en la Primera Ponencia de la Sala Regional en Guanajuato I\"."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=11",
+    "name": "DOF official index",
+    "publication_date": "2026-09-11"
+  }
+}

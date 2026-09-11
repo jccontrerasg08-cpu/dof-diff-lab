@@ -1,0 +1,50 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-11T08:01:05+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 1,
+      "circular": 1,
+      "convenio": 5,
+      "decreto": 1,
+      "otro": 5,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE GOBERNACION": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 2,
+      "SECRETARIA DE SALUD": 2,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA": 2
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 2,
+      "financial": 1,
+      "fiscal": 1,
+      "health": 1,
+      "other": 13
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-11/matutina.json",
+  "normalized_sha256": "ad6b6d22cb770ac066d3181738c206f20fe14b2926faee3283bdecc9eb4db0dd",
+  "note_count": 18,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-11",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=11",
+    "raw_retained": false,
+    "raw_sha256": "ffd8f130970df212d3cbf7c32bdaf3aab62d70bf223042583887f200c2d324b5",
+    "raw_size": 81139
+  },
+  "status": "changed"
+}
