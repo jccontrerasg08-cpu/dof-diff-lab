@@ -1,0 +1,502 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798757&fecha=14/09/2026",
+      "code": "5798757",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "301bc6a44591655c9017aec9c95ef3514a9470f7a16cb96bee5816e000f62c22",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se da a conocer la liga electrónica para consulta de las Reglas de Operación del Puerto de Topolobampo de la Administración del Sistema Portuario Nacional Topolobampo, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se da a conocer la liga electrónica para consulta de las Reglas de Operación del Puerto de Topolobampo de la Administración del Sistema Portuario Nacional Topolobampo, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798759&fecha=14/09/2026",
+      "code": "5798759",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "bd29b3516ebe1e4d768accc9063ebe220b369baff563d1bdba102e3a0a4b7804",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "deroga",
+          "name": "signal",
+          "rule_id": "signal.possible_repeal",
+          "rule_version": "1.0",
+          "value": "possible_repeal"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "hacienda",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Resolución que deroga el Anexo 4 de la diversa que establece el mecanismo para garantizar el pago de contribuciones en mercancías sujetas a precios estimados por la Secretaría de Hacienda y Crédito Público."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798761&fecha=14/09/2026",
+      "code": "5798761",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "d83a47c0841ad6992612aa28487c47507c88769403562a046105af48482190c4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-007-ENER-2026, Eficiencia energética para sistemas de alumbrado en edificios no residenciales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-007-ENER-2026, Eficiencia energética para sistemas de alumbrado en edificios no residenciales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798762&fecha=14/09/2026",
+      "code": "5798762",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "bbc7ac1652d0f6b2360e8ba8c884b218e7a46b58326796999d7091ce416ba2fd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-013-ENER-2026, Eficiencia energética para sistemas de alumbrado en vialidades.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-013-ENER-2026, Eficiencia energética para sistemas de alumbrado en vialidades."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798764&fecha=14/09/2026",
+      "code": "5798764",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "4f1da0ebd73740af551a24fdec9228d103176af0e87305d07f5bfc9a4435908e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de Declaratoria de Abandono de aeronaves que se encuentran localizadas en el \"Aeropuerto Internacional de Ciudad Obregón\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798766&fecha=14/09/2026",
+      "code": "5798766",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "964c1b0a37a0acfa6eb38ddd56dfad3cf88864338fce8e512f449cd00888d4ba",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico en materia de transferencia de recursos federales con el carácter de subsidios, para fortalecer la ejecución y desarrollo del programa y proyectos federales de Protección contra Riesgos Sanitarios, así como de la Red Nacional de Laboratorios de Salud Pública, correspondientes al ejercicio fiscal 2026, que celebran la Secretaría de Salud y el Estado de Jalisco."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798768&fecha=14/09/2026",
+      "code": "5798768",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "54676d84d402e2093dbf1e8b92303fea2500f0db73a75e0a6695e4305640c180",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Tabasco y el Municipio de Centla (CMC/PTB/VIE/004/2026).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Tabasco y el Municipio de Centla (CMC/PTB/VIE/004/2026)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798769&fecha=14/09/2026",
+      "code": "5798769",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "ea3612ef895fe30ff1a410a39579c5e4796f57c20c84fe69237ba988b2935aee",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación Específico para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Tabasco y el Municipio de Centla (CCE/DGIE/004/2026).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación Específico para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Tabasco y el Municipio de Centla (CCE/DGIE/004/2026)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798771&fecha=14/09/2026",
+      "code": "5798771",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "3e119054e2af70d9fb1f3ae028eaef3c1f57b9a82cbdc840cbfb3e24da9cf1f1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/CHIS/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chiapas, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/CHIS/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798773&fecha=14/09/2026",
+      "code": "5798773",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL ANTIMONOPOLIO",
+      "record_sha256": "e8654f657b02911b58aeebec3abfed6d4a501f87a68877c705452d85eb568fd4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual la Autoridad Investigadora de la Comisión Nacional Antimonopolio informa del inicio de la investigación de oficio identificada con el número de expediente IO-001-2026, por la posible comisión de prácticas monopólicas relativas en el mercado de \"afiliación, organización y acceso a competiciones de fútbol profesional federado en México, así como servicios similares o relacionados\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual la Autoridad Investigadora de la Comisión Nacional Antimonopolio informa del inicio de la investigación de oficio identificada con el número de expediente IO-001-2026, por la posible comisión de prácticas monopólicas relativas en el mercado de \"afiliación, organización y acceso a competiciones de fútbol profesional federado en México, así como servicios similares o relacionados\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798775&fecha=14/09/2026",
+      "code": "5798775",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e16b1edcec6d2745768a15bd09320de95610309e7595a4d185d10625876aea05",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798776&fecha=14/09/2026",
+      "code": "5798776",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4c64dc76cbea3b4a3fc3adcc6bce8d78138b7b779c2157cc82fe5a7f42df7741",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798777&fecha=14/09/2026",
+      "code": "5798777",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "d29076b64a22b37af010a991bf5cca9a3dc7e9c6ef9e4b32e9a590b3b7ba3f72",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798778&fecha=14/09/2026",
+      "code": "5798778",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "87f2155ff2a30fe0c3c317d40a1047351cfa4048187535342ba63c42a33e10ff",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798780&fecha=14/09/2026",
+      "code": "5798780",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "7f365e436e0565f5df33a6c222f382da006a86876e23ceca21344f9e7d11ea5e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "datos personales",
+          "name": "topic",
+          "rule_id": "topic.data_protection",
+          "rule_version": "1.0",
+          "value": "data_protection"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento sancionador ordinario con número de expediente UT/SCG/Q/MDBT/JD06/SIN/ 68/2018, iniciado con motivo de sendas denuncias en contra del Partido Revolucionario Institucional, por supuestas violaciones a la normativa electoral, consistentes en la vulneración al derecho de libre afiliación de diversas personas que aspiraban al cargo de supervisor electoral y/o capacitador-asistente electoral para el Proceso Electoral 2017-2018 y, en su caso, el uso no autorizado de sus datos personales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798782&fecha=14/09/2026",
+      "code": "5798782",
+      "issuer_primary": "TRIBUNAL SUPERIOR AGRARIO",
+      "issuer_secondary": null,
+      "record_sha256": "9a22d1dcd72f3f934b2ba3a24d885054c1f73fd582dd17bfc6cba81316d30b42",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "adiciona",
+          "name": "signal",
+          "rule_id": "signal.possible_addition",
+          "rule_version": "1.0",
+          "value": "possible_addition"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General 18/2026 que emite el Pleno del H. Tribunal Superior Agrario, por el que se adiciona la fracción XV al artículo 2, los párrafos tercero a sexto al artículo 10, el artículo 157 bis y el artículo 197 del Reglamento Interior de los Tribunales Agrarios.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General 18/2026 que emite el Pleno del H. Tribunal Superior Agrario, por el que se adiciona la fracción XV al artículo 2, los párrafos tercero a sexto al artículo 10, el artículo 157 bis y el artículo 197 del Reglamento Interior de los Tribunales Agrarios."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798783&fecha=14/09/2026",
+      "code": "5798783",
+      "issuer_primary": "TRIBUNAL SUPERIOR AGRARIO",
+      "issuer_secondary": null,
+      "record_sha256": "9683d43c2915849db486c1d25b7f3646713184c62d179706bcf73479ba7c6ff0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "aguas",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Sentencia dictada en el juicio agrario 189/93, relativo a la solicitud de dotación de aguas del poblado denominado Pueblo Nuevo, Municipio Chignahuapan, Pue."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=14",
+    "name": "DOF official index",
+    "publication_date": "2026-09-14"
+  }
+}

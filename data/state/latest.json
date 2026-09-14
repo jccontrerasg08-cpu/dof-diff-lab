@@ -1,8 +1,8 @@
 {
   "edition": "matutina",
-  "manifest_path": "data/manifests/2026-09-11/matutina.json",
-  "normalized_sha256": "2f546170f2e24257c9241af70cb04923da3955f6ce123a8def20c0b868d70570",
-  "publication_date": "2026-09-11",
+  "manifest_path": "data/manifests/2026-09-14/matutina.json",
+  "normalized_sha256": "f61d61777ac5f26f20aa512aaa98e69924092a583b55ae85351c452be53b5898",
+  "publication_date": "2026-09-14",
   "status": "changed",
-  "updated_at": "2026-09-12T00:20:28+00:00"
+  "updated_at": "2026-09-14T08:52:18+00:00"
 }
