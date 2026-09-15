@@ -1,0 +1,49 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-15T08:38:41+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 4,
+      "convenio": 3,
+      "otro": 4,
+      "resolucion": 1,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO": 1,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE MARINA": 3,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 2,
+      "TRIBUNAL SUPERIOR AGRARIO": 1
+    },
+    "by_topic": {
+      "environment": 1,
+      "financial": 1,
+      "fiscal": 1,
+      "health": 1,
+      "labor": 2,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-15/matutina.json",
+  "normalized_sha256": "6b941438fbf3e2051b6be68511784700909ed0213dfe88acac51f5c93ed01ca1",
+  "note_count": 16,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-15",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=15",
+    "raw_retained": false,
+    "raw_sha256": "207660d71d54e7c399f42c889c5fad3ba303fa1991672d97d5ef851ac2158e37",
+    "raw_size": 78007
+  },
+  "status": "changed"
+}
