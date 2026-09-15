@@ -1,41 +1,20 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-09-14T20:19:51+00:00",
+  "generated_at": "2026-09-15T00:40:35+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 1,
-      "aviso": 3,
-      "convenio": 4,
-      "norma": 2,
-      "otro": 4,
-      "resolucion": 2,
-      "sentencia": 1
+      "acuerdo": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 4,
-      "COMISION NACIONAL ANTIMONOPOLIO": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
-      "SECRETARIA DE ENERGIA": 2,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
-      "SECRETARIA DE LAS MUJERES": 1,
-      "SECRETARIA DE MARINA": 1,
-      "SECRETARIA DE SALUD": 1,
-      "TRIBUNAL SUPERIOR AGRARIO": 2
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1
     },
     "by_topic": {
-      "data_protection": 1,
-      "environment": 1,
-      "financial": 1,
-      "fiscal": 2,
-      "health": 1,
-      "other": 12
+      "labor": 1
     }
   },
   "normalized_path": "data/normalized/2026-09-14/matutina.json",
-  "normalized_sha256": "f61d61777ac5f26f20aa512aaa98e69924092a583b55ae85351c452be53b5898",
-  "note_count": 17,
+  "normalized_sha256": "fcaea553a07d055a980df45365501f8c174e8e1fca4866890517bdb7fa0d1865",
+  "note_count": 1,
   "parser_version": "1.1",
   "publication_date": "2026-09-14",
   "schema_version": "1.1",
@@ -44,8 +23,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=14",
     "raw_retained": false,
-    "raw_sha256": "79df30b0fe6422fc754bdfcb37f69e840e25ccd64c320dfbcd4ec5c3907e8b18",
-    "raw_size": 80209
+    "raw_sha256": "659afff845ebf85cd910a9a54f13d9d7d2cf846c7b90d75c6a7fa9325551fb90",
+    "raw_size": 49989
   },
-  "status": "no_change"
+  "status": "changed"
 }
