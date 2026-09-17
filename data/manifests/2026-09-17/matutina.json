@@ -1,0 +1,45 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-17T08:37:29+00:00",
+  "insights": {
+    "by_document_type": {
+      "aviso": 1,
+      "convenio": 4,
+      "otro": 8,
+      "resolucion": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL ELECTORAL": 3,
+      "INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE LAS MUJERES": 2,
+      "SECRETARIA DE SALUD": 1,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1
+    },
+    "by_topic": {
+      "data_protection": 1,
+      "financial": 4,
+      "fiscal": 1,
+      "health": 1,
+      "labor": 2,
+      "other": 7
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-17/matutina.json",
+  "normalized_sha256": "78afaf03d91f1a0d38a3d19b1e8ad6b1c90b5c8e546d6558545b7215f2441f5a",
+  "note_count": 14,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-17",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=17",
+    "raw_retained": false,
+    "raw_sha256": "1be4b8900aa6a76510fd23b156674c90117dc59de510d874b02ba227bd2234bf",
+    "raw_size": 74365
+  },
+  "status": "changed"
+}

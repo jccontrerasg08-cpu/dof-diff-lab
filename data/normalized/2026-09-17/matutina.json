@@ -1,0 +1,405 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798897&fecha=17/09/2026",
+      "code": "5798897",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "504932c3612d76346dfd033ab274de6e76d8c5dc674bf51aa3406680146aa31d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio mediante el cual se revoca la autorización otorgada a Unión de Crédito Mexicano de Servicios Profesionales, S.A. de C.V., para continuar realizando operaciones como unión de crédito.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Oficio mediante el cual se revoca la autorización otorgada a Unión de Crédito Mexicano de Servicios Profesionales, S.A. de C.V., para continuar realizando operaciones como unión de crédito.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Oficio mediante el cual se revoca la autorización otorgada a Unión de Crédito Mexicano de Servicios Profesionales, S.A. de C.V., para continuar realizando operaciones como unión de crédito."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798898&fecha=17/09/2026",
+      "code": "5798898",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "cbe064da145d78deb2851523a4248c64f34df4ddf8c32e6b7d5a6282b2cde837",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio mediante el cual se revoca la autorización otorgada a Acción y Evolución, S.A. de C.V., S.F.P., para organizarse y operar como sociedad financiera popular.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financiera",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Oficio mediante el cual se revoca la autorización otorgada a Acción y Evolución, S.A. de C.V., S.F.P., para organizarse y operar como sociedad financiera popular."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798900&fecha=17/09/2026",
+      "code": "5798900",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "08ce8f6b1cccbeb315c2e3d4e36ee43cf20bd1317964568b81c484268c0728fd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer la acreditación otorgada a la persona moral ATEB Servicios, S.A. de C.V., para fungir como Prestador de Servicios de Certificación en el servicio de Emisión de Certificados Digitales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer la acreditación otorgada a la persona moral ATEB Servicios, S.A. de C.V., para fungir como Prestador de Servicios de Certificación en el servicio de Emisión de Certificados Digitales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798902&fecha=17/09/2026",
+      "code": "5798902",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "c61c8a2aadb683210ef5b793533ab666b727d4b250bccfcf73a7ee91f4959c3b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico en materia de transferencia de recursos federales con el carácter de subsidios, para fortalecer la ejecución y desarrollo del programa y proyectos federales de Protección contra Riesgos Sanitarios, así como de la Red Nacional de Laboratorios de Salud Pública, correspondiente al ejercicio fiscal 2026, que celebran la Secretaría de Salud y el Estado de Nuevo León."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798904&fecha=17/09/2026",
+      "code": "5798904",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "6d87a01c75b2e15bcac4f0b11f1995d20de33f17c98b9daeeadd2421188eedba",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Coahuila de Zaragoza."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798906&fecha=17/09/2026",
+      "code": "5798906",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "1da45fe9f228aef4a504be49008356e6a09005d087b4e6a72f47dc147ba30a11",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Morelos, que tiene por objeto el otorgamiento de subsidio para el Proyecto Creación del Centro de Justicia de Jojutla Morelos, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Morelos, que tiene por objeto el otorgamiento de subsidio para el Proyecto Creación del Centro de Justicia de Jojutla Morelos, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798907&fecha=17/09/2026",
+      "code": "5798907",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "64927721c77e8cc0ac9eb04d973f53487f185f7483fee0e8fb09102dbcb3bd48",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guerrero, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres en Chilpancingo, Guerrero, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guerrero, que tiene por objeto el otorgamiento de subsidio para el Proyecto Operación del Centro de Justicia para las Mujeres en Chilpancingo, Guerrero, que permita dar cumplimiento a la aplicación de recursos destinados al Componente A: Subsidio a los Centros de Justicia para las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798909&fecha=17/09/2026",
+      "code": "5798909",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO",
+      "record_sha256": "5e91656f7b99f6801d3e1cfe442602bb2f749178135051ae19ce41c7ef6c8ae5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Monto de los pagos efectuados por las instituciones de banca múltiple por concepto de cuotas ordinarias del periodo comprendido entre el 1 de abril de 2026 y el 30 de junio de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Monto de los pagos efectuados por las instituciones de banca múltiple por concepto de cuotas ordinarias del periodo comprendido entre el 1 de abril de 2026 y el 30 de junio de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Monto de los pagos efectuados por las instituciones de banca múltiple por concepto de cuotas ordinarias del periodo comprendido entre el 1 de abril de 2026 y el 30 de junio de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798911&fecha=17/09/2026",
+      "code": "5798911",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e7a462ef198ff11c2f5af4211d4fdaf8da85fce2904104c3b58d34c0835780e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798912&fecha=17/09/2026",
+      "code": "5798912",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e94492271b91cc92a9c73bac23175f9cc028799ebfe763db40c9622794f32711",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798913&fecha=17/09/2026",
+      "code": "5798913",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "7be136efcfe2fc8f0bdbc91cc28c76f397a68d06abc1121fd9e84313a6556e9b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798916&fecha=17/09/2026",
+      "code": "5798916",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "2c7b3175bde989d0e234fcefdc032cd9d4b39a891e95023c0241f1b0ab6286f5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "datos personales",
+          "name": "topic",
+          "rule_id": "topic.data_protection",
+          "rule_version": "1.0",
+          "value": "data_protection"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento sancionador ordinario con número de expediente UT/SCG/Q/JAFG/JD02/BCS/ 91/2018, iniciado con motivo de la presentación de sendas denuncias en contra del Partido de la Revolución Democrática, por supuestas violaciones a la normativa electoral, consistentes en la probable violación a su derecho de libertad de afiliación y, en su caso, la utilización indebida de sus datos personales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798917&fecha=17/09/2026",
+      "code": "5798917",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "6f2e21470448f06d7ecaf1a891f654bf9f0f6cac6fafc7aa8ba3dece2c259146",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a saldos y productos financieros de fideicomisos en que participa el Instituto Nacional Electoral, que se proporciona en cumplimiento de la obligación establecida en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con corte al 30 de junio de 2026 (Fondo para el cumplimiento del Programa de Infraestructura Inmobiliaria y para la Atención Ciudadana y Mejoramiento de Módulos del Instituto Nacional Electoral).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Información relativa a saldos y productos financieros de fideicomisos en que participa el Instituto Nacional Electoral, que se proporciona en cumplimiento de la obligación establecida en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con corte al 30 de junio de 2026 (Fondo para el cumplimiento del Programa de Infraestructura Inmobiliaria y para la Atención Ciudadana y Mejoramiento de Módulos del Instituto Nacional Electoral)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5798918&fecha=17/09/2026",
+      "code": "5798918",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "c4513d506de2ada6d27edfc54b3a900c2d097557223fad6bc5827eaa93ce78b3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a saldos y productos financieros de fideicomisos en que participa el Instituto Nacional Electoral, que se proporciona en cumplimiento de la obligación establecida en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con corte al 30 de junio de 2026 (Fondo para Atender el Pasivo Laboral del Instituto Nacional Electoral).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "laboral",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Información relativa a saldos y productos financieros de fideicomisos en que participa el Instituto Nacional Electoral, que se proporciona en cumplimiento de la obligación establecida en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con corte al 30 de junio de 2026 (Fondo para Atender el Pasivo Laboral del Instituto Nacional Electoral)."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=17",
+    "name": "DOF official index",
+    "publication_date": "2026-09-17"
+  }
+}
