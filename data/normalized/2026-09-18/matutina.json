@@ -1,386 +1,11 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799037&fecha=18/09/2026",
-      "code": "5799037",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799117&fecha=18/09/2026",
+      "code": "5799117",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "9bb267aafd804ddae91604606fc515da4ac40fa5add2fde104307fa44a30f272",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 700 04 00 00 00 2026-088 mediante el cual se da a conocer el listado de Prestadores de Servicios Digitales Inscritos en el Registro Federal de Contribuyentes, en términos del artículo 18-D, primer párrafo, fracción I, de la Ley del Impuesto al Valor Agregado vigente.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "impuesto",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 700 04 00 00 00 2026-088 mediante el cual se da a conocer el listado de Prestadores de Servicios Digitales Inscritos en el Registro Federal de Contribuyentes, en términos del artículo 18-D, primer párrafo, fracción I, de la Ley del Impuesto al Valor Agregado vigente."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799038&fecha=18/09/2026",
-      "code": "5799038",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "3cde1ad59cec59c97f34cbb8d03009dc335d13e6681f95a2772d111901bfbc8d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-24366 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-24366 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799039&fecha=18/09/2026",
-      "code": "5799039",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "bf775c22ade77825bb13abd3abf27e05119f398ca393952c4f6473b4009415a7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-21664 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-21664 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799040&fecha=18/09/2026",
-      "code": "5799040",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "4fc762471b316546a05a406166c0ecb56067f4861b1f1157fa95c111268c9ecd",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-21663 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-21663 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799042&fecha=18/09/2026",
-      "code": "5799042",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "f556fa2c823d390d6adf777da5389dd74760e984803ebaab4088a79eff96c1ea",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799043&fecha=18/09/2026",
-      "code": "5799043",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "c419ca18b5b7236c6353309573a77b9f3bd46546ba603343787980b038eb0e97",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Bases de Colaboración que celebran la Secretaría de Infraestructura, Comunicaciones y Transportes, a través de la Subsecretaría de Comunicaciones y Transportes, y la Agencia Federal de Aviación Civil, que tienen por objeto establecer los mecanismos mediante los cuales colaborarán en materia de capacitación, búsqueda y salvamento, así como en la investigación de accidentes e incidentes de aviación civil, con el propósito de promover y fortalecer la seguridad operacional del Estado mexicano.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Bases de Colaboración que celebran la Secretaría de Infraestructura, Comunicaciones y Transportes, a través de la Subsecretaría de Comunicaciones y Transportes, y la Agencia Federal de Aviación Civil, que tienen por objeto establecer los mecanismos mediante los cuales colaborarán en materia de capacitación, búsqueda y salvamento, así como en la investigación de accidentes e incidentes de aviación civil, con el propósito de promover y fortalecer la seguridad operacional del Estado mexicano.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Bases de Colaboración que celebran la Secretaría de Infraestructura, Comunicaciones y Transportes, a través de la Subsecretaría de Comunicaciones y Transportes, y la Agencia Federal de Aviación Civil, que tienen por objeto establecer los mecanismos mediante los cuales colaborarán en materia de capacitación, búsqueda y salvamento, así como en la investigación de accidentes e incidentes de aviación civil, con el propósito de promover y fortalecer la seguridad operacional del Estado mexicano."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799045&fecha=18/09/2026",
-      "code": "5799045",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "62f5669e026f376624d8248957d602c30a9e3f6cb43288754cdb7fe1726afb4a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa SOS Sistemas Opcionales en Salud, S.A. de C.V."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799047&fecha=18/09/2026",
-      "code": "5799047",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "106a8b71382d7beffdaaf4d7597bb3595784aab0d7e0cd1e99ef520660052601",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Convenio Específico en materia de transferencia de recursos federales con el carácter de subsidios, para fortalecer la ejecución y desarrollo del programa y proyectos federales de Protección contra Riesgos Sanitarios, así como de la Red Nacional de Laboratorios de Salud Pública, correspondientes al ejercicio fiscal 2026, que celebran la Secretaría de Salud y el Estado de Quintana Roo."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799049&fecha=18/09/2026",
-      "code": "5799049",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
-      "record_sha256": "44d52bf5b012e0660a1b5dc767c6d283eeeda09fbb4722f697aa5ad807b70136",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "empleo",
-          "name": "topic",
-          "rule_id": "topic.labor",
-          "rule_version": "1.0",
-          "value": "labor"
-        }
-      ],
-      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Chiapas."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799051&fecha=18/09/2026",
-      "code": "5799051",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE CULTURA",
-      "record_sha256": "b4ae0a72c092d3cf3bb05856db0198a755fe729eb914b4cedd034189479d6c4e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el cual se da a conocer al público en general la dirección electrónica en donde se pueden consultar las Disposiciones Aplicables a la Licenciatura en Cinematografía del Centro de Capacitación Cinematográfica, A.C. (CCC).",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el cual se da a conocer al público en general la dirección electrónica en donde se pueden consultar las Disposiciones Aplicables a la Licenciatura en Cinematografía del Centro de Capacitación Cinematográfica, A.C. (CCC)."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799053&fecha=18/09/2026",
-      "code": "5799053",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
-      "record_sha256": "dd721126b39413151d8aea227b54b0bcea5f97cd94891cd8dd25308c1658d32a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chihuahua, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/CHIH/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Chihuahua, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/CHIH/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799055&fecha=18/09/2026",
-      "code": "5799055",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO",
-      "record_sha256": "af4975d5b6a1100c6a4d08fb7bf40fe8b14e7fa28c918d75e6f6c93bf8537ce8",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifican",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "financiera",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Acuerdo por el que se modifican los Lineamientos para la aplicación del Programa Específico, a que se refiere la base tercera, numeral 2), inciso a), párrafo segundo de las Bases para la liquidación del Organismo Público Descentralizado denominado Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799057&fecha=18/09/2026",
-      "code": "5799057",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
-      "record_sha256": "e834db035b57eddfdf3c3501657b5a91278bdecbc49ef1cd4c27f62d9dad3961",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Políticas que regulan los supuestos en que la Comisión Federal de Electricidad se abstendrá de considerar ofertas o celebrar contratos en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "electricidad",
-          "name": "topic",
-          "rule_id": "topic.energy",
-          "rule_version": "1.0",
-          "value": "energy"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "adquisiciones",
-          "name": "topic",
-          "rule_id": "topic.public_procurement",
-          "rule_version": "1.0",
-          "value": "public_procurement"
-        }
-      ],
-      "title": "Políticas que regulan los supuestos en que la Comisión Federal de Electricidad se abstendrá de considerar ofertas o celebrar contratos en materia de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799059&fecha=18/09/2026",
-      "code": "5799059",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "c49836ebadf9af30264c60aaca53c0c7249e0704d20f5ea3146693ff10a61b54",
+      "record_sha256": "2734aabfc319192186d84b797d50e392ee301e5c4862da6ff70a2ab031e40522",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -398,24 +23,16 @@
           "rule_id": "topic.fiscal",
           "rule_version": "1.0",
           "value": "fiscal"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "adquisicion",
-          "name": "topic",
-          "rule_id": "topic.public_procurement",
-          "rule_version": "1.0",
-          "value": "public_procurement"
         }
       ],
-      "title": "Acuerdo General número 9/2026-LAG, del Pleno de la Suprema Corte de Justicia de la Nación, de nueve de septiembre de dos mil veintiséis, por el que se levanta el aplazamiento del dictado de la resolución en los recursos de revisión del conocimiento de los Tribunales Colegiados de Circuito, en los que subsista el análisis de constitucionalidad del artículo 113 del Código Fiscal de la Ciudad de México, en relación con la tarifa aplicable para la determinación del impuesto sobre adquisición de inmuebles vigente para los ejercicios fiscales 2022, 2023 y 2024; ordenado en el diverso 13/2025 (12a.), de veinticuatro de septiembre de dos mil veinticinco."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799060&fecha=18/09/2026",
-      "code": "5799060",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "5b623d3fb0116bb51813cc99ba3f982a295a4d5e748a664068b063371a481a7a",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799118&fecha=18/09/2026",
+      "code": "5799118",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "3c7a5f0227604076d0fa3f2c35e23a7b8238c0354294238f0f199eafad7321de",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -428,122 +45,41 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo General número 10/2026-LAG, del Pleno de la Suprema Corte de Justicia de la Nación, de nueve de septiembre de dos mil veintiséis, por el que se levanta el aplazamiento del dictado de la resolución en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito, en los que subsista el análisis de validez o interpretación del régimen jurídico que rige los nombramientos de los Magistrados del Tribunal Federal de Justicia Administrativa, entre otros, de lo previsto en los artículos 43, 47 y Quinto Transitorio de la Ley Orgánica del Tribunal Federal de Justicia Administrativa publicada el dieciocho de julio de dos mil dieciséis; ordenado en el diverso 19/2025 (12a.), de veinticuatro de noviembre de dos mil veinticinco.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo General número 10/2026-LAG, del Pleno de la Suprema Corte de Justicia de la Nación, de nueve de septiembre de dos mil veintiséis, por el que se levanta el aplazamiento del dictado de la resolución en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito, en los que subsista el análisis de validez o interpretación del régimen jurídico que rige los nombramientos de los Magistrados del Tribunal Federal de Justicia Administrativa, entre otros, de lo previsto en los artículos 43, 47 y Quinto Transitorio de la Ley Orgánica del Tribunal Federal de Justicia Administrativa publicada el dieciocho de julio de dos mil dieciséis; ordenado en el diverso 19/2025 (12a.), de veinticuatro de noviembre de dos mil veinticinco."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799062&fecha=18/09/2026",
-      "code": "5799062",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "e632387d4a35b2af2a223d2b98aa9c35fb6e5318cba4f8efe6e552da0928b924",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799063&fecha=18/09/2026",
-      "code": "5799063",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "d0b903c5767b1c5fb3d9cedc2fd68dc25df9fb565a5704d9a67d6a40bf491f2f",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799064&fecha=18/09/2026",
-      "code": "5799064",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "ce5b541c0a5015263ca8779b4fd81a1def4033708a99ad5c2819b39322147c51",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799066&fecha=18/09/2026",
-      "code": "5799066",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "0f3ef745e3a8e9280cb827f0c3f598b2d87d0e5ad76885132123cbc529462422",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799119&fecha=18/09/2026",
+      "code": "5799119",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "a479b3813df1298090910de6eaf846d5f12b9048d77b4c37a4a08c85f67fc326",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "resolucion",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.resolucion",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "resolucion"
+          "value": "acuerdo"
         },
         {
           "confidence": "low",
-          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento administrativo sancionador que resuelve sobre la pérdida de registro como agrupaciones políticas nacionales \"Concordancia hacia una Democracia Social\", \"Decisión con Valor\", \"Ricardo Flores Magón\", \"Rumbo a la Democracia\" y \"Unidad Nacional Progresista\", en términos de lo previsto en el artículo 22, párrafo 9, inciso d) de la Ley General de Partidos Políticos, a propuesta de la Junta General Ejecutiva.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento administrativo sancionador que resuelve sobre la pérdida de registro como agrupaciones políticas nacionales \"Concordancia hacia una Democracia Social\", \"Decisión con Valor\", \"Ricardo Flores Magón\", \"Rumbo a la Democracia\" y \"Unidad Nacional Progresista\", en términos de lo previsto en el artículo 22, párrafo 9, inciso d) de la Ley General de Partidos Políticos, a propuesta de la Junta General Ejecutiva."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     }
   ],
   "schema_version": "1.1",
