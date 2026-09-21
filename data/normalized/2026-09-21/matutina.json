@@ -1,0 +1,424 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799137&fecha=21/09/2026",
+      "code": "5799137",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "f6e7c76a4ab02cc1d4560db044787c753b579ee73c145609e77f8277e59267c5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación que celebran la Secretaría de Gobernación y la Secretaría de Bienestar del Gobierno del Estado de México, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre las personas usuarias de Bienestar Edomex.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y la Secretaría de Bienestar del Gobierno del Estado de México, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre las personas usuarias de Bienestar Edomex."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799139&fecha=21/09/2026",
+      "code": "5799139",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "d3c1c12951036c64d64deb8590f88320f2a02aa28b50634c3b07c5ef488079e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se da a conocer el informe sobre la recaudación federal participable y las participaciones federales, así como los procedimientos de cálculo, por el mes de agosto de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se da a conocer el informe sobre la recaudación federal participable y las participaciones federales, así como los procedimientos de cálculo, por el mes de agosto de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799141&fecha=21/09/2026",
+      "code": "5799141",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "239dca46395c84c8e10ff4fe2fa7776e91b93b94027597c8e84ebbf322e2b7e0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya (Segunda publicación).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya (Segunda publicación).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Declaratoria de utilidad pública, relativa a las superficies de 448.86 metros cuadrados, 6,835.42 metros cuadrados y 5,492.15 metros cuadrados, ubicadas en el municipio de Celaya, Estado de Guanajuato, para la construcción del Libramiento Ferroviario de Celaya (Segunda publicación)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799143&fecha=21/09/2026",
+      "code": "5799143",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "e12f8bbf379cbb4e7f2190ab57040c5fe68cfa28a8329a98842d5290947c7e86",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Modificatorio del Convenio Específico CRESCA E032- Servicios de atención a la salud mental y prevención de las adicciones-CONASAMA-Campeche-001-2026, en materia de transferencia de recursos presupuestarios federales con el carácter de subsidios, que celebran la Secretaría de Salud y el Estado de Campeche."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799144&fecha=21/09/2026",
+      "code": "5799144",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "f77866642e933cb82b132810b15c1a7a6c6e5bd34b7709b2b5a3edeca5bf1b21",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las ligas electrónicas para consulta de los Lineamientos que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las ligas electrónicas para consulta de los Lineamientos que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799146&fecha=21/09/2026",
+      "code": "5799146",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "4d05425293870a2ae4507ef95dd0ee7bb9f439d6e3308d853bc09ff54f4eaf1e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Protocolo Marco del Proceso de Consulta Previa, Libre e Informada a los pueblos y barrios originarios, comunidades indígenas y comunidades indígenas residentes para recibir opiniones y propuestas para la actualización del Programa de Ordenación de la Zona Metropolitana del Valle de México.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Protocolo Marco del Proceso de Consulta Previa, Libre e Informada a los pueblos y barrios originarios, comunidades indígenas y comunidades indígenas residentes para recibir opiniones y propuestas para la actualización del Programa de Ordenación de la Zona Metropolitana del Valle de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Protocolo Marco del Proceso de Consulta Previa, Libre e Informada a los pueblos y barrios originarios, comunidades indígenas y comunidades indígenas residentes para recibir opiniones y propuestas para la actualización del Programa de Ordenación de la Zona Metropolitana del Valle de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799148&fecha=21/09/2026",
+      "code": "5799148",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "dd8432205d7e3f05be9d0841ad622d5e0bd0769d161767ca4ce8ec5f9415fc77",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Durango, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/DGO/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Durango, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/DGO/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799150&fecha=21/09/2026",
+      "code": "5799150",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "PROCURADURIA FEDERAL DEL CONSUMIDOR",
+      "record_sha256": "6ad245afc36f4e626b16416deb00d53b2a9dc9868a1952172d9b6459ad19270f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se da a conocer el listado de las y los proveedores inscritos en el Registro Público de Casas de Empeño.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer el listado de las y los proveedores inscritos en el Registro Público de Casas de Empeño."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799152&fecha=21/09/2026",
+      "code": "5799152",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "545051e6f4ea269d3f460186bc6dcd64faf97693a36b3d634c03b2ab11019b42",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 217/2025, así como el Voto Concurrente del señor Ministro Irving Espinosa Betanzo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 217/2025, así como el Voto Concurrente del señor Ministro Irving Espinosa Betanzo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799154&fecha=21/09/2026",
+      "code": "5799154",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "58c7435daf0cab54ee3906a242116dd704d99d69043441629fb845b64fed09e6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799155&fecha=21/09/2026",
+      "code": "5799155",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "9ef8b0381e74d63479b298734d6d2e357fac410688a93ff8959607ee4212dd18",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799156&fecha=21/09/2026",
+      "code": "5799156",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a3172e04d1dce7555cf402c9a07b7b0266d19e452f5dfbdcafae54d5b482a54b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799158&fecha=21/09/2026",
+      "code": "5799158",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "1d9b99d0072b9c01f68888c0dc91453397420c92a9a5caf585956aa56991f840",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "L/OIC/001/2026 Lineamientos Generales del Órgano Interno de Control de la Fiscalía General de la República para la realización de auditorías.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "L/OIC/001/2026 Lineamientos Generales del Órgano Interno de Control de la Fiscalía General de la República para la realización de auditorías.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "L/OIC/001/2026 Lineamientos Generales del Órgano Interno de Control de la Fiscalía General de la República para la realización de auditorías."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799160&fecha=21/09/2026",
+      "code": "5799160",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "58b6141d02c21a0f225e1163657ed9a9e3bb80d609c41c3d3c7705a937aa5145",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de agosto de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de agosto de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de agosto de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799162&fecha=21/09/2026",
+      "code": "5799162",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "ad6f49d98d2dcbef6c39904e5415de1883e73c7e22070d382a9cf21244396d13",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG481/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos Generales que, sin afectar la libertad de expresión y la libre manifestación de las ideas ni pretender regular dichas libertades, se recomiendan a los noticiarios, respecto de la información y difusión de las actividades de precampaña y campaña de los partidos políticos y las candidaturas independientes del Proceso Electoral Federal 2026-2027, en cumplimiento a lo dispuesto por el artículo 160, numeral 3 de la Ley General de Instituciones y Procedimientos Electorales.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG481/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos Generales que, sin afectar la libertad de expresión y la libre manifestación de las ideas ni pretender regular dichas libertades, se recomiendan a los noticiarios, respecto de la información y difusión de las actividades de precampaña y campaña de los partidos políticos y las candidaturas independientes del Proceso Electoral Federal 2026-2027, en cumplimiento a lo dispuesto por el artículo 160, numeral 3 de la Ley General de Instituciones y Procedimientos Electorales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG481/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos Generales que, sin afectar la libertad de expresión y la libre manifestación de las ideas ni pretender regular dichas libertades, se recomiendan a los noticiarios, respecto de la información y difusión de las actividades de precampaña y campaña de los partidos políticos y las candidaturas independientes del Proceso Electoral Federal 2026-2027, en cumplimiento a lo dispuesto por el artículo 160, numeral 3 de la Ley General de Instituciones y Procedimientos Electorales."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=21",
+    "name": "DOF official index",
+    "publication_date": "2026-09-21"
+  }
+}

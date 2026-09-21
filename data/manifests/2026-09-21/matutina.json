@@ -1,0 +1,47 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-21T08:53:54+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 2,
+      "aviso": 1,
+      "convenio": 3,
+      "otro": 8,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "FISCALIA GENERAL DE LA REPUBLICA": 1,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "PROCURADURIA FEDERAL DEL CONSUMIDOR": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
+      "SECRETARIA DE GOBERNACION": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE LAS MUJERES": 1,
+      "SECRETARIA DE SALUD": 2,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 1,
+      "other": 13
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-21/matutina.json",
+  "normalized_sha256": "7e3af473c6a211615d5d8f2836210f01fb45bc1fbf536dd9629dff56be2e18b0",
+  "note_count": 15,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-21",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=21",
+    "raw_retained": false,
+    "raw_sha256": "bdde13d7681e2ec2e1432cbaee2499d9cad95a729e12daa13e29608328a0eb6c",
+    "raw_size": 78553
+  },
+  "status": "changed"
+}
