@@ -1,0 +1,42 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-22T08:30:20+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 2,
+      "aviso": 1,
+      "norma": 1,
+      "otro": 5
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE EDUCACION PUBLICA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 1,
+      "other": 5,
+      "trade": 2
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-22/matutina.json",
+  "normalized_sha256": "c5d78ebc4b4bd9caf2bc846fed5ac9f65b58012bb95a9b595e0ef23f7839bf5f",
+  "note_count": 9,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-22",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=22",
+    "raw_retained": false,
+    "raw_sha256": "41b235a91deb0f228c45b0edc33648794c693c6befe18c0e4fd312e3ead8d273",
+    "raw_size": 67274
+  },
+  "status": "changed"
+}

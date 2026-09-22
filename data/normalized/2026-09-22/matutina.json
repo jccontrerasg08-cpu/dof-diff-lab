@@ -1,0 +1,270 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799239&fecha=22/09/2026",
+      "code": "5799239",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "673bd37713a504faef7f9b958afa754ccf7483f9a1f7051fa2ffc2fa0b77ff83",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro por el uso de infraestructura portuaria, aplicables en el Puerto de Topolobampo, Sin.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro por el uso de infraestructura portuaria, aplicables en el Puerto de Topolobampo, Sin."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799241&fecha=22/09/2026",
+      "code": "5799241",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "92316e7d849130e8b460cddac7ceae1f3756418bf1d43ea55e37c3fa04e1d3c3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Respuestas a los comentarios recibidos al Proyecto de Norma Oficial Mexicana PROY-NOM-011-SSPC-2025, Requisitos mínimos y generales de protección civil aplicables en espectáculos y eventos masivos, a fin de regular rangos máximos de capacidad de aforo de personas.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Respuestas a los comentarios recibidos al Proyecto de Norma Oficial Mexicana PROY-NOM-011-SSPC-2025, Requisitos mínimos y generales de protección civil aplicables en espectáculos y eventos masivos, a fin de regular rangos máximos de capacidad de aforo de personas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799243&fecha=22/09/2026",
+      "code": "5799243",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "eba1a14d10934b3c4727a777fdbc9a3e79361fb124f6607cdb431a267e2d19ab",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segunda Resolución de Modificaciones a las Reglas Generales de Comercio Exterior para 2026 y anexos 1, 2 y 22.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "comercio exterior",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        }
+      ],
+      "title": "Segunda Resolución de Modificaciones a las Reglas Generales de Comercio Exterior para 2026 y anexos 1, 2 y 22."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799245&fecha=22/09/2026",
+      "code": "5799245",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "d09fe753434585a50884f1ef149cff64611f25d6acb572286adf2bc8f047b497",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "arancel",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer el cupo para importar ganado bovino en pie bajo el arancel-cupo que se indica."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799247&fecha=22/09/2026",
+      "code": "5799247",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE EDUCACION PUBLICA",
+      "record_sha256": "9045fac077952387f978f4857649fdf4609e9f8c3e3295d93fc14ffde396dbc0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo número 09/09/26 para garantizar los derechos de niñas, niños, adolescentes y jóvenes en la interacción, uso responsable y seguro de los dispositivos digitales personales, así como de tecnologías de aprendizaje en las escuelas públicas y particulares del Sistema Educativo Nacional.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo número 09/09/26 para garantizar los derechos de niñas, niños, adolescentes y jóvenes en la interacción, uso responsable y seguro de los dispositivos digitales personales, así como de tecnologías de aprendizaje en las escuelas públicas y particulares del Sistema Educativo Nacional."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799249&fecha=22/09/2026",
+      "code": "5799249",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "8e37fdbdd76171c0b5d4eaa1e35ef5978cf937b839724803116f2a345cb3a6e5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Baja California Sur.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Baja California Sur."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799252&fecha=22/09/2026",
+      "code": "5799252",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "6d60a08bc77f186004f1e44810dee746f1b107427d8e263f2b4eaa6e54fb1d59",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799253&fecha=22/09/2026",
+      "code": "5799253",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3067aeb2984f8ed3a960ceaec67d43b2085bb16f2324a14903617c960f268579",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799254&fecha=22/09/2026",
+      "code": "5799254",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "fc772fd966a5b452f5075ad538344dccf45bcba766449c88be4b0b2a7ff272fd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=22",
+    "name": "DOF official index",
+    "publication_date": "2026-09-22"
+  }
+}
