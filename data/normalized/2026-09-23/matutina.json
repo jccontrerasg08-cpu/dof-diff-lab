@@ -1,0 +1,405 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799357&fecha=23/09/2026",
+      "code": "5799357",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "2729aaee4a6de894c310bdb2e21bdb23fb56ecd2ea791f7392a743aea3804b44",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Primera Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Compañía Minera Caopas, S.A. de C.V., para usar y aprovechar una zona federal terrestre y una zona federal marítima en el lugar denominado Punta Santa María, jurisdicción del recinto portuario de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Primera Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Compañía Minera Caopas, S.A. de C.V., para usar y aprovechar una zona federal terrestre y una zona federal marítima en el lugar denominado Punta Santa María, jurisdicción del recinto portuario de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Primera Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Compañía Minera Caopas, S.A. de C.V., para usar y aprovechar una zona federal terrestre y una zona federal marítima en el lugar denominado Punta Santa María, jurisdicción del recinto portuario de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799358&fecha=23/09/2026",
+      "code": "5799358",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "2ebd3ac259022834a898131a32d4eea7d3e7a4f841cd2a76590b7eadf28e4f68",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799360&fecha=23/09/2026",
+      "code": "5799360",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "a3612153e43371f480b58e47eb8c2399f5d0910124aed1c24aced0ec2ff4b3e6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Campeche, el Instituto de la Infraestructura Física Educativa del Estado de Campeche, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Campeche, el Instituto de la Infraestructura Física Educativa del Estado de Campeche, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799361&fecha=23/09/2026",
+      "code": "5799361",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "01031ae9edc81ea2c9b4671ccf690315605ab3f90e541e1ece71edbb8f3aebfc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Chihuahua, el Instituto Chihuahuense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Chihuahua, el Instituto Chihuahuense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799362&fecha=23/09/2026",
+      "code": "5799362",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "c64e2af57ddaed061c3628afc611ff3aa0f02ca9b91aec581495bda01142c98a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-019-SICT2/2026, Especificaciones técnicas y disposiciones generales para la limpieza, manejo y control de remanentes y residuos peligrosos en las unidades vehiculares que transportan substancias, materiales y residuos peligrosos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-019-SICT2/2026, Especificaciones técnicas y disposiciones generales para la limpieza, manejo y control de remanentes y residuos peligrosos en las unidades vehiculares que transportan substancias, materiales y residuos peligrosos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799364&fecha=23/09/2026",
+      "code": "5799364",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "34a9c00507f0575bec299e54e4706d800628df0bf736c71ab88b5b81e0be05f4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de México.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799366&fecha=23/09/2026",
+      "code": "5799366",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "ff52f8e570a0338aaffe44538c4277397fd013ac25f728ad2efd0b64ef4ae817",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Oaxaca y el Municipio de San Pedro Comitancillo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Oaxaca y el Municipio de San Pedro Comitancillo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799367&fecha=23/09/2026",
+      "code": "5799367",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "0ed8c032352d497504706503e6aa0b91a9277367981efb88ab04c37b99239e44",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Puebla y el Comité Administrador Poblano para la Construcción de Espacios Educativos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio Marco de Coordinación para el ejercicio de subsidios del Programa Territorial para el Bienestar 2026, de la Vertiente Infraestructura y Equipamiento, que celebran la Secretaría de Desarrollo Agrario, Territorial y Urbano, el Estado de Puebla y el Comité Administrador Poblano para la Construcción de Espacios Educativos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799369&fecha=23/09/2026",
+      "code": "5799369",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "24cdcdaec5b3cd27d6d20576b38d5ddd1d502f42740936fc5a5fb478c7ffa879",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se designa a la Licenciada Brianly Hernández Lugo, Titular de la Jefatura de Servicios Jurídicos para que supla las ausencias del Doctor Gustavo Ignacio Prieto Torres, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Yucatán del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se designa a la Licenciada Brianly Hernández Lugo, Titular de la Jefatura de Servicios Jurídicos para que supla las ausencias del Doctor Gustavo Ignacio Prieto Torres, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Yucatán del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799371&fecha=23/09/2026",
+      "code": "5799371",
+      "issuer_primary": "PODER LEGISLATIVO",
+      "issuer_secondary": "CAMARA DE DIPUTADOS",
+      "record_sha256": "446d24d62fc044333550da3308bdece49b8c3d397979e64f614493fbf3430049",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se inscribe con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados la leyenda: \"475 Años de la Universidad de México (1551-2026)\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se inscribe con Letras de Oro en el Muro de Honor del Salón de Sesiones de la Cámara de Diputados la leyenda: \"475 Años de la Universidad de México (1551-2026)\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799373&fecha=23/09/2026",
+      "code": "5799373",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "104b05e1359e82b8b97c6945f438a80b97e6ddb754a65c0b21e8a6e85e79f655",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General del Pleno del Órgano de Administración Judicial que establece las disposiciones sobre el funcionamiento de las coordinaciones de las Magistraturas de Circuito y de las personas titulares de los Juzgados de Distrito.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial que establece las disposiciones sobre el funcionamiento de las coordinaciones de las Magistraturas de Circuito y de las personas titulares de los Juzgados de Distrito."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799376&fecha=23/09/2026",
+      "code": "5799376",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "d9b31bb2768d797f18c801e124aadd09c7ab8caa3a8f4fbcbc70fcf73a26e925",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799377&fecha=23/09/2026",
+      "code": "5799377",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "8b8de3847e8661ed9a2a3a69f129c232cbe6028fc818a5918c47016a77f70cc6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799378&fecha=23/09/2026",
+      "code": "5799378",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3b98fdd86f54143d43845f0c6445bc66b0ede8f758e6fc8564c56f78e824b8a1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=23",
+    "name": "DOF official index",
+    "publication_date": "2026-09-23"
+  }
+}

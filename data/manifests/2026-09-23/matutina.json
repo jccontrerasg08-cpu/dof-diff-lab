@@ -1,0 +1,44 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-23T08:32:24+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 1,
+      "aviso": 2,
+      "convenio": 4,
+      "decreto": 1,
+      "norma": 1,
+      "otro": 5
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CAMARA DE DIPUTADOS": 1,
+      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 3,
+      "SECRETARIA DE MARINA": 2,
+      "SECRETARIA DE SALUD": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 1,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-23/matutina.json",
+  "normalized_sha256": "75786aab8400c7c710721150a0de228a921107bd1bd855c222ea32d5470ea2a1",
+  "note_count": 14,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-23",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=23",
+    "raw_retained": false,
+    "raw_sha256": "32d8a39984c1d1277039e2099038424c0197ecc628ebb0cc6826342a1eaa0eff",
+    "raw_size": 77449
+  },
+  "status": "changed"
+}
