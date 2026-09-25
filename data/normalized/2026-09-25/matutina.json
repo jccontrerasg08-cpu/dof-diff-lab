@@ -1,0 +1,707 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799577&fecha=25/09/2026",
+      "code": "5799577",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "2fc4e5320310585dbac26f0754efdec13c6a112bf870831bafa3bb2911c48f84",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir el ingreso de 139 militares extranjeros a territorio nacional, a efecto de que participen en el \"Ejercicio Especializado Conjunto\", que se realizará del 20 al 30 de septiembre de 2026, en las instalaciones del Centro Nacional de Adiestramiento (Santa Gertrudis, Chihuahua).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir el ingreso de 139 militares extranjeros a territorio nacional, a efecto de que participen en el \"Ejercicio Especializado Conjunto\", que se realizará del 20 al 30 de septiembre de 2026, en las instalaciones del Centro Nacional de Adiestramiento (Santa Gertrudis, Chihuahua)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799578&fecha=25/09/2026",
+      "code": "5799578",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "8ba0c9ecbb9ff8a566f4c0e921adfe819186846bde5d54e869da7502b3d67718",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 14-03-56 hectáreas del ejido \"Matamoros\", municipio de Matamoros, estado de Coahuila de Zaragoza, a favor del Instituto Nacional del Suelo Sustentable.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 14-03-56 hectáreas del ejido \"Matamoros\", municipio de Matamoros, estado de Coahuila de Zaragoza, a favor del Instituto Nacional del Suelo Sustentable."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799580&fecha=25/09/2026",
+      "code": "5799580",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "fab09fd72877c76a77a23a8b1289390cc9119826ff9e8ed4cf604b363a10cd6a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de consulta pública del Proyecto de Modificación de la Norma Oficial Mexicana NOM-003-SSPC-2011, Señales y Avisos para Protección Civil.- Colores, Formas y Símbolos a Utilizar, para quedar como Proyecto de Norma Oficial Mexicana PROY-NOM-003-SSPC-2026, Señales y Avisos para Protección Civil.- Colores, Formas y Símbolos a Utilizar.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de consulta pública del Proyecto de Modificación de la Norma Oficial Mexicana NOM-003-SSPC-2011, Señales y Avisos para Protección Civil.- Colores, Formas y Símbolos a Utilizar, para quedar como Proyecto de Norma Oficial Mexicana PROY-NOM-003-SSPC-2026, Señales y Avisos para Protección Civil.- Colores, Formas y Símbolos a Utilizar."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799582&fecha=25/09/2026",
+      "code": "5799582",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "ca6f482924e381555c1f2e485bc908b16c324e2264eb80b30311442748b9954a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de octubre de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de octubre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799584&fecha=25/09/2026",
+      "code": "5799584",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "3b62658267a79d9c1455c4a2217d8991927e2409af3ff5ec89dab03196832c5c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer el cambio de domicilio de la Oficina de Representación de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado de Tlaxcala."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799586&fecha=25/09/2026",
+      "code": "5799586",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "e1e0f448359324b4863b52372f0dee5571e92bbe9ae986bee3ee2c4f4f84a45a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "vigencia",
+          "name": "signal",
+          "rule_id": "signal.contains_effective_date",
+          "rule_version": "1.0",
+          "value": "contains_effective_date"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución final del procedimiento administrativo de examen de vigencia de las cuotas compensatorias impuestas a las importaciones de lámina rolada en caliente originarias de la Federación de Rusia y Ucrania, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución final del procedimiento administrativo de examen de vigencia de las cuotas compensatorias impuestas a las importaciones de lámina rolada en caliente originarias de la Federación de Rusia y Ucrania, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799588&fecha=25/09/2026",
+      "code": "5799588",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL",
+      "record_sha256": "fd5b6bd8fd8ee9e2ec112d55f5986dfafe76c678aac27196a13bf207130d48b6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "aguas",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se modifica el similar por el que se establecen los volúmenes de captura permisibles para el aprovechamiento de pelágicos menores en aguas de jurisdicción federal del Océano Pacífico y Golfo de California para la temporada de pesca 2026, publicado el 16 de abril de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799590&fecha=25/09/2026",
+      "code": "5799590",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "cb5c6884fd8cb805fdb1998e888e7759b241e727dfd0e044c1689ec54eec8f00",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la ampliación y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Hidalgo, el Instituto Hidalguense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la ampliación y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Hidalgo, el Instituto Hidalguense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799592&fecha=25/09/2026",
+      "code": "5799592",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "1d2fde71e906a7a83b72da9d07cd174eecdf913045036c35106d75e87cbd7a20",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se determina ámbito de competencia, se realizan designaciones y se delegan las atribuciones que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se determina ámbito de competencia, se realizan designaciones y se delegan las atribuciones que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799594&fecha=25/09/2026",
+      "code": "5799594",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "4ac44701ca70bd9575aff9ff4a064b3461ae9283ce4e7706725ddd0ee7e851ef",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tabasco.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tabasco."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799596&fecha=25/09/2026",
+      "code": "5799596",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "a10905a5f53f0b8c6bc8eaa6c6d8ed1550d97d50a74029923acb90d3e151c3de",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Colima, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Colima, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799597&fecha=25/09/2026",
+      "code": "5799597",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "e7ab89164dd84d0578dddb8dbb26eaf93692d8c83b4019dd30a67baaf0766681",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Hidalgo, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Hidalgo, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799598&fecha=25/09/2026",
+      "code": "5799598",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "5e6475260f8c895bbb65670b5300a2b2b9de0f0016d18f2e9a643fc3193da652",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Michoacán de Ocampo, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Michoacán de Ocampo, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799600&fecha=25/09/2026",
+      "code": "5799600",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "CONSEJO DE SALUBRIDAD GENERAL",
+      "record_sha256": "dc45565de29eedda4888471283e49463def5120eb4c13f3bf644622a21feb3d1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Acuerdo por el que se actualiza el Compendio Nacional de Insumos para la Salud versión 2025, publicado el 26 de abril de 2025."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799602&fecha=25/09/2026",
+      "code": "5799602",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PETROLEOS MEXICANOS",
+      "record_sha256": "218dfa33da7a1510f1be824abc0100b09f03c5ff6cd92c17817c34eb9f3bf24b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Estatuto Orgánico de la Empresa Pública del Estado, Petróleos Mexicanos.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "petroleos",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Estatuto Orgánico de la Empresa Pública del Estado, Petróleos Mexicanos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799604&fecha=25/09/2026",
+      "code": "5799604",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "98fa4421103869efbe2e24d07cbf3aa7a3b840364d3bf3bf5039da104feda307",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 7/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 7/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799606&fecha=25/09/2026",
+      "code": "5799606",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "ea08c30e0ee2520ddfd07e9c9ede8c24dcf6e774a124538111d7a89e803271e2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799607&fecha=25/09/2026",
+      "code": "5799607",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e7f9dbbfe0914a1d406809c25090e5be344360f96ec1de05f99d4d7bd9ec1354",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799608&fecha=25/09/2026",
+      "code": "5799608",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "b7735bbe37487134e0c3f06da519a29a909fc7e93c568b0e7423e8d765adce6c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799609&fecha=25/09/2026",
+      "code": "5799609",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "7025142c7c786594ade1e98af4e79f39ea8c33a5c7310d96a3c5eff436cc00a2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799610&fecha=25/09/2026",
+      "code": "5799610",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "424daf5bff27216cea1d248ee422be95692555ba8624d4eb8a43f6d1b0440b5e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799611&fecha=25/09/2026",
+      "code": "5799611",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "47b0f1dcd2f580a42af49f55bdd9fae00565ef8b4484c1e535d4bf2ac8f7a44e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799612&fecha=25/09/2026",
+      "code": "5799612",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0ee75d844b5751212ddbd641d488316806d48e65cbfdcfa8255b170a65488279",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Valor de la unidad de inversión."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799614&fecha=25/09/2026",
+      "code": "5799614",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "d6367f11a378b3259f81c19629f8370f88317ebfe8bd683d09c21ab6c0e7c9ca",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Índice nacional de precios al consumidor."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=25",
+    "name": "DOF official index",
+    "publication_date": "2026-09-25"
+  }
+}

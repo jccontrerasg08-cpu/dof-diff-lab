@@ -1,0 +1,54 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-25T08:47:12+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 5,
+      "convenio": 4,
+      "decreto": 2,
+      "norma": 1,
+      "otro": 10,
+      "resolucion": 1,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 7,
+      "CONSEJO DE SALUBRIDAD GENERAL": 1,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "PETROLEOS MEXICANOS": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 2,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE LAS MUJERES": 3,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 2,
+      "financial": 1,
+      "health": 2,
+      "other": 18
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-25/matutina.json",
+  "normalized_sha256": "7eb755ae2c0e6d2300d148399fce28c1e78f49d4dcb11a6e4750881d4687c22d",
+  "note_count": 24,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-25",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=25",
+    "raw_retained": false,
+    "raw_sha256": "367a0b0fedc645c1ebf9621462c4d8f136f70bacb5e9b7362d9c6d391f0b3eb1",
+    "raw_size": 94658
+  },
+  "status": "changed"
+}
