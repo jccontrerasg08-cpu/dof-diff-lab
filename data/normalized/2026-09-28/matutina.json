@@ -1,0 +1,513 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799697&fecha=28/09/2026",
+      "code": "5799697",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "14f1978e414da8169f3b9ba81eb1b699bc52b1116b3ba8cf2af44a99e1e759aa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "comercio exterior",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        }
+      ],
+      "title": "Acuerdo que modifica el diverso por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de comercio exterior."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799698&fecha=28/09/2026",
+      "code": "5799698",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "5a18f582cbf14958d9883c857afb11eb8d8918c4eb3841fad1b6062f4cce412a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de recubrimientos cerámicos para piso y muro originarias de la República de la India, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de recubrimientos cerámicos para piso y muro originarias de la República de la India, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799699&fecha=28/09/2026",
+      "code": "5799699",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "e718256167791841d72482fd77a6c6ab6fbf8898330980612781914839ec88ee",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "vigencia",
+          "name": "signal",
+          "rule_id": "signal.contains_effective_date",
+          "rule_version": "1.0",
+          "value": "contains_effective_date"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de la cuota compensatoria impuesta a las importaciones de artículos para cocinar de aluminio originarias de la República Popular China, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de la cuota compensatoria impuesta a las importaciones de artículos para cocinar de aluminio originarias de la República Popular China, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799701&fecha=28/09/2026",
+      "code": "5799701",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "88fa581fd2db48414545673b3cfea0452702736edd0c7dc9d937165281825d38",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Michoacán de Ocampo, la Secretaría de Educación del Estado, la Secretaría de Comunicaciones y Obras Públicas del Estado de Michoacán de Ocampo, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Michoacán de Ocampo, la Secretaría de Educación del Estado, la Secretaría de Comunicaciones y Obras Públicas del Estado de Michoacán de Ocampo, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799702&fecha=28/09/2026",
+      "code": "5799702",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "5790d8acec53556bd796ce1bc7b73fdec7626faf4f261892a673f8a9c66e1ca8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de un plantel educativo de Educación Media Superior (Centro de Bachillerato Tecnológico), que celebran el Estado de Morelos, el Instituto Estatal de Infraestructura Educativa de Morelos, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de un plantel educativo de Educación Media Superior (Centro de Bachillerato Tecnológico), que celebran el Estado de Morelos, el Instituto Estatal de Infraestructura Educativa de Morelos, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799704&fecha=28/09/2026",
+      "code": "5799704",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "aea0f104117f6eab32959026228bfe998a6a6d3bbe237cdc87c881c37b3ac2f1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Galmar Proyectos Integrales, S. de R.L. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Galmar Proyectos Integrales, S. de R.L. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799706&fecha=28/09/2026",
+      "code": "5799706",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "49ab0b27feea0e0849eb6d56db016cb708cb6a25189876b4ab8e384181c71902",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Morelos, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Morelos, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799707&fecha=28/09/2026",
+      "code": "5799707",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "b1e5880e2c54b9568753f1cc518f9a649c833652dc75f60767dad63375c76f7a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Nayarit, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Nayarit, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799708&fecha=28/09/2026",
+      "code": "5799708",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "e47cfb4ef5284585359359a5de18866aaceb30799967208f13c6b2028dd53791",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Tabasco, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Tabasco, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799710&fecha=28/09/2026",
+      "code": "5799710",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "AGENCIA DE TRANSFORMACION DIGITAL Y TELECOMUNICACIONES",
+      "record_sha256": "d6fd88f616526ce0bc9d557e118ced797617d007a5a35750f9298d1682d9cda1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se informa la publicación del Catálogo de Modelos para la Homologación de Trámites y Servicios de la Agencia de Transformación Digital y Telecomunicaciones.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se informa la publicación del Catálogo de Modelos para la Homologación de Trámites y Servicios de la Agencia de Transformación Digital y Telecomunicaciones."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799712&fecha=28/09/2026",
+      "code": "5799712",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "5a89fbb127845c66bc7c62c79368ac0e260f6b3ff9a960ad0e80ca436d9ab193",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establecen acciones de simplificación administrativa en diversos trámites que se realizan ante el Instituto Mexicano de la Propiedad Industrial (Solicitudes de registro de Marca).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen acciones de simplificación administrativa en diversos trámites que se realizan ante el Instituto Mexicano de la Propiedad Industrial (Solicitudes de registro de Marca)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799713&fecha=28/09/2026",
+      "code": "5799713",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "120e4723207bc87b159d136526f3c6c700e438d75eee4c0b036d473950de15e1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establecen acciones de simplificación administrativa en diversos trámites que se realizan ante el Instituto Mexicano de la Propiedad Industrial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen acciones de simplificación administrativa en diversos trámites que se realizan ante el Instituto Mexicano de la Propiedad Industrial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799715&fecha=28/09/2026",
+      "code": "5799715",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES",
+      "record_sha256": "a7aa030ddc3417b9f05a27ca9988a81dbcd91b0c74188ecbb708c1e4da3a275e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Disposiciones de carácter general para determinar el precio máximo de venta de las viviendas objeto de enajenación por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores al amparo del Programa de Vivienda para el Bienestar.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "trabajadores",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Disposiciones de carácter general para determinar el precio máximo de venta de las viviendas objeto de enajenación por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores al amparo del Programa de Vivienda para el Bienestar."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799717&fecha=28/09/2026",
+      "code": "5799717",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "7afb3835cb8f82b447c6a1bc593d952b8486cabbea63b18b62328a190cb9f586",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 309/2024, así como el Voto Particular de la señora Ministra María Estela Ríos González.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 309/2024, así como el Voto Particular de la señora Ministra María Estela Ríos González."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799719&fecha=28/09/2026",
+      "code": "5799719",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a39299c671dcc3865d18ccee8bbf2b8b63aeb67aaa703ceeed97a5450f6509d3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799720&fecha=28/09/2026",
+      "code": "5799720",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3ba826b7f207d622d484534dc173d0dad7d63cbbe960382dc1cbf989b484519f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799721&fecha=28/09/2026",
+      "code": "5799721",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "2c3fd51a978e7a079f27672136b61b79b59811dc58e4d04f10417d37237d6798",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799723&fecha=28/09/2026",
+      "code": "5799723",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "e47ac52b5411ddca2ce9fd9c47bb81594e27e0a70e0ade144d96346c5d1c593f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento sancionador ordinario con número de expediente UT/SCG/Q/IEC/CG/6/2019, iniciado con motivo de la vista proporcionada por la Dirección Ejecutiva del Registro Federal de Electores de este Instituto, por el presunto incumplimiento de la obligación de diversos partidos políticos y otrora candidatos independientes, de devolver los cuadernillos de la lista nominal de electores definitiva con fotografía, utilizados con motivo del proceso electoral 2016-2017 en el Estado de Coahuila.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento sancionador ordinario con número de expediente UT/SCG/Q/IEC/CG/6/2019, iniciado con motivo de la vista proporcionada por la Dirección Ejecutiva del Registro Federal de Electores de este Instituto, por el presunto incumplimiento de la obligación de diversos partidos políticos y otrora candidatos independientes, de devolver los cuadernillos de la lista nominal de electores definitiva con fotografía, utilizados con motivo del proceso electoral 2016-2017 en el Estado de Coahuila."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=28",
+    "name": "DOF official index",
+    "publication_date": "2026-09-28"
+  }
+}
