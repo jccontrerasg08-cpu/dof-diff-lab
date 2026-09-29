@@ -1,0 +1,424 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799779&fecha=29/09/2026",
+      "code": "5799779",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "27d83f133c8918ab8f18b7c8b687a3a36481b4280a5dc0a3d8ec02416f464c40",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 107,378.835 m² (ciento siete mil trescientos setenta y ocho punto ochocientos treinta y cinco metros cuadrados), a favor de la Federación, para la ejecución del proyecto Tren Interurbano AIFA- Pachuca, correspondiente a 98 (noventa y ocho) inmuebles de propiedad privada, ubicados en los municipios de Mineral de la Reforma, Tizayuca, Tolcayuca, Villa de Tezontepec y Zapotlán de Juárez en el estado de Hidalgo; Tecámac, Temascalapa y Zumpango en el estado de México, y se deja parcialmente sin efectos, el diverso por el que se ordena la ocupación temporal de la superficie de 110,296.687 m² (ciento diez mil doscientos noventa y seis punto seiscientos ochenta y siete metros cuadrados).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 107,378.835 m² (ciento siete mil trescientos setenta y ocho punto ochocientos treinta y cinco metros cuadrados), a favor de la Federación, para la ejecución del proyecto Tren Interurbano AIFA- Pachuca, correspondiente a 98 (noventa y ocho) inmuebles de propiedad privada, ubicados en los municipios de Mineral de la Reforma, Tizayuca, Tolcayuca, Villa de Tezontepec y Zapotlán de Juárez en el estado de Hidalgo; Tecámac, Temascalapa y Zumpango en el estado de México, y se deja parcialmente sin efectos, el diverso por el que se ordena la ocupación temporal de la superficie de 110,296.687 m² (ciento diez mil doscientos noventa y seis punto seiscientos ochenta y siete metros cuadrados)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799781&fecha=29/09/2026",
+      "code": "5799781",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "55fe1763e14af09f988e85d503f1af3d16e2326d20f5e6778d3745590e61a1ec",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "exportacion",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer los nombres de los titulares y números de Programas de la Industria Manufacturera, Maquiladora y de Servicios de Exportación cancelados."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799783&fecha=29/09/2026",
+      "code": "5799783",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "94971a4abd6d99266b029bd96ac9acd54b50531da9597dcc5626acaef0f5d7f6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Puebla, el Comité Administrador Poblano para la Construcción de Espacios Educativos, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Puebla, el Comité Administrador Poblano para la Construcción de Espacios Educativos, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799784&fecha=29/09/2026",
+      "code": "5799784",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "61b051206bc1860adc85f1c2af889851a752a7ffca83e993309463fc0d132590",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Querétaro, el Instituto de Infraestructura Física Educativa del Estado, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Querétaro, el Instituto de Infraestructura Física Educativa del Estado, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799786&fecha=29/09/2026",
+      "code": "5799786",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "e6ed3a8f3539eb1be5cc923a404287ce6ffac6ba3fd9e986e41ba21c6a10e5b2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y la Ciudad de México.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y la Ciudad de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799788&fecha=29/09/2026",
+      "code": "5799788",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "b8d1d0a0414632d9bceb5804f0f6fd69b13d7c8123d27023a07c28839c9ad0f8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Yucatán, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Yucatán, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799789&fecha=29/09/2026",
+      "code": "5799789",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "b4f0d7b61927c0f64c79c5fa0722e4f9875b798ca9d498f578b97e5d331b6004",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Zacatecas, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Zacatecas, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799791&fecha=29/09/2026",
+      "code": "5799791",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "0dba298a13f6fc7826433abd6419ceb99285b3fccce2576c0fdd395a9a5a7314",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799793&fecha=29/09/2026",
+      "code": "5799793",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "d60984c3ee0d371c0282cdd388c41b1ef5cef0e416abc9d5c3d3721e28f811b5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 115/2024, así como los Votos Concurrentes de las señoras Ministras Lenia Batres Guadarrama, Sara Irene Herrerías Guerra y del señor Ministro Irving Espinosa Betanzo, y Particular de la señora Ministra María Estela Ríos González.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 115/2024, así como los Votos Concurrentes de las señoras Ministras Lenia Batres Guadarrama, Sara Irene Herrerías Guerra y del señor Ministro Irving Espinosa Betanzo, y Particular de la señora Ministra María Estela Ríos González."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799795&fecha=29/09/2026",
+      "code": "5799795",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "029e2e362c0d902826659dd2618ee0d810329c70cf287690b850d8162a57a8ac",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799796&fecha=29/09/2026",
+      "code": "5799796",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "37e813620aabbfb43bfb6e4246ef2519b956106fc2275ab8dfb98bb628207728",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799797&fecha=29/09/2026",
+      "code": "5799797",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "a913aa600d655ac1b939e10c657c2b0bae3a621c6e1b4e1aa19b01518a38abff",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799799&fecha=29/09/2026",
+      "code": "5799799",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "13e81e44261c75c78fc90d30f2a2632f145852582430e3c1e1992098c6520dc8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Índice nacional de precios al consumidor."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799802&fecha=29/09/2026",
+      "code": "5799802",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "9a3866348e74075a36ab3a232a8079d35ab4f6767780f93205c8f2021ab3be05",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se aprueban los Lineamientos que establecen los plazos y términos para el uso del Padrón Electoral y las Listas Nominales de Electores para los procesos electorales locales concurrentes 2026-2027 así como de las elecciones extraordinarias que de éstos deriven; asimismo, los plazos para la actualización del Padrón Electoral y los cortes de la Lista Nominal de Electores, con motivo de la celebración de los procesos electorales federal y locales 2026-2027 y las elecciones extraordinarias que, en su caso, deriven de los mismos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se aprueban los Lineamientos que establecen los plazos y términos para el uso del Padrón Electoral y las Listas Nominales de Electores para los procesos electorales locales concurrentes 2026-2027 así como de las elecciones extraordinarias que de éstos deriven; asimismo, los plazos para la actualización del Padrón Electoral y los cortes de la Lista Nominal de Electores, con motivo de la celebración de los procesos electorales federal y locales 2026-2027 y las elecciones extraordinarias que, en su caso, deriven de los mismos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799803&fecha=29/09/2026",
+      "code": "5799803",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "f1eaffe8f0e30d26de005ec3cbe0b30b85fedfadc3fecdaa0ef6042208fb568c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG489/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba la Estrategia de Capacitación y Asistencia Electoral 2026-2027 y sus respectivos anexos.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG489/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba la Estrategia de Capacitación y Asistencia Electoral 2026-2027 y sus respectivos anexos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG489/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba la Estrategia de Capacitación y Asistencia Electoral 2026-2027 y sus respectivos anexos."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=29",
+    "name": "DOF official index",
+    "publication_date": "2026-09-29"
+  }
+}
