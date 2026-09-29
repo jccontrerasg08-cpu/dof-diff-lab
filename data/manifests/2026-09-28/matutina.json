@@ -1,38 +1,21 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-09-28T22:05:25+00:00",
+  "generated_at": "2026-09-29T02:00:06+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 3,
-      "aviso": 1,
-      "circular": 1,
-      "convenio": 5,
-      "otro": 4,
-      "resolucion": 3,
-      "sentencia": 1
+      "acuerdo": 1
     },
     "by_issuer": {
-      "AGENCIA DE TRANSFORMACION DIGITAL Y TELECOMUNICACIONES": 1,
-      "BANCO DE MEXICO": 3,
-      "INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES": 1,
-      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 2,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
-      "SECRETARIA DE ECONOMIA": 3,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 2,
-      "SECRETARIA DE LAS MUJERES": 3,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "SECRETARIA DE SALUD": 1
     },
     "by_topic": {
-      "financial": 1,
-      "labor": 1,
-      "other": 15,
-      "trade": 1
+      "fiscal": 1,
+      "health": 1
     }
   },
   "normalized_path": "data/normalized/2026-09-28/matutina.json",
-  "normalized_sha256": "c9f37ea902d462be3189a989e8a0123ff62873782f1f5786a76d8392de5d2ac7",
-  "note_count": 18,
+  "normalized_sha256": "0f650c08154b493b9e747b4721c86c92fae8ccaefc270ca83993a5e83c482790",
+  "note_count": 1,
   "parser_version": "1.1",
   "publication_date": "2026-09-28",
   "schema_version": "1.1",
@@ -41,8 +24,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=28",
     "raw_retained": false,
-    "raw_sha256": "27ee97af3a7d55fbf9f3058420661590081576d222c3a39535e3d8538956dfcf",
-    "raw_size": 84774
+    "raw_sha256": "0d3a3138ba0f972d8883b4e76e8bad95805a3c630bbf2242e598caf1770397b8",
+    "raw_size": 53176
   },
-  "status": "no_change"
+  "status": "changed"
 }
