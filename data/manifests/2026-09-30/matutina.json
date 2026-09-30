@@ -1,0 +1,45 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-09-30T09:39:44+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 5,
+      "convenio": 2,
+      "decreto": 2,
+      "otro": 7,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 2,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
+      "SECRETARIA DE ENERGIA": 2,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 2,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA": 3
+    },
+    "by_topic": {
+      "energy": 2,
+      "financial": 2,
+      "other": 12,
+      "public_procurement": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-09-30/matutina.json",
+  "normalized_sha256": "8eeff50ab4112214ee790af6e7c6cd7f80079fb62b790142dcaf6ded23d28c18",
+  "note_count": 17,
+  "parser_version": "1.1",
+  "publication_date": "2026-09-30",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=09&day=30",
+    "raw_retained": false,
+    "raw_sha256": "43e3f1e25c432d19dff41cfde6235292830d2950581cc2ecb4a34b99378c25bf",
+    "raw_size": 83858
+  },
+  "status": "changed"
+}
