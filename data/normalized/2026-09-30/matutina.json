@@ -1,97 +1,43 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799957&fecha=30/09/2026",
-      "code": "5799957",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800037&fecha=30/09/2026",
+      "code": "5800037",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "5649fdcd32f14efe70aa7e86c0f58084bdba6b017c29c5e2caff494c28a069f3",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "fa195ec9ca4597dbd03ca7aa870fe77d06441e22c5946efc8bbc9c9fd64144ef",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "decreto",
+          "evidence": "aviso",
           "name": "document_type",
-          "rule_id": "document_type.decreto",
+          "rule_id": "document_type.aviso",
           "rule_version": "1.0",
-          "value": "decreto"
+          "value": "aviso"
         },
         {
           "confidence": "low",
-          "evidence": "Decreto por el que se otorgan estímulos fiscales para incentivar el uso de medios de pago electrónicos.",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Arquidiócesis de Monterrey, A.R., denominada Parroquia Sagrado Corazón de Jesús en General Escobedo, N.L.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Decreto por el que se otorgan estímulos fiscales para incentivar el uso de medios de pago electrónicos."
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Arquidiócesis de Monterrey, A.R., denominada Parroquia Sagrado Corazón de Jesús en General Escobedo, N.L."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799958&fecha=30/09/2026",
-      "code": "5799958",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800039&fecha=30/09/2026",
+      "code": "5800039",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "25a9677d8b535866708fb328ed0ab10201b773f5f952343c43c5688fa07e82e1",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "decreto",
-          "name": "document_type",
-          "rule_id": "document_type.decreto",
-          "rule_version": "1.0",
-          "value": "decreto"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 107,378.835 m² (ciento siete mil trescientos setenta y ocho punto ochocientos treinta y cinco metros cuadrados), a favor de la Federación, para la ejecución del proyecto Tren Interurbano AIFA- Pachuca, correspondiente a 98 (noventa y ocho) inmuebles de propiedad privada, ubicados en los municipios de Mineral de la Reforma, Tizayuca, Tolcayuca, Villa de Tezontepec y Zapotlán de Juárez en el estado de Hidalgo; Tecámac, Temascalapa y Zumpango en el estado de México, y se deja parcialmente sin efectos, el diverso por el que se ordena la ocupación temporal de la superficie de 110,296.687 m² (ciento diez mil doscientos noventa y seis punto seiscientos ochenta y siete metros cuadrados) (Segunda publicación).",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 107,378.835 m² (ciento siete mil trescientos setenta y ocho punto ochocientos treinta y cinco metros cuadrados), a favor de la Federación, para la ejecución del proyecto Tren Interurbano AIFA- Pachuca, correspondiente a 98 (noventa y ocho) inmuebles de propiedad privada, ubicados en los municipios de Mineral de la Reforma, Tizayuca, Tolcayuca, Villa de Tezontepec y Zapotlán de Juárez en el estado de Hidalgo; Tecámac, Temascalapa y Zumpango en el estado de México, y se deja parcialmente sin efectos, el diverso por el que se ordena la ocupación temporal de la superficie de 110,296.687 m² (ciento diez mil doscientos noventa y seis punto seiscientos ochenta y siete metros cuadrados) (Segunda publicación)."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799960&fecha=30/09/2026",
-      "code": "5799960",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "7e14170ebe9b19ef120ca667031580b75622370955bb797d31efe11671b7c640",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo general por el que se establecen acciones de simplificación y mejora administrativa para trámites que se realizan ante la Comisión Nacional Bancaria y de Valores.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo general por el que se establecen acciones de simplificación y mejora administrativa para trámites que se realizan ante la Comisión Nacional Bancaria y de Valores."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799961&fecha=30/09/2026",
-      "code": "5799961",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "55abe5a8b8f2e07c3735fc8ce765d787ea61098148f5bb6225a3e9cbf415ce5d",
+      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
+      "record_sha256": "6fd8c13ca3d7ac28dfd996a2d1eb12860f751a289e2759fc3627e8c5b2665db3",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "low",
-          "evidence": "Oficio mediante el cual se modifican los términos de la autorización para la organización y operación de Banco Plata, S.A., Institución de Banca Múltiple.",
+          "evidence": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de septiembre de 2026.",
           "name": "document_type",
           "rule_id": "document_type.other",
           "rule_version": "1.0",
@@ -99,389 +45,14 @@
         },
         {
           "confidence": "rule_match",
-          "evidence": "modifican",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "banco",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Oficio mediante el cual se modifican los términos de la autorización para la organización y operación de Banco Plata, S.A., Institución de Banca Múltiple."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799963&fecha=30/09/2026",
-      "code": "5799963",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ENERGIA",
-      "record_sha256": "74aa99f5995747289a5f021d0723775fa9927a7635dde2a34ae29ebdbe1da027",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "energia",
+          "evidence": "electricidad",
           "name": "topic",
           "rule_id": "topic.energy",
           "rule_version": "1.0",
           "value": "energy"
         }
       ],
-      "title": "Acuerdo por el que se emiten las Disposiciones administrativas de carácter general para el registro de las personas usuarias de patrón de alto consumo de energía y la implementación de Sistemas de Gestión de la Energía."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799964&fecha=30/09/2026",
-      "code": "5799964",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ENERGIA",
-      "record_sha256": "6ea8a054351d959457dd3db241c08c2a14a94556305fc527744d9d765e79ae20",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "energia",
-          "name": "topic",
-          "rule_id": "topic.energy",
-          "rule_version": "1.0",
-          "value": "energy"
-        }
-      ],
-      "title": "Acuerdo de la Comisión Nacional de Energía por el que se modifica el diverso por el que se emite la metodología para la determinación del cargo correspondiente al servicio de transmisión de energía eléctrica que preste la Suministradora a las Personas Permisionarias con centrales de generación de energía eléctrica, que cuenten con contrato de interconexión y convenio para el servicio de transmisión de energía eléctrica celebrados al amparo de la Ley del Servicio Público de Energía Eléctrica, publicado el 18 de junio de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799966&fecha=30/09/2026",
-      "code": "5799966",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "75ee5a58ae3305a826104a3be3a53bc27621df4c176f36a38bac738c61e1c42e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de San Luis Potosí, el Instituto Estatal de Infraestructura Física Educativa de San Luis Potosí, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de San Luis Potosí, el Instituto Estatal de Infraestructura Física Educativa de San Luis Potosí, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799967&fecha=30/09/2026",
-      "code": "5799967",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "e873398aec040fd3c785c2d6761e50d2a1156147f55ab0c2a8a08d094e2d6e56",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Sinaloa, el Instituto Sinaloense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Sinaloa, el Instituto Sinaloense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799969&fecha=30/09/2026",
-      "code": "5799969",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "record_sha256": "9bc22ed81d8d16af155dd3738ee19300e26494da57bbe3f3888b31b2a24340f3",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Código de Conducta de la Secretaría de Desarrollo Agrario, Territorial y Urbano.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Código de Conducta de la Secretaría de Desarrollo Agrario, Territorial y Urbano.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Código de Conducta de la Secretaría de Desarrollo Agrario, Territorial y Urbano."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799971&fecha=30/09/2026",
-      "code": "5799971",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "19f2fe2e2f98d402c31181d1213aa7814750614658ba7c4839e8627ecd3bcc6d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "sentencia",
-          "name": "document_type",
-          "rule_id": "document_type.sentencia",
-          "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 198/2025, así como el Voto Concurrente del señor Ministro Irving Espinosa Betanzo.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 198/2025, así como el Voto Concurrente del señor Ministro Irving Espinosa Betanzo."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799973&fecha=30/09/2026",
-      "code": "5799973",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "db13fd8517eb5ca0e0f4ec88253aace9073dc5c23ea056b6e74f4a8b8541aca0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799974&fecha=30/09/2026",
-      "code": "5799974",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "0bc438d0f3a79daa51824520fd433bce4fccc29f3b8b90c0461c1ac68f07d982",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799975&fecha=30/09/2026",
-      "code": "5799975",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "ce02a12d35e532ae9c9c31e6e7172fcd03aee89932a0d71f3fbe8c05cd417ede",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799977&fecha=30/09/2026",
-      "code": "5799977",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "949cbe672fb6519a440c6f327469476eb82bc7bbc8b7f1ab927ab5f2461a6a65",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se aprueban las modificaciones a los Procedimientos para la atención a la ciudadanía que está imposibilitada físicamente para acudir al Módulo de Atención Ciudadana y/o que no puede manifestar, por sus propios medios, su voluntad de manera clara, precisa e indubitable, para realizar su trámite de inscripción o actualización al padrón electoral y entrega de la Credencial para Votar.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se aprueban las modificaciones a los Procedimientos para la atención a la ciudadanía que está imposibilitada físicamente para acudir al Módulo de Atención Ciudadana y/o que no puede manifestar, por sus propios medios, su voluntad de manera clara, precisa e indubitable, para realizar su trámite de inscripción o actualización al padrón electoral y entrega de la Credencial para Votar."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799980&fecha=30/09/2026",
-      "code": "5799980",
-      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
-      "issuer_secondary": null,
-      "record_sha256": "04979da9865327df17b074838ff674348a4e4b25de9e536399a3fb6301cc9e33",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Extracto del Acuerdo E/JGA/49/2026, denominado \"Actualización de las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios del Tribunal Federal de Justicia Administrativa\".",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "adquisiciones",
-          "name": "topic",
-          "rule_id": "topic.public_procurement",
-          "rule_version": "1.0",
-          "value": "public_procurement"
-        }
-      ],
-      "title": "Extracto del Acuerdo E/JGA/49/2026, denominado \"Actualización de las Políticas, Bases y Lineamientos en materia de Adquisiciones, Arrendamientos y Servicios del Tribunal Federal de Justicia Administrativa\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799981&fecha=30/09/2026",
-      "code": "5799981",
-      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
-      "issuer_secondary": null,
-      "record_sha256": "acffde09f2bfefe5b5c8afd3f5b329e330daa1e677619c7f1ec7e6dc706d2a05",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Extracto del Acuerdo G/JGA/85/2026, denominado \"Suplencia de persona Magistrada, en la Tercera Ponencia de la Cuarta Sala Regional en Nuevo León\".",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Extracto del Acuerdo G/JGA/85/2026, denominado \"Suplencia de persona Magistrada, en la Tercera Ponencia de la Cuarta Sala Regional en Nuevo León\".",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Extracto del Acuerdo G/JGA/85/2026, denominado \"Suplencia de persona Magistrada, en la Tercera Ponencia de la Cuarta Sala Regional en Nuevo León\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5799982&fecha=30/09/2026",
-      "code": "5799982",
-      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
-      "issuer_secondary": null,
-      "record_sha256": "c31bdadc35d7d4c10957e8793b48acccc9c10741ad24ba7a8a3239172539c48a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo SRG/02/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales del turno vespertino de la oficialía de partes de la Sala Regional en Guerrero del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo SRG/02/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales del turno vespertino de la oficialía de partes de la Sala Regional en Guerrero del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor."
+      "title": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de septiembre de 2026."
     }
   ],
   "schema_version": "1.1",
