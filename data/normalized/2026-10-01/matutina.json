@@ -1,0 +1,467 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800041&fecha=01/10/2026",
+      "code": "5800041",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "21f40d124ff6e3290a77829f29226fda8091b6fb499fb15d3de73ab3995c29e3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Código de Conducta de la Secretaría de Gobernación 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Código de Conducta de la Secretaría de Gobernación 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Código de Conducta de la Secretaría de Gobernación 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800042&fecha=01/10/2026",
+      "code": "5800042",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "d1940b49ce55a06563dcfcae900db3e414f44a1dbb6f6af75e0f508b36437001",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Arquidiócesis de Monterrey, A.R., denominada Parroquia Nuestra Señora del Refugio y San José en General Escobedo, N.L.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Arquidiócesis de Monterrey, A.R., denominada Parroquia Nuestra Señora del Refugio y San José en General Escobedo, N.L."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800044&fecha=01/10/2026",
+      "code": "5800044",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "e53c6918643a1f91b101057deb2bec5170577d3b2694bca28af216d4834ea7fa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Manzanillo, que otorga la Secretaría de Marina a favor de la Administración del Sistema Portuario Nacional Manzanillo, S.A. de C.V.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Manzanillo, que otorga la Secretaría de Marina a favor de la Administración del Sistema Portuario Nacional Manzanillo, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Prórroga al Título de Concesión para la Administración Portuaria Integral del Puerto de Manzanillo, que otorga la Secretaría de Marina a favor de la Administración del Sistema Portuario Nacional Manzanillo, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800045&fecha=01/10/2026",
+      "code": "5800045",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "265a74710c71a3208f01ede78d5ce375d54007eaeefaceb8141ed2b7cc901386",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro por el uso de infraestructura portuaria, aplicables en el Puerto de Cabo San Lucas, B.C.S.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro por el uso de infraestructura portuaria, aplicables en el Puerto de Cabo San Lucas, B.C.S."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800046&fecha=01/10/2026",
+      "code": "5800046",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "9104036aa7a98de0e794b806eda1d232ccdbae9cf3494edc9a6f43dd50471caa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800048&fecha=01/10/2026",
+      "code": "5800048",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "939b8057fe09b6c0e8aeb4ae5d076705a6764f1ea39aca637e61bbeb9add6d65",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Sonora, el Instituto Sonorense de Infraestructura Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Sonora, el Instituto Sonorense de Infraestructura Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800050&fecha=01/10/2026",
+      "code": "5800050",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "d8db3386e35f7b8b86fdd2d05483a16d6fbd86e4bc565c54d63be764124b0669",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que la Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, dentro del juicio contencioso administrativo número 22553/24-17-02-5, promovido por la empresa Global Services Performance Harr, S.A. de C.V., por conducto de su representante legal, la ciudadana Jeanette Jessamyn Mejía Avendaño, mediante sentencia de diez de diciembre de dos mil veinticinco, en cumplimiento a la ejecutoria de diecinueve de noviembre de dos mil veinticinco emitida por el Vigésimo Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito en el juicio de amparo D.A 403/2025, determinó la nulidad de la resolución número AR07/ M-VIIIF/3514 de siete de agosto de dos mil veinticuatro, dictada en el procedimiento administrativo de sanción a proveedores y licitantes número 030/PAS/2023.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que la Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, dentro del juicio contencioso administrativo número 22553/24-17-02-5, promovido por la empresa Global Services Performance Harr, S.A. de C.V., por conducto de su representante legal, la ciudadana Jeanette Jessamyn Mejía Avendaño, mediante sentencia de diez de diciembre de dos mil veinticinco, en cumplimiento a la ejecutoria de diecinueve de noviembre de dos mil veinticinco emitida por el Vigésimo Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito en el juicio de amparo D.A 403/2025, determinó la nulidad de la resolución número AR07/ M-VIIIF/3514 de siete de agosto de dos mil veinticuatro, dictada en el procedimiento administrativo de sanción a proveedores y licitantes número 030/PAS/2023."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800051&fecha=01/10/2026",
+      "code": "5800051",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "3204ff6cc3cff84f39c7f78928c81a2c44277f7fceacd4f3bdeefcf001ca3731",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Metales y Cobres de Ecatepec, S.A. de C.V. y la persona física que la representó el ciudadano Arturo Rivas Escobar, incluso cuando este último pretenda representar a empresas diversas a la sancionada.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Metales y Cobres de Ecatepec, S.A. de C.V. y la persona física que la representó el ciudadano Arturo Rivas Escobar, incluso cuando este último pretenda representar a empresas diversas a la sancionada."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800053&fecha=01/10/2026",
+      "code": "5800053",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "70487c17be36ea8bbc75db1c3e71dfc545067f8b16e3c15747e8ed44c079a0b7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-027-SSA-2026, Para la prevención, control y eliminación de la lepra.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-027-SSA-2026, Para la prevención, control y eliminación de la lepra."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800055&fecha=01/10/2026",
+      "code": "5800055",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "6ac5dc616c9afc4f48d8f5ad7c50d4cd0c0d73c09e7df1dff6857b58d6bf8aa4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "exportacion",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "laboral",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Acuerdo que establece las mercancías cuya exportación está sujeta a regulación por parte de la Secretaría del Trabajo y Previsión Social a través del Certificado Laboral para la Agroexportación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800057&fecha=01/10/2026",
+      "code": "5800057",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "014c80877b33e403de918dd24ea03d7329c7717911c8c83b7c80b04678f48b65",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 58/2024 y su Acumulada 67/2024, así como los Votos Particular de la señora Ministra Lenia Batres Guadarrama y Concurrente del señor Ministro Irving Espinosa Betanzo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 58/2024 y su Acumulada 67/2024, así como los Votos Particular de la señora Ministra Lenia Batres Guadarrama y Concurrente del señor Ministro Irving Espinosa Betanzo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800059&fecha=01/10/2026",
+      "code": "5800059",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "2e406a9ed04aea9e04b781c32bbcd398440ccc1b6b43ff0f6b030613c1bebdb3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800060&fecha=01/10/2026",
+      "code": "5800060",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4cec6b3b289f7a0092da8904b7070ed141b805484bec9167a390127c7d1a725d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800061&fecha=01/10/2026",
+      "code": "5800061",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "f40bbf94559179c8fd5136117bc25d989679ac0d4a354fa38a66490c78fada2d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800064&fecha=01/10/2026",
+      "code": "5800064",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "ed8feef2ff5c275198318859d8989d8594723b4e78ad6a885cdaf48f14a2aa05",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de México, respecto de los municipios de Acolman, Ecatepec de Morelos y Atenco.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de México, respecto de los municipios de Acolman, Ecatepec de Morelos y Atenco."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800065&fecha=01/10/2026",
+      "code": "5800065",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "5b226cd61fcbabe6bbf82840f1a5e30469679c6df0020d5c1aa391b3dda46091",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de Michoacán de Ocampo, respecto de los municipios de Morelia y Charo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de Michoacán de Ocampo, respecto de los municipios de Morelia y Charo."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=01",
+    "name": "DOF official index",
+    "publication_date": "2026-10-01"
+  }
+}
