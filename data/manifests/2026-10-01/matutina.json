@@ -1,37 +1,24 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-01T21:03:17+00:00",
+  "generated_at": "2026-10-02T01:42:11+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 3,
-      "aviso": 3,
-      "circular": 2,
-      "convenio": 1,
-      "norma": 1,
-      "otro": 5,
-      "sentencia": 1
+      "acuerdo": 1,
+      "otro": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "INSTITUTO NACIONAL ELECTORAL": 2,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
-      "SECRETARIA DE GOBERNACION": 2,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
-      "SECRETARIA DE MARINA": 3,
-      "SECRETARIA DE SALUD": 1,
-      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1
     },
     "by_topic": {
-      "financial": 1,
-      "labor": 1,
-      "other": 14,
+      "environment": 1,
+      "fiscal": 1,
       "trade": 1
     }
   },
   "normalized_path": "data/normalized/2026-10-01/matutina.json",
-  "normalized_sha256": "48085917f0612b33d6bc9425bd37bde97f0de131e7130c035e14e6383d26d0e3",
-  "note_count": 16,
+  "normalized_sha256": "6ab7866e29f99fd37a857cdb6a5a0abf34a4bc70c0d2668d9ffc674eec833c02",
+  "note_count": 2,
   "parser_version": "1.1",
   "publication_date": "2026-10-01",
   "schema_version": "1.1",
@@ -40,8 +27,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=01",
     "raw_retained": false,
-    "raw_sha256": "aebbd1f66a0259282a22072921da3b597f803c879ef4b1498c24279847df69e5",
-    "raw_size": 74573
+    "raw_sha256": "269a399f7e1c4fc877982e758f39f6eec9f7377b8b2491db86643e31c93ffc84",
+    "raw_size": 48296
   },
-  "status": "no_change"
+  "status": "changed"
 }
