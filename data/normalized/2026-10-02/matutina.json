@@ -1,0 +1,502 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800161&fecha=02/10/2026",
+      "code": "5800161",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "595487c393798d90fddc87fd527d5b4808cdd1e09651f084fcc5b33a0a2f631f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Colegio de Bachilleres del Estado de Hidalgo, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios del COBAEH.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Colegio de Bachilleres del Estado de Hidalgo, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre los usuarios del COBAEH."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800163&fecha=02/10/2026",
+      "code": "5800163",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE RELACIONES EXTERIORES",
+      "record_sha256": "09726b1e03292e28c315024472271bce448969c49ee99e1c1a6dec0e171272c1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Martha Josefina Mejía de Castañeda, Vicecónsul Honoraria de la República de Filipinas, en la ciudad de Guadalajara.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Martha Josefina Mejía de Castañeda, Vicecónsul Honoraria de la República de Filipinas, en la ciudad de Guadalajara.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Martha Josefina Mejía de Castañeda, Vicecónsul Honoraria de la República de Filipinas, en la ciudad de Guadalajara."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800164&fecha=02/10/2026",
+      "code": "5800164",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE RELACIONES EXTERIORES",
+      "record_sha256": "288427ab7272e93b2f5886294e049814ffff871ee6b53309a013d78002b8784f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Natalia Monserrat Mora Garcia, Vicecónsul Honoraria de los Estados Unidos de América, en la ciudad de Playa del Carmen.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Natalia Monserrat Mora Garcia, Vicecónsul Honoraria de los Estados Unidos de América, en la ciudad de Playa del Carmen.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Cancelación de la Autorización Definitiva número ocho, expedida a favor de la señora Natalia Monserrat Mora Garcia, Vicecónsul Honoraria de los Estados Unidos de América, en la ciudad de Playa del Carmen."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800165&fecha=02/10/2026",
+      "code": "5800165",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE RELACIONES EXTERIORES",
+      "record_sha256": "c5adc2e597bb00c39240828095df3625a562217f93c28dff441051099b03129a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número cinco, expedida a favor del señor Víctor Manuel Gómez Rodríguez, Cónsul Honorario del Reino de España, en la ciudad de Mérida.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Cancelación de la Autorización Definitiva número cinco, expedida a favor del señor Víctor Manuel Gómez Rodríguez, Cónsul Honorario del Reino de España, en la ciudad de Mérida.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Cancelación de la Autorización Definitiva número cinco, expedida a favor del señor Víctor Manuel Gómez Rodríguez, Cónsul Honorario del Reino de España, en la ciudad de Mérida."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800167&fecha=02/10/2026",
+      "code": "5800167",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "76810da16dad217045fe9c5eda6513d92cd7d76f6cf17268cec2422b39c449fe",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "document_type",
+          "rule_id": "document_type.convocatoria",
+          "rule_version": "1.0",
+          "value": "convocatoria"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convocatoria en cumplimiento de ejecutorias de amparo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convocatoria en cumplimiento de ejecutorias de amparo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800169&fecha=02/10/2026",
+      "code": "5800169",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "3c19e7d70769f7c9d35c6052dd07de5a53e8d1d02c455f52f7259571d1279238",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "petroleo",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Norma Oficial Mexicana de Emergencia NOM-EM-008-ASEA- 2026, Transporte de Gas Licuado de Petróleo por medio de Auto-tanque y Semirremolque."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800171&fecha=02/10/2026",
+      "code": "5800171",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "b64066612abf27d4b7fb79f8ce20845549bb92fe4476313e95bf53ea684942dc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción, ampliación y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Baja California, el Instituto de la Infraestructura Física Educativa de Baja California, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción, ampliación y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Baja California, el Instituto de la Infraestructura Física Educativa de Baja California, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800172&fecha=02/10/2026",
+      "code": "5800172",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "f45aaaf567630ef3b03d7867e0c0255182ee43c0ed4c5739b6c32666baaec09e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de México, el Instituto Mexiquense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de México, el Instituto Mexiquense de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800174&fecha=02/10/2026",
+      "code": "5800174",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "63a1a5c285cdd952f8f4c56669f8e944c2251dd19be97aa6ab2a54ffa80df46a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física con actividad empresarial el C. Víctor Manuel Mercado Huerta.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física con actividad empresarial el C. Víctor Manuel Mercado Huerta."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800176&fecha=02/10/2026",
+      "code": "5800176",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "bba609b9481a201f9c56aa2a7108fc7172880254c715fa2800f29cf996bda246",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Hidalgo.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Hidalgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800178&fecha=02/10/2026",
+      "code": "5800178",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "35fe7c979fb7a34e0ed9e4eac54728ce4ed94e56ee46a37b60f4cde6191e1a04",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800180&fecha=02/10/2026",
+      "code": "5800180",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "1ab87cd9ecf8260e6fb3387ed18daaab1ba9e154b9adcd4196a410cad13e42f5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800181&fecha=02/10/2026",
+      "code": "5800181",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "1511ab061a1b941fa6a571b5eda715463baf6079c8d1c0669c96189265737e21",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800182&fecha=02/10/2026",
+      "code": "5800182",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "69a5a5f1b91c4857a16ac02f28d4c114abb768d18ed6bf57f90ca058318fc7b4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800184&fecha=02/10/2026",
+      "code": "5800184",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "61b1eaeadf474e7b754d7aa137f8b56ae584dbf402687704ce1eb756a467c91e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de Nuevo León, respecto de los municipios de Monterrey y San Nicolás de los Garza.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de Nuevo León, respecto de los municipios de Monterrey y San Nicolás de los Garza."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800185&fecha=02/10/2026",
+      "code": "5800185",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "e53edb200f61268838b8d99e440583ad21c9f063abe137d722e429d0f3e8c107",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de San Luis Potosí, respecto de la creación del Municipio de Villa de Pozos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la modificación de la cartografía electoral del Estado de San Luis Potosí, respecto de la creación del Municipio de Villa de Pozos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800186&fecha=02/10/2026",
+      "code": "5800186",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "ba6b9d0f67725c1709b79509a288a3df6fc6b1513dce6a0c0a212cd25b67a704",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular INE/OIC/UAJ/DJPC/003/2026 por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las empresas productivas del Estado, a las entidades federativas, a los municipios, a los entes públicos de unas y otros, y a las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la persona moral Bell-Krom, Sociedad Anónima de Capital Variable.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular INE/OIC/UAJ/DJPC/003/2026 por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las empresas productivas del Estado, a las entidades federativas, a los municipios, a los entes públicos de unas y otros, y a las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la persona moral Bell-Krom, Sociedad Anónima de Capital Variable."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=02",
+    "name": "DOF official index",
+    "publication_date": "2026-10-02"
+  }
+}
