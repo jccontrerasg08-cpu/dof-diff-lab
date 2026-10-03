@@ -1,37 +1,22 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-02T20:47:17+00:00",
+  "generated_at": "2026-10-03T01:13:06+00:00",
   "insights": {
     "by_document_type": {
       "acuerdo": 3,
-      "circular": 2,
-      "convenio": 3,
-      "convocatoria": 1,
-      "norma": 1,
-      "otro": 7
+      "otro": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 3,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
-      "SECRETARIA DE GOBERNACION": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 2,
-      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
-      "SECRETARIA DE RELACIONES EXTERIORES": 3,
-      "SECRETARIA DE SALUD": 1
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 4
     },
     "by_topic": {
-      "energy": 1,
-      "financial": 1,
-      "health": 1,
-      "other": 14
+      "fiscal": 2,
+      "other": 2
     }
   },
   "normalized_path": "data/normalized/2026-10-02/matutina.json",
-  "normalized_sha256": "7ca76f8678cf90c77ae7ab41f24eddbb242b2744320c52c5d0fb4d3ad8c55ebc",
-  "note_count": 17,
+  "normalized_sha256": "f64452004889738fb0b7c37056c08aab27797ab76d8c3a7ccf705bd3ec102c69",
+  "note_count": 4,
   "parser_version": "1.1",
   "publication_date": "2026-10-02",
   "schema_version": "1.1",
@@ -40,8 +25,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=02",
     "raw_retained": false,
-    "raw_sha256": "872632da6d569bdf415565cdaeb87c6aef3d958b58d91435ef5c8bcf44348dd1",
-    "raw_size": 76679
+    "raw_sha256": "1e60ef609de5fd95b435bd4b5aaa31feb4f60b1eba455a44ef014dbb7a6cf8f3",
+    "raw_size": 50930
   },
-  "status": "no_change"
+  "status": "changed"
 }
