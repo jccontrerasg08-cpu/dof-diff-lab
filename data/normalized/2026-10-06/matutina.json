@@ -1,0 +1,683 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800379&fecha=06/10/2026",
+      "code": "5800379",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "48fa1440f032bda5aca77c3e3d7655eee25aadfe381b0b1e2ab9e34e497810be",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Verónica Martínez Morado y firmantes de la agrupación denominada Centro de Fe Internacional Mante.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Verónica Martínez Morado y firmantes de la agrupación denominada Centro de Fe Internacional Mante."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800380&fecha=06/10/2026",
+      "code": "5800380",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "4f452d809deaa5b224e12c6388849ac4c2865957660f361ed14e813f71155b56",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Mateo Rodríguez Cortez y firmantes de la agrupación denominada Iglesia Evangélica Pentecostés Espada de Dios.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Mateo Rodríguez Cortez y firmantes de la agrupación denominada Iglesia Evangélica Pentecostés Espada de Dios."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800381&fecha=06/10/2026",
+      "code": "5800381",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "1a7fb422e5be984a498eb70d97277db1a4124862b4933339e16cea01be824701",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Misael González Cruces y firmantes de la agrupación denominada Bajo la Sombra del Omnipotente.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Misael González Cruces y firmantes de la agrupación denominada Bajo la Sombra del Omnipotente."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800382&fecha=06/10/2026",
+      "code": "5800382",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "ff95be8f40a1891075cfe8dab1dc892953553fdfab01de0a6d2e7f7704db28d4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Víctor Onorio Molina Tovar y firmantes de la agrupación denominada Pueblos Unidos por Dios.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Víctor Onorio Molina Tovar y firmantes de la agrupación denominada Pueblos Unidos por Dios."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800384&fecha=06/10/2026",
+      "code": "5800384",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "39671939b3ebf2f2bee542e00b366585fe1800b12b38799c9260ebe8e08b1992",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Código de Conducta de la Secretaría de Marina 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Código de Conducta de la Secretaría de Marina 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Código de Conducta de la Secretaría de Marina 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800386&fecha=06/10/2026",
+      "code": "5800386",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "8a7051b5924e5b50f37852e9b9f5bcc79bf4fd0bcc9e20ed7b64fe4426ad53fc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se delegan en favor de los titulares de las Oficinas de Representación de la Secretaría de Medio Ambiente y Recursos Naturales, diversas atribuciones conferidas a la Dirección General de Recursos Materiales, Inmuebles y Servicios."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800387&fecha=06/10/2026",
+      "code": "5800387",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "b3b634c5f6a5fcacd99d29e0b641451a769414ef6f4c7b9308fd69cf82087a62",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se informa al público en general que está a su disposición el estudio realizado por la Comisión Nacional de Áreas Naturales Protegidas para justificar la expedición del Decreto por el que se pretende declarar como área natural protegida con el carácter de Área de Protección de Flora y Fauna Sistema Marino Lagunar Acapulco-Coyuca, con una superficie de 238,351-46-18.85 hectáreas, ubicada en la zona costero-marina de los municipios de Acapulco de Juárez y Coyuca de Benítez, en el Estado de Guerrero.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se informa al público en general que está a su disposición el estudio realizado por la Comisión Nacional de Áreas Naturales Protegidas para justificar la expedición del Decreto por el que se pretende declarar como área natural protegida con el carácter de Área de Protección de Flora y Fauna Sistema Marino Lagunar Acapulco-Coyuca, con una superficie de 238,351-46-18.85 hectáreas, ubicada en la zona costero-marina de los municipios de Acapulco de Juárez y Coyuca de Benítez, en el Estado de Guerrero."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800389&fecha=06/10/2026",
+      "code": "5800389",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "b89cabcee5722d97560e691af3a40232418b30f1994e24f2e482c129df9f6772",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Listado del Registro de Peritos Mineros vigentes, suspendidos y cancelados (01/2026).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Listado del Registro de Peritos Mineros vigentes, suspendidos y cancelados (01/2026).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Listado del Registro de Peritos Mineros vigentes, suspendidos y cancelados (01/2026)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800391&fecha=06/10/2026",
+      "code": "5800391",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "f0c349818c70ee5a0d773de4ed73b46ba4638b8f389acb92492ca78944276038",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Baja California Sur, el Instituto Sudcaliforniano de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Baja California Sur, el Instituto Sudcaliforniano de la Infraestructura Física Educativa, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800392&fecha=06/10/2026",
+      "code": "5800392",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "fbbdc90245e2833447bb943aa3ab9713716e0d6074435be97dda5b2623255226",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo Modificatorio al Acuerdo por el que se dan a conocer las disposiciones técnico administrativas de carácter aeronáutico de la Agencia Federal de Aviación Civil, órgano desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo Modificatorio al Acuerdo por el que se dan a conocer las disposiciones técnico administrativas de carácter aeronáutico de la Agencia Federal de Aviación Civil, órgano desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800394&fecha=06/10/2026",
+      "code": "5800394",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "5464226dd821beeccd57da3d546632221b694b4343f8897c72de2b6bf0ba5018",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, así como a las entidades federativas, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física Eréndira López Carreón.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, así como a las entidades federativas, que deberán abstenerse de aceptar propuestas o celebrar contratos con la persona física Eréndira López Carreón."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800395&fecha=06/10/2026",
+      "code": "5800395",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "e46fcaa0c991781a2316a113a83e6045110a4807f4a06d825e0c08ae7f9878c7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que el Juzgado Sexto de Distrito en Materia Administrativa en la Ciudad de México, en el juicio de amparo número 1518/2026-VII, interpuesto por la representación legal de la empresa Proteín, Sociedad Anónima de Capital Variable, en donde se controvierte el Acuerdo del veinticuatro de julio de dos mil veintiséis, emitido dentro del recurso de revisión RR-17/2026, promovido en contra de la resolución administrativa de fecha ocho de julio de dos mil veintiséis recaída al expediente administrativo número PISI-A-NC-DS-0001/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que el Juzgado Sexto de Distrito en Materia Administrativa en la Ciudad de México, en el juicio de amparo número 1518/2026-VII, interpuesto por la representación legal de la empresa Proteín, Sociedad Anónima de Capital Variable, en donde se controvierte el Acuerdo del veinticuatro de julio de dos mil veintiséis, emitido dentro del recurso de revisión RR-17/2026, promovido en contra de la resolución administrativa de fecha ocho de julio de dos mil veintiséis recaída al expediente administrativo número PISI-A-NC-DS-0001/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800397&fecha=06/10/2026",
+      "code": "5800397",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "7504023cc0aec413079fc44db993b9129eb8e4a1baad4ca1306a5f8a466679cb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Puebla.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Tercer Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Puebla."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800399&fecha=06/10/2026",
+      "code": "5800399",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "ef16e883bbc38bffc1da980e92c930e6f94bf8ade0c224f035c6ad0a29fdffb0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guanajuato, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/GTO/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B: Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Guanajuato, que tiene por objeto el otorgamiento de subsidio para el Proyecto MUJERES/AVGM/GTO/2026, que permita dar cumplimiento a la aplicación de recursos destinados al Componente B: Acciones de Coadyuvancia derivadas de las Declaratorias de Alerta de Violencia de Género contra las Mujeres."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800401&fecha=06/10/2026",
+      "code": "5800401",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
+      "record_sha256": "36ba7c1ffc40ff0baccaeda93dbbecaf301d9d6f8092af73333c4c898dfdfc41",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en la Unidad de Atención a Usuarios Norte 3, ubicada en el Estado de Chihuahua, el día 23 de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800403&fecha=06/10/2026",
+      "code": "5800403",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "4faecf7f2e5577d01ece9bbb5394848db94451ba7158911d6e3c464b114f8fa3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se reforman los Lineamientos del Consejo Consultivo del Instituto Mexicano de la Propiedad Industrial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se reforman los Lineamientos del Consejo Consultivo del Instituto Mexicano de la Propiedad Industrial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800405&fecha=06/10/2026",
+      "code": "5800405",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "PROCURADURIA DE LA DEFENSA DEL CONTRIBUYENTE",
+      "record_sha256": "7a4aced2c9e24de6c9b4c7fa4fd3522b79965eebb48fbf2348ed062a24b34e94",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General número 004/2026 por el que se suspenden actividades y se declara inhábil el día martes 29 de septiembre de 2026, para la Delegación Sonora de la Procuraduría de la Defensa del Contribuyente, con motivo del Huracán Polo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General número 004/2026 por el que se suspenden actividades y se declara inhábil el día martes 29 de septiembre de 2026, para la Delegación Sonora de la Procuraduría de la Defensa del Contribuyente, con motivo del Huracán Polo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800407&fecha=06/10/2026",
+      "code": "5800407",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "c1494becc5db7168d7fa3b0392d2a507ce9dd630faa4635d5fc7619e9953770a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800408&fecha=06/10/2026",
+      "code": "5800408",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "9cfc414dbed833c6d438e71b152978e8862435273a32ac9c6d65ccbe5e04798d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800409&fecha=06/10/2026",
+      "code": "5800409",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "975921f54c618d36b1820acf5e7e91c24824fe2a837b5454f33e2c39e240bb3b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800410&fecha=06/10/2026",
+      "code": "5800410",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3dfa84ef51b3796442bf8f512b3497ba4e4d109d430a3b105e613ec2f37338b2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de septiembre de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de septiembre de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800412&fecha=06/10/2026",
+      "code": "5800412",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "6e844f153199361eddcb3df39533599934f22e2c961ac20ce1f34d9edf81bd64",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Acuerdo A/001/26 por el que se implementa el Sistema Electrónico Institucional denominado Sistema de Actas de Entrega y Recepción de la Fiscalía General de la República \"SAER-FGR\" y se emiten los Lineamientos para realizar el proceso de entrega y recepción de las personas servidoras públicas de la Fiscalía General de la República y de los órganos dentro de su ámbito de competencia, al momento de separarse de su empleo, cargo, suplencia o comisión."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800414&fecha=06/10/2026",
+      "code": "5800414",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "325633fcda8134190d95d04f3dd2a8d9b5f9b6fd38426e7a99621acfdbc8fd79",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se modifican los Lineamientos y anexos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral, en acatamiento a la sentencia dictada en los recursos de revisión del procedimiento especial sancionador SUP-REP-893/2024 y su acumulado SUP-REP-900/2024 de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se modifican los Lineamientos y anexos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral, en acatamiento a la sentencia dictada en los recursos de revisión del procedimiento especial sancionador SUP-REP-893/2024 y su acumulado SUP-REP-900/2024 de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800417&fecha=06/10/2026",
+      "code": "5800417",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "44398607f1794b4249bc3c2859a9c842987fabcf1272a2a50d30420d7687623f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo SRS/01/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales de la Sala Regional en Sonora del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo SRS/01/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales de la Sala Regional en Sonora del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=06",
+    "name": "DOF official index",
+    "publication_date": "2026-10-06"
+  }
+}
