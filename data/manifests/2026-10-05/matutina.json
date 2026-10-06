@@ -1,42 +1,20 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-05T22:41:45+00:00",
+  "generated_at": "2026-10-06T02:19:34+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 5,
-      "aviso": 4,
-      "circular": 1,
-      "convenio": 2,
-      "norma": 1,
-      "otro": 5,
-      "sentencia": 1
+      "decreto": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "COMISION REGULADORA DE TELECOMUNICACIONES": 2,
-      "FIDEICOMISOS INSTITUIDOS EN RELACION CON LA AGRICULTURA": 1,
-      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 2,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
-      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
-      "SECRETARIA DE GOBERNACION": 4,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
-      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
-      "SECRETARIA DE SALUD": 1,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "PRESIDENCIA DE LA REPUBLICA": 1
     },
     "by_topic": {
-      "energy": 1,
-      "environment": 1,
-      "financial": 1,
-      "health": 1,
-      "other": 14,
-      "public_procurement": 1
+      "other": 1
     }
   },
   "normalized_path": "data/normalized/2026-10-05/matutina.json",
-  "normalized_sha256": "fe53503afdf6f0e9362942e28002876074e1e1295a3d290fc7f98a27ab70bec7",
-  "note_count": 19,
+  "normalized_sha256": "caeeebaeaf69272853a16cacc6a0b0f864e67ed1c6d05eee6553f46eec3a1fa0",
+  "note_count": 1,
   "parser_version": "1.1",
   "publication_date": "2026-10-05",
   "schema_version": "1.1",
@@ -45,8 +23,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=05",
     "raw_retained": false,
-    "raw_sha256": "3f98bd727e6146ade9cbfdd92c07f8cf0fe196521d5b5ca8e8e9232af85e5222",
-    "raw_size": 82305
+    "raw_sha256": "567e4e4930a831c40f3195cbd8535d4474d5229a9d268562b447a512f74684c4",
+    "raw_size": 47513
   },
-  "status": "no_change"
+  "status": "changed"
 }
