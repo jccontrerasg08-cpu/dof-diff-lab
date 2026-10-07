@@ -1,0 +1,451 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800537&fecha=07/10/2026",
+      "code": "5800537",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "34a63fd6b54c4e7de0c040a7a84643abb1454ec20fb76b27309ade09713257f9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio Marco de Coordinación que celebran la Secretaría de Gobernación, a través de la Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y la Universidad Autónoma del Estado de Hidalgo, para implementar estrategias y realizar programas de trabajo tendientes a prevenir y proteger los derechos de niñas, niños y adolescentes con una perspectiva de niñez, adoptando un lenguaje incluyente que tenga como finalidad llegar a grupos doblemente vulnerables como son la niñez y adolescencia indígena a través de la utilización de medios radiofónicos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio Marco de Coordinación que celebran la Secretaría de Gobernación, a través de la Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y la Universidad Autónoma del Estado de Hidalgo, para implementar estrategias y realizar programas de trabajo tendientes a prevenir y proteger los derechos de niñas, niños y adolescentes con una perspectiva de niñez, adoptando un lenguaje incluyente que tenga como finalidad llegar a grupos doblemente vulnerables como son la niñez y adolescencia indígena a través de la utilización de medios radiofónicos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800538&fecha=07/10/2026",
+      "code": "5800538",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "e99e5d6d16e63a8a1d4be1dbd6ded523a2e734383cb151996ebac02ca203988e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Francisco Javier Sánchez Zenteno y firmantes de la agrupación denominada Bereshit Adonai.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Francisco Javier Sánchez Zenteno y firmantes de la agrupación denominada Bereshit Adonai."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800539&fecha=07/10/2026",
+      "code": "5800539",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "a9f7d8360eefd1c3cc55cd0fa3d359f2f7b11d46807172462706d19c91c31ceb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Diócesis de Ciudad Victoria, A.R., denominada Parroquia de San Carlos Borromeo en San Carlos, Tamaulipas.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa de una entidad interna de Diócesis de Ciudad Victoria, A.R., denominada Parroquia de San Carlos Borromeo en San Carlos, Tamaulipas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800540&fecha=07/10/2026",
+      "code": "5800540",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "286608ce31351e42ee1e92c03df802bdbe401cbfa088418c4af57ca96dd22bb0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José Luis Guzmán Oliva y firmantes de la agrupación denominada Iglesia Cristiana El Buen Jesús.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. José Luis Guzmán Oliva y firmantes de la agrupación denominada Iglesia Cristiana El Buen Jesús."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800542&fecha=07/10/2026",
+      "code": "5800542",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "d78266bc32609a989a2e9b414b8a613dfe9fdd49366e5e4e6a27de6d2776fd81",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Notificación mediante la cual se da a conocer el inicio del procedimiento administrativo para emitir la Declaratoria por la que se formalizará la nacionalización del inmueble federal que se señala, el cual es de los comprendidos por el artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos, inmueble que se encuentra abierto a culto público con anterioridad a las reformas constitucionales del 28 de enero de 1992. (R.F.I. 16-9154- 3).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Notificación mediante la cual se da a conocer el inicio del procedimiento administrativo para emitir la Declaratoria por la que se formalizará la nacionalización del inmueble federal que se señala, el cual es de los comprendidos por el artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos, inmueble que se encuentra abierto a culto público con anterioridad a las reformas constitucionales del 28 de enero de 1992. (R.F.I. 16-9154- 3).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Notificación mediante la cual se da a conocer el inicio del procedimiento administrativo para emitir la Declaratoria por la que se formalizará la nacionalización del inmueble federal que se señala, el cual es de los comprendidos por el artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos, inmueble que se encuentra abierto a culto público con anterioridad a las reformas constitucionales del 28 de enero de 1992. (R.F.I. 16-9154- 3)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800543&fecha=07/10/2026",
+      "code": "5800543",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "d98cf17beb13d862c68dc10a0620704f86aa4f841e81fe025a225b2e7217ce92",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Oficio 06-C00-41100-25405/2026 mediante el cual se modificó la autorización para organizarse, operar y funcionar como Institución de Seguros otorgada a Tláloc Seguros, S.A., publicado el 9 de septiembre de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Nota Aclaratoria al Oficio 06-C00-41100-25405/2026 mediante el cual se modificó la autorización para organizarse, operar y funcionar como Institución de Seguros otorgada a Tláloc Seguros, S.A., publicado el 9 de septiembre de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Nota Aclaratoria al Oficio 06-C00-41100-25405/2026 mediante el cual se modificó la autorización para organizarse, operar y funcionar como Institución de Seguros otorgada a Tláloc Seguros, S.A., publicado el 9 de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800545&fecha=07/10/2026",
+      "code": "5800545",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "c138123038280dd53957ababfaa380b9e68abbf9d1ffb2aaf5547c7841725c69",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se da a conocer el ajuste ordinario de septiembre de 2026 al monto del cupo máximo para exportar azúcar a los Estados Unidos de América, del ciclo azucarero comprendido entre el 1 de octubre de 2026 y el 30 de septiembre de 2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se da a conocer el ajuste ordinario de septiembre de 2026 al monto del cupo máximo para exportar azúcar a los Estados Unidos de América, del ciclo azucarero comprendido entre el 1 de octubre de 2026 y el 30 de septiembre de 2027."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800547&fecha=07/10/2026",
+      "code": "5800547",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "f78d20d5e4ad5742c49d5d3577a05445983a847b0b3a1a68fe1dc2ff89b4d83f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo que regula el funcionamiento de las Jefaturas de las Unidades de Asuntos Jurídicos de los Centros SICT.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo que regula el funcionamiento de las Jefaturas de las Unidades de Asuntos Jurídicos de los Centros SICT."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800549&fecha=07/10/2026",
+      "code": "5800549",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE EDUCACION PUBLICA",
+      "record_sha256": "c38af0f5d7edded8d4bd00380a9f60c90f85ca4a13104d4254024680253ae5e9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional del Consejo Nacional de Fomento Educativo 2026-2030.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional del Consejo Nacional de Fomento Educativo 2026-2030.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Programa Institucional del Consejo Nacional de Fomento Educativo 2026-2030."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800551&fecha=07/10/2026",
+      "code": "5800551",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION REGULADORA DE TELECOMUNICACIONES",
+      "record_sha256": "2c80920b1809477a5bec1403e076ba044e48c74d6bc1c36b6d20265622b805b1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "licitacion",
+          "name": "topic",
+          "rule_id": "topic.public_procurement",
+          "rule_version": "1.0",
+          "value": "public_procurement"
+        }
+      ],
+      "title": "Acuerdo mediante el cual el Pleno de la Comisión Reguladora de Telecomunicaciones aprueba y emite la Convocatoria y Bases de la Licitación Pública para concesionar el uso, aprovechamiento y explotación comercial de diversos segmentos de espectro radioeléctrico disponibles para la prestación del Servicio de Provisión de Capacidad para Redes de Radiocomunicaciones Inteligentes (Licitación CRT-RRI-01-2026)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800553&fecha=07/10/2026",
+      "code": "5800553",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
+      "record_sha256": "2a91fd24882dbc2d5f42d184d6a78679b8b7aae17d681249ca624a302c8439d6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en la Unidad de Atención a Usuarios Occidente 2, ubicada en el Estado de Baja California Sur, los días 28 y 29 de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800554&fecha=07/10/2026",
+      "code": "5800554",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
+      "record_sha256": "e68f2027630f56458d3b28c1d94bc5f0408c020ec5c30bd882a3ebc9c247952f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en la Unidad de Atención a Usuarios Norte 1, ubicada en el Estado de Sonora, el día 29 de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800556&fecha=07/10/2026",
+      "code": "5800556",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "41ad80ab1bf39e8866d6d9d7133aa40dd1b1115e25c7acbab69fa1c309761d4f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800557&fecha=07/10/2026",
+      "code": "5800557",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "fd765ab5f53ff9f1700fd2f628c64022308f904cf5ef69dfe08fd7b128506b02",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800558&fecha=07/10/2026",
+      "code": "5800558",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "14cc80deb275095732a6f2dcd0aaae09c4df34e46bc46ba16f2bc35787b1dfc9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800561&fecha=07/10/2026",
+      "code": "5800561",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "8feec248804705d0676a03078a49f4d334ba647d8a51bb1714fc71dc224e28dd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos para la preparación y desarrollo de los cómputos distritales y de circunscripción plurinominal de las elecciones federales del Proceso Electoral 2026-2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos para la preparación y desarrollo de los cómputos distritales y de circunscripción plurinominal de las elecciones federales del Proceso Electoral 2026-2027."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=07",
+    "name": "DOF official index",
+    "publication_date": "2026-10-07"
+  }
+}
