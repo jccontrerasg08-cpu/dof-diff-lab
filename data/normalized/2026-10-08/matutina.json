@@ -1,0 +1,505 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800725&fecha=08/10/2026",
+      "code": "5800725",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "fe5e50f21a3bdf9af67a9ff233af80da695a59bd6774ccf1f18852839354e4d7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Ángel Ricardo Herrera Góngora y firmantes de la agrupación denominada Casa de los Milagros Internacional Mérida Sur.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Ángel Ricardo Herrera Góngora y firmantes de la agrupación denominada Casa de los Milagros Internacional Mérida Sur."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800726&fecha=08/10/2026",
+      "code": "5800726",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "2aa6be597385e6039a29f9c8e214a62cba5a13b890c57982cbd9f042f538b6b5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Josué Almanza Colin y firmantes de la agrupación denominada Organismo Activo Sobre Inspiración Sagrada.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Josué Almanza Colin y firmantes de la agrupación denominada Organismo Activo Sobre Inspiración Sagrada."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800727&fecha=08/10/2026",
+      "code": "5800727",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "e06d076f8d2f8877a52968296a2e36ac7d33f3e53f10de0fc945c6b3a0bae9ff",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Benigno Maas Balam y firmantes de la agrupación denominada El Concilio Nacional Ekklesía.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Benigno Maas Balam y firmantes de la agrupación denominada El Concilio Nacional Ekklesía."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800728&fecha=08/10/2026",
+      "code": "5800728",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "c9a763b256d34d47a11349810f4b3a2003dc86e6195c212df078f23feddb7669",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Leyver González Solís y firmantes de la agrupación denominada Congregación Beth Shalom Casa de Paz.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Leyver González Solís y firmantes de la agrupación denominada Congregación Beth Shalom Casa de Paz."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800730&fecha=08/10/2026",
+      "code": "5800730",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "395c38a446cc6e7924459b7b562ce647a60f78936cec2afd24143f7936a633c6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "impuesto",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Acuerdo por el que se expiden las Reglas de carácter general para la tramitación, asignación e integración de claves vehiculares a que se refiere el artículo 13 de la Ley Federal del Impuesto Sobre Automóviles Nuevos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800731&fecha=08/10/2026",
+      "code": "5800731",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "837db8db6693163a3192400af532ebc582ca7329a005a1767e64d70ca7e9a417",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Fiscalía General de la República, Órgano Constitucional Autónomo, el inmueble federal denominado \"Área Libre 2 Predio CONAFRUT\", con Registro Federal Inmobiliario 9-71266-4 y superficie de 18,145.73 metros cuadrados, ubicado en Carretera Federal México-Toluca número 1503, colonia San Gabriel, código postal 01310, alcaldía Á lvaro Obregón, Ciudad de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Fiscalía General de la República, Órgano Constitucional Autónomo, el inmueble federal denominado \"Área Libre 2 Predio CONAFRUT\", con Registro Federal Inmobiliario 9-71266-4 y superficie de 18,145.73 metros cuadrados, ubicado en Carretera Federal México-Toluca número 1503, colonia San Gabriel, código postal 01310, alcaldía Á lvaro Obregón, Ciudad de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800733&fecha=08/10/2026",
+      "code": "5800733",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "ea3aee14c85ea0ac8a655b9e11f0144c18dd934011d95229c045b972342f4020",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "vigencia",
+          "name": "signal",
+          "rule_id": "signal.contains_effective_date",
+          "rule_version": "1.0",
+          "value": "contains_effective_date"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de la cuota compensatoria impuesta a las importaciones de ferrosilicomanganeso originarias de la República de la India, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de la cuota compensatoria impuesta a las importaciones de ferrosilicomanganeso originarias de la República de la India, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800735&fecha=08/10/2026",
+      "code": "5800735",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE TURISMO",
+      "record_sha256": "f537c1181f80ad73aa6ac14bb6b755081ca2c1ad1eccb307940a72da806e396e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación que celebran la Secretaría de Turismo y el Estado de Quintana Roo, que tiene por objeto verificar el cumplimiento de la Ley General de Turismo, su Reglamento, la Ley de Infraestructura de la Calidad, vinculada a las normas oficiales mexicanas en la materia, así como el fortalecimiento de las atribuciones que tienen encomendadas por ministerio de Ley, en el procedimiento de verificación de los prestadores de servicios turísticos en la entidad.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación que celebran la Secretaría de Turismo y el Estado de Quintana Roo, que tiene por objeto verificar el cumplimiento de la Ley General de Turismo, su Reglamento, la Ley de Infraestructura de la Calidad, vinculada a las normas oficiales mexicanas en la materia, así como el fortalecimiento de las atribuciones que tienen encomendadas por ministerio de Ley, en el procedimiento de verificación de los prestadores de servicios turísticos en la entidad."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800737&fecha=08/10/2026",
+      "code": "5800737",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
+      "record_sha256": "da7839880476e0602b39dd59ee14f592feecc4f4229cf19a8f8d05b0a9f4765f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Yucatán, que tiene por objeto el otorgamiento de subsidio para el Proyecto RI2-2026-001, que permita dar cumplimiento a la aplicación de recursos destinados al Componente C: Apoyo para Espacios de Refugio Especializados para Mujeres Víctimas de Violencia de Género, sus Hijas e Hijos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convenio de Coordinación y Adhesión que celebran la Secretaría de las Mujeres y el Estado de Yucatán, que tiene por objeto el otorgamiento de subsidio para el Proyecto RI2-2026-001, que permita dar cumplimiento a la aplicación de recursos destinados al Componente C: Apoyo para Espacios de Refugio Especializados para Mujeres Víctimas de Violencia de Género, sus Hijas e Hijos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800739&fecha=08/10/2026",
+      "code": "5800739",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "5f6ab752a0a9eb6dfcd17998acf04c5119995f3350991fd0f2d4587d8a5ec495",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo número ACDO.AS2.HCT.290926/280.P.DIR, dictado por el H. Consejo Técnico del Instituto Mexicano del Seguro Social en sesión ordinaria celebrada el 29 de septiembre de 2026, relativo a la entrega de propuestas de Emisión Mensual Anticipada (EMA) y Emisión Bimestral Anticipada (EBA) a través del Buzón IMSS.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo número ACDO.AS2.HCT.290926/280.P.DIR, dictado por el H. Consejo Técnico del Instituto Mexicano del Seguro Social en sesión ordinaria celebrada el 29 de septiembre de 2026, relativo a la entrega de propuestas de Emisión Mensual Anticipada (EMA) y Emisión Bimestral Anticipada (EBA) a través del Buzón IMSS."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800740&fecha=08/10/2026",
+      "code": "5800740",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "151ac6a280d4a65be01ef252ec455e1a91f561adb6f7edce721ef68542554554",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se designa al Lic. Luis Antonio Macias Lee, en su carácter de Jefe de la División de Asuntos Jurídicos como la persona servidora pública que suplirá las ausencias del Dr. Eduardo González Espinoza, Titular de la Unidad Médica de Alta Especialidad: Hospital de Especialidades del Centro Médico Nacional de Occidente, en Guadalajara, Jalisco, del Instituto Mexicano del Seguro Social.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se designa al Lic. Luis Antonio Macias Lee, en su carácter de Jefe de la División de Asuntos Jurídicos como la persona servidora pública que suplirá las ausencias del Dr. Eduardo González Espinoza, Titular de la Unidad Médica de Alta Especialidad: Hospital de Especialidades del Centro Médico Nacional de Occidente, en Guadalajara, Jalisco, del Instituto Mexicano del Seguro Social."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800742&fecha=08/10/2026",
+      "code": "5800742",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "127167f5b1fb02e39ea66049b21c12ad8bd0f801379ab0522e621197e68f1052",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 23/2025, así como los Votos Concurrente y Particular del señor Ministro Presidente Hugo Aguilar Ortiz.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 23/2025, así como los Votos Concurrente y Particular del señor Ministro Presidente Hugo Aguilar Ortiz."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800744&fecha=08/10/2026",
+      "code": "5800744",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "e1a07eb1cbf0b66b0a6a889c98aa607866b7be0d512bb9c8d3d8d7e46e90a499",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General del Pleno del Órgano de Administración Judicial por el que se aprueba la supresión de la Secretaría General de la Presidencia y la creación de 1 plaza de Secretaria Técnica A/Secretario Técnico A del Órgano de Administración Judicial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial por el que se aprueba la supresión de la Secretaría General de la Presidencia y la creación de 1 plaza de Secretaria Técnica A/Secretario Técnico A del Órgano de Administración Judicial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800746&fecha=08/10/2026",
+      "code": "5800746",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "c394aa58d8eb73ab693e45c13f086cb043acf7999da6aa7cdb79be6a58fd58d8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800747&fecha=08/10/2026",
+      "code": "5800747",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0bc5c271bed34a2cbd2bb1aeaadd2304d8d872b0fc571a0eff52bc8a7c0385e6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800748&fecha=08/10/2026",
+      "code": "5800748",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3f9b54ed337f9b8bfa26ad3c23fed248246d192b2db0d518a815434d4058b3db",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800751&fecha=08/10/2026",
+      "code": "5800751",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "8b2ba30ef891f5a811715c997a058b624d5ffb9483dd996c2210bfe910a4f39d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se emiten las convocatorias para que la ciudadanía participe como observadora electoral en el Proceso Electoral Concurrente 2026-2027 y, en su caso, para los Procesos Electorales Extraordinarios que de éste deriven y se aprueban diversos anexos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se emiten las convocatorias para que la ciudadanía participe como observadora electoral en el Proceso Electoral Concurrente 2026-2027 y, en su caso, para los Procesos Electorales Extraordinarios que de éste deriven y se aprueban diversos anexos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800752&fecha=08/10/2026",
+      "code": "5800752",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "6509f7f2e2e0b1e9ac718a30df0a2d14cafde96a91a3f8ec7e9cfa533fd6d0a6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se establecen las bases y criterios con que habrá de invitar, atender e informar a las personas visitantes extranjeras que acudan a conocer las modalidades del Proceso Electoral Federal y los Procesos Electorales Locales Concurrentes 2026-2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral, por el que se establecen las bases y criterios con que habrá de invitar, atender e informar a las personas visitantes extranjeras que acudan a conocer las modalidades del Proceso Electoral Federal y los Procesos Electorales Locales Concurrentes 2026-2027."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=08",
+    "name": "DOF official index",
+    "publication_date": "2026-10-08"
+  }
+}
