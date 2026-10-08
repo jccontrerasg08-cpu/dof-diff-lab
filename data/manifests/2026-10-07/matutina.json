@@ -1,33 +1,22 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-07T21:20:10+00:00",
+  "generated_at": "2026-10-08T01:58:26+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 5,
-      "aviso": 4,
-      "convenio": 1,
-      "otro": 6
+      "decreto": 1,
+      "otro": 1
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS": 2,
-      "COMISION REGULADORA DE TELECOMUNICACIONES": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "SECRETARIA DE ECONOMIA": 1,
-      "SECRETARIA DE EDUCACION PUBLICA": 1,
-      "SECRETARIA DE GOBERNACION": 4,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1
     },
     "by_topic": {
-      "financial": 3,
-      "other": 12,
-      "public_procurement": 1
+      "other": 2
     }
   },
   "normalized_path": "data/normalized/2026-10-07/matutina.json",
-  "normalized_sha256": "5222246b42ac523fd257dd0d3229e6f5ef38d7e741f423c74d34750348461cc5",
-  "note_count": 16,
+  "normalized_sha256": "9280c8e889cefca0a34ff8563a8f30b3a03a4deee8f705b7a60d88dda8e2b758",
+  "note_count": 2,
   "parser_version": "1.1",
   "publication_date": "2026-10-07",
   "schema_version": "1.1",
@@ -36,8 +25,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=07",
     "raw_retained": false,
-    "raw_sha256": "b1dbdb75f307b61cf805376b48b1c7792cb6b3e5fe7937ce0f6f6b6457a0ac1e",
-    "raw_size": 76467
+    "raw_sha256": "b7c4b4be3e09e1031b6b9f05781fffe39508079a4c4539946037339b51701479",
+    "raw_size": 50200
   },
-  "status": "no_change"
+  "status": "changed"
 }
