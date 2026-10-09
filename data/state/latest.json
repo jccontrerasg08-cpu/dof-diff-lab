@@ -3,6 +3,6 @@
   "manifest_path": "data/manifests/2026-10-09/matutina.json",
   "normalized_sha256": "d70cce6949468c3eb395e4e417a2acd04675c83d4d3a4b6df00f5c011086290f",
   "publication_date": "2026-10-09",
-  "status": "changed",
-  "updated_at": "2026-10-09T10:30:03+00:00"
+  "status": "no_change",
+  "updated_at": "2026-10-09T20:57:30+00:00"
 }
