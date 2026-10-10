@@ -1,39 +1,22 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-09T20:57:30+00:00",
+  "generated_at": "2026-10-10T01:46:04+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 1,
-      "aviso": 3,
-      "circular": 2,
-      "convenio": 1,
-      "otro": 11,
-      "resolucion": 1,
-      "sentencia": 1
+      "acuerdo": 4
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 4,
-      "COMISION FEDERAL DE ELECTRICIDAD": 1,
-      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 1,
-      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
-      "SECRETARIA DE GOBERNACION": 3,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 4,
-      "SECRETARIA DE LAS MUJERES": 1,
-      "SECRETARIA DE MARINA": 1,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 4
     },
     "by_topic": {
-      "energy": 1,
-      "financial": 1,
-      "fiscal": 4,
-      "other": 14
+      "fiscal": 1,
+      "other": 2,
+      "trade": 1
     }
   },
   "normalized_path": "data/normalized/2026-10-09/matutina.json",
-  "normalized_sha256": "d70cce6949468c3eb395e4e417a2acd04675c83d4d3a4b6df00f5c011086290f",
-  "note_count": 20,
+  "normalized_sha256": "f580f6c2d7e815e18857522346e4c18e1496f94d2febafe9b01df95e3fec4def",
+  "note_count": 4,
   "parser_version": "1.1",
   "publication_date": "2026-10-09",
   "schema_version": "1.1",
@@ -42,8 +25,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=09",
     "raw_retained": false,
-    "raw_sha256": "503e9467ae9c6f0043737707a817a2539f53232101f99dc7452fe0b29e79e3ca",
-    "raw_size": 83190
+    "raw_sha256": "f071bbb0443b8a1ad3ca9bc94f9ead20b4299a591dbf37efacba9a499e8e7b4d",
+    "raw_size": 52842
   },
-  "status": "no_change"
+  "status": "changed"
 }

@@ -1,136 +1,20 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800837&fecha=09/10/2026",
-      "code": "5800837",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "d70f799a25b9593a002e9574f331812fffb91a436d48bf93054881c7586b3750",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Nicéforo Ramírez Chávez y firmantes de la agrupación denominada La Escogida de Dios.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Nicéforo Ramírez Chávez y firmantes de la agrupación denominada La Escogida de Dios."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800838&fecha=09/10/2026",
-      "code": "5800838",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "d291b04e997a0609e28da19bc39edb93aead9766b223e8fd7ea05269dc5928c7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Víctor Manuel Bermúdez Ruíz y firmantes de la agrupación denominada Ministerio Internacional Familias con Visión.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Víctor Manuel Bermúdez Ruíz y firmantes de la agrupación denominada Ministerio Internacional Familias con Visión."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800839&fecha=09/10/2026",
-      "code": "5800839",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "34b546ed8cea60e676cc4799985f960c5e1ca5a4eef6a5cc912ba759e066bb9c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Neftali Victoria Amicone de la agrupación denominada Semilla Veracruz.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Neftali Victoria Amicone de la agrupación denominada Semilla Veracruz."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800841&fecha=09/10/2026",
-      "code": "5800841",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MARINA",
-      "record_sha256": "d411603ce0b7c15a347e276bc1d62351fac9f089d71580d1ccfe022b0b6495f5",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Cuarta Modificación al Título de Concesión para la Administración Portuaria Integral de los Puertos de La Paz, Pichilingue, San Carlos, Puerto Escondido, Santa Rosalía y Loreto, así como las terminales de Isla San Marcos, Punta Prieta, San Juan de la Costa, en el Estado de Baja California Sur, que otorga la Secretaría de Marina en favor de la Administración Portuaria Integral de Baja California Sur, S.A. de C.V.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificacion",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Cuarta Modificación al Título de Concesión para la Administración Portuaria Integral de los Puertos de La Paz, Pichilingue, San Carlos, Puerto Escondido, Santa Rosalía y Loreto, así como las terminales de Isla San Marcos, Punta Prieta, San Juan de la Costa, en el Estado de Baja California Sur, que otorga la Secretaría de Marina en favor de la Administración Portuaria Integral de Baja California Sur, S.A. de C.V.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Cuarta Modificación al Título de Concesión para la Administración Portuaria Integral de los Puertos de La Paz, Pichilingue, San Carlos, Puerto Escondido, Santa Rosalía y Loreto, así como las terminales de Isla San Marcos, Punta Prieta, San Juan de la Costa, en el Estado de Baja California Sur, que otorga la Secretaría de Marina en favor de la Administración Portuaria Integral de Baja California Sur, S.A. de C.V."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800843&fecha=09/10/2026",
-      "code": "5800843",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800917&fecha=09/10/2026",
+      "code": "5800917",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "3df7a5b43bcb70007c43c93b8c4f7a2ecde6074d0c53340a6b042df09b9b0107",
+      "record_sha256": "3a32854d7dba4ada5e0b778b8ad843f4be4290510b82ced2e6dded543a161e20",
       "section": "UNICA SECCION",
       "tags": [
         {
-          "confidence": "low",
-          "evidence": "Oficio 900 04 00 00 00 2026-703 mediante el cual se comunica que Bernabastos, S.A. de C.V. promovió un medio de defensa en contra del oficio definitivo a que se refiere el artículo 69-B Bis cuarto párrafo del Código Fiscal de la Federación y, una vez resuelto, el órgano jurisdiccional dejó sin efectos el referido acto.",
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.other",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "otro"
+          "value": "acuerdo"
         },
         {
           "confidence": "rule_match",
@@ -141,176 +25,14 @@
           "value": "fiscal"
         }
       ],
-      "title": "Oficio 900 04 00 00 00 2026-703 mediante el cual se comunica que Bernabastos, S.A. de C.V. promovió un medio de defensa en contra del oficio definitivo a que se refiere el artículo 69-B Bis cuarto párrafo del Código Fiscal de la Federación y, una vez resuelto, el órgano jurisdiccional dejó sin efectos el referido acto."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800844&fecha=09/10/2026",
-      "code": "5800844",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800918&fecha=09/10/2026",
+      "code": "5800918",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "8bcc4303eec2958b7abf8bdadc24a61cd85dd958b9b1a4222324450a5dc4d352",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-24462 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-24462 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800845&fecha=09/10/2026",
-      "code": "5800845",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "918bd61605ae148d5dc535aeace45392452aec62d6e3891cc69485fa06ae25e1",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-24526 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-24526 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800846&fecha=09/10/2026",
-      "code": "5800846",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "0246a22ad0dca867b9bc76e055bc032f3c99c578118a9bcf7d2cc1afc72acb58",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-24615 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-24615 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800848&fecha=09/10/2026",
-      "code": "5800848",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "26036f06abb3a8994fc0139a784900b01230022ac7022282263d198e7ef6f3f4",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Construcciones Zarate Prados, S.A. de C.V.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Construcciones Zarate Prados, S.A. de C.V."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800849&fecha=09/10/2026",
-      "code": "5800849",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "3f780c642b12389f0098e24c82c5c7af9f5774d49edaacbed2e44fac4d68d842",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con el licitante Ezequiel Becerril Barrera.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con el licitante Ezequiel Becerril Barrera."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800851&fecha=09/10/2026",
-      "code": "5800851",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE LAS MUJERES",
-      "record_sha256": "420f3147e498697ff75c59bc7b9f1bed40f4d8a9584b6332b24541cf5f51bb5c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Tlaxcala, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Colaboración que celebran la Secretaría de las Mujeres y el Estado de Tlaxcala, que tiene por objeto contribuir a la Estrategia: Niñas y Adolescentes Libres y Seguras."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800853&fecha=09/10/2026",
-      "code": "5800853",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
-      "record_sha256": "1c20a549184f613c895df9a2d48ee5fcb20fda90e108284633f277c56240b573",
+      "record_sha256": "91da0b2539af47fae05e96d2a340b87fb756c4382e6062a87ac4930a691ad551",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -323,34 +45,61 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo por el que se suspenden los plazos en el Instituto Mexicano de la Propiedad Industrial, por causa de fuerza mayor."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800855&fecha=09/10/2026",
-      "code": "5800855",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
-      "record_sha256": "84cfc68e30a9a2776bd283f514c2a869cea80e8ede0338c77eabfed42156681e",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800919&fecha=09/10/2026",
+      "code": "5800919",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "ee9d153583f84d1e9acfce1b955bfd803b1b2132a582827ab2e77e0c6d8a6ab7",
       "section": "UNICA SECCION",
       "tags": [
         {
-          "confidence": "low",
-          "evidence": "Modificaciones al Estatuto Orgánico de la Empresa Pública del Estado, Comisión Federal de Electricidad.",
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.other",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "otro"
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800920&fecha=09/10/2026",
+      "code": "5800920",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "70d7d6b973bfc02ec4f9630bbc0f2db5699c83d3ffa19fe3fd6074c207fc5676",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
         },
         {
           "confidence": "rule_match",
-          "evidence": "modificaciones",
+          "evidence": "modifica",
           "name": "signal",
           "rule_id": "signal.possible_modification",
           "rule_version": "1.0",
@@ -358,211 +107,14 @@
         },
         {
           "confidence": "rule_match",
-          "evidence": "electricidad",
+          "evidence": "aduanas",
           "name": "topic",
-          "rule_id": "topic.energy",
+          "rule_id": "topic.trade",
           "rule_version": "1.0",
-          "value": "energy"
+          "value": "trade"
         }
       ],
-      "title": "Modificaciones al Estatuto Orgánico de la Empresa Pública del Estado, Comisión Federal de Electricidad."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800857&fecha=09/10/2026",
-      "code": "5800857",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "7cea7f084eb91a0ec4d7dbb9e9cbe5a05dae45e3eb62d923750fd3e4105f6182",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "sentencia",
-          "name": "document_type",
-          "rule_id": "document_type.sentencia",
-          "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2026, así como los Votos Particular de la señora Ministra Sara Irene Herrerías Guerra, y Particular y Concurrente de la señora Ministra Lenia Batres Guadarrama.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 29/2026, así como los Votos Particular de la señora Ministra Sara Irene Herrerías Guerra, y Particular y Concurrente de la señora Ministra Lenia Batres Guadarrama."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800859&fecha=09/10/2026",
-      "code": "5800859",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "af746aab8e1790f4de293a1ddca907070fc5365d07334d58cfaa5ba183dc2f85",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800860&fecha=09/10/2026",
-      "code": "5800860",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "40dcb4c63f5b4df0fc4f4c6d3fac0d70af1c12739e2c5393cc51f0bb6af108dc",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800861&fecha=09/10/2026",
-      "code": "5800861",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "900c3bb46f2293a81e0c18240164026898a03bacd00c32d10bae8086f2fcff83",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800862&fecha=09/10/2026",
-      "code": "5800862",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "ff83eebbdabaff408d9b721a4c9d6f33dc6c050d0897fd40e2b7c79d767d80a0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Valor de la unidad de inversión.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Valor de la unidad de inversión.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Valor de la unidad de inversión."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800864&fecha=09/10/2026",
-      "code": "5800864",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
-      "record_sha256": "e6aa71016f6230b2fc8bb88f56a20ce4ea4bcca8f76d034ec02929dd31193e08",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Índice nacional de precios al consumidor.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Índice nacional de precios al consumidor.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Índice nacional de precios al consumidor."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800866&fecha=09/10/2026",
-      "code": "5800866",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "013800160bd4f425e8afaf130421c16f9500abb530e0eb3a6b33099412f46b26",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "resolucion",
-          "name": "document_type",
-          "rule_id": "document_type.resolucion",
-          "rule_version": "1.0",
-          "value": "resolucion"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los Estatutos del Partido Político Nacional denominado SOMOS, respecto de su emblema y colores, en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-182/2026 y su acumulado, así como en cumplimiento al punto cuarto de la Resolución INE/CG497/2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los Estatutos del Partido Político Nacional denominado SOMOS, respecto de su emblema y colores, en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-182/2026 y su acumulado, así como en cumplimiento al punto cuarto de la Resolución INE/CG497/2026."
+      "title": "Acuerdo que modifica el diverso por el que se determina la circunscripción territorial de las aduanas y las secciones aduaneras de las aduanas."
     }
   ],
   "schema_version": "1.1",
