@@ -1,0 +1,316 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800937&fecha=12/10/2026",
+      "code": "5800937",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "69b3505998b2a095a5ee099d0284539d4fa32458317831264b4d321ff2d19a43",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo de delimitación y determinación del Recinto Portuario del Puerto de San Felipe, Municipio de San Felipe, Estado de Baja California.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo de delimitación y determinación del Recinto Portuario del Puerto de San Felipe, Municipio de San Felipe, Estado de Baja California."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800938&fecha=12/10/2026",
+      "code": "5800938",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "df3c9a1972a21f2f462b275fa662bf5c87aa0c218e7a722684d8387319018d98",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes del dominio público de la Federación, consistentes en zona de agua de mar territorial, para la construcción, mantenimiento y operación de una marina artificial, de uso particular, colindante con el Lote 11, Villa 8 del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "agua",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes del dominio público de la Federación, consistentes en zona de agua de mar territorial, para la construcción, mantenimiento y operación de una marina artificial, de uso particular, colindante con el Lote 11, Villa 8 del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800940&fecha=12/10/2026",
+      "code": "5800940",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "4fe07faef32a31198e5f5652f21629a2c1e90cd4f730c0aeb02484369632a2e3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de bicicletas para adulto originarias de la República Popular China, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución preliminar del procedimiento administrativo de investigación antidumping sobre las importaciones de bicicletas para adulto originarias de la República Popular China, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800942&fecha=12/10/2026",
+      "code": "5800942",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "964c6ae439f0258abb12cbf0c7498787f8b0b491a3345f9f8d801987e1ab2ba3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Norma Oficial Mexicana NOM-253-SSA1-2025, Para la disposición de sangre humana y sus componentes con fines terapéuticos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Norma Oficial Mexicana NOM-253-SSA1-2025, Para la disposición de sangre humana y sus componentes con fines terapéuticos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800944&fecha=12/10/2026",
+      "code": "5800944",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "bc8d7664e0ff3ccc770d30391ca501badef1a4962a6391f1738b2e1dfe7dd842",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 191/2026, así como el Voto Concurrente de la señora Ministra Sara Irene Herrerías Guerra.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 191/2026, así como el Voto Concurrente de la señora Ministra Sara Irene Herrerías Guerra."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800946&fecha=12/10/2026",
+      "code": "5800946",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "b5526cbf4d957ed41414318560d27570bcc76c54b114a7e34cdfe608fc7d3f20",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800947&fecha=12/10/2026",
+      "code": "5800947",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "f45ca9332807871ac9047fca080d684a796047c582c52b5922ab26349a65e87e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800948&fecha=12/10/2026",
+      "code": "5800948",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "04cd040160dfdcd29ecb30cdc4e4cc97de8630d21c0eae3d81b12ab508bb2e60",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800949&fecha=12/10/2026",
+      "code": "5800949",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "be11c3f208fef45acd452dc72b8a1727c0e4ea3628a6e6f83cbbf47a5204bcfe",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800951&fecha=12/10/2026",
+      "code": "5800951",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "06781d53881d29a730fe44cdb45397eec1b71f81c5d327c5203066fead22d22d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "datos personales",
+          "name": "topic",
+          "rule_id": "topic.data_protection",
+          "rule_version": "1.0",
+          "value": "data_protection"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba la nueva integración y presidencias de las Comisiones Permanentes, así como de los demás órganos auxiliares del Consejo General del Instituto Nacional Electoral y la creación de las Comisiones Temporales del Voto de las y los Mexicanos Residentes en el Extranjero, así como de Transparencia, Acceso a la Información y Protección de Datos Personales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5800953&fecha=12/10/2026",
+      "code": "5800953",
+      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
+      "issuer_secondary": null,
+      "record_sha256": "2b5867a8aec2e1088b1614bcafb8684526aa7eaacfc13d1831bcdfc3f3d1ee89",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo SRNL/1/2026 mediante el cual se da a conocer la suspensión de actividades jurisdiccionales en las Salas Regionales en Nuevo León del Tribunal Federal de Justicia Administrativa por causa de fuerza mayor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo SRNL/1/2026 mediante el cual se da a conocer la suspensión de actividades jurisdiccionales en las Salas Regionales en Nuevo León del Tribunal Federal de Justicia Administrativa por causa de fuerza mayor."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=12",
+    "name": "DOF official index",
+    "publication_date": "2026-10-12"
+  }
+}

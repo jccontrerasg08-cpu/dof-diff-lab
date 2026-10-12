@@ -1,0 +1,43 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-12T10:44:59+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "norma": 1,
+      "otro": 5,
+      "resolucion": 1,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE MARINA": 2,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA": 1
+    },
+    "by_topic": {
+      "data_protection": 1,
+      "environment": 1,
+      "financial": 1,
+      "other": 8
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-12/matutina.json",
+  "normalized_sha256": "77d5cdaa77fe2875c9a0a5cf27b5393572c884a24aaef56fdce45cdc5d38228c",
+  "note_count": 11,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-12",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=12",
+    "raw_retained": false,
+    "raw_sha256": "2b8cb2102baf62ec839840914587c872bbb22cb7945b0a7b8f295cb4dd2a580d",
+    "raw_size": 67248
+  },
+  "status": "changed"
+}
