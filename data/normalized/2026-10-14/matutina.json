@@ -1,11 +1,11 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801157&fecha=14/10/2026",
-      "code": "5801157",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801237&fecha=14/10/2026",
+      "code": "5801237",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "88b2bb52f399e1fe67255789d1b772d7141726b7fdcdf5a4ed90b74a486dab43",
+      "record_sha256": "8fc66b50f084e9a26af328dccb59e908604d79f39b003c27c9f3ff27e93c3d67",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -18,21 +18,21 @@
         },
         {
           "confidence": "low",
-          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 15-37-38 hectáreas del ejido \"El Tajito\", municipio de Torreón (ubicada física y geográficamente en el municipio de Matamoros), estado de Coahuila de Zaragoza, a favor del Instituto Nacional del Suelo Sustentable.",
+          "evidence": "Decreto de entornos digitales seguros para niñas, niños y adolescentes.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 15-37-38 hectáreas del ejido \"El Tajito\", municipio de Torreón (ubicada física y geográficamente en el municipio de Matamoros), estado de Coahuila de Zaragoza, a favor del Instituto Nacional del Suelo Sustentable."
+      "title": "Decreto de entornos digitales seguros para niñas, niños y adolescentes."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801158&fecha=14/10/2026",
-      "code": "5801158",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801238&fecha=14/10/2026",
+      "code": "5801238",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "1c9199c901bca1ceb0f2254c643571cdcb733b487a7dab8505321e1683c6e4be",
+      "record_sha256": "38e39141198f290920330e2748b5c2a1041718666bbeb0e048baccff7526b46d",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -45,48 +45,21 @@
         },
         {
           "confidence": "low",
-          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 14-68-72 hectáreas del ejido \"Lo de Juárez\", municipio de Irapuato, estado de Guanajuato, a favor del Instituto Nacional del Suelo Sustentable.",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 19- 21-75 hectáreas del ejido \"Troncones y La Corriente\", municipio de Ciudad Valles, estado de San Luis Potosí, a favor del Instituto Nacional del Suelo Sustentable.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 14-68-72 hectáreas del ejido \"Lo de Juárez\", municipio de Irapuato, estado de Guanajuato, a favor del Instituto Nacional del Suelo Sustentable."
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 19- 21-75 hectáreas del ejido \"Troncones y La Corriente\", municipio de Ciudad Valles, estado de San Luis Potosí, a favor del Instituto Nacional del Suelo Sustentable."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801160&fecha=14/10/2026",
-      "code": "5801160",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801240&fecha=14/10/2026",
+      "code": "5801240",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "338c81ed71af07fa1f4cfb6ff1249822262d12bfff07ed6e3988361dd24a724b",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "trabajadores",
-          "name": "topic",
-          "rule_id": "topic.labor",
-          "rule_version": "1.0",
-          "value": "labor"
-        }
-      ],
-      "title": "Convenio de Coordinación que celebran la Secretaría de Gobernación y el Instituto de Seguridad Social de los Trabajadores del Estado de Chiapas, para promover la adopción, el uso y la certificación de la Clave Única de Registro de Población (CURP), entre las personas usuarias del ISSTECH."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801162&fecha=14/10/2026",
-      "code": "5801162",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "a69c05e24f0f769a083806cd2b673b87511a8507c266599db23433f7a3754f4e",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "1fccda13ef6e7d09441c5615cf64bd4509b550ef8b59a059f0afad5f77902970",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -99,335 +72,14 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo por el que se destina a la Secretaría de Desarrollo Agrario, Territorial y Urbano, el inmueble federal denominado \"Oficina de Representación en Chihuahua SEDATU\", con Registro Federal Inmobiliario 8-5798-6 y superficie de 426.36 metros cuadrados, ubicado en el Segundo Piso del Edificio Plaza Chihuahua, número 3107 de la Calle 18 de marzo, colonia Chihuahua Centro, código postal 31000, municipio de Chihuahua, estado de Chihuahua.",
+          "evidence": "Acuerdo por el que se regulan artes, sistemas, métodos, técnicas y horarios para la realización de actividades de pesca con embarcaciones menores y mayores en Zonas Marinas Mexicanas en el Norte del Golfo de California y se establecen sitios de desembarque, así como el uso de Sistemas de Monitoreo para tales embarcaciones.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo por el que se destina a la Secretaría de Desarrollo Agrario, Territorial y Urbano, el inmueble federal denominado \"Oficina de Representación en Chihuahua SEDATU\", con Registro Federal Inmobiliario 8-5798-6 y superficie de 426.36 metros cuadrados, ubicado en el Segundo Piso del Edificio Plaza Chihuahua, número 3107 de la Calle 18 de marzo, colonia Chihuahua Centro, código postal 31000, municipio de Chihuahua, estado de Chihuahua."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801164&fecha=14/10/2026",
-      "code": "5801164",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ENERGIA",
-      "record_sha256": "b1e27881a8874927eaae059106c08dcd3d569965f9cb8298ae620dc1d219e624",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "energia",
-          "name": "topic",
-          "rule_id": "topic.energy",
-          "rule_version": "1.0",
-          "value": "energy"
-        }
-      ],
-      "title": "Acuerdo de la Comisión Nacional de Energía por el que se emiten las Disposiciones Administrativas de Carácter General por las que se establecen los criterios para la determinación de las vigencias de los títulos de permisos previstos en el artículo 11 del Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801166&fecha=14/10/2026",
-      "code": "5801166",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "af0854db02e1079330802addaf4eca54de6145dcdd110afd0a6a440a28e55816",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a las entidades federativas y a sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, el cumplimiento a la sentencia definitiva de veintiocho de noviembre de dos mil veinticinco, dictada en el juicio de nulidad número 21162/24-17-11-1, interpuesto por la representación legal de la empresa Soluciones Integrales de Transportación Vertical en México Sitravem, S.A. de C.V. en la cual la Décimo Primera Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, declaró la nulidad lisa y llana de la resolución de ocho de julio de dos mil veinticuatro, emitida en los autos del procedimiento PISI-A-NC-DS- 0008/2024, bajo el oficio 00641/30.15/4186/2024.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a las entidades federativas y a sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, el cumplimiento a la sentencia definitiva de veintiocho de noviembre de dos mil veinticinco, dictada en el juicio de nulidad número 21162/24-17-11-1, interpuesto por la representación legal de la empresa Soluciones Integrales de Transportación Vertical en México Sitravem, S.A. de C.V. en la cual la Décimo Primera Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, declaró la nulidad lisa y llana de la resolución de ocho de julio de dos mil veinticuatro, emitida en los autos del procedimiento PISI-A-NC-DS- 0008/2024, bajo el oficio 00641/30.15/4186/2024."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801168&fecha=14/10/2026",
-      "code": "5801168",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "f3cc1578790edd47e1aec736d8b810cf919237ed7a5fea4085be8554bd97249e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Guanajuato.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificatorio",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Guanajuato."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801170&fecha=14/10/2026",
-      "code": "5801170",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "COMISION NACIONAL ANTIMONOPOLIO",
-      "record_sha256": "e3fa536a277ab38436fe24c0e76ce7b78260b2891b340865f461b2bff27a4b47",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Manual de Organización General de la Comisión Nacional Antimonopolio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Manual de Organización General de la Comisión Nacional Antimonopolio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Manual de Organización General de la Comisión Nacional Antimonopolio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801172&fecha=14/10/2026",
-      "code": "5801172",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "PETROLEOS MEXICANOS",
-      "record_sha256": "94a4b970bb889f7a3865844a97c2766bd8da1922fdb73c609f734a2da9754838",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "petroleos",
-          "name": "topic",
-          "rule_id": "topic.energy",
-          "rule_version": "1.0",
-          "value": "energy"
-        }
-      ],
-      "title": "Acuerdo por el que se establecen acciones de simplificación al registro de proveedores de Petróleos Mexicanos a través de la Herramienta Integral de Información de Proveedores (HIIP)."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801174&fecha=14/10/2026",
-      "code": "5801174",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "100bd163bdd185b1a15476863b356aebaebaf7f7f52b8d51e17cc9982d0736db",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "sentencia",
-          "name": "document_type",
-          "rule_id": "document_type.sentencia",
-          "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 93/2026 y sus acumuladas 95/2026, 100/2026 y 101/2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 93/2026 y sus acumuladas 95/2026, 100/2026 y 101/2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801176&fecha=14/10/2026",
-      "code": "5801176",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
-      "record_sha256": "cc8ae9700239dad160cd29cc7286ebe30f2c8cfcdf5fa4eb04681f8d69da3a3e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "adiciona",
-          "name": "signal",
-          "rule_id": "signal.possible_addition",
-          "rule_version": "1.0",
-          "value": "possible_addition"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo General del Pleno del Órgano de Administración Judicial que reforma y adiciona diversas porciones normativas del similar del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, con relación a la operación de los buzones judiciales.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial que reforma y adiciona diversas porciones normativas del similar del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, con relación a la operación de los buzones judiciales."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801178&fecha=14/10/2026",
-      "code": "5801178",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "fd8bfccef48922a6f94130693b7a93e3f7032d1b9a71cb344b9844e93db55b67",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801179&fecha=14/10/2026",
-      "code": "5801179",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "90cbf971ae1ba58b06e7dd79519bfe8e1eb070c8a33fc67a51e47831bb26c137",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801180&fecha=14/10/2026",
-      "code": "5801180",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "75e68fac6ea8f45466e785df4955750671d815f004a9e194a92ca049f5d657e5",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801183&fecha=14/10/2026",
-      "code": "5801183",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "c78f4104a63ed72929e27301f7e2b90357d3241af01d2e16fd976f262618749b",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "resolucion",
-          "name": "document_type",
-          "rule_id": "document_type.resolucion",
-          "rule_version": "1.0",
-          "value": "resolucion"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los Estatutos del Partido Acción Nacional, en cumplimiento al Punto Resolutivo Tercero de la Resolución INE/CG176/2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los Estatutos del Partido Acción Nacional, en cumplimiento al Punto Resolutivo Tercero de la Resolución INE/CG176/2026."
+      "title": "Acuerdo por el que se regulan artes, sistemas, métodos, técnicas y horarios para la realización de actividades de pesca con embarcaciones menores y mayores en Zonas Marinas Mexicanas en el Norte del Golfo de California y se establecen sitios de desembarque, así como el uso de Sistemas de Monitoreo para tales embarcaciones."
     }
   ],
   "schema_version": "1.1",

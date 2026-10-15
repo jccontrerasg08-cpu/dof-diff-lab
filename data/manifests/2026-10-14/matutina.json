@@ -1,41 +1,22 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-14T20:13:30+00:00",
+  "generated_at": "2026-10-15T00:33:14+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 4,
-      "circular": 1,
-      "convenio": 1,
-      "decreto": 2,
-      "otro": 5,
-      "resolucion": 1,
-      "sentencia": 1
+      "acuerdo": 1,
+      "decreto": 2
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "COMISION NACIONAL ANTIMONOPOLIO": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
-      "PETROLEOS MEXICANOS": 1,
       "PRESIDENCIA DE LA REPUBLICA": 2,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
-      "SECRETARIA DE ENERGIA": 1,
-      "SECRETARIA DE GOBERNACION": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
-      "SECRETARIA DE SALUD": 1,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1
     },
     "by_topic": {
-      "energy": 2,
-      "financial": 1,
-      "health": 1,
-      "labor": 1,
-      "other": 10
+      "other": 3
     }
   },
   "normalized_path": "data/normalized/2026-10-14/matutina.json",
-  "normalized_sha256": "eaaad8dcd736b932e000970b91a44417ce45fdf316ef7d3e83ed08338195bd33",
-  "note_count": 15,
+  "normalized_sha256": "fd892ae16658da9b1239491d2496eed696caccf02b7f7c3c56960f15db3a5fdc",
+  "note_count": 3,
   "parser_version": "1.1",
   "publication_date": "2026-10-14",
   "schema_version": "1.1",
@@ -44,8 +25,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=14",
     "raw_retained": false,
-    "raw_sha256": "8a4258a841a0009c9dfc35381914c056cdb772db3b4524fb59891e2b3ca993f4",
-    "raw_size": 79475
+    "raw_sha256": "6a1b9aafa4cfd4af6912c1c4378f7ee5196f525babd18683eb8edf3260413516",
+    "raw_size": 53366
   },
-  "status": "no_change"
+  "status": "changed"
 }
