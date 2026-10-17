@@ -1,38 +1,11 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801377&fecha=16/10/2026",
-      "code": "5801377",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
-      "record_sha256": "5ae9ec448eb9c345545aee3dff9f276e92a9d1a0ab8dc9c8db5f5555b5755ef0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo por el que se crea la Academia del Centro Nacional de Inteligencia, Órgano Administrativo Desconcentrado de la Secretaría de Seguridad y Protección Ciudadana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo por el que se crea la Academia del Centro Nacional de Inteligencia, Órgano Administrativo Desconcentrado de la Secretaría de Seguridad y Protección Ciudadana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801379&fecha=16/10/2026",
-      "code": "5801379",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801457&fecha=16/10/2026",
+      "code": "5801457",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "0a1a4ed660028b93edd34a9fe10ec6b13c90317d97ad4a93b3635a77a7672fc5",
+      "record_sha256": "e8c5d7b026b6f0b1d74c4262a77cf5cf4e1c725679cf9db4156cc99e311aab4b",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -42,14 +15,6 @@
           "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
           "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
         },
         {
           "confidence": "rule_match",
@@ -58,329 +23,16 @@
           "rule_id": "topic.fiscal",
           "rule_version": "1.0",
           "value": "fiscal"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
         }
       ],
-      "title": "Acuerdo por el que se modifica el diverso por el que se da a conocer a los gobiernos de las entidades federativas la distribución y calendarización para la ministración, durante el ejercicio fiscal de 2026, de los recursos correspondientes a los Ramos Generales 28 Participaciones a Entidades Federativas y Municipios y 33 Aportaciones Federales para Entidades Federativas y Municipios, publicado el 12 de diciembre de 2025, y sus modificaciones publicadas el 6 de febrero, 8 de abril, y 9 de julio de 2026, en materia del Fondo de Aportaciones para los Servicios de Salud."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801381&fecha=16/10/2026",
-      "code": "5801381",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801458&fecha=16/10/2026",
+      "code": "5801458",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "04d1f10e9c2fba25562395c988365354b78491ea4becbdd4b03cb4fef23c5e1d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa AM Cenit, S.A. de C.V.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa AM Cenit, S.A. de C.V."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801383&fecha=16/10/2026",
-      "code": "5801383",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "f2e8f9fa6e9e340bc999919de3d9e9a9ea58410866a64ae542c1af857c3075f1",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Oaxaca.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificatorio",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Oaxaca."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801384&fecha=16/10/2026",
-      "code": "5801384",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "d9f4c836e3ef9493d14216cbc03ff1876949f02a6b3543fcaec40547746bf204",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se dan a conocer las Bases Generales para el Registro, Afectación, Disposición Final y Baja de Bienes Muebles del Hospital Juárez de México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se dan a conocer las Bases Generales para el Registro, Afectación, Disposición Final y Baja de Bienes Muebles del Hospital Juárez de México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801385&fecha=16/10/2026",
-      "code": "5801385",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "8fef26f1848243bb2f51a786085be30483e94b098c8fd62343b6f5cd82df76a7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer la actualización de los Lineamientos para la celebración de actos jurídicos mediante los cuales se podrá otorgar el uso de espacios físicos no hospitalarios en el Hospital Juárez de México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer la actualización de los Lineamientos para la celebración de actos jurídicos mediante los cuales se podrá otorgar el uso de espacios físicos no hospitalarios en el Hospital Juárez de México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801386&fecha=16/10/2026",
-      "code": "5801386",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "dac53a37bcef9933db7e0ec36c7c3ccb9563415925b635207cf6fdc727a38351",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer la actualización del Estatuto Orgánico del Hospital Juárez de México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer la actualización del Estatuto Orgánico del Hospital Juárez de México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801388&fecha=16/10/2026",
-      "code": "5801388",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "62e66820bbe396f5a980ed2ed5199358064d31a3a8a504eb49babe4edeed9eb7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "sentencia",
-          "name": "document_type",
-          "rule_id": "document_type.sentencia",
-          "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 303/2026, así como los Votos Concurrentes de las personas Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 303/2026, así como los Votos Concurrentes de las personas Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801390&fecha=16/10/2026",
-      "code": "5801390",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
-      "record_sha256": "1900e4051d4b1ec46da2203a711741fb274c997bc615bd1f0dff014e22df261c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los modelos de interconexión digital del Poder Judicial de la Federación.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se hace del conocimiento del público en general la incorporación de diversas autoridades a los modelos de interconexión digital del Poder Judicial de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801392&fecha=16/10/2026",
-      "code": "5801392",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "438b6bd6aa9fd147d3ab5047b9c6a2340b231937644d888a667110b73231f00e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801393&fecha=16/10/2026",
-      "code": "5801393",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "876f6c116adc8be46025f41c4a3c3dbb27d0496d3f4df8d18e7efab0ff328287",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801394&fecha=16/10/2026",
-      "code": "5801394",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "ceca27e28be76b1b1079b659a72755576d16c2af67271235e1f317e846a998ae",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801396&fecha=16/10/2026",
-      "code": "5801396",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
-      "record_sha256": "10e9e84997d980aa9b6af1472bf8c413cbe20c24ceee68c3310be943d58ddd22",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de septiembre de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de septiembre de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Encadenamiento de productos del índice nacional de precios al consumidor, correspondiente al mes de septiembre de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801398&fecha=16/10/2026",
-      "code": "5801398",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "eb8076537a561711e0ee6f2294ae6250ac6c4e794bae100c1e364c6c4c476dab",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "69db51f43dff2d2d20cd95aa94bf280ffaae6d597064995483c603b4826326ef",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -393,48 +45,21 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se establecen los criterios y plazos de procedimientos relacionados con el periodo de precampañas para el Proceso Electoral Federal 2026-2027.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se establecen los criterios y plazos de procedimientos relacionados con el periodo de precampañas para el Proceso Electoral Federal 2026-2027."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801400&fecha=16/10/2026",
-      "code": "5801400",
-      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
-      "issuer_secondary": null,
-      "record_sha256": "8dd3f0f350015eee82ca36268705eced30f8b4e363cfb9f1ec9e0c31eba193cf",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Extracto del Acuerdo G/JGA/87/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\".",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Extracto del Acuerdo G/JGA/87/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\".",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Extracto del Acuerdo G/JGA/87/2026, denominado \"Adscripción y suplencia de persona Magistrada, en diversas Salas Regionales del Tribunal\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801401&fecha=16/10/2026",
-      "code": "5801401",
-      "issuer_primary": "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA",
-      "issuer_secondary": null,
-      "record_sha256": "edab065fc3c06d5b741227569de3247ac5e9eeac7d5da542b2ef763272d99b30",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801459&fecha=16/10/2026",
+      "code": "5801459",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9bc5e38681a7c6f657cdd97993eebb1ec4323240776c5bcf5edfdef7852a4a2e",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -447,14 +72,14 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo SRG/03/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales de la Sala Regional en Guerrero del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo SRG/03/2026 por el que se da a conocer la suspensión de actividades jurisdiccionales de la Sala Regional en Guerrero del Tribunal Federal de Justicia Administrativa, por causa de fuerza mayor."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     }
   ],
   "schema_version": "1.1",
