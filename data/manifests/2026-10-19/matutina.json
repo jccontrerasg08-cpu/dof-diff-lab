@@ -1,0 +1,42 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-19T08:48:54+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "convenio": 1,
+      "otro": 5,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 1,
+      "other": 8
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-19/matutina.json",
+  "normalized_sha256": "acb80080f9d3c63293753b865cb72bc75a9fe4427cbe31f33a0e00b39c19af51",
+  "note_count": 10,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-19",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=19",
+    "raw_retained": false,
+    "raw_sha256": "51f84dabdcd2c113ba65b920d7416ed6d2f7b22fc5bdbae519c8a969a5d0035d",
+    "raw_size": 67673
+  },
+  "status": "changed"
+}
