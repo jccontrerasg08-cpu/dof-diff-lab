@@ -1,0 +1,440 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801537&fecha=20/10/2026",
+      "code": "5801537",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE RELACIONES EXTERIORES",
+      "record_sha256": "6a468ce3bfd5f93683c98f29e6ba2b115c72636fec199d16f13c4d2872ce88de",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se da a conocer la Convocatoria al Concurso Público General de Ingreso a la rama Técnico-Administrativa del Servicio Exterior Mexicano 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se da a conocer la Convocatoria al Concurso Público General de Ingreso a la rama Técnico-Administrativa del Servicio Exterior Mexicano 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801539&fecha=20/10/2026",
+      "code": "5801539",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "ddf01d053464b3ab75b96efad39aa2457c81de1de1d559c8a6e854d991be2083",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se deja sin efectos el Criterio No. 6/2015 de aplicación general, en materia de Empresas Productivas del Estado y sus Empresas Productivas Subsidiarias, emitido por el Comité del Patrimonio Inmobiliario Federal y Paraestatal.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se deja sin efectos el Criterio No. 6/2015 de aplicación general, en materia de Empresas Productivas del Estado y sus Empresas Productivas Subsidiarias, emitido por el Comité del Patrimonio Inmobiliario Federal y Paraestatal."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801540&fecha=20/10/2026",
+      "code": "5801540",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "6e638665dfea1c42dc5940fb100f107fed6e404419d417a61dce365900725ba1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Criterio No. 01/2026 por el que se emite el nuevo Formato de Acta Administrativa de Inspección y/o Verificación.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Criterio No. 01/2026 por el que se emite el nuevo Formato de Acta Administrativa de Inspección y/o Verificación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Criterio No. 01/2026 por el que se emite el nuevo Formato de Acta Administrativa de Inspección y/o Verificación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801542&fecha=20/10/2026",
+      "code": "5801542",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "18b789e2eb680710d6b2c9cd8a1765237471b3765d4227640bb9974b4606c52a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "abroga",
+          "name": "signal",
+          "rule_id": "signal.possible_abrogation",
+          "rule_version": "1.0",
+          "value": "possible_abrogation"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el cual se abroga el diverso mediante el cual se delegan a la Dirección General de Gestión de Operación Integral de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, las facultades que se indican, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2025."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801544&fecha=20/10/2026",
+      "code": "5801544",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "35f7aaa874ec84f22f901094b893cca0ed1ecc8ad21e93ec31f924d873b87347",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se emite y da a conocer el Código de Conducta de la Secretaría de Infraestructura, Comunicaciones y Transportes.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se emite y da a conocer el Código de Conducta de la Secretaría de Infraestructura, Comunicaciones y Transportes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801546&fecha=20/10/2026",
+      "code": "5801546",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "bb7045f9b080affeb63ed2147ee63d5a9c7b16f0934b9decaf133b85edfb8c10",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, así como a las entidades federativas el cumplimiento dado a la sentencia definitiva de veintiséis de enero de dos mil veintiséis, dictada por la Tercera Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, en el juicio de nulidad 21039/24-17-03-9, promovido por la moral \"Geosa Geología, Geotecnia y Obras Subterráneas, S. de R.L. de C.V.\", mediante la cual se declaró la nulidad de la resolución de veinte de agosto de dos mil veinticuatro, emitida dentro del procedimiento de sanción a proveedores SAN/002/ 2024.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, así como a las entidades federativas el cumplimiento dado a la sentencia definitiva de veintiséis de enero de dos mil veintiséis, dictada por la Tercera Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, en el juicio de nulidad 21039/24-17-03-9, promovido por la moral \"Geosa Geología, Geotecnia y Obras Subterráneas, S. de R.L. de C.V.\", mediante la cual se declaró la nulidad de la resolución de veinte de agosto de dos mil veinticuatro, emitida dentro del procedimiento de sanción a proveedores SAN/002/ 2024."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801548&fecha=20/10/2026",
+      "code": "5801548",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION",
+      "record_sha256": "60a104fdb1cda38e3096ba3920b8add011f5cdbd65bc27e43deaa16ad59f48b9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Estatuto Orgánico del Instituto Nacional de Estudios Históricos de las Revoluciones de México.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Estatuto Orgánico del Instituto Nacional de Estudios Históricos de las Revoluciones de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Estatuto Orgánico del Instituto Nacional de Estudios Históricos de las Revoluciones de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801550&fecha=20/10/2026",
+      "code": "5801550",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "49f4dc078677a71e663ca82df2fc5b29a8fd3b9a4ef005514e8a337b9332abf4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de San Luis Potosí.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de San Luis Potosí."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801552&fecha=20/10/2026",
+      "code": "5801552",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "a918b9291ca9acadd41ec6701a311886fa0a6078c130ff617c88295d669f8889",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Baja California."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801554&fecha=20/10/2026",
+      "code": "5801554",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
+      "record_sha256": "d592803323ead5462d08774e7e97cee5ba00b0456288c08ea47efde680e43358",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Código de Ética de las personas servidoras públicas de la Comisión Federal de Electricidad y personas empleadas de las Empresas Filiales.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "electricidad",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Código de Ética de las personas servidoras públicas de la Comisión Federal de Electricidad y personas empleadas de las Empresas Filiales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801555&fecha=20/10/2026",
+      "code": "5801555",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
+      "record_sha256": "7d6c8c787d66af90b0e5f20147bbf40599f44b2e65ddb84355b06cd35223a1d1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Código de Conducta de la Comisión Federal de Electricidad y sus Empresas Filiales.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "electricidad",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Código de Conducta de la Comisión Federal de Electricidad y sus Empresas Filiales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801557&fecha=20/10/2026",
+      "code": "5801557",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "dc7f66ab158d9beb5df8af1f2eca2fe08e54e09b3695ab02e66a37582494a887",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801558&fecha=20/10/2026",
+      "code": "5801558",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "44c332e883ec0db1ad9c0451534eaf6c1a21b7e4fb1e694bb3bf4e219dd20076",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801559&fecha=20/10/2026",
+      "code": "5801559",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "fd3fba573f6e3e6ad2ca4a27fbf8d1080fee05ad1056ce9d3e607d75096f7b6d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801562&fecha=20/10/2026",
+      "code": "5801562",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "62541698cc4072fb14409ab21b876e55b92904f42b3189485e3cd42e609a34a7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba el modelo de operación para la organización del Voto Anticipado para el Proceso Electoral Concurrente 2026-2027 y las Elecciones Extraordinarias que de este deriven.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba el modelo de operación para la organización del Voto Anticipado para el Proceso Electoral Concurrente 2026-2027 y las Elecciones Extraordinarias que de este deriven."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=20",
+    "name": "DOF official index",
+    "publication_date": "2026-10-20"
+  }
+}
