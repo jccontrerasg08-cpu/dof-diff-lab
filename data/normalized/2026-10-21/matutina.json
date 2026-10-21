@@ -1,0 +1,405 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801697&fecha=21/10/2026",
+      "code": "5801697",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "8ea0fea681895ee217118a6ffc6b36d6d3ee0aa32e0b5d3fb6f6ed0ead822545",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "sanitarias",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Aviso de consulta pública del proyecto de cancelación de la Norma Oficial Mexicana NOM-077-SSA1-1994, Que establece las especificaciones sanitarias de los materiales de control (en general) para laboratorios de patología clínica, publicada el 1 de julio de 1996."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801698&fecha=21/10/2026",
+      "code": "5801698",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "17e0bce21564fa06e23ab5b35acb80bc97c9688026870282cd1653548903b562",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma oficial mexicana",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "sanitarias",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Aviso de consulta pública del proyecto de cancelación de la Norma Oficial Mexicana NOM-078-SSA1-1994, Que establece las especificaciones sanitarias de los estándares de calibración utilizados en las mediciones realizadas en los laboratorios de patología clínica, publicada el 1 de julio de 1996."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801700&fecha=21/10/2026",
+      "code": "5801700",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "484bbc6364ad20d7801ce1749fdc96650f5b1b47900c89183bc3d5dff213769f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Hidalgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801702&fecha=21/10/2026",
+      "code": "5801702",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION REGULADORA DE TELECOMUNICACIONES",
+      "record_sha256": "f191da862f4291b04c58ef8d4e8f65c5625f194c7e1dc4499e7a9d4d2aff0493",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "abroga",
+          "name": "signal",
+          "rule_id": "signal.possible_abrogation",
+          "rule_version": "1.0",
+          "value": "possible_abrogation"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo mediante el cual el Pleno de la Comisión Reguladora de Telecomunicaciones aprueba y emite el \"Programa de Regularización al que se refiere el artículo Vigésimo Primero Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo mediante el cual el Pleno de la Comisión Reguladora de Telecomunicaciones aprueba y emite el \"Programa de Regularización al que se refiere el artículo Vigésimo Primero Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801704&fecha=21/10/2026",
+      "code": "5801704",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "33416f2e2613feb9bfdf367aeb6fa646bd20351f07e6f6c26aa3a90d907119a7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución por la que se modifica la Declaración General de Protección de la Denominación de Origen Mezcal, para incluir los municipios del Estado de Sinaloa que en la misma se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución por la que se modifica la Declaración General de Protección de la Denominación de Origen Mezcal, para incluir los municipios del Estado de Sinaloa que en la misma se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801706&fecha=21/10/2026",
+      "code": "5801706",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL ANTIMONOPOLIO",
+      "record_sha256": "f25bdb73a88a472d4e358c96817eedf43665055762f365298862c8c2124f43f6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establecen acciones de simplificación y mejora administrativa de la Comisión Nacional Antimonopolio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen acciones de simplificación y mejora administrativa de la Comisión Nacional Antimonopolio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801708&fecha=21/10/2026",
+      "code": "5801708",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "c863a94e1dbffc56aa832f266000706373e640872aedeacc5ad9427cad75ca4d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo ACDO.AS2.HCT.101026/302.P.DG, dictado por el Honorable Consejo Técnico del Instituto Mexicano del Seguro Social, en sesión extraordinaria celebrada el 10 de octubre de 2026, relativo a la aprobación del análisis del efecto de la Continuación Voluntaria en el Régimen Obligatorio del Seguro Social y de las respectivas medidas temporales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo ACDO.AS2.HCT.101026/302.P.DG, dictado por el Honorable Consejo Técnico del Instituto Mexicano del Seguro Social, en sesión extraordinaria celebrada el 10 de octubre de 2026, relativo a la aprobación del análisis del efecto de la Continuación Voluntaria en el Régimen Obligatorio del Seguro Social y de las respectivas medidas temporales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801710&fecha=21/10/2026",
+      "code": "5801710",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "be54d527c2e4d23857b63ef386281087149d34f785f6474c14878ba083d7c4ab",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 137/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 137/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801712&fecha=21/10/2026",
+      "code": "5801712",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "62a20c17dc7cfad07cc9220cb69738f02b0628d677dc662e1f9a9aa9a41a75ec",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a los saldos y productos financieros del Fondo para la administración de los recursos provenientes de sentencias que deriven de las Acciones Colectivas Difusas, que se proporciona en cumplimiento de la obligación establecida en el artículo 34 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma el similar que crea el Fondo para la Administración de los Recursos provenientes de Sentencias que deriven de las acciones colectivas difusas, a que se refiere el artículo 624 del Código Federal de Procedimientos Civiles.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Información relativa a los saldos y productos financieros del Fondo para la administración de los recursos provenientes de sentencias que deriven de las Acciones Colectivas Difusas, que se proporciona en cumplimiento de la obligación establecida en el artículo 34 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma el similar que crea el Fondo para la Administración de los Recursos provenientes de Sentencias que deriven de las acciones colectivas difusas, a que se refiere el artículo 624 del Código Federal de Procedimientos Civiles."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801713&fecha=21/10/2026",
+      "code": "5801713",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "02d6221980b4b0b102580307bc9d3af3809cbcd83b9c76e82bf4fc1682c6073c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a los saldos y productos financieros del Fondo de Apoyo a la Administración de Justicia, que se proporciona en cumplimiento de la obligación establecida en el artículo 911 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Información relativa a los saldos y productos financieros del Fondo de Apoyo a la Administración de Justicia, que se proporciona en cumplimiento de la obligación establecida en el artículo 911 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801715&fecha=21/10/2026",
+      "code": "5801715",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "700a84d257f384e7832334339ff3931b2f6a1f7741fc38a0d96c4b02699439a0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801716&fecha=21/10/2026",
+      "code": "5801716",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "b875507b5afe4ef7315d4e0817af99a8fc0a3a4dd20908ad9b86bb4f46ca9f2b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801717&fecha=21/10/2026",
+      "code": "5801717",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3ee2c626e731f6320a2465b52d21d326d846973ddf6245bdbee26aed4b4bda17",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801720&fecha=21/10/2026",
+      "code": "5801720",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "f578cdc8129b14c9213677622c6f36345ffc5238929f056e32bc0393f2015b7d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral relativo a la designación de la Presidencia del Organismo Público Local de la entidad de Jalisco.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral relativo a la designación de la Presidencia del Organismo Público Local de la entidad de Jalisco."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=21",
+    "name": "DOF official index",
+    "publication_date": "2026-10-21"
+  }
+}
