@@ -1,0 +1,459 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801839&fecha=22/10/2026",
+      "code": "5801839",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "7d88146019f4831cb028ade25a42206d121f78fc02a30f634d16b080f493ca32",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 9,885.80 m² (nueve mil ochocientos ochenta y cinco punto ochenta metros cuadrados), a favor de la Federación, por conducto de Ferrocarril del Istmo de Tehuantepec, S.A. de C.V., para la ejecución del Proyecto Ramal Línea FA del Ferrocarril del Istmo de Tehuantepec, S.A. de C.V., perteneciente al Corredor Interoceánico del Istmo de Tehuantepec, correspondiente a 1 (un) inmueble de propiedad privada, ubicado en el municipio de Huimanguillo, estado de Tabasco (Segunda publicación).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 9,885.80 m² (nueve mil ochocientos ochenta y cinco punto ochenta metros cuadrados), a favor de la Federación, por conducto de Ferrocarril del Istmo de Tehuantepec, S.A. de C.V., para la ejecución del Proyecto Ramal Línea FA del Ferrocarril del Istmo de Tehuantepec, S.A. de C.V., perteneciente al Corredor Interoceánico del Istmo de Tehuantepec, correspondiente a 1 (un) inmueble de propiedad privada, ubicado en el municipio de Huimanguillo, estado de Tabasco (Segunda publicación)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801841&fecha=22/10/2026",
+      "code": "5801841",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "b87db552ac2efc41110860d85a21417c92045cb78aac996f0453728dfeb1aeb2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el Manual de Organización de la Administración del Sistema Portuario Nacional Tuxpan, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el Manual de Organización de la Administración del Sistema Portuario Nacional Tuxpan, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801842&fecha=22/10/2026",
+      "code": "5801842",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "fea857665471b3119dd9ddc99856f26c29e71b7ccfae3fcd62d84cecf2b63bb5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el Código de Conducta de la Administración del Sistema Portuario Nacional Tuxpan, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el Código de Conducta de la Administración del Sistema Portuario Nacional Tuxpan, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801844&fecha=22/10/2026",
+      "code": "5801844",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "a6cbd661f4be53958d4d0a6e52ab156dbd9f1133a54795f6e5a17237d8d72716",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "hacienda",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Acuerdo por el que se destina al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, Órgano Administrativo Desconcentrado de la Secretaría de Seguridad y Protección Ciudadana, el inmueble federal denominado \"El Copal, Irapuato\", con Registro Federal Inmobiliario 11-11580-2 y superficie de 300,000.00 metros cuadrados, ubicado en la Avenida Paralímpico Nacional número 539, Código Postal 36821, localidad Ex Hacienda El Copal, Municipio de Irapuato, Estado de Guanajuato."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801846&fecha=22/10/2026",
+      "code": "5801846",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "0d40657e8d670b667d421375f45225b98f42bfd5b09e16cb1ca43625582bd76d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establecen acciones de simplificación para trámites que se realizan ante la Agencia de Trenes y Transporte Público Integrado, organismo descentralizado, sectorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen acciones de simplificación para trámites que se realizan ante la Agencia de Trenes y Transporte Público Integrado, organismo descentralizado, sectorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801848&fecha=22/10/2026",
+      "code": "5801848",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "8ec54b13c9235a2f71c09a14c06a8400460ff7b4d9eef894055c36a2f5b2e5b8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tamaulipas.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Tamaulipas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801850&fecha=22/10/2026",
+      "code": "5801850",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
+      "record_sha256": "5af8bfb007c4c566dec09a5458c786bb884c394fa20bb8be8ffbdee7b391352a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Acuerdo por el que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros hace del conocimiento del público en general, la suspensión de los términos y plazos, así como la atención presencial en la Unidad de Atención a Usuarios Occidente 5, ubicada en el Estado de Nayarit, el día 12 de octubre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801852&fecha=22/10/2026",
+      "code": "5801852",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "COMISION NACIONAL ANTIMONOPOLIO",
+      "record_sha256": "2945df225116c942f64f0b6ce05bccd1c59490fa38516ec28576af91cfd101ac",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual la Autoridad Investigadora de la Comisión Nacional Antimonopolio informa del inicio de la investigación por denuncia identificada con el número de expediente DE-014-2026 por la posible comisión de prácticas monopólicas relativas en el mercado de \"Aceptación de vales de despensa y medios de pago electrónico en establecimientos de comercio minorista, y servicios relacionados, en el territorio nacional\".",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual la Autoridad Investigadora de la Comisión Nacional Antimonopolio informa del inicio de la investigación por denuncia identificada con el número de expediente DE-014-2026 por la posible comisión de prácticas monopólicas relativas en el mercado de \"Aceptación de vales de despensa y medios de pago electrónico en establecimientos de comercio minorista, y servicios relacionados, en el territorio nacional\"."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801854&fecha=22/10/2026",
+      "code": "5801854",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "79ccde942ad1e4fda21d2bbefc0c896e59b7290f15932a0e4970f12b977af3c2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General número 13/2026-AAG, de catorce de octubre de dos mil veintiséis, del Pleno de la Suprema Corte de Justicia de la Nación, por el que se dispone el aplazamiento del dictado de la resolución en los amparos directos, en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito y de las contradicciones de criterio en los Plenos Regionales, en los que subsista el análisis de constitucionalidad de los artículos 91, párrafo segundo; 91 Bis; 91 Ter; 91 Quater; 91 Quinquies; 91 Sexies; o 114 Bis, de la Ley General de Población, reformada por Decreto publicado en el Diario Oficial de la Federación de dieciséis de julio de dos mil veinticinco, o cualquier otro precepto que integre un Sistema Normativo relativo a la implementación y obligatoriedad de la Clave Única de Registro de Población (CURP) Biométrica, la Plataforma Única de Identidad, los mecanismos de consulta, transferencia o validación de dicho documento y el programa de integración al Registro Nacional de Población.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General número 13/2026-AAG, de catorce de octubre de dos mil veintiséis, del Pleno de la Suprema Corte de Justicia de la Nación, por el que se dispone el aplazamiento del dictado de la resolución en los amparos directos, en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito y de las contradicciones de criterio en los Plenos Regionales, en los que subsista el análisis de constitucionalidad de los artículos 91, párrafo segundo; 91 Bis; 91 Ter; 91 Quater; 91 Quinquies; 91 Sexies; o 114 Bis, de la Ley General de Población, reformada por Decreto publicado en el Diario Oficial de la Federación de dieciséis de julio de dos mil veinticinco, o cualquier otro precepto que integre un Sistema Normativo relativo a la implementación y obligatoriedad de la Clave Única de Registro de Población (CURP) Biométrica, la Plataforma Única de Identidad, los mecanismos de consulta, transferencia o validación de dicho documento y el programa de integración al Registro Nacional de Población."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801856&fecha=22/10/2026",
+      "code": "5801856",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "94719bbae600dd48e09d3d77b170b18e466309caa29cd4417b31b4b5b43e4d2a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801857&fecha=22/10/2026",
+      "code": "5801857",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "07bab2fd54a8a52a4fe0e7f07eec3e1e791019d70334c5905574dc2d6fcc01f4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801858&fecha=22/10/2026",
+      "code": "5801858",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4ad184981fa724ed19df4ffba5c75d3f97ed57f63cb1f768f676bc73f9d1d092",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801860&fecha=22/10/2026",
+      "code": "5801860",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "7735d19f65cafb574f7dc15287d38b2c9672fb4f671de01bb85ca7fab2155158",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo A/002/2026 por el que se implementa la Plataforma de Denuncia Digital (FISC@NET) de la Fiscalía General de la República.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo A/002/2026 por el que se implementa la Plataforma de Denuncia Digital (FISC@NET) de la Fiscalía General de la República."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801861&fecha=22/10/2026",
+      "code": "5801861",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "313c7448456c6b970daf5db7edee0f1229fd6de4bbc1c298a31cbcd116af8b02",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo A/003/2026 por el que se crean los Módulos de Atención Social de la Fiscalía General de la República.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo A/003/2026 por el que se crean los Módulos de Atención Social de la Fiscalía General de la República."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801864&fecha=22/10/2026",
+      "code": "5801864",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "2246c49977ae7354e74aa737f7b1b95597c7129ffbca6fe64dbbeac312ea4113",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se establecen los plazos para la fiscalización de los informes de ingresos y gastos correspondientes a los periodos de obtención de apoyo de la ciudadanía, precampaña y campaña de los Procesos Electorales Federal y Locales Concurrentes 2026-2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se establecen los plazos para la fiscalización de los informes de ingresos y gastos correspondientes a los periodos de obtención de apoyo de la ciudadanía, precampaña y campaña de los Procesos Electorales Federal y Locales Concurrentes 2026-2027."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801865&fecha=22/10/2026",
+      "code": "5801865",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "a475ba13867a84bfb9b7efe98477b159be903f29b6c10c6a8220016ca6607c76",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que, en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-207/2026 y acumulados, se modifican el Acuerdo INE/CG548/ 2026 por el que se emiten las convocatorias para que la ciudadanía participe como observadora electoral en el Proceso Electoral Concurrente 2026-2027 y, en su caso, para los Procesos Electorales Extraordinarios que de éste deriven y se aprueban diversos anexos, así como los Lineamientos para la implementación del Proceso de Observación Electoral del Proceso Electoral Concurrente 2026- 2027.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que, en acatamiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-207/2026 y acumulados, se modifican el Acuerdo INE/CG548/ 2026 por el que se emiten las convocatorias para que la ciudadanía participe como observadora electoral en el Proceso Electoral Concurrente 2026-2027 y, en su caso, para los Procesos Electorales Extraordinarios que de éste deriven y se aprueban diversos anexos, así como los Lineamientos para la implementación del Proceso de Observación Electoral del Proceso Electoral Concurrente 2026- 2027."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=22",
+    "name": "DOF official index",
+    "publication_date": "2026-10-22"
+  }
+}

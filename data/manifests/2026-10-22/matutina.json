@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-22T08:34:01+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 8,
+      "aviso": 3,
+      "decreto": 1,
+      "otro": 4
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "COMISION NACIONAL ANTIMONOPOLIO": 1,
+      "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS": 1,
+      "FISCALIA GENERAL DE LA REPUBLICA": 2,
+      "INSTITUTO NACIONAL ELECTORAL": 2,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE MARINA": 2,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 2,
+      "fiscal": 1,
+      "health": 1,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-22/matutina.json",
+  "normalized_sha256": "b00ed43ed0c96fb4466d30a0ca4808166095d385d72c018102bd6d734ec5f63e",
+  "note_count": 16,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-22",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=22",
+    "raw_retained": false,
+    "raw_sha256": "dbfcba9216338967dfe12a067f6475174b8c24d24aeedb3f988fd985b883d587",
+    "raw_size": 83456
+  },
+  "status": "changed"
+}
