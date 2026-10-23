@@ -1,0 +1,459 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801997&fecha=23/10/2026",
+      "code": "5801997",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "0cc6fb1401484baadd85a25c6080071f6e742373152c4bc39fab3ce7ec821b67",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio 500-05-00-00-00-2026-24395 mediante el cual se comunica listado de contribuyentes que promovieron algún medio de defensa en contra del oficio de presunción a que se refiere el artículo 69-B primer párrafo del Código Fiscal de la Federación, vigente hasta el 24 de julio de 2018, o en contra de la resolución a que se refiere el tercer párrafo del artículo en comento, y una vez resuelto el mismo, el órgano jurisdiccional o administrativo dejó insubsistente el referido acto.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Oficio 500-05-00-00-00-2026-24395 mediante el cual se comunica listado de contribuyentes que promovieron algún medio de defensa en contra del oficio de presunción a que se refiere el artículo 69-B primer párrafo del Código Fiscal de la Federación, vigente hasta el 24 de julio de 2018, o en contra de la resolución a que se refiere el tercer párrafo del artículo en comento, y una vez resuelto el mismo, el órgano jurisdiccional o administrativo dejó insubsistente el referido acto."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801998&fecha=23/10/2026",
+      "code": "5801998",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "67140a841a9fe56ef5b5d52c5bffbc1217f1295bc6ea85a5c69e635578df4397",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio 500-05-00-00-00-2026-24396 mediante el cual se comunica listado de contribuyentes que promovieron algún medio de defensa en contra del oficio de presunción a que se refiere el artículo 69-B primer párrafo del Código Fiscal de la Federación o en contra de la resolución a que se refiere el cuarto párrafo del artículo en comento, y una vez resuelto el mismo, el órgano jurisdiccional o administrativo dejó sin efectos el referido acto.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Oficio 500-05-00-00-00-2026-24396 mediante el cual se comunica listado de contribuyentes que promovieron algún medio de defensa en contra del oficio de presunción a que se refiere el artículo 69-B primer párrafo del Código Fiscal de la Federación o en contra de la resolución a que se refiere el cuarto párrafo del artículo en comento, y una vez resuelto el mismo, el órgano jurisdiccional o administrativo dejó sin efectos el referido acto."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5801999&fecha=23/10/2026",
+      "code": "5801999",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "20b772e54203c37afe69e02a347cd98d090e9802597e5f63a2be0c8a6bdbff04",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio 500-05-00-00-00-2026-24732 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Oficio 500-05-00-00-00-2026-24732 mediante el cual se comunica listado global de presunción de contribuyentes que se ubicaron en el supuesto previsto en el artículo 69-B, párrafo primero del Código Fiscal de la Federación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802001&fecha=23/10/2026",
+      "code": "5802001",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "8c0d527144bedef464fc1951f4b719e385479b311ec1f814ad9de59b2afbc906",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "vigencia",
+          "name": "signal",
+          "rule_id": "signal.contains_effective_date",
+          "rule_version": "1.0",
+          "value": "contains_effective_date"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de las cuotas compensatorias impuestas a las importaciones de recubrimientos cerámicos para muros y pisos originarias de la República Popular China, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución por la que se declara el inicio del procedimiento administrativo de examen de vigencia de las cuotas compensatorias impuestas a las importaciones de recubrimientos cerámicos para muros y pisos originarias de la República Popular China, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802003&fecha=23/10/2026",
+      "code": "5802003",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "3b189e465a16128467401b895842abe11e9fbf77db2568c3ca669169db39b646",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Yucatán.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Yucatán."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802005&fecha=23/10/2026",
+      "code": "5802005",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION",
+      "record_sha256": "f11b587716b35d2ceff3445f22b524fb6b0065a9f2d99aa86fd36f9e8e8de309",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ecologia",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Aviso mediante el cual se da a conocer la página electrónica donde se encuentra disponible el Código de Conducta de las personas servidoras públicas del Instituto de Ecología, A.C."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802007&fecha=23/10/2026",
+      "code": "5802007",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "654521c33cfc9d14c2138bf28352c248200cd9c38eadb269087f215b19669c1e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 162/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 162/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802009&fecha=23/10/2026",
+      "code": "5802009",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "85c781fdcefaa5cf1832b1d1be47b4f6904472c2ad7e8ffea87d0e4d92e695cd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802010&fecha=23/10/2026",
+      "code": "5802010",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "6c302ff57fd6fe9838ab023516997eea118c60c766e0f7a2f75ba7f5e244d56d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802011&fecha=23/10/2026",
+      "code": "5802011",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "f9a22e37283604493dd8449469db2fcf397d3018621454624b2dd61ec530cf98",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802012&fecha=23/10/2026",
+      "code": "5802012",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "e3bfddb9a2c4f0014893815567515579897dea17739bc1e7b7fcf279fbf96e1b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Valor de la unidad de inversión.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Valor de la unidad de inversión."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802014&fecha=23/10/2026",
+      "code": "5802014",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "4e46bfae9013e9d002aefc758537d70bb137c3c77c47534efea1a1921de3ff91",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Protocolo Homologado de Investigación para los Delitos de Desaparición Forzada y Desaparición cometida por Particulares.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Protocolo Homologado de Investigación para los Delitos de Desaparición Forzada y Desaparición cometida por Particulares.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Protocolo Homologado de Investigación para los Delitos de Desaparición Forzada y Desaparición cometida por Particulares."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802015&fecha=23/10/2026",
+      "code": "5802015",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "367b273b129fb0009396440e1dcc48104dfb3de0931c036bcf5726094d59a5f3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Protocolo Homologado Especializado para la Investigación de Delitos Cometidos Contra las Personas Defensoras de los Derechos Humanos.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Protocolo Homologado Especializado para la Investigación de Delitos Cometidos Contra las Personas Defensoras de los Derechos Humanos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Protocolo Homologado Especializado para la Investigación de Delitos Cometidos Contra las Personas Defensoras de los Derechos Humanos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802017&fecha=23/10/2026",
+      "code": "5802017",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "8e50e27cd292c17103b06981517bc761aa3874505c8d6da4c1840cbd760e0125",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Índice nacional de precios al consumidor.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Índice nacional de precios al consumidor."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802019&fecha=23/10/2026",
+      "code": "5802019",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "27286a0622ffd67e923ffc4bd7590959f8600157ded2696ae716a07ec1c6cf12",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en los dictámenes consolidados de la revisión de los informes de ingresos y gastos de campaña de las candidaturas a los cargos de diputaciones locales, presidencias municipales y presidencias de comunidad correspondientes al Proceso Electoral Local Ordinario 2023-2024 en el Estado de Tlaxcala.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en los dictámenes consolidados de la revisión de los informes de ingresos y gastos de campaña de las candidaturas a los cargos de diputaciones locales, presidencias municipales y presidencias de comunidad correspondientes al Proceso Electoral Local Ordinario 2023-2024 en el Estado de Tlaxcala.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en los dictámenes consolidados de la revisión de los informes de ingresos y gastos de campaña de las candidaturas a los cargos de diputaciones locales, presidencias municipales y presidencias de comunidad correspondientes al Proceso Electoral Local Ordinario 2023-2024 en el Estado de Tlaxcala."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802020&fecha=23/10/2026",
+      "code": "5802020",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "c5021c73ca3289b82f05f71fc8df9213d21590ade95b7c23b03ab64d2ae97ee0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido Revolucionario Institucional, correspondientes al ejercicio dos mil veintitrés.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido Revolucionario Institucional, correspondientes al ejercicio dos mil veintitrés.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido Revolucionario Institucional, correspondientes al ejercicio dos mil veintitrés."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=23",
+    "name": "DOF official index",
+    "publication_date": "2026-10-23"
+  }
+}
