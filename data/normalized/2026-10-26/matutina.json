@@ -1,0 +1,537 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802097&fecha=26/10/2026",
+      "code": "5802097",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "7fdcd5bf79999a626f1bfe6e1734ac0a1ad2fa963d148b9bd5430606b76b7959",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatoria",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular Modificatoria 5/26 de la Única de Seguros y Fianzas.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular Modificatoria 5/26 de la Única de Seguros y Fianzas."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802099&fecha=26/10/2026",
+      "code": "5802099",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "cdd7a8345aeac61e3f46334682e9f9bd879b82c8cae2547e6ce52cbcf719a255",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se expide el Código de Conducta de la Secretaría de Medio Ambiente y Recursos Naturales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802101&fecha=26/10/2026",
+      "code": "5802101",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION",
+      "record_sha256": "26325152b648fefbb46e5a4ca71c08d5682fb3c5f81e82fa6eae94d196bcea6d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se modifican los artículos 12 y 27 del Manual de Procedimientos del Programa Presupuestario F003 Programas Nacionales Estratégicos de Ciencia, Tecnología y Vinculación con los Sectores Social, Público y Privado.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se modifican los artículos 12 y 27 del Manual de Procedimientos del Programa Presupuestario F003 Programas Nacionales Estratégicos de Ciencia, Tecnología y Vinculación con los Sectores Social, Público y Privado."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802103&fecha=26/10/2026",
+      "code": "5802103",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "3e1585bb60cf6ed1936edd6c5fb10ee4d6b90307837578e72132006f55e62a54",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Correa, con una superficie aproximada de 53-55-71.939 hectáreas, ubicado en el Municipio de Delicias, Chih.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Correa, con una superficie aproximada de 53-55-71.939 hectáreas, ubicado en el Municipio de Delicias, Chih."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802104&fecha=26/10/2026",
+      "code": "5802104",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "370ff5d1c2d130344f94b8ba2fd248fe3ccc3838e456dcb59d88392aa8695d46",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Nopalera, con una superficie aproximada de 67-46-62 hectáreas, ubicado en el municipio de Francisco I. Madero, Hgo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Nopalera, con una superficie aproximada de 67-46-62 hectáreas, ubicado en el municipio de Francisco I. Madero, Hgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802105&fecha=26/10/2026",
+      "code": "5802105",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "5e5fabd1194d9cf4382603d4d1e0e2cd9eb0ed85f9c64dbfa4a4b016fcce69e7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Verdura, con una superficie aproximada de 20-26-58 hectáreas, ubicado en el municipio de Francisco I. Madero, Hgo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado La Verdura, con una superficie aproximada de 20-26-58 hectáreas, ubicado en el municipio de Francisco I. Madero, Hgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802106&fecha=26/10/2026",
+      "code": "5802106",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "aa7f0fea36c599acccc7c6cba30987545be96f1bb0e390cc3380ed5586af3c76",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado Plan de Ayala, con una superficie aproximada de 1,198-02-72.498 hectáreas, ubicado en el municipio de Uxpanapa, Ver.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de medición y deslinde del predio de presunta propiedad nacional denominado Plan de Ayala, con una superficie aproximada de 1,198-02-72.498 hectáreas, ubicado en el municipio de Uxpanapa, Ver."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802108&fecha=26/10/2026",
+      "code": "5802108",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "981a65de0b3c1668ac8fdd1b612a63ebb83a158668bf476495d174743caf5aaa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General número 12/2026-AGM del Pleno de la Suprema Corte de Justicia de la Nación, de catorce de octubre de dos mil veintiséis, que modifica el Acuerdo General número 1/2025 (12Âª.), que regula la recepción, registro y turno de los asuntos de su competencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General número 12/2026-AGM del Pleno de la Suprema Corte de Justicia de la Nación, de catorce de octubre de dos mil veintiséis, que modifica el Acuerdo General número 1/2025 (12Âª.), que regula la recepción, registro y turno de los asuntos de su competencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802109&fecha=26/10/2026",
+      "code": "5802109",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "06dc3acf2071963e578a24c08f2859868b33ae66d0d320af8d5fdfcbe51cdbf5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 124/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 124/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802111&fecha=26/10/2026",
+      "code": "5802111",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "2fadf2ef163edf041278627a581094d048d5df3224bbf03b16a5b29a77e69a7c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802112&fecha=26/10/2026",
+      "code": "5802112",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "759a11e062b6d7c580a2e348d85456e2b2d6b5f0ff23e4f4e33d944b4b87c2bb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802113&fecha=26/10/2026",
+      "code": "5802113",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "11b9678a127313bb412a972aac7220b2e3dc28047bb32f2d0bd35deeae956d8a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802114&fecha=26/10/2026",
+      "code": "5802114",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "500d4cdfff43980d9c4295b7a77f214ea8a27d344b499e2ff2a43a5d1eae86fb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo porcentual promedio de captación de los pasivos en moneda nacional a cargo de las instituciones de banca múltiple del país (CPP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802115&fecha=26/10/2026",
+      "code": "5802115",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "cef1be54b81f2ae0e5cb93d4d3ccdfc5b69cd7f51b3d69f172d082ea3fde6eb3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en unidades de inversión a cargo de las instituciones de banca múltiple del país (CCP-UDIS)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802116&fecha=26/10/2026",
+      "code": "5802116",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "724337683995bdfdbc5248f7a56fcd848859e50884e1e19518d296123023c90c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en moneda nacional a cargo de las instituciones de banca múltiple del país (CCP)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802118&fecha=26/10/2026",
+      "code": "5802118",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "COMISION NACIONAL DE LOS DERECHOS HUMANOS",
+      "record_sha256": "978784258931dd079f0796865154b71a3eaffd6d1f12eacf40be71a10575e958",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo mediante el cual el Órgano Interno de Control en la Comisión Nacional de los Derechos Humanos, en uso de sus atribuciones, da a conocer su Manual de Organización.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo mediante el cual el Órgano Interno de Control en la Comisión Nacional de los Derechos Humanos, en uso de sus atribuciones, da a conocer su Manual de Organización."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802120&fecha=26/10/2026",
+      "code": "5802120",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "0205553b39a065b4b8d71d0fc136aecb370399812904dca9f504969f098fd85e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes únicos de gastos de campaña de las personas candidatas al cargo de ministras y ministros de la Suprema Corte de Justicia de la Nación, correspondientes al Proceso Electoral Extraordinario del Poder Judicial de la Federación 2024-2025.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes únicos de gastos de campaña de las personas candidatas al cargo de ministras y ministros de la Suprema Corte de Justicia de la Nación, correspondientes al Proceso Electoral Extraordinario del Poder Judicial de la Federación 2024-2025.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes únicos de gastos de campaña de las personas candidatas al cargo de ministras y ministros de la Suprema Corte de Justicia de la Nación, correspondientes al Proceso Electoral Extraordinario del Poder Judicial de la Federación 2024-2025."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802121&fecha=26/10/2026",
+      "code": "5802121",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "0fc180df4e48f04df3d8a874ce0547e89c8ee082b4f19beb6221116a742b1fa7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Amonestaciones públicas determinadas en la Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de los partidos del Trabajo, Verde Ecologista de México y Morena, así como de diversas otrora candidaturas, en el Proceso Electoral Extraordinario para la elección de diversos cargos del Poder Judicial Federal y Local 2024-2025, identificado con el número de expediente INE/P-COF-UTF/315/2025 y acumulados.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ecologista",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Amonestaciones públicas determinadas en la Resolución del Consejo General del Instituto Nacional Electoral, respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de los partidos del Trabajo, Verde Ecologista de México y Morena, así como de diversas otrora candidaturas, en el Proceso Electoral Extraordinario para la elección de diversos cargos del Poder Judicial Federal y Local 2024-2025, identificado con el número de expediente INE/P-COF-UTF/315/2025 y acumulados."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=26",
+    "name": "DOF official index",
+    "publication_date": "2026-10-26"
+  }
+}

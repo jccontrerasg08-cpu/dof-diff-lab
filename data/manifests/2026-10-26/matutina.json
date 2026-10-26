@@ -1,0 +1,43 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-26T08:51:18+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 4,
+      "circular": 1,
+      "otro": 8,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 6,
+      "COMISION NACIONAL DE LOS DERECHOS HUMANOS": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 2,
+      "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 4,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 2
+    },
+    "by_topic": {
+      "environment": 2,
+      "financial": 1,
+      "other": 15
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-26/matutina.json",
+  "normalized_sha256": "7bda42b6e6aaa905450a4b6f1134c3896e7a0131d01b6f97d5624dfc3e5d2b4a",
+  "note_count": 18,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-26",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=26",
+    "raw_retained": false,
+    "raw_sha256": "2f24dccc957cd2b9d8115ef3d317bdc61e0f34241270eeaf6b5cab55bbb506e7",
+    "raw_size": 80842
+  },
+  "status": "changed"
+}
