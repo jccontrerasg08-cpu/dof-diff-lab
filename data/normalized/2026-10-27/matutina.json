@@ -1,0 +1,478 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802177&fecha=27/10/2026",
+      "code": "5802177",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "75c51a36e925e6779a8b05f1624ca65500857a198a681c1e7c691a32f5ccef07",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segunda Modificación al Título de Concesión otorgada por la Secretaría de Marina, a favor de la Administración del Sistema Portuario Nacional Guaymas, S.A. de C.V.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Segunda Modificación al Título de Concesión otorgada por la Secretaría de Marina, a favor de la Administración del Sistema Portuario Nacional Guaymas, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Segunda Modificación al Título de Concesión otorgada por la Secretaría de Marina, a favor de la Administración del Sistema Portuario Nacional Guaymas, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802179&fecha=27/10/2026",
+      "code": "5802179",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "d5d15b11e126a9081753244ef9b112b17bc5611cc5415edeab94110905c9f844",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se designa a la persona Titular de la Unidad de Antisecuestro y Antiextorsión de la Secretaría de Seguridad y Protección Ciudadana como encargada de gestionar los requerimientos que se realicen en materia de telecomunicaciones y recibir la información correspondiente, conforme a lo dispuesto en los artículos 182 y 183 de la Ley en Materia de Telecomunicaciones y Radiodifusión; asimismo se le delegan las facultades que a continuación se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se designa a la persona Titular de la Unidad de Antisecuestro y Antiextorsión de la Secretaría de Seguridad y Protección Ciudadana como encargada de gestionar los requerimientos que se realicen en materia de telecomunicaciones y recibir la información correspondiente, conforme a lo dispuesto en los artículos 182 y 183 de la Ley en Materia de Telecomunicaciones y Radiodifusión; asimismo se le delegan las facultades que a continuación se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802180&fecha=27/10/2026",
+      "code": "5802180",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA",
+      "record_sha256": "f49d90396a6fc59fa4e44d8daa89886f4e6568151658dc22418cc10121c4d081",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se establecen la organización, integración y el funcionamiento del Centro de Atención a Denuncias por el Delito de Extorsión.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen la organización, integración y el funcionamiento del Centro de Atención a Denuncias por el Delito de Extorsión."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802182&fecha=27/10/2026",
+      "code": "5802182",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "1af17252184eebf70a5f90552f6ed83e07aa80496161224b8ca40d216e18290d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se delega en las Direcciones de Área, adscritas a las Direcciones Generales de la Unidad de Gestión Industrial y de la Unidad de Supervisión, Inspección y Vigilancia Industrial, de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, el ejercicio de las facultades que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802184&fecha=27/10/2026",
+      "code": "5802184",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "a487fe57700fff118903a02288424bc5618fc0fad967feb4e6fa1a90357dc9b0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "energia",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Acuerdo de la Comisión Nacional de Energía por el que se inicia el procedimiento administrativo de caducidad a los titulares de ciento treinta y dos permisos de comercialización de hidrocarburos, petrolíferos y petroquímicos, por presuntamente ubicarse en la hipótesis de caducidad prevista en el artículo 88, fracción I, inciso b, de la Ley del Sector Hidrocarburos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802185&fecha=27/10/2026",
+      "code": "5802185",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "2e8e6169f7076bb72582ad142ac7a5c85660f48ce143b0a226b9eaf24b062a48",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "electricidad",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el Código de Conducta del Instituto Nacional de Electricidad y Energías Limpias."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802187&fecha=27/10/2026",
+      "code": "5802187",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "cc60b23feb0e94e312cc8cf2ce21f432eec2560f8b17dec5e9dfdfac1951ba90",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Grupo IMASA, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Grupo IMASA, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802189&fecha=27/10/2026",
+      "code": "5802189",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "5015c9cef7df1c3c4d8ea58a4addb59100e38961fb99313540dd232d540df78a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Durango."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802191&fecha=27/10/2026",
+      "code": "5802191",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "COMISION FEDERAL DE ELECTRICIDAD",
+      "record_sha256": "b9d442d12ed797c0141b39408075bbead5a7e4b0536e5a0af8c09ccca42d1ff9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de octubre de 2026.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "electricidad",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Tarifas Finales del Suministro Básico que deberá aplicar la Comisión Federal de Electricidad, en la modalidad de Suministradora de Servicios Básicos a sus usuarios, a partir del 1 de octubre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802193&fecha=27/10/2026",
+      "code": "5802193",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "f49adc357341bf8f32adf869f0e7d765320b72aad6d1e0c03b3035dd934f3f92",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 122/2026, así como los Votos Concurrentes de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 122/2026, así como los Votos Concurrentes de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802195&fecha=27/10/2026",
+      "code": "5802195",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "3a66ba48b29782092be74ec27ea124d43d2ee1a1188fc853a81c35d30c1d8f0c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802196&fecha=27/10/2026",
+      "code": "5802196",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "f5b3af6a43e58a068145bd16fa3fa4d6bf1df49467336375d49e4baf6cbc8dde",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802197&fecha=27/10/2026",
+      "code": "5802197",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "0f6e6af93bbc2ac2c586c2fde0b82e80967d4d22e02b070b655492d91f6ff6bb",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802199&fecha=27/10/2026",
+      "code": "5802199",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+      "record_sha256": "21c278da26dd2b18253e4edd8d6013a71dc1e236cbd783836a6c4f9455d497e4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General del Órgano Interno de Control del Instituto Nacional de Estadística y Geografía, por el que se determina la suspensión de plazos y términos legales, reglamentarios y administrativos con motivo del segundo periodo vacacional de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General del Órgano Interno de Control del Instituto Nacional de Estadística y Geografía, por el que se determina la suspensión de plazos y términos legales, reglamentarios y administrativos con motivo del segundo periodo vacacional de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802202&fecha=27/10/2026",
+      "code": "5802202",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "f215b7d8c3f37b8b2f3240a4116d8e8273d4dfda84748f9f2f1f85ca5557da5f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido Verde Ecologista de México, correspondientes al ejercicio dos mil veinticuatro.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ecologista",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido Verde Ecologista de México, correspondientes al ejercicio dos mil veinticuatro."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802203&fecha=27/10/2026",
+      "code": "5802203",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "87c0d01cd07c7370ce65850007bb69f257075c73cf851a197f3388fb8d2f0eaa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Revista Sportbook S.A. de C.V., Sign Fussion S.A. de C.V., J Leal y Asociados S.A. de C.V. y West Media S.A. de C.V., identificado con el número de expediente INE/P- COF-UTF/2443/2024-IND.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Revista Sportbook S.A. de C.V., Sign Fussion S.A. de C.V., J Leal y Asociados S.A. de C.V. y West Media S.A. de C.V., identificado con el número de expediente INE/P- COF-UTF/2443/2024-IND.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Revista Sportbook S.A. de C.V., Sign Fussion S.A. de C.V., J Leal y Asociados S.A. de C.V. y West Media S.A. de C.V., identificado con el número de expediente INE/P- COF-UTF/2443/2024-IND."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802204&fecha=27/10/2026",
+      "code": "5802204",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "a1ca2622ce3ad37181f927ccd7fef1b0424b72667b11304e7db3302a9fa212df",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Eventos y Banquetes Mr. Gonza SAS, identificado con el número de expediente INE/P-COF-UTF/95/2025/IND.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Eventos y Banquetes Mr. Gonza SAS, identificado con el número de expediente INE/P-COF-UTF/95/2025/IND.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del procedimiento administrativo sancionador oficioso en materia de fiscalización, instaurado en contra de Eventos y Banquetes Mr. Gonza SAS, identificado con el número de expediente INE/P-COF-UTF/95/2025/IND."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=27",
+    "name": "DOF official index",
+    "publication_date": "2026-10-27"
+  }
+}

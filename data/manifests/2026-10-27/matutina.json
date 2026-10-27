@@ -1,0 +1,49 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-27T08:56:21+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 5,
+      "aviso": 1,
+      "circular": 1,
+      "convenio": 1,
+      "otro": 8,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "COMISION FEDERAL DE ELECTRICIDAD": 1,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 3,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE ENERGIA": 2,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "energy": 3,
+      "environment": 2,
+      "financial": 1,
+      "labor": 1,
+      "other": 10
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-27/matutina.json",
+  "normalized_sha256": "da01e30627bac6acf3e8ba1a9f8484c9c91fc05d6cc8832a4f173a113ff1927f",
+  "note_count": 17,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-27",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=27",
+    "raw_retained": false,
+    "raw_sha256": "e387134faf66a57642b22ea1946f09522cdaf617cff72cdc8510e5eb46e98eee",
+    "raw_size": 84808
+  },
+  "status": "changed"
+}
