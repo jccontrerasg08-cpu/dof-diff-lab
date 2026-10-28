@@ -1,5 +1,462 @@
 {
-  "notes": [],
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802357&fecha=28/10/2026",
+      "code": "5802357",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "e2745ab439eea6b632ee478fa4df6ea1e07e8a6aa491156524e93c3ed04b7606",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Prórroga y Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes de dominio público de la Federación, consistentes en zona de agua de mar territorial para la operación de una marina artificial, de uso particular, denominada Pueblito Paraiso, colindante con el Lote 16, de la Villa 8, del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "agua",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Prórroga y Modificación al Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes de dominio público de la Federación, consistentes en zona de agua de mar territorial para la operación de una marina artificial, de uso particular, denominada Pueblito Paraiso, colindante con el Lote 16, de la Villa 8, del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802358&fecha=28/10/2026",
+      "code": "5802358",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "bb3752bf0f0632dcb3cce1dba43995825b90714a36a78712a98b9613d1719ac5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "adquisiciones",
+          "name": "topic",
+          "rule_id": "topic.public_procurement",
+          "rule_version": "1.0",
+          "value": "public_procurement"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer la página institucional donde pueden consultarse las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público de la Administración del Sistema Portuario Nacional Progreso S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802360&fecha=28/10/2026",
+      "code": "5802360",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "57f149ef13174bec835f4f6a54e7c5f1bb76c30a375285b0cfb13dfd611c316c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieros",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Resolución que modifica las Disposiciones de carácter general aplicables a las sociedades controladoras de grupos financieros y subcontroladoras que regulan las materias que corresponden de manera conjunta a las Comisiones Nacionales Supervisoras."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802362&fecha=28/10/2026",
+      "code": "5802362",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "97817056616d8cc148896e6c5d7cd8523ace3a60c93d59158b41f2ffcb14ac89",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "energia",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Acuerdo por el que la Secretaría de Energía emite los Lineamientos para la aprobación, actualización y vigilancia de los Organismos de Evaluación de la Conformidad que evalúan la conformidad de las Normas Oficiales Mexicanas que regulan las especificaciones de calidad de los Hidrocarburos, Petrolíferos y Petroquímicos y del registro de los laboratorios extranjeros que emitan documentos equivalentes a las Normas Oficiales Mexicanas que regulan las especificaciones de calidad."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802364&fecha=28/10/2026",
+      "code": "5802364",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "f2a36af36235b0ef88c91f6d8842eacbad03396b5be2f6c76ff5fde84b9344c1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de homopolímero de monómero de cloruro de vinilo en suspensión originarias de los Estados Unidos de América, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución final del procedimiento administrativo de investigación antidumping sobre las importaciones de homopolímero de monómero de cloruro de vinilo en suspensión originarias de los Estados Unidos de América, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802366&fecha=28/10/2026",
+      "code": "5802366",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "f42a794aeca39aca24436aabc2b6dd6e4a182dec8e750600421f2c3651eadf50",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Convenio de Coordinación para la operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802368&fecha=28/10/2026",
+      "code": "5802368",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "757bf655de85ee48543d6d6200190a95b6fb769fe920c21ef4723a0ce830a92a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se modifica el diverso por el que se establecen las Reglas para la presentación de solicitudes ante el Instituto Mexicano de la Propiedad Industrial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se modifica el diverso por el que se establecen las Reglas para la presentación de solicitudes ante el Instituto Mexicano de la Propiedad Industrial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802370&fecha=28/10/2026",
+      "code": "5802370",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "edb55646e50bd29d33660649b9a4c51a1c1ba8894f6a9fa4180d3f878eb2a30f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se da a conocer el cambio de domicilio legal de la Subdelegación y Oficina para Cobros Chetumal, dependiente del Órgano de Operación Administrativa Desconcentrada Estatal Quintana Roo, del Instituto Mexicano del Seguro Social.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se da a conocer el cambio de domicilio legal de la Subdelegación y Oficina para Cobros Chetumal, dependiente del Órgano de Operación Administrativa Desconcentrada Estatal Quintana Roo, del Instituto Mexicano del Seguro Social."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802372&fecha=28/10/2026",
+      "code": "5802372",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "CONSEJO NACIONAL DE NORMALIZACION Y CERTIFICACION DE COMPETENCIAS LABORALES",
+      "record_sha256": "dbd957a3754a557b236be422a58e7720f5229370550f5e704c368a06e5926562",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo SE/III-26/10,S del Comité Técnico del Consejo Nacional de Normalización y Certificación de Competencias Laborales, mediante el cual se aprobaron los Estándares de Competencia que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo SE/III-26/10,S del Comité Técnico del Consejo Nacional de Normalización y Certificación de Competencias Laborales, mediante el cual se aprobaron los Estándares de Competencia que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802374&fecha=28/10/2026",
+      "code": "5802374",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "85e3b07f4a037fc9261cc1e114e04f12a4896d6ab7f32d80cb204cc38c440d9f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 178/2026, así como los Votos Concurrentes de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 178/2026, así como los Votos Concurrentes de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802376&fecha=28/10/2026",
+      "code": "5802376",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "25db9020daf8fbf658aa8e9f86306fdddb732f56cc666d6946e1f156a72eba46",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a los ingresos, egresos, saldos y destino de los Fideicomisos en los que participa el entonces Consejo de la Judicatura Federal, ahora Órgano de Administración Judicial; en cumplimiento a lo que establece el artículo 772 del \"Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo\", así como lo señalado en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Información relativa a los ingresos, egresos, saldos y destino de los Fideicomisos en los que participa el entonces Consejo de la Judicatura Federal, ahora Órgano de Administración Judicial; en cumplimiento a lo que establece el artículo 772 del \"Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo\", así como lo señalado en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Información relativa a los ingresos, egresos, saldos y destino de los Fideicomisos en los que participa el entonces Consejo de la Judicatura Federal, ahora Órgano de Administración Judicial; en cumplimiento a lo que establece el artículo 772 del \"Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo\", así como lo señalado en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802378&fecha=28/10/2026",
+      "code": "5802378",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "d1dafd145416189e54bb31e56e0a6217150ef5d4cf7053ae07cde3050fb00982",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802379&fecha=28/10/2026",
+      "code": "5802379",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "05d189fb3a36b846d3dcb403d49f2d915292554d4e19faabf18147e07fd4c139",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802380&fecha=28/10/2026",
+      "code": "5802380",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "47741acf75f49d1dfbb53208efb526ebaa6a4669b0cec693392dae73b97f6d96",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802383&fecha=28/10/2026",
+      "code": "5802383",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "b190c729571738663681aedf0da69470b3a6a8a136a3c873b35247b69acd76a1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG573/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba la Adenda. Precisiones a la etapa de entrevista establecida en el Manual de Reclutamiento, Selección y Contratación de las y los Supervisores Electorales y Capacitadores-Asistentes Electorales, en cumplimiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-201/2026 y acumulados.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "contratacion",
+          "name": "topic",
+          "rule_id": "topic.public_procurement",
+          "rule_version": "1.0",
+          "value": "public_procurement"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG573/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba la Adenda. Precisiones a la etapa de entrevista establecida en el Manual de Reclutamiento, Selección y Contratación de las y los Supervisores Electorales y Capacitadores-Asistentes Electorales, en cumplimiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente SUP-RAP-201/2026 y acumulados."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802384&fecha=28/10/2026",
+      "code": "5802384",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "7c0252f040a6382f69ef56820d5e87f2ccb7363723fb40c1fc7fcd7c186315fa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto de la Resolución INE/CG571/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba ejercer la facultad de asunción parcial en la vía expedita para implementar el conteo rápido en las elecciones de gubernatura de los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chihuahua, Colima, Guerrero, Michoacán, Nayarit, Nuevo León, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tlaxcala y Zacatecas durante los Procesos Electorales Locales 2026-2027.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "aguascalientes",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Extracto de la Resolución INE/CG571/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueba ejercer la facultad de asunción parcial en la vía expedita para implementar el conteo rápido en las elecciones de gubernatura de los estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chihuahua, Colima, Guerrero, Michoacán, Nayarit, Nuevo León, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tlaxcala y Zacatecas durante los Procesos Electorales Locales 2026-2027."
+    }
+  ],
   "schema_version": "1.1",
   "source": {
     "edition": "matutina",

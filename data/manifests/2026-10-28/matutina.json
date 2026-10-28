@@ -1,14 +1,41 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-10-28T09:36:37+00:00",
+  "generated_at": "2026-10-28T21:08:26+00:00",
   "insights": {
-    "by_document_type": {},
-    "by_issuer": {},
-    "by_topic": {}
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 2,
+      "convenio": 1,
+      "otro": 7,
+      "resolucion": 2,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CONSEJO NACIONAL DE NORMALIZACION Y CERTIFICACION DE COMPETENCIAS LABORALES": 1,
+      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 1,
+      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 2,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
+      "SECRETARIA DE MARINA": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 2,
+      "financial": 2,
+      "labor": 1,
+      "other": 8,
+      "public_procurement": 2
+    }
   },
   "normalized_path": "data/normalized/2026-10-28/matutina.json",
-  "normalized_sha256": "ddc73f39b59ae9f2e2ea686ba9ea0d6d8737efee42634ff705ca9edfc897c472",
-  "note_count": 0,
+  "normalized_sha256": "870caa739eb001f642d29a8bb77d8c2eebb80ca740b8e6c920d2965359a74193",
+  "note_count": 16,
   "parser_version": "1.1",
   "publication_date": "2026-10-28",
   "schema_version": "1.1",
@@ -17,8 +44,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=28",
     "raw_retained": false,
-    "raw_sha256": "789d8c24840134683e6a459f580d9a7111387fe54de5472417d58afae42437fd",
-    "raw_size": 80720
+    "raw_sha256": "e88304aea543f50a8466abaa6a2961ff3b505b5a37634f4442b5d4b23ccb1a59",
+    "raw_size": 84769
   },
-  "status": "no_edition"
+  "status": "changed"
 }
