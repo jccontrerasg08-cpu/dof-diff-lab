@@ -1,0 +1,24 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-28T09:36:37+00:00",
+  "insights": {
+    "by_document_type": {},
+    "by_issuer": {},
+    "by_topic": {}
+  },
+  "normalized_path": "data/normalized/2026-10-28/matutina.json",
+  "normalized_sha256": "ddc73f39b59ae9f2e2ea686ba9ea0d6d8737efee42634ff705ca9edfc897c472",
+  "note_count": 0,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-28",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=28",
+    "raw_retained": false,
+    "raw_sha256": "789d8c24840134683e6a459f580d9a7111387fe54de5472417d58afae42437fd",
+    "raw_size": 80720
+  },
+  "status": "no_edition"
+}
