@@ -1,0 +1,51 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-29T09:55:03+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 7,
+      "aviso": 1,
+      "circular": 2,
+      "convenio": 1,
+      "otro": 8,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "AUDITORIA SUPERIOR DE LA FEDERACION": 1,
+      "BANCO DE MEXICO": 3,
+      "FISCALIA GENERAL DE LA REPUBLICA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 3,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
+      "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE MARINA": 2,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 2
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 2,
+      "financial": 1,
+      "labor": 2,
+      "other": 14,
+      "trade": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-29/matutina.json",
+  "normalized_sha256": "acc0b27749dab6e604cba9202add0e47664d214b39ff265ac5fe4e34956bde48",
+  "note_count": 20,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-29",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=29",
+    "raw_retained": false,
+    "raw_sha256": "478e87cb6eaa17a17c5d4b68481cfd63d275c41d559de93f80bd2d87c85af1bb",
+    "raw_size": 90787
+  },
+  "status": "changed"
+}

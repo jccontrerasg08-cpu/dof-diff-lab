@@ -1,0 +1,599 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802457&fecha=29/10/2026",
+      "code": "5802457",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "1d69730c4338cf5d8dbdae3ba8a2358a69654183d85789d764b08043c4679bf2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes del dominio público de la Federación, consistentes en zona de agua de mar territorial, para la operación y explotación de una marina artificial, de uso particular, colindante con los Lotes 12-A y 13-A, de la Villa 8 del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "agua",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Título de Concesión que otorga la Secretaría de Marina a favor de la persona moral Conjunto Desarrollo Marina Mar, S.A. de C.V., para usar, aprovechar y explotar bienes del dominio público de la Federación, consistentes en zona de agua de mar territorial, para la operación y explotación de una marina artificial, de uso particular, colindante con los Lotes 12-A y 13-A, de la Villa 8 del Fraccionamiento Náutico Turístico Nuevo Vallarta, Puerto Nuevo Vallarta, Municipio de Bahía de Banderas, Estado de Nayarit."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802458&fecha=29/10/2026",
+      "code": "5802458",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "cd3de36f08bc3dbc7e6aa8702b97e832f5b9d08020af0ac1609f49cb5f030aae",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer la página electrónica en la que puede ser consultado por el público en general las Bases Generales para el Registro, Afectación, Disposición Final y Baja de Bienes Muebles del Fideicomiso Universidad Marítima y Portuaria de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer la página electrónica en la que puede ser consultado por el público en general las Bases Generales para el Registro, Afectación, Disposición Final y Baja de Bienes Muebles del Fideicomiso Universidad Marítima y Portuaria de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802460&fecha=29/10/2026",
+      "code": "5802460",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "79757f24f06174524065e47146ab63492991ddb4928954a30c63103a1a708f42",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de noviembre de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se dan a conocer los estímulos fiscales a la gasolina y al diésel en los sectores pesquero y agropecuario para el mes de noviembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802461&fecha=29/10/2026",
+      "code": "5802461",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9503488db2c30e8499550362fa47a5ca190137361bae8b5843feb3d9716d5e57",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se da a conocer el informe sobre la recaudación federal participable y las participaciones federales, así como los procedimientos de cálculo, por el mes de septiembre de 2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se da a conocer el informe sobre la recaudación federal participable y las participaciones federales, así como los procedimientos de cálculo, por el mes de septiembre de 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802463&fecha=29/10/2026",
+      "code": "5802463",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ENERGIA",
+      "record_sha256": "23abcd563ba3ac3d75cbd9e27f160adc518b5aac282e585ba2bf37397bb4c379",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificacion",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "energia",
+          "name": "topic",
+          "rule_id": "topic.energy",
+          "rule_version": "1.0",
+          "value": "energy"
+        }
+      ],
+      "title": "Acuerdo por el que se emite la cuarta modificación a la Convocatoria para la atención de proyectos estratégicos de generación y almacenamiento de energía eléctrica, alineados a la planeación vinculante."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802465&fecha=29/10/2026",
+      "code": "5802465",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "18fd2b242430ac1ee70d4b12fa94e2f3dc3d7d3c483a9e28116ef99be14f7f8d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "comercio exterior",
+          "name": "topic",
+          "rule_id": "topic.trade",
+          "rule_version": "1.0",
+          "value": "trade"
+        }
+      ],
+      "title": "Acuerdo que modifica el diverso por el que la Secretaría de Economía emite Reglas y criterios de carácter general en materia de comercio exterior."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802467&fecha=29/10/2026",
+      "code": "5802467",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "6ddf030392a833e407ac421a36ae9e674cef5305acd4e57fed7b23da44872f0b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Quirort, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Quirort, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802468&fecha=29/10/2026",
+      "code": "5802468",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "bc07547947441950fa9d5576480712a4d2b739eaf59634962088b57d496b6f62",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Briteg Instrumentos Científicos, S.A. de C.V. y la persona física que la representó, la ciudadana Teresa García Gómez, incluso cuando esta última pretenda representar a empresas diversas a la sancionada.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a la Fiscalía General de la República, a las entidades federativas, a los municipios y a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Briteg Instrumentos Científicos, S.A. de C.V. y la persona física que la representó, la ciudadana Teresa García Gómez, incluso cuando esta última pretenda representar a empresas diversas a la sancionada."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802470&fecha=29/10/2026",
+      "code": "5802470",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION",
+      "record_sha256": "3a7cbb85d91c6c70d7d9e109f15763a85029a36b6823954d7697e50ecfa7115a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se expide el Código de Conducta de El Colegio de la Frontera Norte, A.C.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se expide el Código de Conducta de El Colegio de la Frontera Norte, A.C."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802472&fecha=29/10/2026",
+      "code": "5802472",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL",
+      "record_sha256": "7c8a30017d7b965e65de8e329f2d30d086a45d1aaec6df18827125394c46dce2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "empleo",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "aguascalientes",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Convenio de Coordinación para la Operación del Programa de Apoyo al Empleo que, en el marco del Servicio Nacional de Empleo, celebran la Secretaría del Trabajo y Previsión Social y el Estado de Aguascalientes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802474&fecha=29/10/2026",
+      "code": "5802474",
+      "issuer_primary": "PODER LEGISLATIVO",
+      "issuer_secondary": "AUDITORIA SUPERIOR DE LA FEDERACION",
+      "record_sha256": "4b9caa5902517f5fe5877be396b4e5f133a13e9e95ae47b0737a2d7f65d7b05f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se comunica el domicilio oficial, horario de la Oficialía de Partes y ubicación de estrados de la Unidad Especializada en Investigación y Auditoría Forense de la Auditoría Superior de la Federación.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se comunica el domicilio oficial, horario de la Oficialía de Partes y ubicación de estrados de la Unidad Especializada en Investigación y Auditoría Forense de la Auditoría Superior de la Federación."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802476&fecha=29/10/2026",
+      "code": "5802476",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "0566ef83bdf127c45f08a99bb881bf936587ac5a68099b1d0d835e856a914ab8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "trabajadoras",
+          "name": "topic",
+          "rule_id": "topic.labor",
+          "rule_version": "1.0",
+          "value": "labor"
+        }
+      ],
+      "title": "Acuerdo General número 14/2026-LAG, de veinte de octubre de dos mil veintiséis, del Pleno de la Suprema Corte de Justicia de la Nación, por el que se levanta el aplazamiento del dictado de la resolución en las contradicciones de criterios radicadas en los Plenos Regionales, así como en los amparos directos y en los amparos en revisión del conocimiento de los Tribunales Colegiados de Circuito, en los que subsista el análisis de constitucionalidad de la Ley del Fondo de Ahorro para el Retiro Digno de las Trabajadoras y de los Trabajadores del Estado Libre y Soberano de Nayarit, expedida mediante Decreto publicado en el periódico oficial de ese estado el dieciséis de marzo de dos mil veintitrés; relacionado con el Diverso 14/2025 (12a.), de veintitrés de octubre de dos mil veinticinco, así como de su instrumento normativo de seis de abril de dos mil veintiséis."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802477&fecha=29/10/2026",
+      "code": "5802477",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "eeff16c0cc3eda40902df45b1a727eaf0196a5eff08cd89e307f5608fa2f0d3c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 85/2026.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 85/2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802479&fecha=29/10/2026",
+      "code": "5802479",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "be86b67edb1843dcbe82d8792b7708fbc4cdb2d34acc19360856034a59ce1fe0",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802480&fecha=29/10/2026",
+      "code": "5802480",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "8cb67a57a11add71cbdcfbdee3d5cd9f3db47cd33688151bc2e91da9feeb69dd",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802481&fecha=29/10/2026",
+      "code": "5802481",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "706d36534a29741fbef068fbcd4a6f96beb6b52a7af46acc0af19b913b2bf2bf",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802483&fecha=29/10/2026",
+      "code": "5802483",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "6a4f48a466ff585891b6fb3c46a8379e173031d0169e40a2cd10891c7b3bcc34",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Saldos del mandato y fideicomiso en los que la Fiscalía General de la República es mandante y fideicomitente.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Saldos del mandato y fideicomiso en los que la Fiscalía General de la República es mandante y fideicomitente.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Saldos del mandato y fideicomiso en los que la Fiscalía General de la República es mandante y fideicomitente."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802486&fecha=29/10/2026",
+      "code": "5802486",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "e04b209e517eb60fca7f36378ccc3eb689a73ba9d139426bd7a7b0ab8eadd129",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG546/2026 por el que el Consejo General del Instituto Nacional Electoral aprueba la realización de la Consulta Infantil y Juvenil 2027, su Plan General y la integración del Comité Técnico de Acompañamiento.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG546/2026 por el que el Consejo General del Instituto Nacional Electoral aprueba la realización de la Consulta Infantil y Juvenil 2027, su Plan General y la integración del Comité Técnico de Acompañamiento.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG546/2026 por el que el Consejo General del Instituto Nacional Electoral aprueba la realización de la Consulta Infantil y Juvenil 2027, su Plan General y la integración del Comité Técnico de Acompañamiento."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802487&fecha=29/10/2026",
+      "code": "5802487",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "785925488e0cd3b6641be1688828d6d21afd95bfd7ba316c213e3ffcc41b2603",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG549/2026 del Consejo General del Instituto Nacional Electoral por el que, en atención al oficio IEEBCS-PS-0238-2026 se modifica la fecha homologada para la conclusión del periodo de obtención del apoyo de la ciudadanía para las personas aspirantes a candidaturas independientes en Baja California Sur, establecida mediante la Resolución INE/ CG478/2026, y se da atención a la solicitud formulada por el Organismo Público Local de Sonora en el IEEyPC/PRESI-0737/2026 y su alcance.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG549/2026 del Consejo General del Instituto Nacional Electoral por el que, en atención al oficio IEEBCS-PS-0238-2026 se modifica la fecha homologada para la conclusión del periodo de obtención del apoyo de la ciudadanía para las personas aspirantes a candidaturas independientes en Baja California Sur, establecida mediante la Resolución INE/ CG478/2026, y se da atención a la solicitud formulada por el Organismo Público Local de Sonora en el IEEyPC/PRESI-0737/2026 y su alcance.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG549/2026 del Consejo General del Instituto Nacional Electoral por el que, en atención al oficio IEEBCS-PS-0238-2026 se modifica la fecha homologada para la conclusión del periodo de obtención del apoyo de la ciudadanía para las personas aspirantes a candidaturas independientes en Baja California Sur, establecida mediante la Resolución INE/ CG478/2026, y se da atención a la solicitud formulada por el Organismo Público Local de Sonora en el IEEyPC/PRESI-0737/2026 y su alcance."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802488&fecha=29/10/2026",
+      "code": "5802488",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "61b75b5588dd21fead79d5df60a3e61881ea4f57304ad3724b00cc060fc217ac",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG552/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos de la Comisión de Verificación de Integridad en Candidaturas para la coordinación interinstitucional y el procedimiento de verificación, así como las modificaciones y adiciones al Reglamento Interior del Instituto Nacional Electoral y al Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral derivado de la incorporación de la Comisión de Verificación de Integridad en Candidaturas, como Comisión Permanente del Consejo General.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Extracto del Acuerdo INE/CG552/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos de la Comisión de Verificación de Integridad en Candidaturas para la coordinación interinstitucional y el procedimiento de verificación, así como las modificaciones y adiciones al Reglamento Interior del Instituto Nacional Electoral y al Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral derivado de la incorporación de la Comisión de Verificación de Integridad en Candidaturas, como Comisión Permanente del Consejo General.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Extracto del Acuerdo INE/CG552/2026 del Consejo General del Instituto Nacional Electoral por el que se aprueban los Lineamientos de la Comisión de Verificación de Integridad en Candidaturas para la coordinación interinstitucional y el procedimiento de verificación, así como las modificaciones y adiciones al Reglamento Interior del Instituto Nacional Electoral y al Reglamento de Comisiones del Consejo General del Instituto Nacional Electoral derivado de la incorporación de la Comisión de Verificación de Integridad en Candidaturas, como Comisión Permanente del Consejo General."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=29",
+    "name": "DOF official index",
+    "publication_date": "2026-10-29"
+  }
+}
