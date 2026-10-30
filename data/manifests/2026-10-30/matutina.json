@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-10-30T09:57:40+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 2,
+      "circular": 2,
+      "norma": 1,
+      "otro": 5,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
+      "SECRETARIA DE ECONOMIA": 2,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 3,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "environment": 2,
+      "financial": 1,
+      "fiscal": 1,
+      "other": 10,
+      "trade": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-10-30/matutina.json",
+  "normalized_sha256": "71deb3410525b77f8f8de795b812ca366702239f5a0242c4e04d29fb389b072f",
+  "note_count": 15,
+  "parser_version": "1.1",
+  "publication_date": "2026-10-30",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=10&day=30",
+    "raw_retained": false,
+    "raw_sha256": "ca273bd23e86a112af923cef96b11906264e6c66af0dfca7344904d02af469fc",
+    "raw_size": 79410
+  },
+  "status": "changed"
+}
