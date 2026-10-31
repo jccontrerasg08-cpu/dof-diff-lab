@@ -1,28 +1,20 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802597&fecha=30/10/2026",
-      "code": "5802597",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802697&fecha=30/10/2026",
+      "code": "5802697",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "5831d2d195c885f06a74294d47b1c92e863bb1e1999272f092885532899e8557",
+      "record_sha256": "8408ee50bd6f8ff06124c25634c380a1d28b260552182bc24367e496b35d54e8",
       "section": "UNICA SECCION",
       "tags": [
         {
-          "confidence": "low",
-          "evidence": "Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
           "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "possible_modification"
+          "value": "acuerdo"
         },
         {
           "confidence": "rule_match",
@@ -33,14 +25,14 @@
           "value": "fiscal"
         }
       ],
-      "title": "Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2026."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802598&fecha=30/10/2026",
-      "code": "5802598",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802698&fecha=30/10/2026",
+      "code": "5802698",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "ab98c36629822da7b0ff379b969314d4dbafb49d6b1f34bc28efa83e19e255bc",
+      "record_sha256": "a8d0eb7d84b77f988f072ffa860334a22a31853512a11a69ed552082a1ef907c",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -53,21 +45,21 @@
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo por el que se establecen acciones de simplificación y mejora administrativa para trámites que se realizan ante el Instituto de Administración y Avalúos de Bienes Nacionales.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo por el que se establecen acciones de simplificación y mejora administrativa para trámites que se realizan ante el Instituto de Administración y Avalúos de Bienes Nacionales."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802600&fecha=30/10/2026",
-      "code": "5802600",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802699&fecha=30/10/2026",
+      "code": "5802699",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
-      "record_sha256": "2df8f5da73ca047504a92e8f154b557ed908bbaa2307596da3b2d151a2caf404",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "8fe206b3284e8ad3c0c95a43f041694076eda3e51fb0d97fae4fe062e86974b3",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -79,347 +71,42 @@
           "value": "acuerdo"
         },
         {
-          "confidence": "rule_match",
-          "evidence": "ambiente",
-          "name": "topic",
-          "rule_id": "topic.environment",
-          "rule_version": "1.0",
-          "value": "environment"
-        }
-      ],
-      "title": "Acuerdo delegatorio de facultades de la persona Titular de la Secretaría de Medio Ambiente y Recursos Naturales a los titulares de las Oficinas de Representación y Gestión Territorial en las entidades federativas y en la Ciudad de México para recibir y gestionar los trámites de aprovechamiento no extractivo en materia de vida silvestre."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802601&fecha=30/10/2026",
-      "code": "5802601",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
-      "record_sha256": "3dad9c4377c5eaa08a6d48a390296d47499b220c3b677868c9818778aac763b0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
           "confidence": "low",
-          "evidence": "Aviso mediante el cual se da a conocer al público en general la temporada 2026-2027 para llevar a cabo actividades de observación de ballenas.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Aviso mediante el cual se da a conocer al público en general la temporada 2026-2027 para llevar a cabo actividades de observación de ballenas."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802602&fecha=30/10/2026",
-      "code": "5802602",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
-      "record_sha256": "afa424cc66eec789a4715d26ab97fd3a892ebd2b7d71d63a03934c36ed22fadd",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "agua",
-          "name": "topic",
-          "rule_id": "topic.environment",
-          "rule_version": "1.0",
-          "value": "environment"
-        }
-      ],
-      "title": "Acuerdo por el que se establecen acciones de simplificación y se incorporan a la Ventanilla Digital Única de Trámites del Agua los que se indican."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802604&fecha=30/10/2026",
-      "code": "5802604",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "8614ba2e63bc46b229d9653957d812829524ca1494a48d8da9288bb504feaea0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "comercio exterior",
-          "name": "topic",
-          "rule_id": "topic.trade",
-          "rule_version": "1.0",
-          "value": "trade"
-        }
-      ],
-      "title": "Acuerdo que modifica el diverso por el que la Secretaría de Economía emite reglas y criterios de carácter general en materia de comercio exterior."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802605&fecha=30/10/2026",
-      "code": "5802605",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "72e476699ee01f9a5a061f043c4f84f32ee685dd518a907adb3804b1ae5fd286",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el precio de referencia del azúcar base estándar para el pago de la caña de azúcar de la zafra 2026/2027, que propone el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el precio de referencia del azúcar base estándar para el pago de la caña de azúcar de la zafra 2026/2027, que propone el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802607&fecha=30/10/2026",
-      "code": "5802607",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "730bcb4065ab18331eb318ae2b4656c97e5351554174e20c5fbbfff737cff133",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Credi Trune, S.A. de C.V. Sofom E.N.R.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Credi Trune, S.A. de C.V. Sofom E.N.R."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802608&fecha=30/10/2026",
-      "code": "5802608",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "697ecb6f7ac755ade1f116ff86d3cdadbf732aa705bd8eacfb440e88cbf5b909",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Rhinno Smart, S.A. de C.V.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas, a los municipios, los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Rhinno Smart, S.A. de C.V."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802610&fecha=30/10/2026",
-      "code": "5802610",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "2186690f26744e03c421c54bde089534b8e37176fd78207bbf4dda4a04020ffa",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "norma oficial mexicana",
-          "name": "document_type",
-          "rule_id": "document_type.norma",
-          "rule_version": "1.0",
-          "value": "norma"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-018-SSA-2026, Para la práctica de terapias dialíticas.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso de consulta pública del Proyecto de Norma Oficial Mexicana PROY-NOM-018-SSA-2026, Para la práctica de terapias dialíticas."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802612&fecha=30/10/2026",
-      "code": "5802612",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802701&fecha=30/10/2026",
+      "code": "5802701",
       "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "5d3ce6f10b48fdf3557e031a3d0191aab711a41d70df43740c80e9b9a86eab5b",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "3649515ac18722b02b44cf8d83759b2da4a3f21150b251ad2be0affc0f640a85",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "sentencia",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.sentencia",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 193/2025.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 193/2025."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802614&fecha=30/10/2026",
-      "code": "5802614",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "a1341921d06ca04dfbee07bdac46abfc8e5c4fc4bdcddd3675ca155e4d6795f3",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802615&fecha=30/10/2026",
-      "code": "5802615",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "1a6e44910cf2a9fe5090d3fb301eaeba99f66e0737e1105dfe271522e4e08a1b",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802616&fecha=30/10/2026",
-      "code": "5802616",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "8142415ab1e1a19189f6d1e6398898b50544b0fbd664a4b0bab42247f5994962",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
+          "value": "acuerdo"
         },
         {
           "confidence": "rule_match",
-          "evidence": "tasa de interes",
+          "evidence": "contratacion",
           "name": "topic",
-          "rule_id": "topic.financial",
+          "rule_id": "topic.public_procurement",
           "rule_version": "1.0",
-          "value": "financial"
+          "value": "public_procurement"
         }
       ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802618&fecha=30/10/2026",
-      "code": "5802618",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "598ab0fc242411704295df21404c1ada521ea34cf7ce100fc7917960369ec1da",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado que presenta la Comisión de Fiscalización al Consejo General del Instituto Nacional Electoral respecto de la revisión de los informes únicos de gastos de campaña de las personas candidatas a juzgadoras, correspondientes al Proceso Electoral Extraordinario del Poder Judicial Local 2024-2025 en el Estado de Veracruz de Ignacio de la Llave.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado que presenta la Comisión de Fiscalización al Consejo General del Instituto Nacional Electoral respecto de la revisión de los informes únicos de gastos de campaña de las personas candidatas a juzgadoras, correspondientes al Proceso Electoral Extraordinario del Poder Judicial Local 2024-2025 en el Estado de Veracruz de Ignacio de la Llave.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado que presenta la Comisión de Fiscalización al Consejo General del Instituto Nacional Electoral respecto de la revisión de los informes únicos de gastos de campaña de las personas candidatas a juzgadoras, correspondientes al Proceso Electoral Extraordinario del Poder Judicial Local 2024-2025 en el Estado de Veracruz de Ignacio de la Llave."
+      "title": "Acuerdo del Pleno del Órgano de Administración Judicial por el que se autoriza habilitar los días de los meses de noviembre y diciembre de 2026, incluyendo los días del receso del 16 al 31 de diciembre de 2026 para que las áreas administrativas relacionadas con los procedimientos de contratación puedan realizar las acciones necesarias para garantizar la continuidad administrativa y operativa del Poder Judicial de la Federación."
     }
   ],
   "schema_version": "1.1",
