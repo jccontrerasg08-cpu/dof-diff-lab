@@ -1,0 +1,313 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802717&fecha=02/11/2026",
+      "code": "5802717",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "5b967fa3f81597270c801eea52ceb03f7f23ddf4820b9fa641eafa61333dd3f2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer el Acuerdo de disolución de la Comisión de Protección Especial de Niñas, Niños y Adolescentes CPENNA.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer el Acuerdo de disolución de la Comisión de Protección Especial de Niñas, Niños y Adolescentes CPENNA."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802719&fecha=02/11/2026",
+      "code": "5802719",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "record_sha256": "da3fdfb09fb8a26eefaaf9ad44cac578730eb5287b7c164f27b0d29e007ed48f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "ambiente",
+          "name": "topic",
+          "rule_id": "topic.environment",
+          "rule_version": "1.0",
+          "value": "environment"
+        }
+      ],
+      "title": "Acuerdo por el que se establecen acciones de simplificación para trámites que se realizan ante la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, así como se expiden y modifican los formatos que se mencionan."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802721&fecha=02/11/2026",
+      "code": "5802721",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "7c8f2d78174419b7368f2f0c1526f1dd5d7303204b564ce276e99fa768078d10",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "norma",
+          "name": "document_type",
+          "rule_id": "document_type.norma",
+          "rule_version": "1.0",
+          "value": "norma"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Norma Oficial Mexicana de Emergencia NOM-EM-023-SE-2026, Industria del cemento-Cementos hidráulicos-Especificaciones de calidad, métodos de prueba e información comercial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Norma Oficial Mexicana de Emergencia NOM-EM-023-SE-2026, Industria del cemento-Cementos hidráulicos-Especificaciones de calidad, métodos de prueba e información comercial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802723&fecha=02/11/2026",
+      "code": "5802723",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE EDUCACION PUBLICA",
+      "record_sha256": "3fa4374d0663ca37d4496d1d12e7a58e32259870d11a9d00e41a5b90dddc8343",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo número 10/10/25 por el que se delega la facultad que se indica a la persona Titular de la Dirección General del Bachillerato.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo número 10/10/25 por el que se delega la facultad que se indica a la persona Titular de la Dirección General del Bachillerato."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802725&fecha=02/11/2026",
+      "code": "5802725",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION",
+      "record_sha256": "38b45998d40c05116cb00de5299968fcfeb5e1a3c57064f2435555ccfce9eaf5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se da a conocer la página electrónica donde se encuentra disponible el Código de Conducta de las personas servidoras públicas del Centro de Investigación y Desarrollo Tecnológico en Electroquímica S.C.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se da a conocer la página electrónica donde se encuentra disponible el Código de Conducta de las personas servidoras públicas del Centro de Investigación y Desarrollo Tecnológico en Electroquímica S.C."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802727&fecha=02/11/2026",
+      "code": "5802727",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "deab07ac6d9a2b45cf1b14157498c156f0994bc6f0780f2c392af652f4b184f6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se emiten los Lineamientos que deberán observar los bancos de sangre para la disposición del Plasma Residual con fines de industrialización para la producción de hemoderivados.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se emiten los Lineamientos que deberán observar los bancos de sangre para la disposición del Plasma Residual con fines de industrialización para la producción de hemoderivados."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802728&fecha=02/11/2026",
+      "code": "5802728",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "306bb86726e36ffe7ed538c5628339a40b8bf60343b72a1ca5ae60ae4db179ef",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Baja California.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Baja California."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802730&fecha=02/11/2026",
+      "code": "5802730",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "CENTRO FEDERAL DE CONCILIACION Y REGISTRO LABORAL",
+      "record_sha256": "f24b6b1cc6f039d6f3549b37e88ceea6153bab287ddcee2740a5357c1611c3b5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "document_type",
+          "rule_id": "document_type.convocatoria",
+          "rule_version": "1.0",
+          "value": "convocatoria"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convocatoria para la Convención Obrero Patronal de la revisión salarial del Contrato Ley de la Industria Textil del Ramo de Listones, Elásticos, Encajes, Cintas y Etiquetas Tejidas en Telares de Tablas Jacquard o Agujas de la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convocatoria para la Convención Obrero Patronal de la revisión salarial del Contrato Ley de la Industria Textil del Ramo de Listones, Elásticos, Encajes, Cintas y Etiquetas Tejidas en Telares de Tablas Jacquard o Agujas de la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802731&fecha=02/11/2026",
+      "code": "5802731",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "CENTRO FEDERAL DE CONCILIACION Y REGISTRO LABORAL",
+      "record_sha256": "0aae81cec8439f6ee82a95134de03dcd5f5da6e3852626297890a5d092b840ba",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "document_type",
+          "rule_id": "document_type.convocatoria",
+          "rule_version": "1.0",
+          "value": "convocatoria"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "convocatoria",
+          "name": "signal",
+          "rule_id": "signal.contains_call_for_bids",
+          "rule_version": "1.0",
+          "value": "contains_call_for_bids"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Convocatoria para la Convención Obrero Patronal de la revisión integral del Contrato Ley de la Industria Textil del Ramo de la Lana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Convocatoria para la Convención Obrero Patronal de la revisión integral del Contrato Ley de la Industria Textil del Ramo de la Lana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802733&fecha=02/11/2026",
+      "code": "5802733",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "b57fe77ee92fcc46915bbb875091b5382ce757da8030815e76e94fd2efa17e6b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido de la Revolución Democrática, correspondientes al ejercicio dos mil veinticuatro.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido de la Revolución Democrática, correspondientes al ejercicio dos mil veinticuatro.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral, respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes anuales de ingresos y gastos del Partido de la Revolución Democrática, correspondientes al ejercicio dos mil veinticuatro."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=02",
+    "name": "DOF official index",
+    "publication_date": "2026-11-02"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-02T10:58:53+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 2,
+      "convocatoria": 2,
+      "norma": 1,
+      "otro": 2
+    },
+    "by_issuer": {
+      "CENTRO FEDERAL DE CONCILIACION Y REGISTRO LABORAL": 2,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "SECRETARIA DE CIENCIA, HUMANIDADES, TECNOLOGIA E INNOVACION": 1,
+      "SECRETARIA DE ECONOMIA": 1,
+      "SECRETARIA DE EDUCACION PUBLICA": 1,
+      "SECRETARIA DE GOBERNACION": 1,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1,
+      "SECRETARIA DE SALUD": 2
+    },
+    "by_topic": {
+      "environment": 1,
+      "health": 1,
+      "other": 8
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-02/matutina.json",
+  "normalized_sha256": "a6f29b8fd094478064e99b3a062fb6c37b4e4a7f7c75d692c866cf34f27e749e",
+  "note_count": 10,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-02",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=02",
+    "raw_retained": false,
+    "raw_sha256": "f996ce79b1d2bcb309da6c8906a4c552d9f85a14f97e03439f53861b91c7b804",
+    "raw_size": 63812
+  },
+  "status": "changed"
+}
