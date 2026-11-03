@@ -1,0 +1,421 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802757&fecha=03/11/2026",
+      "code": "5802757",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "e9131fbf7547e62f6a3e312a997c51f0155105de3329c45598f716e8d27461d4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "derogaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_repeal",
+          "rule_version": "1.0",
+          "value": "possible_repeal"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones de los Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones de los Lineamientos Generales para la Integración, Organización y Funcionamiento de las Comisiones del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802758&fecha=03/11/2026",
+      "code": "5802758",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE GOBERNACION",
+      "record_sha256": "fc8965c8a4e7f4649f18828b2301a9786e34f1c9353b95548a345fbbb4bfd7e7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "derogaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_repeal",
+          "rule_version": "1.0",
+          "value": "possible_repeal"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones del Manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las reformas, adiciones y derogaciones a las diversas disposiciones del Manual de organización y operación del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802760&fecha=03/11/2026",
+      "code": "5802760",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9acec587785c675bc9f8734c381c4b09bcc80c0cbbe26357a96d5c4c63e6110d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Secretaría de Desarrollo Agrario, Territorial y Urbano, los inmuebles federales denominados Oficinas Centrales Sedatu \"Reforma 362\", con Registro Federal Inmobiliario 9-19858-6 y superficie de 555.75 metros cuadrados y Oficinas Centrales Sedatu \"Reforma 364\", con Registro Federal Inmobiliario 9-19857-7 y superficie de 1,470.16 metros cuadrados, ubicados en Paseo de la Reforma, número 362 y 364, respectivamente, Colonia Juárez, Código Postal 06600, Alcaldía Cuauhtémoc, Ciudad de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Secretaría de Desarrollo Agrario, Territorial y Urbano, los inmuebles federales denominados Oficinas Centrales Sedatu \"Reforma 362\", con Registro Federal Inmobiliario 9-19858-6 y superficie de 555.75 metros cuadrados y Oficinas Centrales Sedatu \"Reforma 364\", con Registro Federal Inmobiliario 9-19857-7 y superficie de 1,470.16 metros cuadrados, ubicados en Paseo de la Reforma, número 362 y 364, respectivamente, Colonia Juárez, Código Postal 06600, Alcaldía Cuauhtémoc, Ciudad de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802761&fecha=03/11/2026",
+      "code": "5802761",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "f3f6a3dfffcfa8cf8b1f84b4c9fd42b8a0e7b574da15e38eea36d5982fd0215b",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se destina a la Secretaría de Marina el inmueble federal denominado \"Sanatorio Naval de Santa Rosalía, B.C.S\"., con Registro Federal Inmobiliario 3-3488-0 y superficie de 334.38 metros cuadrados, ubicado en Calle Las Flores número 19, Colonia Mesa México, Código Postal 23920, Localidad de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se destina a la Secretaría de Marina el inmueble federal denominado \"Sanatorio Naval de Santa Rosalía, B.C.S\"., con Registro Federal Inmobiliario 3-3488-0 y superficie de 334.38 metros cuadrados, ubicado en Calle Las Flores número 19, Colonia Mesa México, Código Postal 23920, Localidad de Santa Rosalía, Municipio de Mulegé, Estado de Baja California Sur."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802763&fecha=03/11/2026",
+      "code": "5802763",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "03a54f4cefcaf2f9f9d2ba04a27f717ee23cbbb9d06d2ac625185dc9ccb13c2e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, dentro del juicio contencioso administrativo número 7762/25-17-12-2, promovido por la empresa Flow & Low de México, Sociedad Anónima de Capital Variable, por conducto de su representante legal, el ciudadano Eduardo López Martín del Campo, mediante sentencia definitiva de dos de marzo de dos mil veintiséis, declaró la nulidad de la resolución número T.O.I.C.07/1011 de diecinueve de marzo de dos mil veinticinco, emitida en el expediente administrativo 009/REC.REV./2024, así como la originalmente recurrida de fecha 30 de octubre de dos mil veinticuatro, dictada en el procedimiento administrativo de sanción a proveedores y licitantes número 044/PAS/2022.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, Fiscalía General de la República, entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, que la Décimo Segunda Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa, dentro del juicio contencioso administrativo número 7762/25-17-12-2, promovido por la empresa Flow & Low de México, Sociedad Anónima de Capital Variable, por conducto de su representante legal, el ciudadano Eduardo López Martín del Campo, mediante sentencia definitiva de dos de marzo de dos mil veintiséis, declaró la nulidad de la resolución número T.O.I.C.07/1011 de diecinueve de marzo de dos mil veinticinco, emitida en el expediente administrativo 009/REC.REV./2024, así como la originalmente recurrida de fecha 30 de octubre de dos mil veinticuatro, dictada en el procedimiento administrativo de sanción a proveedores y licitantes número 044/PAS/2022."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802765&fecha=03/11/2026",
+      "code": "5802765",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "b4bcae28eefcf81efd694a1abd9213a3414e3fd6da76462c857df7149466ec26",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Puebla.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificatorio",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Puebla."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802767&fecha=03/11/2026",
+      "code": "5802767",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "df20304628673651715071769b761e6c0a7e5eaa084e1586eba400760107528c",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifican",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Acuerdo por el que se modifican las Reglas de Operación del Programa de Vivienda Social para el ejercicio fiscal 2026."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802769&fecha=03/11/2026",
+      "code": "5802769",
+      "issuer_primary": "PODER LEGISLATIVO",
+      "issuer_secondary": "CAMARA DE DIPUTADOS",
+      "record_sha256": "ce5d86c9f21b1d779e29e3665581bec5ae14ab3a7a17bf3f3793856ecac400aa",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Decreto relativo a la revisión de la Cuenta de la Hacienda Pública Federal correspondiente al Ejercicio Fiscal 2024."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802771&fecha=03/11/2026",
+      "code": "5802771",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "8cee8f7a2ccc1fa385771f6254eca407af03d69f557283ae5a6c164e50137102",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 124/2025, así como los Votos Particulares de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama, y Concurrente y Particular del señor Ministro Arístides Rodrigo Guerrero.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 124/2025, así como los Votos Particulares de las señoras Ministras Sara Irene Herrerías Guerra y Lenia Batres Guadarrama, y Concurrente y Particular del señor Ministro Arístides Rodrigo Guerrero."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802773&fecha=03/11/2026",
+      "code": "5802773",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "55fcd82c36093df2d54e9b7ad7715c21e2f18b6c2032bf8b96ddbd68d37c7c89",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802774&fecha=03/11/2026",
+      "code": "5802774",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "c0b07afe7f7bc2076c874f3592a0056387deafad59db49d4bf5c00b579a451ee",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802775&fecha=03/11/2026",
+      "code": "5802775",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "de2523ed857de597684804eff43649e3d2eb641e5f377a07b030ff9a8794a286",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802778&fecha=03/11/2026",
+      "code": "5802778",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "e17d4f3e17c834e258aa161efb7971ab8401d847818f13b4fe1b1ed84a36c750",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio Circular C/002/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Oficio Circular C/002/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Oficio Circular C/002/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802779&fecha=03/11/2026",
+      "code": "5802779",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
+      "record_sha256": "81b6982033246fb04eff3b7f030cacc4d5d19f056b5b8177b90bc3f2ff7b7c69",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Oficio Circular C/003/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Oficio Circular C/003/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Oficio Circular C/003/2026 en materia de cumplimiento al punto recomendatorio quinto de la Recomendación 98VG/2023 de la Comisión Nacional de los Derechos Humanos por el que se instruye a las personas titulares de las unidades administrativas de la Fiscalía General de la República, así como del Instituto Nacional de Ciencias Penales."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=03",
+    "name": "DOF official index",
+    "publication_date": "2026-11-03"
+  }
+}

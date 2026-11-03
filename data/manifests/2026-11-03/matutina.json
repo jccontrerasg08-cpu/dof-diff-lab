@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-03T10:48:35+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 3,
+      "aviso": 2,
+      "circular": 1,
+      "decreto": 1,
+      "otro": 6,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "CAMARA DE DIPUTADOS": 1,
+      "FISCALIA GENERAL DE LA REPUBLICA": 2,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
+      "SECRETARIA DE GOBERNACION": 2,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "fiscal": 2,
+      "health": 1,
+      "other": 10
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-03/matutina.json",
+  "normalized_sha256": "8e6e4b5ee83789b1d57d6d4c621c5bdf69a87a1d64caeac79ba6a55fdd506813",
+  "note_count": 14,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-03",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=03",
+    "raw_retained": false,
+    "raw_sha256": "7ce6fbe54efa15ec4d752308650432840d47e83a2ca9c406b26b19fbd856ba8c",
+    "raw_size": 72254
+  },
+  "status": "changed"
+}
