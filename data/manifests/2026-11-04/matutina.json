@@ -1,37 +1,20 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-11-04T21:55:15+00:00",
+  "generated_at": "2026-11-05T02:30:20+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 3,
-      "aviso": 1,
-      "convenio": 1,
-      "convocatoria": 1,
-      "otro": 7,
-      "sentencia": 1
+      "decreto": 2
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
-      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 1,
-      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 2,
-      "SECRETARIA DE ECONOMIA": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
-      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
-      "SECRETARIA DE SALUD": 1,
-      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+      "PRESIDENCIA DE LA REPUBLICA": 2
     },
     "by_topic": {
-      "financial": 1,
-      "health": 1,
-      "labor": 1,
-      "other": 11
+      "other": 2
     }
   },
   "normalized_path": "data/normalized/2026-11-04/matutina.json",
-  "normalized_sha256": "e02be3982393ee76ab4198123065bfbb23f2b269bb90869ceef0ef909e9b8d22",
-  "note_count": 14,
+  "normalized_sha256": "180222edacc0576030677fbe8fbaeef66efb949da672e00cd8788ef3169c8229",
+  "note_count": 2,
   "parser_version": "1.1",
   "publication_date": "2026-11-04",
   "schema_version": "1.1",
@@ -40,8 +23,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=04",
     "raw_retained": false,
-    "raw_sha256": "03763d3d6964bf8f949e8e9b351b9284d85e0e5a9e80aab07f22ead70771eb7c",
-    "raw_size": 72953
+    "raw_sha256": "9e5505c8a00a9167085cb23f4ae822f0c92112ac1d6ee91f440e4ebb31f9ab32",
+    "raw_size": 48014
   },
-  "status": "no_change"
+  "status": "changed"
 }

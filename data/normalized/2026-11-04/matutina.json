@@ -1,398 +1,58 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802937&fecha=04/11/2026",
-      "code": "5802937",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803017&fecha=04/11/2026",
+      "code": "5803017",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "f97073db720272445e5592addee2a8099c066b36ce2ea31e3cc7d16cc8f37c59",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "ef205a26d16cbc53ac7ca593d36e8e895f39e2858b1ac9cf3b850b21a761f324",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "acuerdo",
+          "evidence": "decreto",
           "name": "document_type",
-          "rule_id": "document_type.acuerdo",
+          "rule_id": "document_type.decreto",
           "rule_version": "1.0",
-          "value": "acuerdo"
+          "value": "decreto"
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo por el que se destina a la Secretaría de Marina el inmueble federal denominado \"Instalaciones Administrativas (oficinas)\", con Registro Federal Inmobiliario 9-21127- 6 y superficie de 5,696.14 metros cuadrados, el cual proviene de un inmueble de mayor extensión, ubicado en Avenida Heroica Escuela Naval Militar número 701, colonia Presidentes Ejidales Segunda Sección, Código Postal 04470, Alcaldía Coyoacán, Ciudad de México.",
+          "evidence": "Decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo por el que se destina a la Secretaría de Marina el inmueble federal denominado \"Instalaciones Administrativas (oficinas)\", con Registro Federal Inmobiliario 9-21127- 6 y superficie de 5,696.14 metros cuadrados, el cual proviene de un inmueble de mayor extensión, ubicado en Avenida Heroica Escuela Naval Militar número 701, colonia Presidentes Ejidales Segunda Sección, Código Postal 04470, Alcaldía Coyoacán, Ciudad de México."
+      "title": "Decreto por el que se expide la Ley de Economía Digital para Pagos Digitales y Electrónicos."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802938&fecha=04/11/2026",
-      "code": "5802938",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803018&fecha=04/11/2026",
+      "code": "5803018",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "ddbb06f49b31458bf0bc37dcb304afe4da7bcc4f19d75a2dcd4163ae45b5748b",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "5d637dcb9da5b83a4612c4cbe4fb1d3948b145300359e5eca3bf96dac0224caf",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "acuerdo",
+          "evidence": "decreto",
           "name": "document_type",
-          "rule_id": "document_type.acuerdo",
+          "rule_id": "document_type.decreto",
           "rule_version": "1.0",
-          "value": "acuerdo"
+          "value": "decreto"
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo por el que se determina la administración directa por parte del Instituto de Administración y Avalúos de Bienes Nacionales, bajo la figura de Inmueble Federal Compartido, en la modalidad de Palacio Federal, del inmueble denominado \"Palacio Federal de Zamora\", con superficie de 1,847.82 metros cuadrados y Registro Federal Inmobiliario número 16-7364-3, ubicado en Avenida Hidalgo Sur, número 112, interior G94, Colonia Centro, Código Postal 59600, Municipio de Zamora, Estado de Michoacán de Ocampo.",
+          "evidence": "Decreto por el que se declara el 4 de noviembre de cada año, como el \"Día Nacional de las Mujeres Afromexicanas\".",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo por el que se determina la administración directa por parte del Instituto de Administración y Avalúos de Bienes Nacionales, bajo la figura de Inmueble Federal Compartido, en la modalidad de Palacio Federal, del inmueble denominado \"Palacio Federal de Zamora\", con superficie de 1,847.82 metros cuadrados y Registro Federal Inmobiliario número 16-7364-3, ubicado en Avenida Hidalgo Sur, número 112, interior G94, Colonia Centro, Código Postal 59600, Municipio de Zamora, Estado de Michoacán de Ocampo."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802940&fecha=04/11/2026",
-      "code": "5802940",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "f4d6ce7feceebe224b3e94b01200d1af3fec8986dafa0190ce50c5bd7170046a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convocatoria",
-          "name": "document_type",
-          "rule_id": "document_type.convocatoria",
-          "rule_version": "1.0",
-          "value": "convocatoria"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "convocatoria",
-          "name": "signal",
-          "rule_id": "signal.contains_call_for_bids",
-          "rule_version": "1.0",
-          "value": "contains_call_for_bids"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convocatoria dirigida a mujeres licenciadas en derecho para participar en el examen de aspirante a la función de la Correduría Pública.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convocatoria dirigida a mujeres licenciadas en derecho para participar en el examen de aspirante a la función de la Correduría Pública."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802942&fecha=04/11/2026",
-      "code": "5802942",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "674cedff1b42f02902d87a936934a2861cf0c0be7bd7644cd4945ba9b62ccab2",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convenio",
-          "name": "document_type",
-          "rule_id": "document_type.convenio",
-          "rule_version": "1.0",
-          "value": "convenio"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Nuevo León, el Instituto Constructor de Infraestructura Física Educativa y Deportiva, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convenio de Coordinación y Colaboración para la construcción y equipamiento de planteles educativos de Educación Media Superior (Centros de Bachillerato Tecnológico), que celebran el Estado de Nuevo León, el Instituto Constructor de Infraestructura Física Educativa y Deportiva, la Secretaría de Infraestructura, Comunicaciones y Transportes, la Secretaría de Educación Pública y el Instituto Nacional de la Infraestructura Física Educativa."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802944&fecha=04/11/2026",
-      "code": "5802944",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "13e22b13c0550aa3c217222e8453a392c758551fc8de914715d722c912e0485e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Veracruz de Ignacio de la Llave.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificatorio",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "salud",
-          "name": "topic",
-          "rule_id": "topic.health",
-          "rule_version": "1.0",
-          "value": "health"
-        }
-      ],
-      "title": "Segundo Convenio Modificatorio al Convenio Específico de Coordinación en materia de transferencia de insumos y ministración de recursos presupuestarios federales para realizar acciones en materia de salud pública en las entidades federativas, que celebran la Secretaría de Salud y el Estado de Veracruz de Ignacio de la Llave."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802946&fecha=04/11/2026",
-      "code": "5802946",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "record_sha256": "3d0892fe076ffc84619c6160df0615a37f4937383cb9e2f464c22266d5d6ca4c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Manual General de Organización del Instituto Nacional del Suelo Sustentable.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Manual General de Organización del Instituto Nacional del Suelo Sustentable.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Manual General de Organización del Instituto Nacional del Suelo Sustentable."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802947&fecha=04/11/2026",
-      "code": "5802947",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
-      "record_sha256": "e7600b89fb10cd3ba5fc5db99732da288bfd671b6ebddf78cf654091ed8df7cc",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Estatuto Orgánico del Instituto Nacional del Suelo Sustentable.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Estatuto Orgánico del Instituto Nacional del Suelo Sustentable.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Estatuto Orgánico del Instituto Nacional del Suelo Sustentable."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802949&fecha=04/11/2026",
-      "code": "5802949",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
-      "record_sha256": "fb35e15801eb16ab3e98a753401b1eaaa6d904f427819620caa30750adb80ef0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso mediante el cual se designa a la Titular de la Jefatura de Servicios Jurídicos para que supla las ausencias del Doctor Saúl Nevárez Jiménez, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Durango del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso mediante el cual se designa a la Titular de la Jefatura de Servicios Jurídicos para que supla las ausencias del Doctor Saúl Nevárez Jiménez, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Durango del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802951&fecha=04/11/2026",
-      "code": "5802951",
-      "issuer_primary": "PODER JUDICIAL",
-      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
-      "record_sha256": "869b8bf7c57f41a3887a95b2d4a8b3270a33ea69f1ae45e33aa1ba26e96e68a3",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "sentencia",
-          "name": "document_type",
-          "rule_id": "document_type.sentencia",
-          "rule_version": "1.0",
-          "value": "sentencia"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 27/2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 27/2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802953&fecha=04/11/2026",
-      "code": "5802953",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "19486cf96f7d7b483fcd34ba9b95c1cee950c027a03bd9d78588c0ca8c7e274a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802954&fecha=04/11/2026",
-      "code": "5802954",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "63035b8ca59364d2936225609250fd067ef828635c7657b55a6b98ce98d1c7cc",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802955&fecha=04/11/2026",
-      "code": "5802955",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "6b0c7f21a6cae6d82b7bde26f1fd5da6b9fedfeac30f90e5dba8787191a13046",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802957&fecha=04/11/2026",
-      "code": "5802957",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
-      "record_sha256": "15ae6e2815145b84a3a404f8e7f67a1a5c4f797399d78e68fadbb91211962aec",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Lineamientos para realizar el proceso de entrega-recepción del empleo, cargo o comisión de las personas servidoras públicas del Instituto Nacional de Estadística y Geografía.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "empleo",
-          "name": "topic",
-          "rule_id": "topic.labor",
-          "rule_version": "1.0",
-          "value": "labor"
-        }
-      ],
-      "title": "Lineamientos para realizar el proceso de entrega-recepción del empleo, cargo o comisión de las personas servidoras públicas del Instituto Nacional de Estadística y Geografía."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5802960&fecha=04/11/2026",
-      "code": "5802960",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "a2e8f4fbd005df679019fca1e27958d499bbb0f6def09bb5a78717beab0c8f05",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se ordena la publicación del Catálogo Nacional de estaciones de radio y canales de televisión que participarán en la cobertura del Proceso Electoral Federal 2026-2027, los procesos electorales locales coincidentes con el federal, así como del periodo ordinario durante 2027.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se ordena la publicación del Catálogo Nacional de estaciones de radio y canales de televisión que participarán en la cobertura del Proceso Electoral Federal 2026-2027, los procesos electorales locales coincidentes con el federal, así como del periodo ordinario durante 2027."
+      "title": "Decreto por el que se declara el 4 de noviembre de cada año, como el \"Día Nacional de las Mujeres Afromexicanas\"."
     }
   ],
   "schema_version": "1.1",
