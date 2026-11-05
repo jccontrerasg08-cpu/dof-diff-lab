@@ -1,0 +1,44 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-05T10:50:11+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 7,
+      "convenio": 1,
+      "otro": 3
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "COMISION NACIONAL ANTIMONOPOLIO": 1,
+      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE ENERGIA": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE MARINA": 1,
+      "SECRETARIA DEL TRABAJO Y PREVISION SOCIAL": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 1,
+      "financial": 1,
+      "labor": 1,
+      "other": 8
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-05/matutina.json",
+  "normalized_sha256": "e396e5b6b21d92fff6cbfd87b25a979b1ecd6ec8fd2833d117b32b490018bd1d",
+  "note_count": 11,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-05",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=05",
+    "raw_retained": false,
+    "raw_sha256": "e6ac5ca5828c92afdbda4df8c2626e9c8298e451a18c64a09cf4ed2b5b050f5d",
+    "raw_size": 67868
+  },
+  "status": "changed"
+}
