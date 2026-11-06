@@ -1,0 +1,40 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-06T10:49:22+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 1,
+      "decreto": 1,
+      "otro": 12,
+      "resolucion": 2
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "FISCALIA GENERAL DE LA REPUBLICA": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 4,
+      "PRESIDENCIA DE LA REPUBLICA": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 6
+    },
+    "by_topic": {
+      "financial": 1,
+      "fiscal": 4,
+      "other": 10,
+      "trade": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-06/matutina.json",
+  "normalized_sha256": "eb52c0c66b405a23fd29b4a4983a34d26d296fb764bdabbe73b70d1c2731dbf6",
+  "note_count": 16,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-06",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=06",
+    "raw_retained": false,
+    "raw_sha256": "47336e71725ff347bb18c33b739549c6d061e087f653eae4879da5d75a976ab4",
+    "raw_size": 71228
+  },
+  "status": "changed"
+}
