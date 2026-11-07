@@ -1,30 +1,21 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-11-06T21:32:32+00:00",
+  "generated_at": "2026-11-07T01:57:29+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 1,
-      "decreto": 1,
-      "otro": 12,
-      "resolucion": 2
+      "acuerdo": 3
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 4,
-      "FISCALIA GENERAL DE LA REPUBLICA": 1,
-      "INSTITUTO NACIONAL ELECTORAL": 4,
-      "PRESIDENCIA DE LA REPUBLICA": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 6
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 3
     },
     "by_topic": {
-      "financial": 1,
-      "fiscal": 4,
-      "other": 10,
-      "trade": 1
+      "fiscal": 1,
+      "other": 2
     }
   },
   "normalized_path": "data/normalized/2026-11-06/matutina.json",
-  "normalized_sha256": "eb52c0c66b405a23fd29b4a4983a34d26d296fb764bdabbe73b70d1c2731dbf6",
-  "note_count": 16,
+  "normalized_sha256": "c321074c0b4c51938342bc1fe390a64dfef6d8546732af2383a081a53e02c74b",
+  "note_count": 3,
   "parser_version": "1.1",
   "publication_date": "2026-11-06",
   "schema_version": "1.1",
@@ -33,8 +24,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=06",
     "raw_retained": false,
-    "raw_sha256": "014c63a48e0ea8d527ca824a98dca1f383fe2f0e3ff7da7927eaf9d5abafcdf9",
-    "raw_size": 71188
+    "raw_sha256": "e2845082f11317f5993e7d424b065e6f1736b8b1f4eabf6527cec1228ca93529",
+    "raw_size": 50268
   },
-  "status": "no_change"
+  "status": "changed"
 }

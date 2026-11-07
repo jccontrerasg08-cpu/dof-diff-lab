@@ -1,189 +1,11 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803157&fecha=06/11/2026",
-      "code": "5803157",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "56a3a45c778e48aa350d989da5888e7630ec881360331270ceecf40c053fb92d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "decreto",
-          "name": "document_type",
-          "rule_id": "document_type.decreto",
-          "rule_version": "1.0",
-          "value": "decreto"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Decreto por el que se declara el 14 de noviembre de cada año como: \"Día de la Infantería de Marina\".",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Decreto por el que se declara el 14 de noviembre de cada año como: \"Día de la Infantería de Marina\"."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803159&fecha=06/11/2026",
-      "code": "5803159",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803257&fecha=06/11/2026",
+      "code": "5803257",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "c8c1425ec2ed50a06eee1a35d3b1cb4e9590126ee01e1ccf1cd2df6621bed391",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Anexos 1, 2, 7, 11, 14, 15 y 29 de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2026, publicada el 30 de octubre de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Anexos 1, 2, 7, 11, 14, 15 y 29 de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2026, publicada el 30 de octubre de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803160&fecha=06/11/2026",
-      "code": "5803160",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "5791045108d784063fc92c884b0192aa79a81806f7599e7d057de6af32588e2e",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-30336 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-30336 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803161&fecha=06/11/2026",
-      "code": "5803161",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "33d4886133044baa965097f78c1c7eaa2ff3007a6089cf57ab83eb2bef2f04c6",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-30410 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-30410 mediante el cual se comunica listado global definitivo en términos del artículo 69-B, párrafo cuarto del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803162&fecha=06/11/2026",
-      "code": "5803162",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "9699de00012a951b852b6d417ddbefcbf698a27164a7bf1b79ceab05de6283bf",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio 500-05-00-00-00-2026-30720 mediante el cual se comunica el nombre y la clave en el Registro Federal de Contribuyentes a que se refiere la fracción X del artículo 49 Bis del Código Fiscal de la Federación.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "fiscal",
-          "name": "topic",
-          "rule_id": "topic.fiscal",
-          "rule_version": "1.0",
-          "value": "fiscal"
-        }
-      ],
-      "title": "Oficio 500-05-00-00-00-2026-30720 mediante el cual se comunica el nombre y la clave en el Registro Federal de Contribuyentes a que se refiere la fracción X del artículo 49 Bis del Código Fiscal de la Federación."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803163&fecha=06/11/2026",
-      "code": "5803163",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "220aba8802ad7fa541ff1a4e5f9e474486c8ed782aa338438b831cc9e29da0a7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "resolucion",
-          "name": "document_type",
-          "rule_id": "document_type.resolucion",
-          "rule_version": "1.0",
-          "value": "resolucion"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Resolución que modifica las Disposiciones de carácter general aplicables a las instituciones de crédito.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Resolución que modifica las Disposiciones de carácter general aplicables a las instituciones de crédito."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803164&fecha=06/11/2026",
-      "code": "5803164",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "1eef78d987df556521c7f34f80796b50b4d18a12f56a075144c5cc120402b1ad",
+      "record_sha256": "546511056732e57b9c5b8a7dde511097a7deb5f657f143cec351857ede76221b",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -196,265 +18,68 @@
         },
         {
           "confidence": "rule_match",
-          "evidence": "aduanal",
+          "evidence": "fiscal",
           "name": "topic",
-          "rule_id": "topic.trade",
+          "rule_id": "topic.fiscal",
           "rule_version": "1.0",
-          "value": "trade"
+          "value": "fiscal"
         }
       ],
-      "title": "Acuerdo por el cual se expiden los Lineamientos para la aplicación del examen psicotécnico, para obtener la patente de agente aduanal y autorización de mandatarios."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803166&fecha=06/11/2026",
-      "code": "5803166",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "449916abd0d352adf9aa37eaed7cd4db690c1fb83e747c620171f0f5d96babd5",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803167&fecha=06/11/2026",
-      "code": "5803167",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "589ce10e9cc350846b141ba679dabede5d291cf9145ea968de3bbd685f94325d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803168&fecha=06/11/2026",
-      "code": "5803168",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "feddb982e7c728687faec95ba3d0e48e09e6f1dc53e7fc435ffb34e03b1d899a",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803169&fecha=06/11/2026",
-      "code": "5803169",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "39d041ce61b654f24add1cebbd01e98df29066d690a16a7da9e5e38ca2cd0b43",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de octubre de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de octubre de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Equivalencia de las monedas de diversos países con el dólar de los Estados Unidos de América, correspondiente al mes de octubre de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803171&fecha=06/11/2026",
-      "code": "5803171",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
-      "record_sha256": "2cc28ffeb10559592418fa658713d6b7a12cbdd5a63ea3253d01369011e4dea7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Fe de erratas a la denominación del Oficio Circular C/003/2026, publicado el 3 de noviembre de 2026.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Fe de erratas a la denominación del Oficio Circular C/003/2026, publicado el 3 de noviembre de 2026.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Fe de erratas a la denominación del Oficio Circular C/003/2026, publicado el 3 de noviembre de 2026."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803173&fecha=06/11/2026",
-      "code": "5803173",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "f9b37d445b9aa7f82941b0b045c7e768bdf45d05aa367a635e57785ea1783581",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803258&fecha=06/11/2026",
+      "code": "5803258",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "9d0b96288d886f74779cf636899da7b3c4f0d58c3be4de30f47f5e6eb056e9eb",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "resolucion",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.resolucion",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "resolucion"
+          "value": "acuerdo"
         },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803259&fecha=06/11/2026",
+      "code": "5803259",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "ef18d0d36770f11bb39c4b8d71c8682bbfeadc4f3053247a650eb596182f43dd",
+      "section": "UNICA SECCION",
+      "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "modificaciones",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Político Nacional denominado SOMOS, en cumplimiento del punto segundo de la Resolución INE/CG347/2026; así como de la imposibilidad de pronunciarse respecto de las modificaciones realizadas a sus estatutos en ejercicio de su libertad de autoorganización.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Político Nacional denominado SOMOS, en cumplimiento del punto segundo de la Resolución INE/CG347/2026; así como de la imposibilidad de pronunciarse respecto de las modificaciones realizadas a sus estatutos en ejercicio de su libertad de autoorganización."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803174&fecha=06/11/2026",
-      "code": "5803174",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "eff15f0fabe641b964ccff18297940b25315507d5f7a805969d4e3f22756f341",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de precampaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave.",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.other",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "otro"
+          "value": "acuerdo"
         },
         {
           "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de precampaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave.",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de precampaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803175&fecha=06/11/2026",
-      "code": "5803175",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "0556ed2ae8c4b0321e5b291ce078476033612b73d6f9bd122b068f79f0407877",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de campaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, Veracruz, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave, en el Municipio de Tamiahua.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de campaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, Veracruz, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave, en el Municipio de Tamiahua.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Síntesis de la Resolución del Consejo General del Instituto Nacional Electoral respecto de las irregularidades encontradas en el dictamen consolidado de la revisión de los informes de ingresos y gastos de campaña de los partidos políticos al cargo de la Presidencia Municipal de Tamiahua, Veracruz, correspondientes al Proceso Electoral Local Extraordinario 2026, en el Estado de Veracruz de Ignacio de la Llave, en el Municipio de Tamiahua."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803176&fecha=06/11/2026",
-      "code": "5803176",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
-      "record_sha256": "2beba1c8d7aa752e6a8ebfef99243a4768ebe3bafd4444054c31dbcb004284b2",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del Procedimiento Administrativo sancionador oficioso en materia de fiscalización, instaurado en contra del proveedor Bruno Alejandro Almeida Oceguera, identificado con el número de expediente INE/P-COF-UTF/92/2025/IND.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del Procedimiento Administrativo sancionador oficioso en materia de fiscalización, instaurado en contra del proveedor Bruno Alejandro Almeida Oceguera, identificado con el número de expediente INE/P-COF-UTF/92/2025/IND.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Amonestación Pública determinada en la Resolución del Consejo General del Instituto Nacional Electoral respecto del Procedimiento Administrativo sancionador oficioso en materia de fiscalización, instaurado en contra del proveedor Bruno Alejandro Almeida Oceguera, identificado con el número de expediente INE/P-COF-UTF/92/2025/IND."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     }
   ],
   "schema_version": "1.1",
