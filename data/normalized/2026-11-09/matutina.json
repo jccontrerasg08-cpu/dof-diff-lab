@@ -1,0 +1,262 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803277&fecha=09/11/2026",
+      "code": "5803277",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "1938d8cd981bc539bfa694f6e27e457e1995fc9d2469156c158ef3fa9fcc42e1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio \"Cambrian Patrol 2026\", que se llevará a cabo del 2 al 14 de octubre de 2026, en Brecon, Gales, Reino Unido.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se concede autorización a la persona titular del Poder Ejecutivo Federal para permitir la salida de los elementos que integran una delegación de tropas nacionales fuera de los límites del país, a efecto de que participen en el ejercicio \"Cambrian Patrol 2026\", que se llevará a cabo del 2 al 14 de octubre de 2026, en Brecon, Gales, Reino Unido."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803279&fecha=09/11/2026",
+      "code": "5803279",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "b91130c76ac4baa33de3abf619921301010743549926406e20005a727c938190",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se dan a conocer las tarifas autorizadas para el cobro de diferentes servicios portuarios, aplicables en diversos puertos de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803280&fecha=09/11/2026",
+      "code": "5803280",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE MARINA",
+      "record_sha256": "d575b18724f2200504174a42801711c2f1c058c95b3c685eb8de81e31a9749f2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso por el que se da a conocer la tarifa autorizada para el cobro por el uso de infraestructura portuaria, aplicable en el recinto portuario de Salina Cruz, Oax.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso por el que se da a conocer la tarifa autorizada para el cobro por el uso de infraestructura portuaria, aplicable en el recinto portuario de Salina Cruz, Oax."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803282&fecha=09/11/2026",
+      "code": "5803282",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "8a96f5c808f5b04ad2608e8b9a2d7758dc915ce6e9dc352acb070068bc1f4c9e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Sistemas Prácticos en Seguridad Privada, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las entidades federativas y sus municipios, a los entes públicos de unas y otros, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Sistemas Prácticos en Seguridad Privada, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803284&fecha=09/11/2026",
+      "code": "5803284",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)",
+      "record_sha256": "979f2ae878004425e6206dff231b60d07df9680d0f1cb174b05c0800bbf2bfdf",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "convenio",
+          "name": "document_type",
+          "rule_id": "document_type.convenio",
+          "rule_version": "1.0",
+          "value": "convenio"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Convenio Específico de Coordinación para la transferencia de los bienes inmuebles relacionados con los establecimientos de salud a que se refieren la Cláusula Segunda y el Anexo 1 del Convenio de Coordinación que establece la forma de colaboración en materia de personal, infraestructura, equipamiento, medicamentos y demás insumos asociados para la prestación gratuita de servicios de salud, para las personas sin seguridad social, que celebran Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y el Estado de Yucatán."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803286&fecha=09/11/2026",
+      "code": "5803286",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "2fbfe38923d4378252462d2b4d6e72457ba0c6cd0839e812f97e7756ee454c59",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803287&fecha=09/11/2026",
+      "code": "5803287",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "ed86271194929675437e4afedb1de5f38e76947ebae85b6b0fe7fa1959607698",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803288&fecha=09/11/2026",
+      "code": "5803288",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "cf384c3c1132d52d5c2444b08256977df5e71e568eec511d6118069bcaca4ade",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803290&fecha=09/11/2026",
+      "code": "5803290",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "4720dd8bef8c1f0249af8ee8865abb937be24a905ba5159ca9e1a5953b6312c4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "resolucion",
+          "name": "document_type",
+          "rule_id": "document_type.resolucion",
+          "rule_version": "1.0",
+          "value": "resolucion"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Paz, realizadas en cumplimiento al punto segundo de la Resolución identificada con la clave INE/CG344/2026, así como en el ejercicio de su libertad de autoorganización.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución del Consejo General del Instituto Nacional Electoral sobre la procedencia constitucional y legal de las modificaciones a los documentos básicos del Partido Paz, realizadas en cumplimiento al punto segundo de la Resolución identificada con la clave INE/CG344/2026, así como en el ejercicio de su libertad de autoorganización."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=09",
+    "name": "DOF official index",
+    "publication_date": "2026-11-09"
+  }
+}
