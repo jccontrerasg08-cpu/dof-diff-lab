@@ -1,0 +1,43 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-10T11:07:14+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 1,
+      "aviso": 1,
+      "circular": 1,
+      "otro": 6,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "CONSEJO DE SALUBRIDAD GENERAL": 1,
+      "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "SECRETARIA DE MARINA": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1,
+      "TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "health": 1,
+      "other": 7,
+      "public_procurement": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-10/matutina.json",
+  "normalized_sha256": "298408e7976a409fe513897e16f916127bb02de1e0af6feac2387c1a2745d987",
+  "note_count": 10,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-10",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=10",
+    "raw_retained": false,
+    "raw_sha256": "b9c53d5ed2cc566e60bdd1e028f5fc62d7dd38b47b7874643e7d43ea749590cd",
+    "raw_size": 65393
+  },
+  "status": "changed"
+}
