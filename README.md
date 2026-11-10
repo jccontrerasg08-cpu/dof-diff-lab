@@ -15,6 +15,18 @@
 
 The runtime is Python-standard-library only. There is no browser automation, OCR stack, vector database or mandatory external SDK.
 
+## Trade change triage for cross-project research
+
+The new **offline, read-only** `triage` command scans the **already normalized** DOF/SIDOF daily catalogs for specific tariff or trade-regulation terms in **published titles**. It is a bridge for researchers and downstream consumers such as `arancel-mx` and `wiki-comercio-exterior-mx`, not a new source of laws or automatic tariffs.
+
+```bash
+python3 -m dof_diff_lab triage --root . --start 2026-11-01 --end 2026-11-10 --limit 100
+```
+
+The JSON response includes matching **rule IDs**, exact title evidence, the official DOF/SIDOF link, original note hash when available, publication date/edition, and coverage diagnostics. A zero-match local scan does **not** prove that the official journal has no relevant changes. Entries without a verified title or official-domain HTTPS URL are excluded and counted. `priority_review` means a matching title keyword, **not legal importance, enactment, current validity, or a confirmed tariff change**. The CLI uses existing local artifacts and makes no HTTP requests or GitHub issue changes.
+
+See [Trade watch contract](docs/trade-watch-contract.md) for strict limits, failure modes, example fields and handoff criteria.
+
 ## Commands
 
 ```text
