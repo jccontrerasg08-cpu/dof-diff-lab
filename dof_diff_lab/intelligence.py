@@ -29,6 +29,7 @@ from .monitor import (
     write_json,
 )
 from .sources import fetch_sidof_notes, sidof_notes_url
+from .trade_watch import parse_iso_date, scan_trade_candidates
 
 
 def _canonical_sidof_note(note: dict[str, object]) -> dict[str, object]:
@@ -236,6 +237,15 @@ def _parser() -> argparse.ArgumentParser:
     search.add_argument("--database", type=Path, default=Path(".tmp/dof-corpus.sqlite3"))
     search.add_argument("--limit", type=int, default=10)
 
+    triage = sub.add_parser(
+        "triage",
+        help="Inspect local normalized DOF titles for possible tariff/trade change candidates (no network).",
+    )
+    triage.add_argument("--root", type=Path, default=Path("."))
+    triage.add_argument("--start", type=parse_iso_date, default=None)
+    triage.add_argument("--end", type=parse_iso_date, default=None)
+    triage.add_argument("--limit", type=int, default=1000)
+
     discover = sub.add_parser("discover", help="Optional Tavily discovery restricted to official DOF/SIDOF domains.")
     discover.add_argument("query")
     return parser
@@ -251,6 +261,13 @@ def main() -> int:
             result = {"database": str(args.database), "documents": count}
         elif args.command == "search":
             result = {"results": search_corpus(args.database, args.query, args.limit)}
+        elif args.command == "triage":
+            result = scan_trade_candidates(
+                args.root.resolve() / "data" / "normalized",
+                start=args.start,
+                end=args.end,
+                limit=args.limit,
+            )
         else:
             result = {"urls": tavily_search(args.query)}
     except Exception as error:
