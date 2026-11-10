@@ -47,13 +47,6 @@ RULES: tuple[tuple[str, str, tuple[str, ...]], ...] = (
         ),
     ),
 )
-# Keep source readable, avoid accidental newline in the RRNA regex.
-RULES = tuple(
-    (family, priority, tuple(expr.replace("\n", "") for expr in patterns))
-    for family, priority, patterns in RULES
-)
-
-
 def _official_url(url: object) -> bool:
     if not isinstance(url, str):
         return False
