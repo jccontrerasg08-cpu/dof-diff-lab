@@ -30,7 +30,7 @@ RULES: tuple[tuple[str, str, tuple[str, ...]], ...] = (
             r"\btigie\b",
             r"\bnico\b",
             r"\bfraccion(?:es)? arancelaria(?:s)?\b",
-            r"\barancel(?:es|aria|arias|ario|arios)?\b",
+            r"(?<!no )\barancel(?:es|aria|arias|ario|arios)?\b",
             r"\btarifa de la ley de los impuestos generales de importacion y de exportacion\b",
         ),
     ),
