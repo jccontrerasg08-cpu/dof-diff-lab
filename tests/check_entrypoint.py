@@ -16,7 +16,7 @@ def main() -> None:
         check=False,
     )
     assert result.returncode == 0, result.stderr
-    for command in ("sync", "build", "search", "discover"):
+    for command in ("sync", "build", "search", "discover", "triage"):
         assert command in result.stdout, (command, result.stdout)
 
 
