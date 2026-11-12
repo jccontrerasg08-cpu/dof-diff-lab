@@ -1,0 +1,378 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803620&fecha=12/11/2026",
+      "code": "5803620",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "50c83b18d86dbfa5f30e1b8147a8aeef5b3d146fff2482afc344a23554575d9a",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,072.018 m² (ocho mil setenta y dos punto cero dieciocho metros cuadrados), correspondientes a 16 (dieciséis) inmuebles de propiedad privada, en el municipio de Cortazar, estado de Guanajuato.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,072.018 m² (ocho mil setenta y dos punto cero dieciocho metros cuadrados), correspondientes a 16 (dieciséis) inmuebles de propiedad privada, en el municipio de Cortazar, estado de Guanajuato."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803621&fecha=12/11/2026",
+      "code": "5803621",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "e5b70118319dd065b59b88c1bb3ace72d89fc9d31ef46c3b1295f9e557a88399",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,324.038 m² (ocho mil trescientos veinticuatro punto cero treinta y ocho metros cuadrados), correspondientes a 3 (tres) inmuebles de propiedad privada, en el municipio de Mineral de la Reforma, en el estado de Hidalgo.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,324.038 m² (ocho mil trescientos veinticuatro punto cero treinta y ocho metros cuadrados), correspondientes a 3 (tres) inmuebles de propiedad privada, en el municipio de Mineral de la Reforma, en el estado de Hidalgo."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803623&fecha=12/11/2026",
+      "code": "5803623",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "ae77adf32399105d93f8007cc81bad2fa73046560dbf25decf5126f1195e06bc",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se desincorpora del régimen de dominio público de la Federación, para su aportación ad corpus al patrimonio de la Fiscalía General de la República, el inmueble federal denominado \"La Muralla\", con Registro Federal Inmobiliario 22-3776-9, ubicado en la Carretera Federal 120, San Juan del Río-Amealco Km 6+550, Colonia San Miguel Galindo, Municipio de San Juan del Río, Estado de Querétaro.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se desincorpora del régimen de dominio público de la Federación, para su aportación ad corpus al patrimonio de la Fiscalía General de la República, el inmueble federal denominado \"La Muralla\", con Registro Federal Inmobiliario 22-3776-9, ubicado en la Carretera Federal 120, San Juan del Río-Amealco Km 6+550, Colonia San Miguel Galindo, Municipio de San Juan del Río, Estado de Querétaro."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803624&fecha=12/11/2026",
+      "code": "5803624",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "37c71aee58ace53a00abfde6efd2fa6222202219296547a675e43d9eff234ab4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se desincorpora del régimen de dominio público de la Federación, para su aportación al patrimonio de la Fiscalía General de la República, el inmueble federal denominado \"Unidad Especializada en Investigación del Delito de Tortura\", con una superficie de terreno de 212.75 metros cuadrados, con Registro Federal Inmobiliario 9-17644-4, ubicado en la calle Tonalá número 104, colonia Roma Norte, Código Postal 06700, Alcaldía Cuauhtémoc, Ciudad de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se desincorpora del régimen de dominio público de la Federación, para su aportación al patrimonio de la Fiscalía General de la República, el inmueble federal denominado \"Unidad Especializada en Investigación del Delito de Tortura\", con una superficie de terreno de 212.75 metros cuadrados, con Registro Federal Inmobiliario 9-17644-4, ubicado en la calle Tonalá número 104, colonia Roma Norte, Código Postal 06700, Alcaldía Cuauhtémoc, Ciudad de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803626&fecha=12/11/2026",
+      "code": "5803626",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+      "record_sha256": "de39d8154c62c4961892020e8c2bee8340e77021443a43178c4048966e4d09b1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Grupo Farmacéutico MDK, S.A. de C.V.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, a las empresas públicas del Estado, a la Fiscalía General de la República, a las entidades federativas y sus municipios, así como a las demarcaciones territoriales de la Ciudad de México, que deberán abstenerse de aceptar propuestas o celebrar contratos con la empresa Grupo Farmacéutico MDK, S.A. de C.V."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803628&fecha=12/11/2026",
+      "code": "5803628",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO",
+      "record_sha256": "e94af02e5c05bf05dd1eee2f7697c72443a2fb0e86013e6a74f1e87d72ff85c1",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso de medición y deslinde de los predios de presunta propiedad nacional denominados MQ-TEO-021-01 y MQ-TEO-021-02, con una superficie de 4,845.083 y 472.324 metros cuadrados, respectivamente, ubicados en el Municipio de Teoloyucan, Estado de México.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso de medición y deslinde de los predios de presunta propiedad nacional denominados MQ-TEO-021-01 y MQ-TEO-021-02, con una superficie de 4,845.083 y 472.324 metros cuadrados, respectivamente, ubicados en el Municipio de Teoloyucan, Estado de México."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803630&fecha=12/11/2026",
+      "code": "5803630",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL",
+      "record_sha256": "c6955335a7e244dbaa0ea4e06e04cb9a5f3949d1e8da755b6e16e79e0a52b092",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modifica",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo que modifica al diverso por el que se da a conocer la tarifa por los servicios que presta el Instituto Mexicano de la Propiedad Industrial.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo que modifica al diverso por el que se da a conocer la tarifa por los servicios que presta el Instituto Mexicano de la Propiedad Industrial."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803632&fecha=12/11/2026",
+      "code": "5803632",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "ce013dffcc03c72f5f49f34bf898993584bf58626ef286b81bd07739660f0730",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 121/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 121/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803634&fecha=12/11/2026",
+      "code": "5803634",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "f34e6fcf930c739e66a68ee1d746dc45af5581ff0e09b1be97eabddad8e53fd7",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803635&fecha=12/11/2026",
+      "code": "5803635",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "cd6a8d2eac13b70250d75def04130b6eb65882998ebd60aff84b932f244b75f8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803636&fecha=12/11/2026",
+      "code": "5803636",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "5bf8d13efa3e2cb2485dc00dd5594c3ca648d4d45a623a749c77ac33ef428697",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803637&fecha=12/11/2026",
+      "code": "5803637",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "60a913a0dc8b792ef0bae8dc688e96cec1d11e8945a1d024c33edee51926fa34",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "plazo",
+          "name": "signal",
+          "rule_id": "signal.contains_deadline",
+          "rule_version": "1.0",
+          "value": "contains_deadline"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Costo de captación a plazo de pasivos denominados en dólares de Estados Unidos de América, a cargo de las instituciones de banca múltiple del país (CCP- Dólares)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803640&fecha=12/11/2026",
+      "code": "5803640",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "09f7c2a9453ea5032c12105b441dfe2dc73a39ae8594ebdd7c87049f4303333d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se designa provisionalmente a la Consejera Electoral, Blanca Yassahara Cruz García en el cargo de Consejera Presidenta del Consejo General del Instituto Nacional Electoral, hasta que la Cámara de Diputaciones del Congreso de la Unión designe a la persona que ocupará la Presidencia por el periodo restante.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se designa provisionalmente a la Consejera Electoral, Blanca Yassahara Cruz García en el cargo de Consejera Presidenta del Consejo General del Instituto Nacional Electoral, hasta que la Cámara de Diputaciones del Congreso de la Unión designe a la persona que ocupará la Presidencia por el periodo restante."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=12",
+    "name": "DOF official index",
+    "publication_date": "2026-11-12"
+  }
+}

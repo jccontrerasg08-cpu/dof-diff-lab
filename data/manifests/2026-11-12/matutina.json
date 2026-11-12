@@ -1,0 +1,43 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-12T11:01:15+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 1,
+      "circular": 1,
+      "decreto": 2,
+      "otro": 4,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 4,
+      "INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 2,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO": 1,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 1,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-12/matutina.json",
+  "normalized_sha256": "dc3894b4acb0a9a7bd75b9c386d85d65634e13774624efdbf78bdec16bbb06cc",
+  "note_count": 13,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-12",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=12",
+    "raw_retained": false,
+    "raw_sha256": "cb3644b0fc06b04a2ba27ce380b29d97a2926d1a9810f19d8afdc81491999e98",
+    "raw_size": 72279
+  },
+  "status": "changed"
+}
