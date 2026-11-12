@@ -1,363 +1,58 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803537&fecha=11/11/2026",
-      "code": "5803537",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803617&fecha=11/11/2026",
+      "code": "5803617",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MARINA",
-      "record_sha256": "edef293eb616d6006f3f199bde6140799d605fc3532d8ed3afd342a70153f2ec",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "536466731bf9dbac2329f6e81771c1f3ae9723edd6b202f8f4a8cda04b357efd",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "acuerdo",
+          "evidence": "decreto",
           "name": "document_type",
-          "rule_id": "document_type.acuerdo",
+          "rule_id": "document_type.decreto",
           "rule_version": "1.0",
-          "value": "acuerdo"
+          "value": "decreto"
         },
         {
           "confidence": "low",
-          "evidence": "Acuerdo Secretarial 203/2026 por el que se dan a conocer a la comunidad marítima y al público en general, las enmiendas al Convenio para Facilitar el Tráfico Marítimo Internacional, 1965, incluidas en las Resoluciones FAL.14(46) y FAL.15(47) de la Organización Marítima Internacional.",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 22- 27-55 hectáreas del ejido \"San Buenaventura\", municipio de Toluca, Estado de México, a favor del Instituto Nacional del Suelo Sustentable.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Acuerdo Secretarial 203/2026 por el que se dan a conocer a la comunidad marítima y al público en general, las enmiendas al Convenio para Facilitar el Tráfico Marítimo Internacional, 1965, incluidas en las Resoluciones FAL.14(46) y FAL.15(47) de la Organización Marítima Internacional."
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 22- 27-55 hectáreas del ejido \"San Buenaventura\", municipio de Toluca, Estado de México, a favor del Instituto Nacional del Suelo Sustentable."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803538&fecha=11/11/2026",
-      "code": "5803538",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803618&fecha=11/11/2026",
+      "code": "5803618",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MARINA",
-      "record_sha256": "251d4064d113f138a14222cf9f635a942c995e7bd9be29c1bfefc41db403033e",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "6e39ae13002025c45c9c7100d1aa287779f68ff548540e55def7e2a49d0da0c1",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "resolucion",
+          "evidence": "decreto",
           "name": "document_type",
-          "rule_id": "document_type.resolucion",
+          "rule_id": "document_type.decreto",
           "rule_version": "1.0",
-          "value": "resolucion"
+          "value": "decreto"
         },
         {
           "confidence": "low",
-          "evidence": "Resolución de Declaratoria de abandono de una aeronave en el Aeropuerto Internacional de Ciudad Obregón, Son.",
+          "evidence": "Decreto por el que se expropia por causa de utilidad pública la superficie de 06- 10-57 hectáreas del ejido \"Lagunillas\", municipio de Tlaxco, estado de Tlaxcala, a favor del Instituto Nacional del Suelo Sustentable.",
           "name": "topic",
           "rule_id": "topic.other",
           "rule_version": "1.0",
           "value": "other"
         }
       ],
-      "title": "Resolución de Declaratoria de abandono de una aeronave en el Aeropuerto Internacional de Ciudad Obregón, Son."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803540&fecha=11/11/2026",
-      "code": "5803540",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "1200851ae63e6b087b01fb9a5396a12ce30e7b61747f5159d0c195f6d35a362c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803542&fecha=11/11/2026",
-      "code": "5803542",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "b302414b21c97090aed4195df391ae7bfffada82f1e6775cec38853504547484",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "convocatoria",
-          "name": "document_type",
-          "rule_id": "document_type.convocatoria",
-          "rule_version": "1.0",
-          "value": "convocatoria"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "convocatoria",
-          "name": "signal",
-          "rule_id": "signal.contains_call_for_bids",
-          "rule_version": "1.0",
-          "value": "contains_call_for_bids"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Convocatoria dirigida a personas licenciadas en derecho para participar en el examen de aspirante a la función de la Correduría Pública.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Convocatoria dirigida a personas licenciadas en derecho para participar en el examen de aspirante a la función de la Correduría Pública."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803544&fecha=11/11/2026",
-      "code": "5803544",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "1b32145205ff1a6bbacda47249cad79da12ef3b44655dc58ab3a868a072c4075",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, y entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Alcose del Centro Sociedad Anónima de Capital Variable.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México, y entes públicos de unas y otros, que deberán abstenerse de aceptar propuestas y/o celebrar contratos con la empresa Alcose del Centro Sociedad Anónima de Capital Variable."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803545&fecha=11/11/2026",
-      "code": "5803545",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "bafcfc2322acad2a054985767807d2a3fc299bd5b8985c7fd3ffa62fb2391d67",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, la ejecutoria recaída a la Revisión Incidental R.A. 189/2026, emitida el cuatro de junio de dos mil veintiséis por el Decimoséptimo Tribunal Colegiado en Materia Administrativa del Primer Circuito, por medio del cual, se revocó la resolución interlocutoria que concedió la suspensión definitiva a las quejosas Grupo de Seguridad Privada Pryse de México, S.A. de C.V., y Protección, Resguardo y Servicios Empresariales, S.A. de C.V., en el juicio de amparo indirecto 2080/ 2025.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, la ejecutoria recaída a la Revisión Incidental R.A. 189/2026, emitida el cuatro de junio de dos mil veintiséis por el Decimoséptimo Tribunal Colegiado en Materia Administrativa del Primer Circuito, por medio del cual, se revocó la resolución interlocutoria que concedió la suspensión definitiva a las quejosas Grupo de Seguridad Privada Pryse de México, S.A. de C.V., y Protección, Resguardo y Servicios Empresariales, S.A. de C.V., en el juicio de amparo indirecto 2080/ 2025."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803547&fecha=11/11/2026",
-      "code": "5803547",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE SALUD",
-      "record_sha256": "a30acd6334cd0f00ded1cd18114e23f2d8d3f4a360fd4209d62616abf55d6ad7",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer la actualización de las Políticas Hospitalarias del Hospital Juárez de México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer la actualización de las Políticas Hospitalarias del Hospital Juárez de México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803549&fecha=11/11/2026",
-      "code": "5803549",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO",
-      "record_sha256": "5534736501f8fadbcd0b89b43d703571d5fbd8b8251aa1415e73493449706611",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "trabajadores",
-          "name": "topic",
-          "rule_id": "topic.labor",
-          "rule_version": "1.0",
-          "value": "labor"
-        }
-      ],
-      "title": "Acuerdo 15.1394.2026 mediante el cual la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, aprobó el Programa de Liquidación Anticipada con Descuento."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803550&fecha=11/11/2026",
-      "code": "5803550",
-      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
-      "issuer_secondary": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO",
-      "record_sha256": "e288c6a1ae2367254fa3e0e1e706055a4105f3234fc3571058283bd7d65781d4",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "trabajadores",
-          "name": "topic",
-          "rule_id": "topic.labor",
-          "rule_version": "1.0",
-          "value": "labor"
-        }
-      ],
-      "title": "Acuerdo 16.1394.2026 mediante el cual la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, aprobó el Programa de Reestructura para Créditos deteriorados del FOVISSSTE."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803552&fecha=11/11/2026",
-      "code": "5803552",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "9ed45a95f0910f552a5323347449be2b2837422162103b05be9621836fb0182c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803553&fecha=11/11/2026",
-      "code": "5803553",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "184d2b685a9de459fc9953cf69160351e478bb1882f63aff67af48e045966100",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803554&fecha=11/11/2026",
-      "code": "5803554",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "408231f8501e1eef7c0074f3209f682cfb30d2168344812a51e181e2b8aac488",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803557&fecha=11/11/2026",
-      "code": "5803557",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "FISCALIA GENERAL DE LA REPUBLICA",
-      "record_sha256": "22fee37372c10b281ce98b1221b25783679f1a9d03330e6a49392f5901ee1313",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Oficio Circular C/001/2026 por el que se dan a conocer los días inhábiles para la atención de los asuntos previstos en la Ley General de Transparencia y Acceso a la Información Pública, así como en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, para la autoridad garante del Órgano Interno de Control de la Fiscalía General de la República y sus sujetos obligados durante el año 2027.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "datos personales",
-          "name": "topic",
-          "rule_id": "topic.data_protection",
-          "rule_version": "1.0",
-          "value": "data_protection"
-        }
-      ],
-      "title": "Oficio Circular C/001/2026 por el que se dan a conocer los días inhábiles para la atención de los asuntos previstos en la Ley General de Transparencia y Acceso a la Información Pública, así como en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, para la autoridad garante del Órgano Interno de Control de la Fiscalía General de la República y sus sujetos obligados durante el año 2027."
+      "title": "Decreto por el que se expropia por causa de utilidad pública la superficie de 06- 10-57 hectáreas del ejido \"Lagunillas\", municipio de Tlaxco, estado de Tlaxcala, a favor del Instituto Nacional del Suelo Sustentable."
     }
   ],
   "schema_version": "1.1",

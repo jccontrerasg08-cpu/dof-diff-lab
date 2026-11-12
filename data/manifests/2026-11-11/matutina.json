@@ -1,35 +1,20 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-11-11T22:43:48+00:00",
+  "generated_at": "2026-11-12T03:03:38+00:00",
   "insights": {
     "by_document_type": {
-      "acuerdo": 3,
-      "aviso": 1,
-      "circular": 2,
-      "convocatoria": 1,
-      "otro": 5,
-      "resolucion": 1
+      "decreto": 2
     },
     "by_issuer": {
-      "BANCO DE MEXICO": 3,
-      "FISCALIA GENERAL DE LA REPUBLICA": 1,
-      "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO": 2,
-      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 2,
-      "SECRETARIA DE ECONOMIA": 1,
-      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 1,
-      "SECRETARIA DE MARINA": 2,
-      "SECRETARIA DE SALUD": 1
+      "PRESIDENCIA DE LA REPUBLICA": 2
     },
     "by_topic": {
-      "data_protection": 1,
-      "financial": 1,
-      "labor": 2,
-      "other": 9
+      "other": 2
     }
   },
   "normalized_path": "data/normalized/2026-11-11/matutina.json",
-  "normalized_sha256": "a8e9a80d21f2305bb01c14ea8d20626205a01756ebb2d0795687e5bf73bbb862",
-  "note_count": 13,
+  "normalized_sha256": "118a529cc08cf1bea2fd95336d3c1086da24118de9345820c5053a8c353e4478",
+  "note_count": 2,
   "parser_version": "1.1",
   "publication_date": "2026-11-11",
   "schema_version": "1.1",
@@ -38,8 +23,8 @@
     "http_status": 200,
     "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=11",
     "raw_retained": false,
-    "raw_sha256": "2ecd8d238d6dcbf1a15eda3ee7207b756438b838bcd08058098137f930246a33",
-    "raw_size": 71340
+    "raw_sha256": "2232ff6942fcc1cf5df6ac1971121f0c2e2918fcb9d192b752506274181dda73",
+    "raw_size": 49785
   },
-  "status": "no_change"
+  "status": "changed"
 }
