@@ -1,0 +1,46 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-13T10:54:56+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 1,
+      "circular": 2,
+      "decreto": 5,
+      "otro": 4,
+      "sentencia": 1
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 5,
+      "INSTITUTO MEXICANO DEL SEGURO SOCIAL": 1,
+      "INSTITUTO NACIONAL ELECTORAL": 1,
+      "ORGANO DE ADMINISTRACION JUDICIAL": 1,
+      "PRESIDENCIA DE LA REPUBLICA": 5,
+      "SECRETARIA DE BIENESTAR": 1,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE SALUD": 1,
+      "SUPREMA CORTE DE JUSTICIA DE LA NACION": 1
+    },
+    "by_topic": {
+      "financial": 2,
+      "fiscal": 2,
+      "health": 1,
+      "other": 12
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-13/matutina.json",
+  "normalized_sha256": "c8649d249c4875ddaa24666e73db8c547d6a8d6b585e53d244b61986e02393e4",
+  "note_count": 17,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-13",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=13",
+    "raw_retained": false,
+    "raw_sha256": "5df293e3db5f56d0d2a284b34262baa7b5ad4d8fc3b2e57b7fa2e7b2caecbc6e",
+    "raw_size": 77625
+  },
+  "status": "changed"
+}

@@ -1,0 +1,526 @@
+{
+  "notes": [
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803757&fecha=13/11/2026",
+      "code": "5803757",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "325f4ff70a465b6f263f8c2ad308adaa3136acd2611973c7abe9f652017f0fe6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "fiscal",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Decreto por el que se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2027."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803758&fecha=13/11/2026",
+      "code": "5803758",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "17bd3d9207085ec546b3375a6229983a06ce8c85c6ae0cf050a8dcd4b4ff4357",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "adicionan",
+          "name": "signal",
+          "rule_id": "signal.possible_addition",
+          "rule_version": "1.0",
+          "value": "possible_addition"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "derogan",
+          "name": "signal",
+          "rule_id": "signal.possible_repeal",
+          "rule_version": "1.0",
+          "value": "possible_repeal"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "vigencia",
+          "name": "signal",
+          "rule_id": "signal.contains_effective_date",
+          "rule_version": "1.0",
+          "value": "contains_effective_date"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "impuesto",
+          "name": "topic",
+          "rule_id": "topic.fiscal",
+          "rule_version": "1.0",
+          "value": "fiscal"
+        }
+      ],
+      "title": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta y se expiden disposiciones de vigencia transitoria."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803759&fecha=13/11/2026",
+      "code": "5803759",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "c2491a85554dc06c95abe8786a75e6a5f40dac78748ced7ab29e13e502f9ede8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "adicionan",
+          "name": "signal",
+          "rule_id": "signal.possible_addition",
+          "rule_version": "1.0",
+          "value": "possible_addition"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "derogan",
+          "name": "signal",
+          "rule_id": "signal.possible_repeal",
+          "rule_version": "1.0",
+          "value": "possible_repeal"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803760&fecha=13/11/2026",
+      "code": "5803760",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "d459825895d81b39d733015146343952ee418b0a84b425f9150e7814acfd633e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,072.018 m² (ocho mil setenta y dos punto cero dieciocho metros cuadrados), correspondientes a 16 (dieciséis) inmuebles de propiedad privada, en el municipio de Cortazar, estado de Guanajuato (Segunda publicación).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,072.018 m² (ocho mil setenta y dos punto cero dieciocho metros cuadrados), correspondientes a 16 (dieciséis) inmuebles de propiedad privada, en el municipio de Cortazar, estado de Guanajuato (Segunda publicación)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803761&fecha=13/11/2026",
+      "code": "5803761",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "09ed03ca7e953ba78414a635a0efab4f7c64749c60f9ddb955cc73733ffd54f4",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,324.038 m² (ocho mil trescientos veinticuatro punto cero treinta y ocho metros cuadrados), correspondientes a 3 (tres) inmuebles de propiedad privada, en el municipio de Mineral de la Reforma, en el estado de Hidalgo (Segunda publicación).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se declara de utilidad pública y se ordena la ocupación temporal de 8,324.038 m² (ocho mil trescientos veinticuatro punto cero treinta y ocho metros cuadrados), correspondientes a 3 (tres) inmuebles de propiedad privada, en el municipio de Mineral de la Reforma, en el estado de Hidalgo (Segunda publicación)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803763&fecha=13/11/2026",
+      "code": "5803763",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE BIENESTAR",
+      "record_sha256": "6023ba2b1bb76497503150d2f4fd57fd5a1072f4c50fc866757a490466b130a6",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional del Instituto Nacional de las Personas Adultas Mayores 2026-2030.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Programa Institucional del Instituto Nacional de las Personas Adultas Mayores 2026-2030.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Programa Institucional del Instituto Nacional de las Personas Adultas Mayores 2026-2030."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803765&fecha=13/11/2026",
+      "code": "5803765",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
+      "record_sha256": "aa2992ea13167e0e2a3e6d874061e2e9e21d528f1b7ed85c5954d0c82b98bb93",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo por el que se implementa la jornada de facilidades denominada Mes del Apto Médico conforme a las condiciones que se indican.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo por el que se implementa la jornada de facilidades denominada Mes del Apto Médico conforme a las condiciones que se indican."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803767&fecha=13/11/2026",
+      "code": "5803767",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "SECRETARIA DE SALUD",
+      "record_sha256": "d708e0225e43eca0d23676db13dff71787312e6746e5c9347f9c0161350de672",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "salud",
+          "name": "topic",
+          "rule_id": "topic.health",
+          "rule_version": "1.0",
+          "value": "health"
+        }
+      ],
+      "title": "Acuerdo por el que se establece el Comité Nacional por la Calidad en Salud (CONCALIDAD)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803769&fecha=13/11/2026",
+      "code": "5803769",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "record_sha256": "119e2e7b71936e8c3d1fd3ad32d4672daefd135de49dedaa2801e6df4d5f24e9",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Aviso mediante el cual se designa al Titular de la Jefatura de Servicios Jurídicos, Licenciado Yan Jorge Vargas Serrano, para que supla las ausencias del Doctor Julio Mercado Castruita, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Chihuahua del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Aviso mediante el cual se designa al Titular de la Jefatura de Servicios Jurídicos, Licenciado Yan Jorge Vargas Serrano, para que supla las ausencias del Doctor Julio Mercado Castruita, Titular del Órgano de Operación Administrativa Desconcentrada Estatal Chihuahua del Instituto Mexicano del Seguro Social, autorizándole a firmar y despachar la documentación incluyendo la suscripción de las resoluciones que debe emitir este Órgano."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803771&fecha=13/11/2026",
+      "code": "5803771",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "SUPREMA CORTE DE JUSTICIA DE LA NACION",
+      "record_sha256": "93048c22fea729f43db42e5aecacc8ea42abfce515bb3528130294495358c43d",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "sentencia",
+          "name": "document_type",
+          "rule_id": "document_type.sentencia",
+          "rule_version": "1.0",
+          "value": "sentencia"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 92/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Controversia Constitucional 92/2026, así como el Voto Concurrente de la señora Ministra Lenia Batres Guadarrama."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803773&fecha=13/11/2026",
+      "code": "5803773",
+      "issuer_primary": "PODER JUDICIAL",
+      "issuer_secondary": "ORGANO DE ADMINISTRACION JUDICIAL",
+      "record_sha256": "e47968ce98c1f12d46b5385f982472b232558cfba83924bb4c4458dbaf5d7ff5",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo General del Pleno del Órgano de Administración Judicial que reforma el similar por el que se designan a las personas titulares de diversos órganos auxiliares.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo General del Pleno del Órgano de Administración Judicial que reforma el similar por el que se designan a las personas titulares de diversos órganos auxiliares."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803775&fecha=13/11/2026",
+      "code": "5803775",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "4a7d1de83a67d76c9a575cb7d3b2275454c806107661b6970782649b568d2bf8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803776&fecha=13/11/2026",
+      "code": "5803776",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "2021865be20aabf68c41e2448545fd0f294792684b4f6a22e6596b662ba8e641",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Tasas de interés interbancarias de equilibrio.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Tasas de interés interbancarias de equilibrio."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803777&fecha=13/11/2026",
+      "code": "5803777",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "77412a51eb63e5a788682ed779d80c16fab7b8c32b04044c2900d2289d2778a8",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "low",
+          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
+          "name": "document_type",
+          "rule_id": "document_type.other",
+          "rule_version": "1.0",
+          "value": "otro"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "tasa de interes",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803778&fecha=13/11/2026",
+      "code": "5803778",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "87a7eb41733ae535c70dffa7c99770b81db4cd20f423b4471f58b7cc1fd3ea1e",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Circular 13/2026 dirigida a las instituciones de crédito, relativa a las Modificaciones a la Circular 3/2025 (Seguridad Informática).",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Circular 13/2026 dirigida a las instituciones de crédito, relativa a las Modificaciones a la Circular 3/2025 (Seguridad Informática)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803779&fecha=13/11/2026",
+      "code": "5803779",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "BANCO DE MEXICO",
+      "record_sha256": "5f6a63a56da7fb7d3aac34d2cffafe293f029e5efb9fa3e22378237f0acd94a2",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "circular",
+          "name": "document_type",
+          "rule_id": "document_type.circular",
+          "rule_version": "1.0",
+          "value": "circular"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "modificaciones",
+          "name": "signal",
+          "rule_id": "signal.possible_modification",
+          "rule_version": "1.0",
+          "value": "possible_modification"
+        },
+        {
+          "confidence": "rule_match",
+          "evidence": "financieras",
+          "name": "topic",
+          "rule_id": "topic.financial",
+          "rule_version": "1.0",
+          "value": "financial"
+        }
+      ],
+      "title": "Circular 14/2026 dirigida a las instituciones de crédito, sociedades financieras de objeto múltiple reguladas y no reguladas, sociedades financieras populares, sociedades financieras comunitarias, sociedades cooperativas de ahorro y préstamo, uniones de crédito, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito al público, instituciones de financiamiento colectivo de deuda, así como sociedades que, de manera habitual, otorguen créditos, préstamos o financiamientos al público, relativa a las Modificaciones a la Circular 21/2009 (Costo Anual Total -CAT-)."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5803781&fecha=13/11/2026",
+      "code": "5803781",
+      "issuer_primary": "ORGANISMOS AUTONOMOS",
+      "issuer_secondary": "INSTITUTO NACIONAL ELECTORAL",
+      "record_sha256": "9ba5eb7512851f435622c70a9ec273a6b78280f59c216812d23e874ad89682c3",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se determinan los Lineamientos para la contabilidad, rendición de cuentas y fiscalización, así como los gastos que se consideran como de precampaña y apoyo de la ciudadanía, correspondientes a los Procesos Electorales Federal y Locales Concurrentes 2026-2027, así como de los Procesos Electorales Extraordinarios que se pudieran derivar de éstos.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Acuerdo del Consejo General del Instituto Nacional Electoral por el que se determinan los Lineamientos para la contabilidad, rendición de cuentas y fiscalización, así como los gastos que se consideran como de precampaña y apoyo de la ciudadanía, correspondientes a los Procesos Electorales Federal y Locales Concurrentes 2026-2027, así como de los Procesos Electorales Extraordinarios que se pudieran derivar de éstos."
+    }
+  ],
+  "schema_version": "1.1",
+  "source": {
+    "edition": "matutina",
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=13",
+    "name": "DOF official index",
+    "publication_date": "2026-11-13"
+  }
+}
