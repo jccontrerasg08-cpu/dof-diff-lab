@@ -12,6 +12,7 @@ from hashlib import sha256
 from html.parser import HTMLParser
 import json
 from pathlib import Path
+import re
 import sys
 import time
 from typing import Callable, Literal
@@ -37,6 +38,7 @@ OFFICIAL_DOMAINS = (
     "snice.gob.mx",
     "ventanillaunica.gob.mx",
 )
+_SOURCE_ID_PATTERN = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 
 
 @dataclass(frozen=True)
@@ -204,6 +206,30 @@ def _canonical_official_url(url: str, base_url: str) -> str | None:
     return urlunsplit(("https", hostname, parts.path or "/", parts.query, ""))
 
 
+def _official_https_url(url: str) -> str | None:
+    try:
+        parts = urlsplit(url)
+    except (TypeError, ValueError):
+        return None
+    if parts.scheme.lower() != "https":
+        return None
+    return _canonical_official_url(url, url)
+
+
+def _validate_source(source: WatchSource) -> str:
+    if (
+        not isinstance(source.source_id, str)
+        or not _SOURCE_ID_PATTERN.fullmatch(source.source_id)
+    ):
+        raise SourceError("source id must contain lowercase letters, digits and hyphens")
+    if source.format not in ("html", "rss", "pdf"):
+        raise SourceError(f"unsupported source format: {source.format}")
+    source_url = _official_https_url(source.url)
+    if source_url is None:
+        raise SourceError("source URL must use HTTPS and an official host")
+    return source_url
+
+
 class _MetaRefreshParser(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
@@ -231,8 +257,11 @@ def _fetch_url(
     opener: Callable[..., object] | None = None,
     sleeper: Callable[[float], None] = time.sleep,
 ) -> SourceResponse:
+    request_url = _official_https_url(url)
+    if request_url is None:
+        raise SourceError("request URL must use HTTPS and an official host")
     request = Request(
-        url,
+        request_url,
         headers={
             "Accept": "text/html, application/rss+xml, application/xml, application/pdf",
             "User-Agent": "dof-diff-lab-web-watch/1.0 (+https://github.com/)",
@@ -254,8 +283,11 @@ def _fetch_url(
             break
         except HTTPError as exc:
             if exc.code not in (408, 425, 429) and not 500 <= exc.code <= 599:
-                raise SourceError(f"request failed with HTTP {exc.code}") from exc
+                status = exc.code
+                exc.close()
+                raise SourceError(f"request failed with HTTP {status}") from exc
             last_error = exc
+            exc.close()
         except (URLError, TimeoutError, OSError) as exc:
             last_error = exc
         if attempt + 1 < attempts:
@@ -269,7 +301,7 @@ def _fetch_url(
         final_parts = urlsplit(final_url)
     except ValueError as exc:
         raise SourceError("invalid final response URL") from exc
-    if final_parts.scheme != "https" or not _official_host(final_parts.hostname):
+    if _official_https_url(final_url) is None:
         raise SourceError(f"redirected to a non-official URL: {final_url}")
     if len(body) > MAX_RESPONSE_BYTES:
         raise SourceError(f"response exceeds {MAX_RESPONSE_BYTES} bytes")
@@ -284,9 +316,11 @@ def fetch_source(
     opener: Callable[..., object] | None = None,
     sleeper: Callable[[float], None] = time.sleep,
 ) -> SourceResponse:
+    if isinstance(timeout, bool) or not isinstance(timeout, int) or not 1 <= timeout <= 120:
+        raise ValueError("timeout must be an integer in 1..120")
     if isinstance(attempts, bool) or not isinstance(attempts, int) or not 1 <= attempts <= 5:
         raise ValueError("attempts must be an integer in 1..5")
-    current_url = source.url
+    current_url = _validate_source(source)
     visited: set[str] = set()
     for _redirect_number in range(4):
         if current_url in visited:
@@ -481,14 +515,11 @@ def _rss_content(response: SourceResponse) -> dict[str, object]:
 
 def parse_response(source: WatchSource, response: SourceResponse) -> dict[str, object]:
     """Parse only a source's declared format and preserve official evidence links."""
-    try:
-        response_url = urlsplit(response.final_url)
-    except ValueError as exc:
-        raise SourceError("invalid final response URL") from exc
+    source_url = _validate_source(source)
     if response.status != 200:
         raise SourceError(f"unexpected HTTP status {response.status}")
-    if response_url.scheme != "https" or not _official_host(response_url.hostname):
-        raise SourceError(f"non-official final response URL: {response.final_url}")
+    if _official_https_url(response.final_url) is None:
+        raise SourceError(f"non-official or invalid final response URL: {response.final_url}")
     if len(response.body) > MAX_RESPONSE_BYTES:
         raise SourceError(f"response exceeds {MAX_RESPONSE_BYTES} bytes")
 
@@ -502,7 +533,7 @@ def parse_response(source: WatchSource, response: SourceResponse) -> dict[str, o
         if not response.body.startswith(b"%PDF-"):
             raise SourceError("response does not have a PDF signature")
         parsed = {
-            "records": [{"title": source.title, "url": source.url}],
+            "records": [{"title": source.title, "url": source_url}],
             "document_sha256": sha256(response.body).hexdigest(),
             "document_bytes": len(response.body),
             "rejected_links": 0,
@@ -553,7 +584,9 @@ def _record_changes(
     return added, removed, modified
 
 
-def _read_snapshot(path: Path, source: WatchSource) -> dict[str, object] | None:
+def _read_snapshot(
+    path: Path, source: WatchSource, source_url: str
+) -> dict[str, object] | None:
     if not path.exists():
         return None
     try:
@@ -564,7 +597,7 @@ def _read_snapshot(path: Path, source: WatchSource) -> dict[str, object] | None:
         not isinstance(payload, dict)
         or payload.get("schema_version") != SCHEMA_VERSION
         or payload.get("source_id") != source.source_id
-        or payload.get("url") != source.url
+        or payload.get("url") != source_url
         or not isinstance(payload.get("records"), list)
         or not isinstance(payload.get("content_sha256"), str)
     ):
@@ -590,8 +623,9 @@ def _store_result(
     *,
     now: datetime,
 ) -> WatchResult:
+    source_url = _validate_source(source)
     snapshot_path = root / "data" / "web-watch" / "snapshots" / f"{source.source_id}.json"
-    previous = _read_snapshot(snapshot_path, source)
+    previous = _read_snapshot(snapshot_path, source, source_url)
     previous_hash = previous.get("content_sha256") if previous else None
     current_hash = parsed["content_sha256"]
     records = parsed["records"]
@@ -609,7 +643,7 @@ def _store_result(
         "parser_version": PARSER_VERSION,
         "source_id": source.source_id,
         "title": source.title,
-        "url": source.url,
+        "url": source_url,
         "format": source.format,
         "coverage_note": source.coverage_note,
         "content_sha256": current_hash,
@@ -640,7 +674,7 @@ def _store_result(
             "schema_version": SCHEMA_VERSION,
             "source_id": source.source_id,
             "title": source.title,
-            "url": source.url,
+            "url": source_url,
             "detected_at": observed_at,
             "previous_content_sha256": previous_hash,
             "content_sha256": current_hash,
@@ -710,6 +744,7 @@ def run_watch(
     failures: list[str] = []
     for source in sources:
         try:
+            _validate_source(source)
             response = fetcher(source, timeout=timeout)
             parsed = parse_response(source, response)
             result = _store_result(Path(root), source, parsed, now=observed_at)

@@ -17,12 +17,15 @@ def main() -> None:
         "contents: read",
         "contents: write",
         "timeout-minutes: 10",
+        "id: watch",
         "python3 -m dof_diff_lab.web_watch --root .",
         "if: always() && !cancelled() && steps.checkout.outcome == 'success'",
         "git add -- data/web-watch",
         "git diff --cached --quiet -- data/web-watch",
         "git pull --rebase origin main",
         "git push",
+        "if: always() && steps.watch.outcome == 'failure'",
+        "exit 1",
     ):
         assert fragment in text, fragment
     refs = re.findall(r"uses:\s*[^@\s]+@([^\s]+)", text)

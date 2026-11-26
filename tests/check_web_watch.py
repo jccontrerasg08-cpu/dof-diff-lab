@@ -147,6 +147,38 @@ def main() -> None:
     )
     assert fetched.status == 200 and attempts == [12, 12] and sleeps == [1.0]
 
+    for invalid_timeout in (0, 121, True):
+        try:
+            fetch_source(HTML_SOURCE, timeout=invalid_timeout)
+        except ValueError as exc:
+            assert "timeout" in str(exc)
+        else:
+            raise AssertionError(f"invalid timeout was accepted: {invalid_timeout}")
+
+    unsafe_source_calls = 0
+
+    def unsafe_source_opener(_request: object, timeout: int) -> Response:
+        nonlocal unsafe_source_calls
+        unsafe_source_calls += 1
+        return Response()
+
+    try:
+        fetch_source(
+            WatchSource(
+                "external-source",
+                "Untrusted source",
+                "https://external.example/page",
+                "html",
+                "test coverage",
+            ),
+            opener=unsafe_source_opener,
+        )
+    except SourceError as exc:
+        assert "HTTPS and an official host" in str(exc)
+    else:
+        raise AssertionError("an off-domain source URL must be rejected")
+    assert unsafe_source_calls == 0
+
     sat_index_url = "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/"
     sat_landing_url = sat_index_url + "normatividad_rmf_rgce2026.html"
     sat_index = WatchSource(
@@ -312,6 +344,16 @@ def main() -> None:
             ),
             HTML_SOURCE,
         ),
+        (
+            SourceResponse(
+                200,
+                "application/pdf",
+                None,
+                "https://www.sat.gob.mx:8443/file.pdf",
+                b"%PDF-1.7\nsample",
+            ),
+            PDF_SOURCE,
+        ),
     ):
         try:
             parse_response(source, response)
@@ -319,6 +361,22 @@ def main() -> None:
             pass
         else:
             raise AssertionError(f"invalid source response was accepted: {source.source_id}")
+
+    try:
+        parse_response(
+            WatchSource(
+                "external-pdf",
+                "Untrusted PDF",
+                "https://external.example/file.pdf",
+                "pdf",
+                "test coverage",
+            ),
+            pdf_response,
+        )
+    except SourceError as exc:
+        assert "HTTPS and an official host" in str(exc)
+    else:
+        raise AssertionError("a PDF source must not emit a non-official evidence URL")
 
     with tempfile.TemporaryDirectory() as temp:
         root = Path(temp)
@@ -423,6 +481,35 @@ def main() -> None:
             raise AssertionError("a failed source must make the run fail")
         persisted = json.loads(html_snapshot.read_text(encoding="utf-8"))
         assert persisted["records"][0]["title"] == "Revised notice title"
+
+        invalid_source_calls = 0
+
+        def invalid_source_fetcher(
+            _source: WatchSource, *, timeout: int
+        ) -> SourceResponse:
+            nonlocal invalid_source_calls
+            invalid_source_calls += 1
+            return _html("Invalid source", "")
+
+        try:
+            run_watch(
+                root,
+                sources=(
+                    WatchSource(
+                        "../escape",
+                        "Invalid identifier",
+                        HTML_SOURCE.url,
+                        "html",
+                        "test coverage",
+                    ),
+                ),
+                fetcher=invalid_source_fetcher,
+            )
+        except SourceError as exc:
+            assert "source id" in str(exc)
+        else:
+            raise AssertionError("an unsafe source id must fail the run")
+        assert invalid_source_calls == 0
 
 
 if __name__ == "__main__":

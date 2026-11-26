@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
       - name: Consultar fuentes oficiales
+        id: watch
         run: python3 -m dof_diff_lab.web_watch --root .
 
       - name: Publicar cambios de evidencia
@@ -40,3 +41,9 @@ jobs:
           git commit -m "data: actualizar evidencia de portales oficiales"
           git pull --rebase origin main
           git push
+
+      - name: Mantener visible el fallo de captura
+        if: always() && steps.watch.outcome == 'failure'
+        run: |
+          echo "El watcher no pudo verificar todas las fuentes oficiales." >&2
+          exit 1
