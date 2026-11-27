@@ -1,0 +1,22 @@
+{
+  "content_sha256": "3b49ccad0e22b5faff341ad692df0ccb9c755dc74897388d1bb923aafd8820e4",
+  "coverage_note": "Documento oficial verificado; una URL fija no garantiza que liste futuras resoluciones.",
+  "document_bytes": 5908925,
+  "document_sha256": "3b49ccad0e22b5faff341ad692df0ccb9c755dc74897388d1bb923aafd8820e4",
+  "first_seen_at": "2026-11-27T03:40:30+00:00",
+  "format": "pdf",
+  "last_changed_at": "2026-11-27T03:40:30+00:00",
+  "parser_version": "1.0",
+  "record_count": 1,
+  "records": [
+    {
+      "title": "SAT: compilación de la segunda modificación RGCE 2026",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/compiladas/Compilado2daRMRGCEpara2026.pdf"
+    }
+  ],
+  "rejected_links": 0,
+  "schema_version": "1.0",
+  "source_id": "sat-rgce-2026-second-modification",
+  "title": "SAT: compilación de la segunda modificación RGCE 2026",
+  "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rmf/compiladas/Compilado2daRMRGCEpara2026.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "content_sha256": "50d2b9c07422be5c9fc56bd3fe63f33a52e3119a5ffcd1951987a3d62e03e752",
+  "coverage_note": "PDF oficial; se conserva URL y hash, no se interpreta ni republica su contenido.",
+  "document_bytes": 3028506,
+  "document_sha256": "50d2b9c07422be5c9fc56bd3fe63f33a52e3119a5ffcd1951987a3d62e03e752",
+  "first_seen_at": "2026-11-27T03:40:30+00:00",
+  "format": "pdf",
+  "last_changed_at": "2026-11-27T03:40:30+00:00",
+  "parser_version": "1.0",
+  "record_count": 1,
+  "records": [
+    {
+      "title": "SAT: Reglas Generales de Comercio Exterior 2026",
+      "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rgce/rgce/ReglasGeneralesComercioExteriorpara2026.pdf"
+    }
+  ],
+  "rejected_links": 0,
+  "schema_version": "1.0",
+  "source_id": "sat-rgce-2026",
+  "title": "SAT: Reglas Generales de Comercio Exterior 2026",
+  "url": "https://www.sat.gob.mx/minisitio/NormatividadRMFyRGCE/documentos2026/rgce/rgce/ReglasGeneralesComercioExteriorpara2026.pdf"
+}
