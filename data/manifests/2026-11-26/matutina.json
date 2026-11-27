@@ -1,6 +1,6 @@
 {
   "edition": "matutina",
-  "generated_at": "2026-11-26T12:26:03+00:00",
+  "generated_at": "2026-11-27T00:37:48+00:00",
   "insights": {
     "by_document_type": {
       "acuerdo": 4,
@@ -44,5 +44,5 @@
     "raw_sha256": "90aefead81ba2f4d58a47a4dc7bedb6a919aece1ac7a0c6587327006618e07e3",
     "raw_size": 89005
   },
-  "status": "changed"
+  "status": "no_change"
 }
