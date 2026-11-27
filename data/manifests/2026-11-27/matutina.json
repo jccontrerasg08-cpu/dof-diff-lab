@@ -1,0 +1,48 @@
+{
+  "edition": "matutina",
+  "generated_at": "2026-11-27T12:12:08+00:00",
+  "insights": {
+    "by_document_type": {
+      "acuerdo": 4,
+      "aviso": 4,
+      "circular": 1,
+      "decreto": 2,
+      "norma": 1,
+      "otro": 5
+    },
+    "by_issuer": {
+      "BANCO DE MEXICO": 3,
+      "PRESIDENCIA DE LA REPUBLICA": 3,
+      "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO": 1,
+      "SECRETARIA DE ECONOMIA": 3,
+      "SECRETARIA DE GOBERNACION": 3,
+      "SECRETARIA DE HACIENDA Y CREDITO PUBLICO": 2,
+      "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES": 1,
+      "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES": 1
+    },
+    "by_topic": {
+      "energy": 1,
+      "environment": 1,
+      "financial": 2,
+      "fiscal": 2,
+      "health": 1,
+      "other": 10,
+      "trade": 1
+    }
+  },
+  "normalized_path": "data/normalized/2026-11-27/matutina.json",
+  "normalized_sha256": "c3f29a2009ce663ef309f42d71b6aa55fb3cc15ad4b08d5239d55d8263c8aa58",
+  "note_count": 17,
+  "parser_version": "1.1",
+  "publication_date": "2026-11-27",
+  "schema_version": "1.1",
+  "source": {
+    "content_type": "text/html",
+    "http_status": 200,
+    "index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=27",
+    "raw_retained": false,
+    "raw_sha256": "96c0385c8e3f671606212d77b1945df04a4e2fbffffc70d0ddccaacbb4dcb42e",
+    "raw_size": 81737
+  },
+  "status": "changed"
+}
