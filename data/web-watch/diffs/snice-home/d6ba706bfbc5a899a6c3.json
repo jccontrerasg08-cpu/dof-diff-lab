@@ -1,0 +1,27 @@
+{
+  "added": [
+    {
+      "title": "27.11.2026 Decreto por el que se modifica el diverso por el que se regula la importación definitiva de vehículos usados.",
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805519&fecha=27/11/2026"
+    }
+  ],
+  "content_sha256": "c66d1cfc315b05a7658136d0ed42df8b9e1b073f32115cf0e7a7e140b7d2d4a8",
+  "coverage_note": "Página oficial de novedades; el cambio requiere revisión humana.",
+  "detected_at": "2026-11-27T19:05:00+00:00",
+  "metadata_changes": {},
+  "modified": [],
+  "previous_content_sha256": "3e0bafbaff2c3bc93dd49ebe2006bd56cf60da731e8419e2f3495127ab31e92d",
+  "rejected_links_after": 30,
+  "rejected_links_before": 30,
+  "removed": [
+    {
+      "title": "26.11.2026 Sin publicaciones en materia de comercio exterior.",
+      "url": "https://dof.gob.mx/"
+    }
+  ],
+  "schema_version": "1.0",
+  "source_id": "snice-home",
+  "title": "SNICE: Actualidad y avisos",
+  "url": "https://www.snice.gob.mx/cs/avi/snice/home.html",
+  "visible_text_changed": true
+}

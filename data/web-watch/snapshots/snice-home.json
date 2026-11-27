@@ -1,15 +1,15 @@
 {
-  "content_sha256": "3e0bafbaff2c3bc93dd49ebe2006bd56cf60da731e8419e2f3495127ab31e92d",
+  "content_sha256": "c66d1cfc315b05a7658136d0ed42df8b9e1b073f32115cf0e7a7e140b7d2d4a8",
   "coverage_note": "Página oficial de novedades; el cambio requiere revisión humana.",
   "first_seen_at": "2026-11-27T03:40:30+00:00",
   "format": "html",
-  "last_changed_at": "2026-11-27T03:40:30+00:00",
+  "last_changed_at": "2026-11-27T19:05:00+00:00",
   "parser_version": "1.0",
   "record_count": 69,
   "records": [
     {
-      "title": "26.11.2026 Sin publicaciones en materia de comercio exterior.",
-      "url": "https://dof.gob.mx/"
+      "title": "27.11.2026 Decreto por el que se modifica el diverso por el que se regula la importación definitiva de vehículos usados.",
+      "url": "https://dof.gob.mx/nota_detalle.php?codigo=5805519&fecha=27/11/2026"
     },
     {
       "title": "Aviso de Disponibilidad",
@@ -289,5 +289,5 @@
   "source_id": "snice-home",
   "title": "SNICE: Actualidad y avisos",
   "url": "https://www.snice.gob.mx/cs/avi/snice/home.html",
-  "visible_text_sha256": "64dfb1724e937fca6e27ed16d593d6adcf2dcd01b2ca5160be711c85b5a3cb2f"
+  "visible_text_sha256": "c62147aee795889d287e5c8998b9d30f139d759a11fbfd675645045ce90fe216"
 }
