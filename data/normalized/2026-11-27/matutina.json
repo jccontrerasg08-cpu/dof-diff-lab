@@ -1,20 +1,20 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805517&fecha=27/11/2026",
-      "code": "5805517",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805619&fecha=27/11/2026",
+      "code": "5805619",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "c07dfebc640709581cd5f0b03fa069489e22cc24024ba58dbfd3bf2f4081f3f3",
+      "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
+      "record_sha256": "0eae098db4c7ff720a333acc2937144afab9be6c2d5e67c5c164ad4f7b1ccc7f",
       "section": "UNICA SECCION",
       "tags": [
         {
-          "confidence": "low",
-          "evidence": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027.",
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
           "name": "document_type",
-          "rule_id": "document_type.other",
+          "rule_id": "document_type.acuerdo",
           "rule_version": "1.0",
-          "value": "otro"
+          "value": "acuerdo"
         },
         {
           "confidence": "rule_match",
@@ -25,157 +25,14 @@
           "value": "fiscal"
         }
       ],
-      "title": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2027."
+      "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805518&fecha=27/11/2026",
-      "code": "5805518",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "fb1fa7c9714e149d0613b2fda3e90f12cccc90c66f08e0df328962e8f311a7cf",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "decreto",
-          "name": "document_type",
-          "rule_id": "document_type.decreto",
-          "rule_version": "1.0",
-          "value": "decreto"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Decreto por el que se formula la Declaratoria de las Zonas de Atención Prioritaria para el año 2027.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Decreto por el que se formula la Declaratoria de las Zonas de Atención Prioritaria para el año 2027."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805519&fecha=27/11/2026",
-      "code": "5805519",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
-      "record_sha256": "b71625fb9d85c02c49c9d010b819ecf19c475324f401c9fc6102e7354728a942",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "decreto",
-          "name": "document_type",
-          "rule_id": "document_type.decreto",
-          "rule_version": "1.0",
-          "value": "decreto"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifica",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "importacion",
-          "name": "topic",
-          "rule_id": "topic.trade",
-          "rule_version": "1.0",
-          "value": "trade"
-        }
-      ],
-      "title": "Decreto por el que se modifica el diverso por el que se regula la importación definitiva de vehículos usados."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805521&fecha=27/11/2026",
-      "code": "5805521",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "f0336da0584f2144215c535de9caf893d7e361c27c5ef4df352ec61c6574756d",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Mariana Lizbeth Rodríguez García y firmantes de la agrupación denominada Miembros Iglesia de Dios Internacional México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó la C. Mariana Lizbeth Rodríguez García y firmantes de la agrupación denominada Miembros Iglesia de Dios Internacional México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805522&fecha=27/11/2026",
-      "code": "5805522",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "03c7d8b1bb615a2de1bd00cc600986f2fe304e120297df3f7ef572dd6011cad0",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Noé Otoniel González Navarro y firmantes de la agrupación denominada Alianza Ministerial Cristo viene en México.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Noé Otoniel González Navarro y firmantes de la agrupación denominada Alianza Ministerial Cristo viene en México."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805523&fecha=27/11/2026",
-      "code": "5805523",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE GOBERNACION",
-      "record_sha256": "cb2e921dc6993aec20f1e32315dd39554a2d54e8d46e5928ffb7fa848fff4588",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Higinio Pérez Porras y firmantes de la agrupación denominada Iglesia Cristiana Arca de la Alianza Sinaí.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso por el que se da a conocer el extracto de la solicitud de registro constitutivo como asociación religiosa que presentó el C. Higinio Pérez Porras y firmantes de la agrupación denominada Iglesia Cristiana Arca de la Alianza Sinaí."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805525&fecha=27/11/2026",
-      "code": "5805525",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805620&fecha=27/11/2026",
+      "code": "5805620",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "252fca7daf810216d738fa527453abc715ab769238a406bc26c68475b0a09f42",
+      "record_sha256": "9b79c969d217b209861e0733512a586f45905865f1d90cddf6360a9297374a64",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -187,301 +44,96 @@
           "value": "acuerdo"
         },
         {
-          "confidence": "rule_match",
-          "evidence": "hacienda",
+          "confidence": "low",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica.",
           "name": "topic",
-          "rule_id": "topic.fiscal",
+          "rule_id": "topic.other",
           "rule_version": "1.0",
-          "value": "fiscal"
+          "value": "other"
         }
       ],
-      "title": "Acuerdo de la Secretaría de Hacienda y Crédito Público por el que se determinan los sectores estratégicos y actividades relevantes, en términos del artículo 13 de la Ley de Economía Digital para Pagos Digitales y Electrónicos."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805526&fecha=27/11/2026",
-      "code": "5805526",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805621&fecha=27/11/2026",
+      "code": "5805621",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "7fdaf3962048c9b8c68b277775cde3fb0f4501d2a6533fd69151c2164e510cce",
+      "record_sha256": "4e2cb1cfa5b41839a8f24590c79c623c143f99b9bada0be9773c973e6428df93",
       "section": "UNICA SECCION",
       "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "acuerdo",
+          "name": "document_type",
+          "rule_id": "document_type.acuerdo",
+          "rule_version": "1.0",
+          "value": "acuerdo"
+        },
         {
           "confidence": "low",
-          "evidence": "Oficio mediante el cual se modifican los términos de la autorización para la organización y operación de Fundación Dondé Banco, S.A., Institución de Banca Múltiple.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "modifican",
-          "name": "signal",
-          "rule_id": "signal.possible_modification",
-          "rule_version": "1.0",
-          "value": "possible_modification"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "banco",
+          "evidence": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica.",
           "name": "topic",
-          "rule_id": "topic.financial",
+          "rule_id": "topic.other",
           "rule_version": "1.0",
-          "value": "financial"
+          "value": "other"
         }
       ],
-      "title": "Oficio mediante el cual se modifican los términos de la autorización para la organización y operación de Fundación Dondé Banco, S.A., Institución de Banca Múltiple."
+      "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805528&fecha=27/11/2026",
-      "code": "5805528",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805623&fecha=27/11/2026",
+      "code": "5805623",
       "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
-      "record_sha256": "84e25ca824ae642019d9e037da4f929c9888b35006ed9422b3cd50905538b519",
+      "issuer_secondary": "SECRETARIA DE ECONOMIA",
+      "record_sha256": "c41655f7c334855c55f9d82dc243f46343242d1ca195e35d633f82ab6a5a9e4b",
       "section": "UNICA SECCION",
       "tags": [
         {
           "confidence": "rule_match",
-          "evidence": "norma oficial mexicana",
+          "evidence": "resolucion",
           "name": "document_type",
-          "rule_id": "document_type.norma",
+          "rule_id": "document_type.resolucion",
           "rule_version": "1.0",
-          "value": "norma"
+          "value": "resolucion"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Resolución final del procedimiento administrativo de revisión de las cuotas compensatorias impuestas a las importaciones de aceros planos recubiertos originarias de la República Socialista de Vietnam, independientemente del país de procedencia.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Resolución final del procedimiento administrativo de revisión de las cuotas compensatorias impuestas a las importaciones de aceros planos recubiertos originarias de la República Socialista de Vietnam, independientemente del país de procedencia."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805625&fecha=27/11/2026",
+      "code": "5805625",
+      "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
+      "issuer_secondary": "SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)",
+      "record_sha256": "e3ff44ace26599f0c583d9721cd48665fb8ffc86a5fe477dd29f8f9fbef33e5f",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "aviso",
+          "name": "document_type",
+          "rule_id": "document_type.aviso",
+          "rule_version": "1.0",
+          "value": "aviso"
         },
         {
           "confidence": "rule_match",
-          "evidence": "sanitario",
+          "evidence": "salud",
           "name": "topic",
           "rule_id": "topic.health",
           "rule_version": "1.0",
           "value": "health"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "aguas",
-          "name": "topic",
-          "rule_id": "topic.environment",
-          "rule_version": "1.0",
-          "value": "environment"
         }
       ],
-      "title": "Respuesta a los comentarios recibidos al Proyecto de Norma Oficial Mexicana PROY-NOM-006-CONAGUA-2022, Sistemas de depuración de aguas residuales domésticas que no estén conectadas a un sistema de alcantarillado sanitario-Especificaciones y método de prueba, publicado para su consulta pública el día 22 de julio de 2022."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805530&fecha=27/11/2026",
-      "code": "5805530",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "3cb9f476032c612f16a001250efd9cc456eef62712249db08208add5dc29ae82",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "electrico",
-          "name": "topic",
-          "rule_id": "topic.energy",
-          "rule_version": "1.0",
-          "value": "energy"
-        }
-      ],
-      "title": "Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional del sector eléctrico, así como su verificación, y la forma de presentación de información sobre el grado de contenido nacional en las actividades que realicen las empresas del sector eléctrico."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805531&fecha=27/11/2026",
-      "code": "5805531",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "783b8dfe4e2a62f1c5ab0098fa2c99b4301492876fe1b8bb3f17abb43b98953c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional en la biomasa ya sea para su uso directo como biocombustibles o para la producción de biocombustibles, así como su verificación; y la forma de presentación de la información sobre el grado de contenido nacional en las actividades que realicen las personas físicas o morales que formen parte de la industria de biocombustibles.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo por el que se establece la Metodología para medir el grado de contenido nacional en la biomasa ya sea para su uso directo como biocombustibles o para la producción de biocombustibles, así como su verificación; y la forma de presentación de la información sobre el grado de contenido nacional en las actividades que realicen las personas físicas o morales que formen parte de la industria de biocombustibles."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805532&fecha=27/11/2026",
-      "code": "5805532",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "67d40af230de1159956b0a8404e161e176404553f12b9d41f3e45222cb6927e3",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "acuerdo",
-          "name": "document_type",
-          "rule_id": "document_type.acuerdo",
-          "rule_version": "1.0",
-          "value": "acuerdo"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Acuerdo por el que se establece la Metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción, así como verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, y la presentación de información sobre el contenido nacional en las actividades que realicen las personas Asignatarias, Contratistas y Permisionarias.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Acuerdo por el que se establece la Metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción, así como verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, y la presentación de información sobre el contenido nacional en las actividades que realicen las personas Asignatarias, Contratistas y Permisionarias."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805534&fecha=27/11/2026",
-      "code": "5805534",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES",
-      "record_sha256": "9dbcae2833d6528c6f4c04c93acf697baf3d247aeae31de86c9f811b77c5e4c9",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "aviso",
-          "name": "document_type",
-          "rule_id": "document_type.aviso",
-          "rule_version": "1.0",
-          "value": "aviso"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Aviso a todos los usuarios y permisionarios del servicio de autotransporte federal y transporte privado de carga especializada de objetos indivisibles de gran peso y/ o volumen y grúas industriales que transiten por caminos y puentes de jurisdicción federal, por el que se hace de su conocimiento los horarios de operación que se aplicarán en el periodo vacacional comprendido de las 00:00 horas del 11 de diciembre de 2026 a las 23:59 horas del 6 de enero de 2027, de conformidad con el numeral 5.6 de la NOM-040-SCT-2-2012 vigente.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Aviso a todos los usuarios y permisionarios del servicio de autotransporte federal y transporte privado de carga especializada de objetos indivisibles de gran peso y/ o volumen y grúas industriales que transiten por caminos y puentes de jurisdicción federal, por el que se hace de su conocimiento los horarios de operación que se aplicarán en el periodo vacacional comprendido de las 00:00 horas del 11 de diciembre de 2026 a las 23:59 horas del 6 de enero de 2027, de conformidad con el numeral 5.6 de la NOM-040-SCT-2-2012 vigente."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805536&fecha=27/11/2026",
-      "code": "5805536",
-      "issuer_primary": "PODER EJECUTIVO",
-      "issuer_secondary": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
-      "record_sha256": "82fc098d24fbc415a975f249177316467cc76b1e8599f682bbf7a72ab40dc261",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "rule_match",
-          "evidence": "circular",
-          "name": "document_type",
-          "rule_id": "document_type.circular",
-          "rule_version": "1.0",
-          "value": "circular"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, la sentencia interlocutoria de fecha cinco de octubre de dos mil veintiséis, emitida por la Quinta Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa en el juicio de nulidad 16207/26-17-05- 2, a través de la cual concedió a la empresa Galmar Proyectos Integrales, S. de R.L. de C.V., la suspensión de las sanciones administrativas consistentes en la inscripción en el directorio de proveedores y contratistas sancionados y la ejecución de la multa.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Circular por la que se comunica a las dependencias y entidades de la Administración Pública Federal, empresas públicas del Estado, Fiscalía General de la República, entidades federativas y sus municipios, así como demarcaciones territoriales de la Ciudad de México, la sentencia interlocutoria de fecha cinco de octubre de dos mil veintiséis, emitida por la Quinta Sala Regional en la Ciudad de México del Tribunal Federal de Justicia Administrativa en el juicio de nulidad 16207/26-17-05- 2, a través de la cual concedió a la empresa Galmar Proyectos Integrales, S. de R.L. de C.V., la suspensión de las sanciones administrativas consistentes en la inscripción en el directorio de proveedores y contratistas sancionados y la ejecución de la multa."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805538&fecha=27/11/2026",
-      "code": "5805538",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "6ab1b13526c4a29b5dd937fde9ac80c7e6cff192c8ba39e5d32d61225b44c721",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805539&fecha=27/11/2026",
-      "code": "5805539",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "3617c0535e9e8323e5f1a167ae1e5866027451bcb4dd20e23b5c3a6c2ce1ab27",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "low",
-          "evidence": "Tasas de interés interbancarias de equilibrio.",
-          "name": "topic",
-          "rule_id": "topic.other",
-          "rule_version": "1.0",
-          "value": "other"
-        }
-      ],
-      "title": "Tasas de interés interbancarias de equilibrio."
-    },
-    {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805540&fecha=27/11/2026",
-      "code": "5805540",
-      "issuer_primary": "ORGANISMOS AUTONOMOS",
-      "issuer_secondary": "BANCO DE MEXICO",
-      "record_sha256": "48f380404e034b997c4d8d8aa5bf0dd24b8b61a2997b5164740b9630bba4137c",
-      "section": "UNICA SECCION",
-      "tags": [
-        {
-          "confidence": "low",
-          "evidence": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario.",
-          "name": "document_type",
-          "rule_id": "document_type.other",
-          "rule_version": "1.0",
-          "value": "otro"
-        },
-        {
-          "confidence": "rule_match",
-          "evidence": "tasa de interes",
-          "name": "topic",
-          "rule_id": "topic.financial",
-          "rule_version": "1.0",
-          "value": "financial"
-        }
-      ],
-      "title": "Tasa de interés interbancaria de equilibrio de fondeo a un día hábil bancario."
+      "title": "Aviso mediante el cual se da a conocer la publicación del \"Código de Conducta de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS- BIENESTAR)\"."
     }
   ],
   "schema_version": "1.1",
