@@ -1,11 +1,38 @@
 {
   "notes": [
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805619&fecha=27/11/2026",
-      "code": "5805619",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805809&fecha=27/11/2026",
+      "code": "5805809",
+      "issuer_primary": "PODER EJECUTIVO",
+      "issuer_secondary": "PRESIDENCIA DE LA REPUBLICA",
+      "record_sha256": "da706ff8486692401d8df51c71baf5750ef64817271197d7c7b74d5095015162",
+      "section": "UNICA SECCION",
+      "tags": [
+        {
+          "confidence": "rule_match",
+          "evidence": "decreto",
+          "name": "document_type",
+          "rule_id": "document_type.decreto",
+          "rule_version": "1.0",
+          "value": "decreto"
+        },
+        {
+          "confidence": "low",
+          "evidence": "Decreto por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos para permitir el ingreso a territorio nacional de elementos pertenecientes al Equipo 4 de los Navy SEALs, a fin de que participen en la actividad de entrenamiento Evento SOF 19 Adiestramiento de Operaciones Terrestres y Marítimas con personal de SEAL y UNOPES , que se llevará a cabo del 29 de octubre de 2026 al 15 de abril de 2027, en las instalaciones del Centro de Adiestramiento Avanzado de la Armada de México en Donato Guerra, Estado de México y en el Sector Naval de Puerto Cortés, Isla Margarita, Baja California Sur.",
+          "name": "topic",
+          "rule_id": "topic.other",
+          "rule_version": "1.0",
+          "value": "other"
+        }
+      ],
+      "title": "Decreto por el que se concede autorización a la Presidenta de los Estados Unidos Mexicanos para permitir el ingreso a territorio nacional de elementos pertenecientes al Equipo 4 de los Navy SEALs, a fin de que participen en la actividad de entrenamiento Evento SOF 19 Adiestramiento de Operaciones Terrestres y Marítimas con personal de SEAL y UNOPES , que se llevará a cabo del 29 de octubre de 2026 al 15 de abril de 2027, en las instalaciones del Centro de Adiestramiento Avanzado de la Armada de México en Donato Guerra, Estado de México y en el Sector Naval de Puerto Cortés, Isla Margarita, Baja California Sur."
+    },
+    {
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805811&fecha=27/11/2026",
+      "code": "5805811",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "0eae098db4c7ff720a333acc2937144afab9be6c2d5e67c5c164ad4f7b1ccc7f",
+      "record_sha256": "ddf3c7b6b575881013ca90fdd82418c82ad2c45da8e64b649a235bcb79059d9b",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -28,11 +55,11 @@
       "title": "Acuerdo por el que se dan a conocer los porcentajes, los montos del estímulo fiscal y las cuotas disminuidas del impuesto especial sobre producción y servicios, así como las cantidades por litro aplicables a los combustibles que se indican, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805620&fecha=27/11/2026",
-      "code": "5805620",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805812&fecha=27/11/2026",
+      "code": "5805812",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "9b79c969d217b209861e0733512a586f45905865f1d90cddf6360a9297374a64",
+      "record_sha256": "a46449916bcc9ee4a136db4a8fb2153fca8713c91822efdbf3944f2dd1426bfc",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -55,11 +82,11 @@
       "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con los Estados Unidos de América, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805621&fecha=27/11/2026",
-      "code": "5805621",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805813&fecha=27/11/2026",
+      "code": "5805813",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE HACIENDA Y CREDITO PUBLICO",
-      "record_sha256": "4e2cb1cfa5b41839a8f24590c79c623c143f99b9bada0be9773c973e6428df93",
+      "record_sha256": "feac42f9210f8075ecf5b0b7d56d40adcc6d080cb2ae135dc393dd9f11848e3b",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -82,11 +109,11 @@
       "title": "Acuerdo por el cual se dan a conocer los montos de los estímulos fiscales aplicables a la enajenación de gasolinas en la región fronteriza con Guatemala, correspondientes al periodo que se especifica."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805623&fecha=27/11/2026",
-      "code": "5805623",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805815&fecha=27/11/2026",
+      "code": "5805815",
       "issuer_primary": "PODER EJECUTIVO",
       "issuer_secondary": "SECRETARIA DE ECONOMIA",
-      "record_sha256": "c41655f7c334855c55f9d82dc243f46343242d1ca195e35d633f82ab6a5a9e4b",
+      "record_sha256": "71fb12bee564e6ce18f33b15e2328a13a8e7cc3b01f4074563331e8367d62e92",
       "section": "UNICA SECCION",
       "tags": [
         {
@@ -109,11 +136,11 @@
       "title": "Resolución final del procedimiento administrativo de revisión de las cuotas compensatorias impuestas a las importaciones de aceros planos recubiertos originarias de la República Socialista de Vietnam, independientemente del país de procedencia."
     },
     {
-      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805625&fecha=27/11/2026",
-      "code": "5805625",
+      "canonical_url": "https://dof.gob.mx/nota_detalle.php?codigo=5805817&fecha=27/11/2026",
+      "code": "5805817",
       "issuer_primary": "ORGANISMOS DESCONCENTRADOS O DESCENTRALIZADOS",
       "issuer_secondary": "SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)",
-      "record_sha256": "e3ff44ace26599f0c583d9721cd48665fb8ffc86a5fe477dd29f8f9fbef33e5f",
+      "record_sha256": "9241ea1bc1463bfdb62b3f210e264020571ea2ee7161572038020f28118a0ccd",
       "section": "UNICA SECCION",
       "tags": [
         {
