@@ -1,0 +1,12 @@
+{
+  "notes": [],
+  "schema_version": "1.1",
+  "source": {
+    "dof_index_url": "https://dof.gob.mx/index_113.php?year=2026&month=11&day=28",
+    "edition": "matutina",
+    "name": "SIDOF + DOF cross-check",
+    "publication_date": "2026-11-28",
+    "sidof_url": "https://sidof.segob.gob.mx/dof/sidof/notas/28-11-2026",
+    "source_id": "sidof+dof_index"
+  }
+}
